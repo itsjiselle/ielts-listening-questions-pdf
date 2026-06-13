@@ -1,0 +1,108 @@
+1
+00:00:01,740 --> 00:00:07,157
+[part2有个主持人] First of all, let me thank you all for coming to this public meeting, to discuss the future of our town. 首先，感谢在座的各位参加这次公开会议，一起讨论我们城镇的未来。
+
+2
+00:00:07,157 --> 00:00:12,797
+Our first speaker is Shona Ferguson, from Barford town council. Shona. 接下来有请巴福德镇议员修纳•弗格森讲话。修纳请。
+
+3
+00:00:12,797 --> 00:00:21,298
+(Q11（单选）) Thank you. First I'll briefly give you some background information, then I'll be asking you for your comments on developments in the town. 非常感谢。首先我会简单为大家带来一些背景信息，然后我会邀请各位对这个城镇的发展发表看法。
+
+4
+00:00:21,298 --> 00:00:30,245
+Well, as you don't need me to tell you, Barford has changed a great deal in the last 50 years. These are some of the main changes. 嗯，我想众所周知，巴福德镇在近50年变化很大。有些变化意义重大。
+
+5
+00:00:30,245 --> 00:00:37,081
+[🟢◾️题干定位词 buses出现，] Fifty years ago, buses linked virtually every part of the town and the neighbouring towns and villages. 50年前，公交线路几乎是城镇与城镇以及村庄的连接线。
+
+6
+00:00:37,081 --> 00:00:45,719
+[✅C 只在乘客多的线路安排bus= 没有那么多线路了 ， 以及， 判断出题目有fewer，哦安段位【程度】考点，又听到程度词most 就必须关注] Most people used them frequently, but not now, because the bus companies concentrate on just the routes that attract most passengers. 那时公交的使用频率很高。但是现在公交集团只在乘客较多的线路安排巴士。
+
+7
+00:00:45,719 --> 00:00:49,868
+So parts of the town are no longer served by buses. 于是城镇的很多地方都没有巴士了。
+
+8
+00:00:49,868 --> 00:00:57,209
+[❌A 断章取义： 原文说 就算把old&uncomfortable换了， 也没用（have little impact）] Even replacing old uncomfortable buses with smart new ones has had little impact on passenger numbers. 甚至将老旧不舒适的巴士换成新型智能巴士都不能大幅度增加乘坐率。
+
+9
+00:00:57,209 --> 00:01:06,787
+[❌B 否定原文： 明确否定票价涨幅过大] It's sometimes said that bus fares are too high, but in relation to average incomes, fares are not much higher than they were 50 years ago. 票在近50年并未有人说车票太贵，但与人们的收入水平相比，车涨幅很多。
+
+10
+00:01:06,787 --> 00:01:11,019
+(Q12) [🟢◾️Q12 定位词 road network出现 （名词），🟠考点词： benefit+ most 程度+态度] Changes in the road network are affecting the town. 改变路线对城镇影响很大。
+
+11
+00:01:11,019 --> 00:01:17,653
+[❌C：偷换概念 且程度不一，center was closed to traffic 虽然是banning of cars， 但效果还在评估， 断章取义] The centre was recently closed to traffic on a trial basis, making it much safer for pedestrians. 为了让行人更加安全，交通中心近期关闭进行内测。
+
+12
+00:01:17,653 --> 00:01:20,855
+[但效果还在评估 —— 断章取义 ❌C] The impact of this is being measured. 这项工程的影响还在评估。
+
+13
+00:01:20,855 --> 00:01:31,819
+[✅选项B cycle path原词， be used far more than = 在选项发展； reducing+improving 都表示题干的benefit] The new cycle paths, separating bikes from cars in most main roads, are being used far more than was expected, reducing traffic and improving air quality. 新主要道路中型自行车线路和机动车线路独立分开，并且使用率出乎意料。这大大缓解了交通压力，还改善了空气质量。
+
+14
+00:01:31,819 --> 00:01:41,581
+[❌A否定原文， bypass这个想法 have failed] And although the council's attempts to have a bypass constructed have failed, we haven't given up hope of persuading the government to change its mind. 虽然市议会试图忽略这一构想，但我们并未放弃说服政府改变心意。
+
+15
+00:01:41,581 --> 00:01:45,242
+(Q13) [🟢◾️定位词shopping （名词），🟠考点词 判断为 problem（态度）] Shopping in the town centre has changed over the years. 镇中心的购物模式也在近几年改变了很多。
+
+16
+00:01:45,242 --> 00:01:49,700
+Many of us can remember when the town was crowded with people going shopping. 我们大多数人都记得原来城镇里充斥着购物的人们。
+
+17
+00:01:49,700 --> 00:01:57,930
+[❌A 否定原文， despite提供停车场，数字还是falling] Numbers have been falling for several years, despite efforts to attract shoppers, for instance by opening new car parks. 这些年陆续有商场倒闭，尽管为了吸引顾客，有些商场开辟了新的停车场。
+
+18
+00:01:57,930 --> 00:02:03,129
+[❌C 断章取义， 说的只是有些人会把两件事（restaurant&cafe）合在一起干。] Some people combine shopping with visits to the town's restaurants and cafes. 有些与城镇的饭馆和咖啡馆结合。
+
+19
+00:02:03,129 --> 00:02:16,092
+[✅B， 说大家更愿意去的是 📚well known chain store = major retailer 【同义替换】] Most shops are small independent stores, which is good, but many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here. 很多商店是小型独立店铺，虽然也不错，但是很多人更愿意去附近大镇子的超市或是百货大楼，因为那里有很多知名连锁店。
+
+20
+00:02:16,092 --> 00:02:28,204
+(Q14) [无考点词，有🟢◾️定位词medical facilities ❌B 虽然提到了medical practices， 但 plan相关的事未提及，无中生有。] Turning now to medical facilities, the town is served by family doctors in several medical practices - fewer than 50 years ago, but each catering for far more patients. 而医疗方面，在这不到50年间的医疗实践中，这个城镇的医疗由家庭医生们负责。
+
+21
+00:02:28,204 --> 00:02:34,639
+[✅A， 15年前close了，那就是现在no hospital] Our hospital closed 15 years ago, which means journeys to other towns are unavoidable. 我们的医院15年前就关了，这说明这场改革在其他城镇也是不可避免的。
+
+22
+00:02:34,639 --> 00:02:38,973
+[❌C 否定原文，  选项too low，原文more detists than used to be，] On the other hand, there are more dentists than there used to be. 另外，现在的牙科医生比原来要多很多。
+
+23
+00:02:38,973 --> 00:02:43,330
+(Q15) [🟢◾️定位词顺延寻找：已画出employ——题干be  employed in📚同义替换定位（换词性）。 🟠考点词：程度 largest] Employment patterns have changed, along with almost everything else. 雇佣模式已经发生改变，而且很多事情也都在改变。
+
+24
+00:02:43,330 --> 00:02:48,384
+[✅C， main sector = 题干largest number of people， 📚 schools and colleges 🟰 education] The number of schools and colleges has increased, making that the main employment sector. 学校数量增加了，成为了招聘就业的主力领域。
+
+25
+00:02:48,384 --> 00:02:53,636
+[❌A，变得重要 也不等于 最多人从事， 偷换概念] Services, such as website design and accountancy, have grown in importance, 像网站设计和会计这样的服务业变得越来越重要。
+
+26
+00:02:53,636 --> 00:03:03,360
+[❌B 未见衰退 不等于largest number of people， 偷换概念/断章取义] and surprisingly, perhaps, manufacturing hasn't seen the decline that has affected it in other parts of the country. 意外的是，在其他地方大受影响的制造业在这里似乎并未有什么衰退现象。
+
+27
+00:03:03,360 --> 00:03:05,860
+(Q16（配对）) Now I'll very quickly outline current plans for some of the town's facilities, before asking for your comments. 现在，在询问你们的看法之前，我会很快地概述一下关于城镇一些设施的现有计划。
+
