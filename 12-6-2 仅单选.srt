@@ -1,0 +1,72 @@
+1
+00:00:01,117 --> 00:00:11,070
+(Q11（单选）) Right. I've now almost succeeded in finalising plans for our tour, so I'll bring you up to date with what I know. 好的，我们这次旅行的计划我差不多已经敲定了，我来跟你们说一下最新情况。
+
+2
+00:00:11,070 --> 00:00:17,146
+As you know, we're flying first to Munich, on Monday the 4th. 大家都知道，我们第一站是飞往慕尼黑，时间是4号星期一。
+
+3
+00:00:17,146 --> 00:00:23,980
+[🟢定位词 airport，   ❌C排除（否定原文）—— too early to have] The flight is at 11.30, so it's too early to have lunch at the airport. 航班是11点30分，在机场吃午饭太早了。
+
+4
+00:00:23,980 --> 00:00:28,483
+[meet原词， for coffee ✅B] I suggest we meet there for coffee at 10, 我建议我们10点在机场碰头喝杯咖啡，
+
+5
+00:00:28,483 --> 00:00:33,298
+[A❌，偷换概念，这个安排是为了让你在家里【先吃好 breakfast】] which should give us plenty of time for breakfast before we leave home. 这样我们出门前还有充足的时间吃早餐。
+
+6
+00:00:33,298 --> 00:00:39,640
+(Q12) [题干原词都出现了] When we arrive in Munich, we'll be met at the airport by Claus Bauer. 我们到达慕尼黑后，克劳斯·鲍尔会在机场接我们。
+
+7
+00:00:39,640 --> 00:00:47,200
+[原文出现专有名词（人名）， ✅C：work for = 说明他的身份] Claus works for a tour operator, and he'll look after us for the time we'll be in Germany. 克劳斯在一家旅行社工作，我们在德国期间他会照顾我们。
+
+8
+00:00:47,200 --> 00:01:02,112
+[❌B， 偷换概念， manager是Claus联系的人；❌A，偷换概念 officer虽然也是employee， 但这个人也只是show us around] He's already liaised with the managers of the theatre we're going to visit, and he's also arranged for an officer of the National Theatre in Munich to show us round the theatre one afternoon during our stay. 他已经和我们打算参观的剧院的管理人员联系好了，还安排了慕尼黑国家剧院的一位工作人员在我们停留期间的某个下午带我们参观剧院。
+
+9
+00:01:02,112 --> 00:01:11,069
+(Q13) [同义替换 题干： cost = pay 近义词] Now last time we discussed this trip, I didn't have the precise cost for hotel rooms, but now I have. 上次我们讨论这次行程时，我还不清楚酒店房间的确切价格，现在我知道了。
+
+10
+00:01:11,069 --> 00:01:29,311
+[选项C 150出现， 但要继续听 ❌ normal rate。  希望能get down to 120（B❌）， but in fact 已经谈到了110（A✅）] The normal rate at the hotel where we're staying is 150 euros a night for a double room. I'd hoped to get that down to 120 euros, but in fact I've been able to negotiate a rate of 110. 我们要住的酒店，双人间的正常价格是每晚150欧元。我原本希望能降到120欧元，但实际上我已经谈到了110欧元。
+
+11
+00:01:29,311 --> 00:01:35,956
+That'll be reflected in the final payment which you'll need to make by the end of this week. 这将体现在你们需要在本周末之前支付的尾款中。
+
+12
+00:01:35,956 --> 00:01:58,608
+(Q14) On Tuesday, the day after our arrival, I had hoped we could sit in on a rehearsal at one of the theatres, but unfortunately that's proved very difficult to arrange, so instead we'll have a coach trip to one of the amazing castles in the mountains south of Munich. 星期二，也就是我们到达的第二天，我原本希望我们可以旁听某个剧院的排练，但不幸的是这很难安排，所以我们改乘大巴去慕尼黑南部山区里一座令人惊叹的城堡。
+
+13
+00:01:58,608 --> 00:02:05,396
+[定位词 专有名词 出现 + 选项共同有的词 restaurant] On Tuesday evening, we'll all have dinner together in a restaurant near our hotel. 星期二晚上，我们将在酒店附近的一家餐厅共进晚餐。
+
+14
+00:02:05,396 --> 00:02:17,330
+[❌C， 否定原文， too meat oriented for some of ... 【态度】过渡-part3] From talking to you all about your preferences, it was clear that a typical local restaurant would be too meat-oriented for some of you. 从和你们大家的偏好交流来看，很明显典型的本土餐厅对你们有些人来说肉食偏多。
+
+15
+00:02:17,330 --> 00:02:30,532
+[❌A， 否定原文， but  I must confess ... 话锋一转，肯定这个去不成。 ✅B 同时 decide to 表示一种【态度】 计划 做什么，就是达成一致的一种。] Some of you suggested an Italian restaurant, but I must confess that I decided to book a Lebanese one, as we have plenty of opportunities to go to an Italian restaurant at home. 你们有些人建议去意大利餐厅，但我必须承认我决定订一家黎巴嫩餐厅，因为我们在家有很多机会去意大利餐厅。
+
+16
+00:02:30,532 --> 00:02:39,349
+(Q15) [定位词原词出现 ➕ ✅C，原词出现， 我们要see的play的director = meet ，] On Wednesday afternoon, the director of the play we're going to see that evening will talk to us at the theatre. 星期三下午，我们当晚要看的那部戏的导演将在剧院和我们交流。
+
+17
+00:02:39,349 --> 00:02:52,551
+[❌A，C都不对， 偷换概念，全都提了一圈，都是和direct见面之后 的内容。 并不是meet的人] She'll describe the whole process of producing a play, including how she chose the actors, and, as the play we're going to see is a modern one, how she worked with the playwright. 她会描述一部戏剧制作的全过程，包括她如何挑选演员，而且由于我们要看的是一部现代戏剧，她还会讲述她如何与剧作家合作。
+
+18
+00:02:52,551 --> 00:02:55,051
+(Q16（配对题）) Right. Now I'd just like to make a few points about the plays we're going to see, partly because it might influence your choice of clothes to take with you! 好的。现在我想就我们要看的几部戏说几点，部分原因是因为这可能会影响你们带什么衣服的选择！
+
