@@ -2,7 +2,7 @@
 <html lang="zh-CN" class="theme-soft">
 <head>
     <meta charset="UTF-8">
-    <title>雅思精听助手 v10.0 - 双向云端编辑版</title>
+    <title>雅思精听助手 v10.2 - 音文对照工具</title>
     <style>
         /* --- 1. 全局变量定义 --- */
         :root {
@@ -190,18 +190,30 @@
     function changeTheme(themeName) { document.body.className = themeName; }
 
     // --- 资源加载逻辑 ---
-    async function refreshLibrary() {
+async function refreshLibrary() {
+        const token = localStorage.getItem('gh_token');
+        // 如果本地存有 Token，就带上，没有则匿名访问
+        const headers = token ? { 'Authorization': `token ${token}` } : {};
+        
         try {
-            const res = await fetch(`${API_URL}?t=${Date.now()}`);
+            statusInfo.innerText = "正在同步课程库...";
+            const res = await fetch(`${API_URL}?t=${Date.now()}`, { headers });
+            
+            if (!res.ok) throw new Error("GitHub 限流或仓库错误");
+            
             const files = await res.json();
             const mp3Files = files.filter(f => f.name.toLowerCase().endsWith('.mp3'));
             librarySelect.innerHTML = '<option value="">-- 选择入库真题 --</option>';
             mp3Files.forEach(f => {
                 let opt = document.createElement('option');
-                opt.value = f.name; opt.innerText = f.name.replace(/\.[^/.]+$/, "");
+                opt.value = f.name; 
+                opt.innerText = f.name.replace(/\.[^/.]+$/, "");
                 librarySelect.appendChild(opt);
             });
-        } catch (err) { statusInfo.innerText = "库同步失败"; }
+            statusInfo.innerText = `同步成功 (共${mp3Files.length}篇)`;
+        } catch (err) { 
+            statusInfo.innerText = "库同步失败，请检查 Token 或网络"; 
+        }
     }
 
     async function loadFromLibrary(file) {
@@ -211,7 +223,8 @@
         fetchAudioToBuffer(`${BASE_URL}${file}`);
         pdfFrame.style.display = 'block';
         document.getElementById('pdf-placeholder').style.display = 'none';
-        pdfFrame.src = `${BASE_URL}${currentFileName}.pdf#toolbar=1&view=FitH`;
+       // 找到这一行并修改：加上 ?t=... 防止缓存
+    pdfFrame.src = `${BASE_URL}${currentFileName}.pdf?t=${Date.now()}#toolbar=1&view=FitH`;
         autoLoadSRT(currentFileName);
     }
 
@@ -246,16 +259,24 @@
         }
     };
 
-    async function autoLoadSRT(id) {
+ async function autoLoadSRT(id) {
+        const token = localStorage.getItem('gh_token');
+        const headers = token ? { 'Authorization': `token ${token}` } : {};
+        
         try {
-            const res = await fetch(`${API_URL}?t=${Date.now()}`);
+            const res = await fetch(`${API_URL}?t=${Date.now()}`, { headers });
             const files = await res.json();
             const matched = files.find(f => f.name.includes(id) && f.name.toLowerCase().endsWith('.srt'));
             if (matched) {
                 const srtRes = await fetch(matched.download_url);
                 parseSRT(await srtRes.text());
+                statusInfo.innerText = "教案同步成功";
+            } else {
+                statusInfo.innerText = "云端未找到 SRT";
             }
-        } catch (err) {}
+        } catch (err) {
+            statusInfo.innerText = "自动搜索教案失败";
+        }
     }
 
     function parseSRT(text) {
