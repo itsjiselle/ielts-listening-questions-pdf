@@ -1,6 +1,6 @@
 1
 00:00:01,734 --> 00:00:11,811
-(Q11（单选）) Thanks for coming everyone. OK, so this meeting is for new staff and staff who haven't been involved with our volunteering projects yet. 谢谢大家的到来。好的，这个会议是为新员工和那些还没有参与我们的志愿者项目的员工准备的。
+(Q11（单选）)  Thanks for coming everyone. OK, so this meeting is for new staff and staff who haven't been involved with our volunteering projects yet. 谢谢大家的到来。好的，这个会议是为新员工和那些还没有参与我们的志愿者项目的员工准备的。
 
 2
 00:00:11,811 --> 00:00:22,256
@@ -28,7 +28,7 @@ It's completely up to you. Obviously, many people will have family commitments a
 
 8
 00:01:02,530 --> 00:01:06,938
-(Q12) Feedback from staff has been overwhelmingly positive. 来自员工的反馈非常积极。
+(Q12)  Feedback from staff has been overwhelmingly positive. 来自员工的反馈非常积极。
 
 9
 00:01:06,938 --> 00:01:16,257
@@ -40,7 +40,7 @@ It's completely up to you. Obviously, many people will have family commitments a
 
 11
 00:01:27,376 --> 00:01:33,932
-(Q13) [定位词 / 考点词 last year] One particularly successful project last year was the Get Working Project. 去年一个特别成功的项目是Get Working项目。
+(Q13) [定位词 / 考点词 last year]  One particularly successful project last year was the Get Working Project. 去年一个特别成功的项目是Get Working项目。
 
 12
 00:01:33,932 --> 00:01:38,876
@@ -52,11 +52,11 @@ It's completely up to you. Obviously, many people will have family commitments a
 
 14
 00:01:51,762 --> 00:02:01,355
-[❌B选项原词出现， 但不是这题问的东西。] This is something many employers look for in job applicants - and something we all do without even thinking about, every day at work. 这是许多雇主在求职者身上寻找的东西——也是我们每天在工作中甚至都没有考虑过的事情。
+[❌B选项原词出现， 但不是这题问的东西。 偷换概念] This is something many employers look for in job applicants - and something we all do without even thinking about, every day at work. 这是许多雇主在求职者身上寻找的东西——也是我们每天在工作中甚至都没有考虑过的事情。
 
 15
 00:02:01,355 --> 00:02:09,687
-(Q14) We've got an exciting new project starting this year. Up until now, we've mainly focused on projects to do with education and training. 我们今年开始了一个令人兴奋的新项目。到目前为止，我们主要专注于教育和培训项目。
+(Q14)  We've got an exciting new project starting this year. Up until now, we've mainly focused on projects to do with education and training. 我们今年开始了一个令人兴奋的新项目。到目前为止，我们主要专注于教育和培训项目。
 
 16
 00:02:09,687 --> 00:02:15,877
@@ -72,7 +72,7 @@ So if any of you fancy being outside and getting your hands dirty, this is the p
 
 19
 00:02:29,092 --> 00:02:40,074
-(Q15) I also want to mention the annual Digital Inclusion Day, which is coming up next month. The aim of this is to help older people keep up with technology. 我还想提到下个月即将举行的一年一度的“数码共融日”。这样做的目的是帮助老年人跟上科技的发展。
+(Q15)  I also want to mention the annual Digital Inclusion Day, which is coming up next month. The aim of this is to help older people keep up with technology. 我还想提到下个月即将举行的一年一度的“数码共融日”。这样做的目的是帮助老年人跟上科技的发展。
 
 20
 00:02:40,074 --> 00:02:50,872
@@ -84,7 +84,7 @@ So if any of you fancy being outside and getting your hands dirty, this is the p
 
 22
 00:03:00,173 --> 00:03:07,925
-(Q16) [定位词 take part ➕ 同义替换✅A complete = fill in] If you're interested in taking part, please go to the volunteering section of our website and complete the relevant form. 如果你有兴趣参加，请到我们网站的志愿者板块填写相关表格。
+(Q16) [定位词 take part ➕ 同义替换✅A complete = fill in]  If you're interested in taking part, please go to the volunteering section of our website and complete the relevant form. 如果你有兴趣参加，请到我们网站的志愿者板块填写相关表格。
 
 23
 00:03:07,925 --> 00:03:16,544
@@ -96,7 +96,7 @@ So if any of you fancy being outside and getting your hands dirty, this is the p
 
 25
 00:03:24,024 --> 00:03:34,627
-(Q17/18（多选）) The participants on the Digital Inclusion Day really benefited. The majority were in their seventies, though some were younger and a few were even in their nineties! 数码共融日的参与者确实获益匪浅。大多数人都70多岁了，虽然有些人年轻些，而有些人甚至已经90多岁了！
+(Q17/18（多选）)  The participants on the Digital Inclusion Day really benefited. The majority were in their seventies, though some were younger and a few were even in their nineties! 数码共融日的参与者确实获益匪浅。大多数人都70多岁了，虽然有些人年轻些，而有些人甚至已经90多岁了！
 
 26
 00:03:34,627 --> 00:03:41,786
@@ -112,7 +112,7 @@ A few were keen to learn but most were quite dismissive at first - they couldn't
 
 29
 00:04:01,282 --> 00:04:04,412
-(Q19/20（多选）) The feedback was very positive. 这个活动有非常积极的反响。
+(Q19/20（多选）)  The feedback was very positive. 这个活动有非常积极的反响。
 
 30
 00:04:04,412 --> 00:04:18,754
@@ -127,6 +127,6 @@ A lot of them also said playing online games would help them make new friends an
 They weren't that impressed with being able to order their groceries online, as they liked going out to the shops, but some said it would come in handy if they were ill or the weather was really bad. 他们对能够在网上订购食品并不感兴趣，因为他们喜欢去商店，但一些人表示，如果他们生病了，或者天气真的很糟糕，网上购物就会派上用场。
 
 33
-00:04:39,091 --> 00:04:41,591
+00:04:39,091 --> 00:04:42,091
 One thing they asked about was using tablets for things like reading newspapers - some people had been given tablets as presents but had never used them, so that's something we'll make sure we include this time ... 他们问的一件事是使用平板电脑来阅读报纸——有些人收到平板电脑作为礼物，但从未使用过，所以这次我们一定要把这一点包括进去......
 
