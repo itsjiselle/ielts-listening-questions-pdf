@@ -1,0 +1,68 @@
+1
+00:00:01,572 --> 00:00:08,233
+(Q11（单选）) Good morning everyone. My name’s Joy Parkins and I’m the restaurant manager. 大家早上好，我叫Joy Parkins，是这家餐厅的经理。
+
+2
+00:00:08,233 --> 00:00:14,531
+And I understand that none of you’ve had any previous experience as kitchen assistants. 我知道大家之前都没有做过厨房助理的经验。
+
+3
+00:00:14,531 --> 00:00:21,971
+[11定位词（同义替换）enjoy = like， most 也原词重现] Well, you might be feeling a bit nervous now, but <span style="background-color: rgb(200, 230, 201);"><b>most</b></span> of our kitchen assistants say they <b style="background-color: rgb(200, 230, 201);">enjoy</b> the work. 你们现在可能有点紧张，不过大多数厨房助理都表示很喜欢这份工作。
+
+4
+00:00:21,971 --> 00:00:31,954
+[✅A， different things to do = variety of work] OK, they might get shouted at sometimes, but it’s nothing personal, and they’re pleased that they have so many different things to do, which means they never get bored. 当然，有时候难免会被训几句，但那并不是针对个人。而且工作内容很多样，所以基本不会觉得无聊。
+
+5
+00:00:31,954 --> 00:00:41,545
+[❌C，偷换概念， might think 给机会晋升， 完全不是 员工 like 的点] And I’ll tell you straightaway that if you do well, we <span style="background-color: rgb(255, 205, 210);"><b>might think </b></span>about moving you up and <b><u>giving you some more responsibility</u></b>. 我先告诉大家，如果表现出色，我们会考虑给你们晋升，并安排更多职责。
+
+6
+00:00:41,545 --> 00:00:47,371
+(Q12) Right, well, you’ve all shown up on time, which is an excellent start. 很好，大家今天都准时到了，这是一个相当不错的开始。
+
+7
+00:00:47,371 --> 00:00:57,914
+[❌C footwear =shoes，选项C出现， 但 否定原文， 大家都穿了合适的鞋 不等于 经理在concered] Now I’m glad to see none of you have unsuitable <span style="background-color: rgb(225, 190, 231);"><b><strike>footwear,</strike></b></span> so that’s good - you need to be careful as the floors can get very wet and slippery. 我很高兴看到大家都穿了合适的鞋。不过还是要注意，厨房地面经常会又湿又滑。
+
+8
+00:00:57,914 --> 00:01:13,548
+[❌B 提到了hair， 扎好了 get it well 否定原文「担心」。   ✅A - rings&bracelets = jewellery， hazard = concern的含义] Those of you with <b style="background-color: rgb(255, 205, 210);"><font color="#e74008"><strike>long hair </strike></font></b>have <span style="background-color: rgb(255, 205, 210);">got it well out of the way</span>, but some of you’ll need to remove <span style="background-color: rgb(200, 230, 201);"><b>your rings and bracelets </b></span>- just put them somewhere safe for today, and remember to leave them at home tomorrow, <b style="background-color: rgb(200, 230, 201);">as they can be a safety hazard.</b> 留长发的同事都已经把头发扎好了。不过有些人还需要把戒指和手镯摘下来，今天先放在安全的地方保管。明天记得直接放在家里，因为这些饰品可能带来安全隐患。
+
+9
+00:01:13,548 --> 00:01:23,625
+(Q13) [🟢 定位词 busy， ✅C don't have any table free = fully booked] Now it’s going to be <b><u>a busy</u></b> day for you all today - we <b style="background-color: rgb(225, 190, 231);"><font color="#9908e7">don’t have any tables free </font></b>for this evening, and only a few for lunch. 今天大家会比较忙，因为晚餐时段已经没有空桌了，午餐时段也只剩下少量座位。
+
+10
+00:01:23,625 --> 00:01:32,316
+[❌B， 否定原文，absent 不在场的，原文 be back 。 ❌A未提及] Fortunately we’ve got our Head Chef back - he was away on holiday all last week which meant the other chefs had extra work. 幸运的是，我们的主厨已经回来了。他上周一直在休假，所以其他厨师这段时间都承担了额外的工作。
+
+11
+00:01:32,316 --> 00:01:39,346
+(Q14) Now, I’ll tell you a bit more about the job in a minute but first, some general regulations. 接下来我会详细介绍一下工作内容，不过先来说几条基本规定。
+
+12
+00:01:39,346 --> 00:01:53,900
+[🟢 提到了age，定位词 18 or order 都是指年龄。 ❌A出现， 否定原文] For all of you, <span style="background-color: rgb(255, 205, 210);"><b><strike>whatever your age,</strike></b></span> there’s some equipment <b style="background-color: rgb(255, 205, 210);">you mustn’t use</b> until you’ve been properly trained,<b><u style="background-color: rgb(200, 230, 201);"> l</u></b><b style=""><u style=""><span style="background-color: rgb(200, 230, 201);">ike the waste disposal system</span></u></b> for example, for health and safety reasons. 无论年龄大小，在接受正式培训之前，有些设备大家都不能使用。比如垃圾处理系统，主要是出于卫生和安全方面的考虑。
+
+13
+00:01:53,900 --> 00:02:01,575
+[原词 18 出现，但说的under 18] Then I think there are two of you here who are <span style="background-color: rgb(200, 230, 201);"><b><u>under 18 </u></b></span>- that’s Emma and Jake, isn’t it? 我记得这里有两位还未满18岁，是Emma和Jake，对吗？
+
+14
+00:02:01,575 --> 00:02:07,534
+[✅C 同义替换 解释类： for under 18， xxx out of bounds = 18 or order allow] Right. so for you two, the meat slicer is out of bounds. 好的，那么你们两位不能使用切肉机。
+
+15
+00:02:07,534 --> 00:02:14,716
+[❌B， 否定原文] And of course <b style="background-color: rgb(255, 205, 210);">none of you are allowed </b>to use <span style="background-color: rgb(200, 230, 201);"><b><u><strike>the electric mixer </strike></u></b></span>until you’ve been shown how it works. 当然，在学习并掌握电动搅拌机的操作方法之前，任何人都不得使用它。
+
+16
+00:02:14,716 --> 00:02:17,216
+(Q15&16 多选) [🟢stressful 定位词] Now you may have heard that this can be a stressful job, and I have to say that can be true. 你们可能听说过这份工作压力不小，我得承认，这种说法确实有一定道理。
+
+21
+00:03:00,247 --> 00:03:02,747
+(Q17（配对题）) Now let me tell you about some of the people you need to know. 接下来给大家介绍几位需要认识的同事。
+
