@@ -1,0 +1,60 @@
+1
+00:00:01,871 --> 00:00:17,541
+(Q11（单选）) Good evening everyone. My name's Phil Sutton, and I'm chairman of the Highways Committee. We've called this meeting to inform members of the public about the new regulations for traffic and parking we're proposing for Granford.	大家晚上好。我叫Phil Sutton，是公路委员会的主席。我们召开这次会议是为了向公众通报我们为Granford提出的交通和停车新规。
+
+2
+00:00:17,541 --> 00:00:24,021
+I'll start by summarising these changes before we open the meeting to questions.	在进入提问环节之前，我先简单概括一下这些调整。
+
+3
+00:00:24,021 --> 00:00:35,512
+[🟢 system定位词出现] So, why do we need to make these changes to traffic <b style="background-color: rgb(200, 230, 201);"><u>systems </u></b>in Granford? Well, we're very aware that traffic is becoming an increasing problem.	那么，我们为什么需要对Granford的交通系统进行调整呢？因为我们已经明显意识到，交通问题正变得越来越严重。
+
+4
+00:00:35,512 --> 00:00:42,738
+[❌C， traffic 可以表示vehicles，但关于types 和 change并没有提及，只是大型车辆的amount有明显增加 不等于 车辆type有变化] It's been especially noticeable with <b>the increase in heavy traffic </b>while they've been building the new hospital.	尤其是在新医院建设期间，大型车辆增加带来的影响格外明显。（这里不是“在建造新医院的同时”，而是“随着医院建设工程开展”。）
+
+5
+00:00:42,738 --> 00:00:49,090
+[✅B， amount= volumn， rise = increase] But it's <span style="background-color: rgb(225, 190, 231);"><b><u>the overall rise in the volume of traffic of all kinds </u></b></span>that's concerning us.	不过，更让我们担忧的是各类车辆总流量的整体上升。
+
+6
+00:00:49,090 --> 00:00:57,253
+[❌A，否定原文， not] To date <b><u>there's not been any increase </u></b>in <b><strike><span style="background-color: rgb(255, 205, 210);">traffic accidents</span>,</strike></b> but that's not something we want to see happen, obviously.	截至目前，交通事故数量还没有增加，但显然，我们也不希望这种情况发生。
+
+7
+00:00:57,253 --> 00:01:04,450
+(Q12) [🟢定位词 survey] We recently carried out a survey of local residents, and their responses were interesting.	最近我们对当地居民进行了一项调查，调查结果相当值得关注。
+
+8
+00:01:04,450 --> 00:01:12,996
+[✅C， lack of visibility = inconvenience 解释； due to cars parked = parked cars] People were very concerned about the <span style="background-color: rgb(225, 190, 231);"><b>l</b></span><b style=""><span style="background-color: rgb(225, 190, 231);">ack of visibility</span> </b>on some roads <b><u>due to cars parked</u></b> along the sides of the roads.	许多居民反映，由于道路两侧停放着车辆，部分路段的视线受到严重影响。（<i>visibility这里更接近“视线”“视野”，而不是“能见度”。</i>）
+
+9
+00:01:12,996 --> 00:01:22,999
+[❌A， parents重现， 但指的是congestion拥堵，不一定是dangerous driving， 偷换概念。     +否定原文， wasn't top of the list] We'd expected complaints about the<span style="background-color: rgb(255, 205, 210);"> <b>congestion</b></span> near the school when <b><strike>parents </strike></b>are dropping off their children or picking them up, but this <span style="background-color: rgb(255, 205, 210);">wasn't top of the list</span>, 原本我们以为，家长接送孩子时学校周边的交通拥堵会成为居民最主要的抱怨。不过这一原因并非榜首。
+
+10
+00:01:22,999 --> 00:01:29,888
+[❌B， 否定， nor were ....] and <span style="background-color: rgb(255, 205, 210);"><b>nor </b></span>were <strike>noise and fumes from trucks and lorries</strike>, though they were mentioned by some people.	至于货车和卡车产生的噪音以及尾气污染，也有人提到，但都不是最突出的问题。
+
+11
+00:01:29,888 --> 00:01:37,946
+(Q13) [🟢 定位词 regulations] We think these new traffic<b><u style="background-color: rgb(200, 230, 201);"> regulations </u></b>would make a lot of difference. But we still have a long way to go.	我们相信，这些新的交通管理措施能够带来明显改善。不过，还有许多工作有待推进。
+
+12
+00:01:37,946 --> 00:01:45,144
+[❌A， 否定原文， 控制在范围内 就不需要raise money了] We've<b style="background-color: rgb(255, 205, 210);"><u> managed to </u></b>keep our proposals <b style="background-color: rgb(255, 205, 210);"><u>within budget, just,</u></b> so they can be covered by the Council. 我们总算把方案控制在预算范围之内，因此相关费用可以由市议会承担。
+
+13
+00:01:45,144 --> 00:01:52,375
+[✅B， obey= follow， no good ... if ... = problem【态度】] But, of course, it's <b style="background-color: rgb(187, 222, 251);">no good i</b>ntroducing new regulations <span style="background-color: rgb(187, 222, 251);"><b>if we don't </b></span>have a way of making sure that everyone <span style="background-color: rgb(200, 230, 201);"><b>obey</b></span>s them, 不过，仅仅出台新规定是不够的，我们还必须确保大家能够遵守这些规定。
+
+14
+00:01:52,375 --> 00:01:58,495
+[❌C【代词指代】， 已经说了 让人obey才能好好实行——选项C来自police的support也是支持这件事（让人obey 这个regulation）的，所以选最核心的那件事。/ 或者说，原文的意思，其实表明已经取得了police的support了， 需要work on 的还是上面那件事（让人obey）] and <b style="background-color: rgb(255, 205, 210);">that's an area we're still working on</b> with the help of representatives from the <b>police force</b>.	而且，在警方代表的协助下，我们仍在研究具体的执行和监管措施。
+
+15
+00:01:58,495 --> 00:02:00,995
+(Q14（地图题）) OK, so this slide shows a map of the central area of Granford, with the High Street in the middle and School Road on the right.	请大家看这张幻灯片。这是Granford市中心区域的地图，中间是High Street，右侧是School Road。
+
