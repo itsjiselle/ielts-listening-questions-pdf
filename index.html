@@ -2,128 +2,154 @@
 <html lang="zh-CN" class="theme-soft">
 <head>
     <meta charset="UTF-8">
-    <title>雅思精听助手 v10.2 - 音文对照工具</title>
+    <title>雅思精听助手 v13.1 - 看板透视功能</title>
+    <script src="https://unpkg.com/wavesurfer.js@7"></script>
     <style>
-        /* --- 1. 全局变量定义 --- */
-        :root {
-            --primary: #1976d2;
-            --q-color: #e65100;
-            --bg: #f0f2f5;
-            --panel-bg: #ffffff;
-            --resizer: #dee2e6;
-            --radius: 8px;
-            --shadow: 0 2px 8px rgba(0,0,0,0.08);
-            --font-family: 'PingFang SC', system-ui;
-        }
-
-        /* --- 皮肤样式 --- */
-        .theme-pixel {
-            --bg: #F4E1D2; --panel-bg: #FFF; --primary: #FF8B4D; --radius: 0px; --shadow: 4px 4px 0px #000; --font-family: 'Courier New', monospace;
-            background-image: linear-gradient(rgba(0,0,0,0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(0,0,0,0.05) 1px, transparent 1px); background-size: 20px 20px;
-        }
-        .theme-pixel .panel { border: 3px solid #000; }
-        .theme-pixel .q-btn, .theme-pixel .btn-sm, .theme-pixel .download-btn { border: 2px solid #000 !important; box-shadow: 2px 2px 0 #000; }
+        /* --- 1. 核心视觉样式 --- */
+        :root { --primary: #1976d2; --q-color: #e65100; --bg: #f0f2f5; --panel-bg: #ffffff; --radius: 12px; --shadow: 0 2px 8px rgba(0,0,0,0.08); }
+        .theme-pixel { --bg: #F4E1D2; --panel-bg: #FFF; --primary: #5DB9B9; --radius: 0px; }
         .theme-soft { --bg: #DAEBE3; --panel-bg: rgba(255,255,255,0.9); --primary: #99CDD8; --radius: 16px; }
-        .theme-puffy { --bg: #f0f0f0; --panel-bg: #f0f0f0; --radius: 24px; --shadow: 8px 8px 16px #d1d9e6, -8px -8px 16px #ffffff; }
-        .theme-puffy .panel, .theme-puffy .q-btn, .theme-puffy .audio-ctrl-group, .theme-puffy .download-btn { box-shadow: 6px 6px 12px #d1d9e6, -6px -6px 12px #ffffff; border: none; }
-        .theme-glass { background: linear-gradient(135deg, #99CDD8 0%, #F3C3B2 100%); --panel-bg: rgba(255, 255, 255, 0.4); --radius: 12px; --shadow: 0 8px 32px rgba(0,0,0,0.1); }
-        .theme-glass .panel { backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); border: 1px solid rgba(255,255,255,0.3); }
+        .theme-puffy { --bg: #f0f0f0; --panel-bg: #f0f0f0; --radius: 24px; --shadow: 8px 8px 16px #d1d9e6; }
+        .theme-glass { background: linear-gradient(135deg, #99CDD8 0%, #F3C3B2 100%); --panel-bg: rgba(255, 255, 255, 0.4); --radius: 12px; }
 
-        /* --- 2. 基础布局 --- */
-        body { font-family: var(--font-family); margin: 0; display: flex; flex-direction: column; height: 100vh; background-color: var(--bg); transition: all 0.3s ease; }
-        .top-nav { background: var(--panel-bg); padding: 10px 20px; display: flex; gap: 15px; box-shadow: var(--shadow); align-items: center; z-index: 100; backdrop-filter: blur(10px); }
-        .nav-section { display: flex; align-items: center; gap: 8px; padding-right: 15px; border-right: 1px solid rgba(0,0,0,0.1); }
-        .skin-select { padding: 5px 10px; border-radius: 20px; border: 1px solid var(--primary); background: white; cursor: pointer; font-size: 12px; }
-        .main-container { display: flex; flex: 1; overflow: hidden; padding: 10px; gap: 0; }
-        .panel { background: var(--panel-bg); display: flex; flex-direction: column; overflow: hidden; border-radius: var(--radius); transition: all 0.3s ease; box-shadow: var(--shadow); }
-        .panel-header { background: rgba(0,0,0,0.03); padding: 8px 12px; font-size: 13px; font-weight: bold; display: flex; justify-content: space-between; align-items: center; }
-        #qNavPanel { width: 180px; flex-shrink: 0; }
-        #lyricsView { flex: 1; min-width: 300px; margin: 0 10px; }
-        #pdfPanel { width: 40%; flex-shrink: 0; }
-        .audio-ctrl-group { padding: 15px; background: rgba(255,255,255,0.2); border-bottom: 1px solid rgba(0,0,0,0.05); }
-        .ctrl-row { display: flex; align-items: center; gap: 5px; margin-top: 8px; flex-wrap: wrap; }
-        .btn-sm { padding: 4px 8px; font-size: 11px; cursor: pointer; border: 1px solid rgba(0,0,0,0.1); background: white; border-radius: var(--radius); }
-        .btn-sm.active { background: var(--primary); color: white; border-color: var(--primary); }
-        #lyrics-container { flex: 1; overflow-y: auto; padding: 20px; scroll-behavior: smooth; }
-        .line { padding: 14px; border-radius: 8px; cursor: pointer; margin-bottom: 10px; border-left: 4px solid transparent; display: flex; justify-content: space-between; align-items: center; background: rgba(255,255,255,0.3); transition: 0.2s; border-bottom: 1px solid #f8f8f8; }
-        .line.active { background: #e3f2fd; border-left-color: var(--primary); transform: scale(1.02); box-shadow: var(--shadow); }
-        .line.is-q { background: #fffde7; }
-        .q-indicator { color: #e65100; font-weight: bold; font-size: 18px; margin-right: 10px; }
-        .q-btn { padding: 8px; background: #fff3e0; color: var(--q-color); border: none; border-radius: var(--radius); text-align: center; cursor: pointer; font-weight: bold; font-size: 12px; }
-        .download-btn { font-size: 10px; padding: 4px 8px; background: #4caf50; color: white; border: none; border-radius: var(--radius); cursor: pointer; font-weight: bold; white-space: nowrap; margin-left: 10px; }
-        .download-btn:hover { opacity: 0.8; }
+        body { font-family: 'PingFang SC', system-ui; margin: 0; display: flex; flex-direction: column; height: 100vh; background-color: var(--bg); transition: all 0.3s ease; overflow: hidden; }
         
-        /* 蓝色批注条样式 */
-        .opt-indicator { 
-            background: #2196f3; color: white; padding: 4px 10px; border-radius: 6px; font-size: 13px; 
-            font-weight: bold; display: inline-block; word-break: break-all; box-shadow: 0 2px 4px rgba(33, 150, 243, 0.3);
+        .nav-tabs { display: flex; background: #fff; padding: 0 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); z-index: 110; border-bottom: 1px solid #eee; flex-shrink:0; }
+        .tab-item { padding: 12px 20px; cursor: pointer; font-size: 14px; font-weight: bold; color: #666; border-bottom: 3px solid transparent; }
+        .tab-item.active { color: var(--primary); border-bottom-color: var(--primary); background: rgba(0,0,0,0.02); }
+
+        .top-nav { background: var(--panel-bg); padding: 10px 20px; display: flex; gap: 12px; box-shadow: var(--shadow); align-items: center; z-index: 100; flex-wrap: wrap; flex-shrink:0; }
+        .nav-section { display: flex; align-items: center; gap: 8px; border-right: 1px solid rgba(0,0,0,0.1); padding-right: 12px; }
+        .btn-sm { padding: 5px 10px; font-size: 11px; cursor: pointer; border: 1px solid #ddd; background: #fff; border-radius: 4px; font-weight: bold; }
+        .btn-sm.active { background: var(--primary); color: white; border-color: var(--primary); }
+
+        /* --- 新增：当前课题显示看板 --- */
+        .lesson-info-badge {
+            margin-left: auto; background: var(--primary); color: white; padding: 6px 15px; border-radius: 30px;
+            font-size: 13px; font-weight: bold; cursor: pointer; display: flex; align-items: center; gap: 8px;
+            box-shadow: 0 4px 10px rgba(25, 118, 210, 0.3); transition: 0.3s;
         }
+        .lesson-info-badge:hover { transform: scale(1.05); filter: brightness(1.1); }
+        .theme-pixel .lesson-info-badge { border: 2px solid #000; box-shadow: 4px 4px 0 #000; border-radius: 0; }
 
-        /* 编辑模式专属样式 */
-        .editable-active { outline: 2px dashed var(--primary); background: #fffde7 !important; color: #333 !important; }
-        .settings-box { position: fixed; top: 70px; right: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 1000; display: none; border: 1px solid var(--primary); }
-        .btn-save-cloud { background: #ff9800 !important; color: white !important; font-weight: bold; margin-left: 10px; display: none; }
+        .main-container { display: flex; flex: 1; overflow: hidden; padding: 10px; gap: 0; }
+        .panel { background: var(--panel-bg); display: flex; flex-direction: column; overflow: hidden; border-radius: var(--radius); box-shadow: var(--shadow); flex-shrink: 0; transition: width 0.3s ease; }
+        .panel-header { background: rgba(0,0,0,0.03); padding: 8px 12px; font-size: 13px; font-weight: bold; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(0,0,0,0.05); }
+        .fold-btn { cursor: pointer; border: none; background: #eee; border-radius: 4px; font-size: 10px; padding: 2px 6px; }
+        
+        #qNavPanel { width: 180px; }
+        .q-nav-body { flex: 1; overflow-y: auto; padding: 10px; display: flex; flex-direction: column; gap: 8px; }
+        .q-btn { padding: 8px; background: #fff3e0; color: var(--q-color); border: 1px solid #ffe0b2; border-radius: 6px; text-align: center; cursor: pointer; font-weight: bold; font-size: 12px; word-break: break-all; }
 
-        #pdf-frame { width: 100%; height: 100%; border: none; border-radius: var(--radius); }
+        #lyricsView { flex: 1; min-width: 300px; margin: 0 10px; }
+        .audio-ctrl-group { padding: 10px; border-bottom: 1px solid #f0f0f0; background: #fff; }
+        .ctrl-row { display: flex; align-items: center; gap: 5px; margin-top: 5px; flex-wrap: wrap; }
+        #lyrics-container { flex: 1; overflow-y: auto; padding: 15px; scroll-behavior: smooth; }
+        .line { padding: 12px; border-radius: var(--radius); cursor: pointer; margin-bottom: 8px; border-left: 4px solid transparent; background: rgba(255,255,255,0.3); transition: 0.2s; border-bottom: 1px solid #f8f8f8; }
+/* --- 核心效果：模拟音乐播放器突出显示当前行 --- */
+.line.active { 
+    background: #e3f2fd !important; /* 亮蓝色背景 */
+    border-left: 6px solid var(--primary) !important; /* 左侧粗条 */
+    transform: scale(1.03); /* 微微放大，产生浮动感 */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* 增加阴影 */
+    color: #000 !important; /* 文字颜色加深 */
+    font-weight: bold !important; /* 字体加粗 */
+    transition: all 0.2s ease; /* 丝滑过渡 */
+}
+        .line.is-q { background: #fffde7; }
+        .q-indicator { color: #e65100; font-weight: bold; font-size: 17px; margin-right: 10px; }
+        .opt-indicator { background: #2196f3; color: white; padding: 2px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; margin-right: 5px; }
+
+        #pdfPanel { width: 45%; }
+        #pdf-frame { width: 100%; height: 100%; border: none; background: #525659; }
+
+        #typeBrowserView { flex: 1; display: none; flex-direction: column; overflow-y: auto; padding: 20px; gap: 20px; background: var(--bg); }
+        .filter-bar { display: flex; gap: 10px; align-items: center; padding: 15px 20px; background: var(--panel-bg); border-radius: var(--radius); box-shadow: var(--shadow); position: sticky; top: 0; z-index: 5; margin-bottom: 15px; }
+        .type-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; border-left: 5px solid var(--primary); padding-left: 15px; }
+        .mini-filter { display: flex; gap: 5px; background: #f0f0f0; padding: 3px; border-radius: 20px; }
+        .mini-btn { padding: 2px 10px; border-radius: 15px; border: none; background: transparent; font-size: 11px; cursor: pointer; color: #666; font-weight: bold; transition: 0.2s; }
+        .mini-btn.active { background: var(--primary); color: #fff; }
+        .type-group { background: var(--panel-bg); border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); margin-bottom: 20px; }
+        .type-title { font-size: 18px; color: var(--primary); border-left: 5px solid var(--primary); padding-left: 12px; margin-bottom: 20px; font-weight: bold; }
+        .id-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 12px; }
+        .id-card { padding: 12px 5px; border-radius: 8px; text-align: center; font-size: 14px; font-weight: bold; background: #eee; color: #aaa; cursor: not-allowed; border: 1px solid transparent; transition: 0.2s; }
+        .id-card.available { background: #e3f2fd; color: var(--primary); cursor: pointer; border-color: var(--primary); }
+        .id-card.available:hover { background: var(--primary); color: white; transform: translateY(-3px); box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+
         .resizer { width: 8px; cursor: col-resize; flex-shrink: 0; z-index: 10; transition: background 0.2s; }
+        .resizer:hover { background: var(--primary); }
         #drag-overlay { display: none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: 9999; cursor: col-resize; }
         .collapsed { width: 45px !important; }
         .collapsed *:not(.fold-btn, .panel-header) { display: none; }
-        #status-info { font-size: 11px; color: var(--primary); font-weight: bold; margin-left: auto; }
+        .settings-box { position: fixed; top: 100px; right: 20px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); z-index: 1000; display: none; border: 1px solid var(--primary); }
+        /* 1. 修改通用的编辑样式，仅针对正文 */
+.content-text.editable-active { 
+    outline: 2px dashed var(--primary); 
+    background: #fffde7 !important; 
+    color: #333 !important; 
+}
+
+/* 2. 新增：专门针对蓝色批注条的编辑样式 */
+.opt-indicator.editable-active { 
+    outline: 2px dashed #fff; /* 编辑时显示白色虚线框 */
+    background: #2196f3 !important; /* 强制保持蓝色 */
+    color: white !important; /* 强制保持白色文字 */
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3); /* 增加阴影，更有“正在编辑”的立体感 */
+}
+        .download-btn { font-size: 10px; padding: 4px 8px; background: #4caf50; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold; white-space: nowrap; margin-left: 10px; }
+        .part-btn { padding: 6px 15px; border-radius: 20px; border: 1px solid #ddd; background: #fff; cursor: pointer; font-size: 12px; font-weight: bold; transition: 0.2s; }
+        .part-btn.active { background: var(--primary); color: #fff; border-color: var(--primary); }
     </style>
 </head>
 <body class="theme-soft">
 
 <div id="drag-overlay"></div>
 
-<div class="top-nav">
+<div class="nav-tabs">
+    <div class="tab-item active" onclick="switchTab('main')">🎧 教学精听模式</div>
+    <div class="tab-item" onclick="switchTab('type')">📂 按题型浏览</div>
+</div>
+
+<div class="top-nav" id="mainTopNav">
     <div class="nav-section">
-        <strong>IELTS Expert v10.0</strong>
-        <select class="skin-select" onchange="changeTheme(this.value)">
-            <option value="theme-soft">🌸 柔和</option>
-            <option value="theme-pixel">🎮 像素</option>
-            <option value="theme-puffy">☁️ 粘土</option>
-            <option value="theme-glass">🧊 玻璃</option>
+        <strong>雅思精听助手</strong>
+        <select class="btn-sm" onchange="changeTheme(this.value)">
+            <option value="theme-soft">🌸 </option>
+            <option value="theme-pixel">🎮 </option>
+            <option value="theme-puffy">☁️ </option>
+            <option value="theme-glass">🧊 </option>
         </select>
     </div>
-
     <div class="nav-section">
-        <select id="cloudLibrary" onchange="loadFromLibrary(this.value)" style="padding:4px; font-size:11px; max-width:120px;">
+        <select id="cloudLibrary" onchange="loadFromLibrary(this.value)" class="btn-sm" style="max-width:140px;">
             <option value="">-- 同步课程库 --</option>
         </select>
+        <button onclick="refreshLibrary()" class="btn-sm">🔄</button>
     </div>
-
-    <!-- 云端保存控制区 -->
     <div class="nav-section">
-        <button onclick="toggleSettings()" style="cursor:pointer; border:none; background:none; font-size:18px;">⚙️</button>
-        <button id="editToggleBtn" onclick="toggleEditMode()" class="btn-sm">✍️ 开启编辑</button>
-        <button id="cloudSaveBtn" onclick="saveToGithub()" class="btn-sm btn-save-cloud">☁️ 保存到云端</button>
-    </div>
-
-    <div class="nav-section" style="border:none; gap:10px;">
-        <span style="font-size:11px;">手动上传:</span>
-        <input type="file" id="mediaUpload" accept="audio/*" style="width:100px;">
-        <input type="file" id="textUpload" accept=".srt" style="width:100px;">
+        <button onclick="toggleSettings()" class="btn-sm">⚙️ Token</button>
+        <button id="editToggleBtn" onclick="toggleEditMode()" class="btn-sm">✍️ 编辑</button>
+        <button id="cloudSaveBtn" onclick="saveToGithub()" class="btn-sm" style="display:none; background:#ff9800; color:white;">☁️ 保存云端</button>
     </div>
     
-    <div id="status-info">就绪</div>
+    <!-- 当前课题看板 -->
+    <div class="lesson-info-badge" id="lessonBadge" onclick="editTheme()">
+        <span id="displayID">未加载题目</span>
+        <span id="displayTheme" style="font-weight:normal; opacity:0.9;">| 暂无主题</span>
+        <span style="font-size:10px; background:rgba(255,255,255,0.2); padding:2px 5px; border-radius:4px;">✎ 修改</span>
+    </div>
 </div>
 
-<!-- 隐藏的 Token 设置框 -->
 <div id="settingsBox" class="settings-box">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:5px;">GitHub 访问令牌 (Token):</div>
-    <input type="password" id="ghToken" placeholder="粘贴 github_pat_... 字符">
-    <button onclick="saveToken()" class="btn-sm" style="margin-top:10px; background:var(--primary); color:white; width:100%;">保存设置</button>
-    <div style="font-size:10px; color:#999; margin-top:5px;">*密钥仅保存在您的浏览器本地。</div>
+    <div style="font-size:12px; font-weight:bold;">GitHub Token:</div>
+    <input type="password" id="ghToken" style="margin-top:5px; width:200px;">
+    <button onclick="saveToken()" class="btn-sm" style="margin-top:10px; width:100%;">保存</button>
 </div>
 
-<div class="main-container" id="mainContainer">
+<div class="main-container" id="mainTeachingView">
     <div class="panel" id="qNavPanel">
-        <div class="panel-header">
-            <span class="header-title">题目</span>
-            <button class="fold-btn" onclick="toggleFold('qNavPanel')">◀</button>
-        </div>
-        <div class="q-nav-body" id="qNavBody" style="padding:10px; display:flex; flex-direction:column; gap:8px;"></div>
+        <div class="panel-header"><span>题目</span><button class="fold-btn" onclick="toggleFold('qNavPanel')">◀</button></div>
+        <div class="q-nav-body" id="qNavBody"></div>
     </div>
     <div class="resizer" id="resizer1"></div>
     <div class="panel" id="lyricsView">
@@ -132,7 +158,7 @@
             <div class="ctrl-row">
                 <button class="btn-sm" onclick="changeTime(-3)">-3s</button>
                 <button class="btn-sm" onclick="changeTime(3)">+3s</button>
-                <button class="speed-btn btn-sm" onclick="setSpeed(0.5, this)">0.5</button>
+                <button class="speed-btn btn-sm" onclick="setSpeed(0.75, this)">0.75</button>
                 <button class="speed-btn btn-sm active" onclick="setSpeed(1, this)">1.0</button>
                 <button class="speed-btn btn-sm" onclick="setSpeed(1.25, this)">1.25</button>
                 <button class="speed-btn btn-sm" onclick="setSpeed(1.5, this)">1.5</button>
@@ -142,19 +168,394 @@
     </div>
     <div class="resizer" id="resizer2"></div>
     <div class="panel" id="pdfPanel">
-        <div class="panel-header">
-            <button class="fold-btn" onclick="toggleFold('pdfPanel')">▶</button>
-            <span class="header-title">真题 PDF</span>
-        </div>
-        <div style="flex:1; background:#525659;">
-            <iframe id="pdf-frame" style="display:none;"></iframe>
-            <div id="pdf-placeholder" style="color:white; text-align:center; padding-top:50px;">等待 PDF...</div>
-        </div>
+        <div class="panel-header"><button class="fold-btn" onclick="toggleFold('pdfPanel')">▶</button><span>真题 PDF</span></div>
+        <div style="flex:1; background:#525659; overflow:hidden;"><iframe id="pdf-frame" style="display:none; width:100%; height:100%;"></iframe></div>
     </div>
 </div>
 
+<div id="typeBrowserView">
+    <div class="filter-bar">
+        <span class="filter-title">🔍 全局 Part 筛选：</span>
+        <button class="part-btn active" onclick="setPartFilter('all', this)">全部</button>
+        <button class="part-btn" onclick="setPartFilter('1', this)">Part 1</button>
+        <button class="part-btn" onclick="setPartFilter('2', this)">Part 2</button>
+        <button class="part-btn" onclick="setPartFilter('3', this)">Part 3</button>
+        <button class="part-btn" onclick="setPartFilter('4', this)">Part 4</button>
+    </div>
+    <div id="typeGroupsContainer" style="padding-bottom: 50px;"></div>
+</div>
+
 <script>
-    // --- 核心配置 ---
+    // --- 题型数据（可替换） ---
+    const ALL_IELTS_DATA = [
+{id: "711", type: "part1 填空" },
+{id: "711", type: "part1 填空" },
+{id: "731", type: "part1 填空" },
+{id: "841", type: "part1 填空" },
+{id: "911", type: "part1 填空" },
+{id: "1011", type: "part1 填空" },
+{id: "1021", type: "part1 填空" },
+{id: "1041", type: "part1 填空" },
+{id: "1111", type: "part1 填空" },
+{id: "1121", type: "part1 填空" },
+{id: "1251", type: "part1 填空" },
+{id: "1261", type: "part1 填空" },
+{id: "1271", type: "part1 填空" },
+{id: "1281", type: "part1 填空" },
+{id: "1321", type: "part1 填空" },
+{id: "1331", type: "part1 填空" },
+{id: "1341", type: "part1 填空" },
+{id: "1411", type: "part1 填空" },
+{id: "1421", type: "part1 填空" },
+{id: "1431", type: "part1 填空" },
+{id: "1441", type: "part1 填空" },
+{id: "1511", type: "part1 填空" },
+{id: "1521", type: "part1 填空" },
+{id: "1531", type: "part1 填空" },
+{id: "1611", type: "part1 填空" },
+{id: "1621", type: "part1 填空" },
+{id: "1631", type: "part1 填空" },
+{id: "1641", type: "part1 填空" },
+{id: "1711", type: "part1 填空" },
+{id: "1721", type: "part1 填空" },
+{id: "1731", type: "part1 填空" },
+{id: "1741", type: "part1 填空" },
+{id: "1811", type: "part1 填空" },
+{id: "1821", type: "part1 填空" },
+{id: "1841", type: "part1 填空" },
+{id: "1911", type: "part1 填空" },
+{id: "1921", type: "part1 填空" },
+{id: "1931", type: "part1 填空" },
+{id: "1941", type: "part1 填空" },
+{id: "2021", type: "part1 填空" },
+{id: "2041", type: "part1 填空" },
+{id: "712", type: "Multiple Choice - 单选(part2)" },
+{id: "732", type: "Multiple Choice - 单选(part2)" },
+{id: "742", type: "Multiple Choice - 单选(part2)" },
+{id: "822", type: "Multiple Choice - 单选(part2)" },
+{id: "842", type: "Multiple Choice - 单选(part2)" },
+{id: "912", type: "Multiple Choice - 单选(part2)" },
+{id: "922", type: "Multiple Choice - 单选(part2)" },
+{id: "932", type: "Multiple Choice - 单选(part2)" },
+{id: "1022", type: "Multiple Choice - 单选(part2)" },
+{id: "1032", type: "Multiple Choice - 单选(part2)" },
+{id: "1042", type: "Multiple Choice - 单选(part2)" },
+{id: "1132", type: "Multiple Choice - 单选(part2)" },
+{id: "1252", type: "Multiple Choice - 单选(part2)" },
+{id: "1262", type: "Multiple Choice - 单选(part2)" },
+{id: "1272", type: "Multiple Choice - 单选(part2)" },
+{id: "1282", type: "Multiple Choice - 单选(part2)" },
+{id: "1312", type: "Multiple Choice - 单选(part2)" },
+{id: "1322", type: "Multiple Choice - 单选(part2)" },
+{id: "1342", type: "Multiple Choice - 单选(part2)" },
+{id: "1422", type: "Multiple Choice - 单选(part2)" },
+{id: "1512", type: "Multiple Choice - 单选(part2)" },
+{id: "1522", type: "Multiple Choice - 单选(part2)" },
+{id: "1532", type: "Multiple Choice - 单选(part2)" },
+{id: "1612", type: "Multiple Choice - 单选(part2)" },
+{id: "1622", type: "Multiple Choice - 单选(part2)" },
+{id: "1642", type: "Multiple Choice - 单选(part2)" },
+{id: "1712", type: "Multiple Choice - 单选(part2)" },
+{id: "1722", type: "Multiple Choice - 单选(part2)" },
+{id: "1732", type: "Multiple Choice - 单选(part2)" },
+{id: "1742", type: "Multiple Choice - 单选(part2)" },
+{id: "1812", type: "Multiple Choice - 单选(part2)" },
+{id: "1832", type: "Multiple Choice - 单选(part2)" },
+{id: "1842", type: "Multiple Choice - 单选(part2)" },
+{id: "1912", type: "Multiple Choice - 单选(part2)" },
+{id: "1922", type: "Multiple Choice - 单选(part2)" },
+{id: "1942", type: "Multiple Choice - 单选(part2)" },
+{id: "2012", type: "Multiple Choice - 单选(part2)" },
+{id: "2022", type: "Multiple Choice - 单选(part2)" },
+{id: "2032", type: "Multiple Choice - 单选(part2)" },
+{id: "713", type: "Multiple Choice - 单选(part3)" },
+{id: "723", type: "Multiple Choice - 单选(part3)" },
+{id: "813", type: "Multiple Choice - 单选(part3)" },
+{id: "823", type: "Multiple Choice - 单选(part3)" },
+{id: "833", type: "Multiple Choice - 单选(part3)" },
+{id: "843", type: "Multiple Choice - 单选(part3)" },
+{id: "913", type: "Multiple Choice - 单选(part3)" },
+{id: "923", type: "Multiple Choice - 单选(part3)" },
+{id: "943", type: "Multiple Choice - 单选(part3)" },
+{id: "1013", type: "Multiple Choice - 单选(part3)" },
+{id: "1023", type: "Multiple Choice - 单选(part3)" },
+{id: "1033", type: "Multiple Choice - 单选(part3)" },
+{id: "1113", type: "Multiple Choice - 单选(part3)" },
+{id: "1123", type: "Multiple Choice - 单选(part3)" },
+{id: "1143", type: "Multiple Choice - 单选(part3)" },
+{id: "1253", type: "Multiple Choice - 单选(part3)" },
+{id: "1263", type: "Multiple Choice - 单选(part3)" },
+{id: "1273", type: "Multiple Choice - 单选(part3)" },
+{id: "1313", type: "Multiple Choice - 单选(part3)" },
+{id: "1323", type: "Multiple Choice - 单选(part3)" },
+{id: "1333", type: "Multiple Choice - 单选(part3)" },
+{id: "1343", type: "Multiple Choice - 单选(part3)" },
+{id: "1413", type: "Multiple Choice - 单选(part3)" },
+{id: "1423", type: "Multiple Choice - 单选(part3)" },
+{id: "1443", type: "Multiple Choice - 单选(part3)" },
+{id: "1513", type: "Multiple Choice - 单选(part3)" },
+{id: "1543", type: "Multiple Choice - 单选(part3)" },
+{id: "1623", type: "Multiple Choice - 单选(part3)" },
+{id: "1633", type: "Multiple Choice - 单选(part3)" },
+{id: "1713", type: "Multiple Choice - 单选(part3)" },
+{id: "1723", type: "Multiple Choice - 单选(part3)" },
+{id: "1733", type: "Multiple Choice - 单选(part3)" },
+{id: "1813", type: "Multiple Choice - 单选(part3)" },
+{id: "1823", type: "Multiple Choice - 单选(part3)" },
+{id: "1843", type: "Multiple Choice - 单选(part3)" },
+{id: "1923", type: "Multiple Choice - 单选(part3)" },
+{id: "1933", type: "Multiple Choice - 单选(part3)" },
+{id: "1943", type: "Multiple Choice - 单选(part3)" },
+{id: "2013", type: "Multiple Choice - 单选(part3)" },
+{id: "2023", type: "Multiple Choice - 单选(part3)" },
+{id: "2033", type: "Multiple Choice - 单选(part3)" },
+{id: "2043", type: "Multiple Choice - 单选(part3)" },
+{id: "723", type: "MC-多选" },
+{id: "812", type: "MC-多选" },
+{id: "813", type: "MC-多选" },
+{id: "831", type: "MC-多选" },
+{id: "843", type: "MC-多选" },
+{id: "912", type: "MC-多选" },
+{id: "941", type: "MC-多选" },
+{id: "1012", type: "MC-多选" },
+{id: "1023", type: "MC-多选" },
+{id: "1032", type: "MC-多选" },
+{id: "1043", type: "MC-多选" },
+{id: "1122", type: "MC-多选" },
+{id: "1123", type: "MC-多选" },
+{id: "1143", type: "MC-多选" },
+{id: "1252", type: "MC-多选" },
+{id: "1272", type: "MC-多选" },
+{id: "1322", type: "MC-多选" },
+{id: "1332", type: "MC-多选" },
+{id: "1343", type: "MC-多选" },
+{id: "1412", type: "MC-多选" },
+{id: "1432", type: "MC-多选" },
+{id: "1442", type: "MC-多选" },
+{id: "1513", type: "MC-多选" },
+{id: "1523", type: "MC-多选" },
+{id: "1532", type: "MC-多选" },
+{id: "1542", type: "MC-多选" },
+{id: "1613", type: "MC-多选" },
+{id: "1622", type: "MC-多选" },
+{id: "1632", type: "MC-多选" },
+{id: "1633", type: "MC-多选" },
+{id: "1643", type: "MC-多选" },
+{id: "1712", type: "MC-多选" },
+{id: "1723", type: "MC-多选" },
+{id: "1732", type: "MC-多选" },
+{id: "1743", type: "MC-多选" },
+{id: "1812", type: "MC-多选" },
+{id: "1813", type: "MC-多选" },
+{id: "1822", type: "MC-多选" },
+{id: "1823", type: "MC-多选" },
+{id: "1832", type: "MC-多选" },
+{id: "1833", type: "MC-多选" },
+{id: "1843", type: "MC-多选" },
+{id: "1913", type: "MC-多选" },
+{id: "1922", type: "MC-多选" },
+{id: "1932", type: "MC-多选" },
+{id: "1942", type: "MC-多选" },
+{id: "2012", type: "MC-多选" },
+{id: "2013", type: "MC-多选" },
+{id: "2042", type: "MC-多选" },
+{id: "2043", type: "MC-多选" },
+{id: "842", type: "Map 地图🗺️配对型🌟" },
+{id: "922", type: "Map 地图🗺️配对型🌟" },
+{id: "1112", type: "Map 地图🗺️配对型🌟" },
+{id: "1122", type: "Map 地图🗺️配对型🌟" },
+{id: "1142", type: "Map 地图🗺️配对型🌟" },
+{id: "1282", type: "Map 地图🗺️配对型🌟" },
+{id: "1312", type: "Map 地图🗺️配对型🌟" },
+{id: "1422", type: "Map 地图🗺️配对型🌟" },
+{id: "1522", type: "Map 地图🗺️配对型🌟" },
+{id: "1542", type: "Map 地图🗺️配对型🌟" },
+{id: "1612", type: "Map 地图🗺️配对型🌟" },
+{id: "1642", type: "Map 地图🗺️配对型🌟" },
+{id: "1822", type: "Map 地图🗺️配对型🌟" },
+{id: "1912", type: "Map 地图🗺️配对型🌟" },
+{id: "2032", type: "Map 地图🗺️配对型🌟" },
+{id: "722", type: "Map 地图🗺️填空" },
+{id: "742", type: "Map 地图🗺️填空" },
+{id: "822", type: "Map 地图🗺️填空" },
+{id: "712", type: "Matching 配对 🤝" },
+{id: "733", type: "Matching 配对 🤝" },
+{id: "743", type: "Matching 配对 🤝" },
+{id: "824", type: "Matching 配对 🤝" },
+{id: "833", type: "Matching 配对 🤝" },
+{id: "844", type: "Matching 配对 🤝" },
+{id: "932", type: "Matching 配对 🤝" },
+{id: "942", type: "Matching 配对 🤝" },
+{id: "1022", type: "Matching 配对 🤝" },
+{id: "1032", type: "Matching 配对 🤝" },
+{id: "1033", type: "Matching 配对 🤝" },
+{id: "1043", type: "Matching 配对 🤝" },
+{id: "1132", type: "Matching 配对 🤝" },
+{id: "1133", type: "Matching 配对 🤝" },
+{id: "1141", type: "Matching 配对 🤝" },
+{id: "1142", type: "Matching 配对 🤝" },
+{id: "1252", type: "Matching 配对 🤝" },
+{id: "1262", type: "Matching 配对 🤝" },
+{id: "1283", type: "Matching 配对 🤝" },
+{id: "1323", type: "Matching 配对 🤝" },
+{id: "1332", type: "Matching 配对 🤝" },
+{id: "1333", type: "Matching 配对 🤝" },
+{id: "1342", type: "Matching 配对 🤝" },
+{id: "1412", type: "Matching 配对 🤝" },
+{id: "1413", type: "Matching 配对 🤝" },
+{id: "1423", type: "Matching 配对 🤝" },
+{id: "1432", type: "Matching 配对 🤝" },
+{id: "1433", type: "Matching 配对 🤝" },
+{id: "1441", type: "Matching 配对 🤝" },
+{id: "1442", type: "Matching 配对 🤝" },
+{id: "1443", type: "Matching 配对 🤝" },
+{id: "1513", type: "Matching 配对 🤝" },
+{id: "1523", type: "Matching 配对 🤝" },
+{id: "1533", type: "Matching 配对 🤝" },
+{id: "1543", type: "Matching 配对 🤝" },
+{id: "1613", type: "Matching 配对 🤝" },
+{id: "1622", type: "Matching 配对 🤝" },
+{id: "1632", type: "Matching 配对 🤝" },
+{id: "1643", type: "Matching 配对 🤝" },
+{id: "1713", type: "Matching 配对 🤝" },
+{id: "1722", type: "Matching 配对 🤝" },
+{id: "1723", type: "Matching 配对 🤝" },
+{id: "1732", type: "Matching 配对 🤝" },
+{id: "1733", type: "Matching 配对 🤝" },
+{id: "1742", type: "Matching 配对 🤝" },
+{id: "1743", type: "Matching 配对 🤝" },
+{id: "1812", type: "Matching 配对 🤝" },
+{id: "1823", type: "Matching 配对 🤝" },
+{id: "1833", type: "Matching 配对 🤝" },
+{id: "1842", type: "Matching 配对 🤝" },
+{id: "1843", type: "Matching 配对 🤝" },
+{id: "1913", type: "Matching 配对 🤝" },
+{id: "1923", type: "Matching 配对 🤝" },
+{id: "1932", type: "Matching 配对 🤝" },
+{id: "1942", type: "Matching 配对 🤝" },
+{id: "1943", type: "Matching 配对 🤝" },
+{id: "2022", type: "Matching 配对 🤝" },
+{id: "2023", type: "Matching 配对 🤝" },
+{id: "2033", type: "Matching 配对 🤝" },
+{id: "2042", type: "Matching 配对 🤝" },
+{id: "942", type: "Diagram ➡️/Plan🔖选择型" },
+{id: "1263", type: "Diagram ➡️/Plan🔖选择型" },
+{id: "1273", type: "Diagram ➡️/Plan🔖选择型" },
+{id: "1313", type: "Diagram ➡️/Plan🔖选择型" },
+{id: "1933", type: "Diagram ➡️/Plan🔖选择型" },
+{id: "733", type: "Diagram ➡️/Plan🔖填空" },
+{id: "843", type: "Diagram ➡️/Plan🔖填空" },
+{id: "1623", type: "Diagram ➡️/Plan🔖填空" },
+{id: "714", type: "part4 填空" },
+{id: "734", type: "part4 填空" },
+{id: "744", type: "part4 填空" },
+{id: "814", type: "part4 填空" },
+{id: "834", type: "part4 填空" },
+{id: "844", type: "part4 填空" },
+{id: "914", type: "part4 填空" },
+{id: "924", type: "part4 填空" },
+{id: "934", type: "part4 填空" },
+{id: "1014", type: "part4 填空" },
+{id: "1024", type: "part4 填空" },
+{id: "1034", type: "part4 填空" },
+{id: "1044", type: "part4 填空" },
+{id: "1114", type: "part4 填空" },
+{id: "1124", type: "part4 填空" },
+{id: "1134", type: "part4 填空" },
+{id: "1144", type: "part4 填空" },
+{id: "1254", type: "part4 填空" },
+{id: "1264", type: "part4 填空" },
+{id: "1274", type: "part4 填空" },
+{id: "1284", type: "part4 填空" },
+{id: "1314", type: "part4 填空" },
+{id: "1324", type: "part4 填空" },
+{id: "1334", type: "part4 填空" },
+{id: "1344", type: "part4 填空" },
+{id: "1414", type: "part4 填空" },
+{id: "1424", type: "part4 填空" },
+{id: "1434", type: "part4 填空" },
+{id: "1444", type: "part4 填空" },
+{id: "1514", type: "part4 填空" },
+{id: "1524", type: "part4 填空" },
+{id: "1534", type: "part4 填空" },
+{id: "1544", type: "part4 填空" },
+{id: "1614", type: "part4 填空" },
+{id: "1624", type: "part4 填空" },
+{id: "1634", type: "part4 填空" },
+{id: "1644", type: "part4 填空" },
+{id: "1714", type: "part4 填空" },
+{id: "1724", type: "part4 填空" },
+{id: "1734", type: "part4 填空" },
+{id: "1744", type: "part4 填空" },
+{id: "1814", type: "part4 填空" },
+{id: "1824", type: "part4 填空" },
+{id: "1834", type: "part4 填空" },
+{id: "1844", type: "part4 填空" },
+{id: "1914", type: "part4 填空" },
+{id: "1924", type: "part4 填空" },
+{id: "1934", type: "part4 填空" },
+{id: "1944", type: "part4 填空" },
+{id: "2014", type: "part4 填空" },
+{id: "2024", type: "part4 填空" },
+{id: "2034", type: "part4 填空" },
+{id: "2044", type: "part4 填空" },
+{id: "722", type: "table" },
+{id: "723", type: "table" },
+{id: "724", type: "table" },
+{id: "731", type: "table" },
+{id: "742", type: "table" },
+{id: "743", type: "table" },
+{id: "821", type: "table" },
+{id: "831", type: "table" },
+{id: "832", type: "table" },
+{id: "922", type: "table" },
+{id: "931", type: "table" },
+{id: "932", type: "table" },
+{id: "941", type: "table" },
+{id: "944", type: "table" },
+{id: "1041", type: "table" },
+{id: "1042", type: "table" },
+{id: "1133", type: "table" },
+{id: "1141", type: "table" },
+{id: "1272", type: "table" },
+{id: "1283", type: "table" },
+{id: "1311", type: "table" },
+{id: "1512", type: "table" },
+{id: "1521", type: "table" },
+{id: "1721", type: "table" },
+{id: "1821", type: "table" },
+{id: "1831", type: "table" },
+{id: "1921", type: "table" },
+{id: "1931", type: "table" },
+{id: "1941", type: "table" },
+{id: "2011", type: "table" },
+{id: "2031", type: "table" },
+{id: "713", type: "note" },
+{id: "733", type: "note" },
+{id: "832", type: "note" },
+{id: "912", type: "note" },
+{id: "923", type: "note" },
+{id: "933", type: "note" },
+{id: "942", type: "note" },
+{id: "1012", type: "note" },
+{id: "1013", type: "note" },
+{id: "1112", type: "note" },
+{id: "1253", type: "note" },
+{id: "1433", type: "note" },
+{id: "1533", type: "note" },
+{id: "724", type: "MC-单选" },
+{id: "734", type: "MC-单选" },
+{id: "744", type: "MC-单选" },
+{id: "811", type: "MC-单选" },
+{id: "824", type: "MC-单选" },
+{id: "834", type: "MC-单选" },
+{id: "934", type: "MC-单选" },
+{id: "944", type: "MC-单选" },
+{id: "1044", type: "MC-单选" },
+{id: "1131", type: "MC-单选" },
+
+    ].filter(item => item && item.id && item.type);
+
     const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
     const GITHUB_USER = "itsjiselle";
     const GITHUB_REPO = "ielts-listening-questions-pdf";
@@ -162,58 +563,153 @@
     const API_URL = `https://api.github.com/repos/${GITHUB_USER}/${GITHUB_REPO}/contents/`;
 
     let lyricsData = [], audioBuffer = null, currentFileName = "", isEditMode = false;
+    let cloudFilesList = [];
+    let currentPartFilter = 'all', localFilters = {};
+    let lessonThemes = {}; // 存储 ID -> 主题 的字典
+
     const audioPlayer = document.getElementById('audioPlayer');
     const pdfFrame = document.getElementById('pdf-frame');
-    const statusInfo = document.getElementById('status-info');
     const librarySelect = document.getElementById('cloudLibrary');
 
-    // --- 模式与Token管理 ---
-    function toggleSettings() {
-        const box = document.getElementById('settingsBox');
-        box.style.display = box.style.display === 'block' ? 'none' : 'block';
-        if(localStorage.getItem('gh_token')) document.getElementById('ghToken').value = localStorage.getItem('gh_token');
-    }
-    function saveToken() {
-        localStorage.setItem('gh_token', document.getElementById('ghToken').value);
-        alert("Token 已保存至本地！"); toggleSettings();
-    }
-    function toggleEditMode() {
-        isEditMode = !isEditMode;
-        const btn = document.getElementById('editToggleBtn');
-        const saveBtn = document.getElementById('cloudSaveBtn');
-        btn.innerText = isEditMode ? "🚫 关闭编辑" : "✍️ 开启编辑";
-        btn.classList.toggle('active', isEditMode);
-        saveBtn.style.display = isEditMode ? "inline-block" : "none";
-        render();
-    }
+    // --- 1. 云端主题同步核心逻辑 ---
 
-    function changeTheme(themeName) { document.body.className = themeName; }
-
-    // --- 资源加载逻辑 ---
-async function refreshLibrary() {
-        const token = localStorage.getItem('gh_token');
-        // 如果本地存有 Token，就带上，没有则匿名访问
-        const headers = token ? { 'Authorization': `token ${token}` } : {};
-        
+    // 从云端加载主题数据库文件 (themes.json)
+    async function loadThemesFromCloud() {
         try {
-            statusInfo.innerText = "正在同步课程库...";
+            const res = await fetch(`${BASE_URL}themes.json?t=${Date.now()}`);
+            if (res.ok) {
+                lessonThemes = await res.json();
+                updateLessonBadge();
+            }
+        } catch (e) { console.log("尚未创建云端主题库或加载失败"); }
+    }
+
+    // 修改主题
+    async function editTheme() {
+        if (!currentFileName) return alert("请先加载题目");
+        const token = localStorage.getItem('gh_token');
+        if (!token) return alert("修改云端主题需要先在 ⚙️ 设置 GitHub Token");
+
+        const oldTheme = lessonThemes[currentFileName] || "";
+        const newTheme = prompt(`请输入题目 [${currentFileName}] 的主题:`, oldTheme);
+        
+        if (newTheme !== null) {
+            lessonThemes[currentFileName] = newTheme;
+            updateLessonBadge();
+            saveThemesToCloud(token);
+        }
+    }
+
+    // 将主题库存回云端
+    async function saveThemesToCloud(token) {
+        try {
+            // 获取 themes.json 的 SHA
+            const res = await fetch(`${API_URL}themes.json`, { headers: {'Authorization': `token ${token}`} });
+            let sha = "";
+            if (res.ok) {
+                const data = await res.json();
+                sha = data.sha;
+            }
+
+            const putRes = await fetch(`${API_URL}themes.json`, {
+                method: 'PUT',
+                headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    message: "Update lesson themes",
+                    content: btoa(unescape(encodeURIComponent(JSON.stringify(lessonThemes, null, 2)))),
+                    sha: sha || undefined
+                })
+            });
+
+            if (putRes.ok) { console.log("云端主题已更新"); }
+        } catch (e) { alert("云端保存失败，请检查网络或Token权限"); }
+    }
+
+    // 更新看板显示
+    function updateLessonBadge() {
+        if (!currentFileName) return;
+        document.getElementById('displayID').innerText = formatIeltsID(currentFileName);
+        document.getElementById('displayTheme').innerText = ` | ${lessonThemes[currentFileName] || '暂无主题'}`;
+    }
+
+    // --- 2. 界面渲染逻辑 ---
+    function switchTab(tab) {
+        document.querySelectorAll('.tab-item').forEach(el => el.classList.remove('active'));
+        if (tab === 'main') {
+            document.querySelector('.tab-item:nth-child(1)').classList.add('active');
+            document.getElementById('mainTeachingView').style.display = 'flex';
+            document.getElementById('typeBrowserView').style.display = 'none';
+        } else {
+            document.querySelector('.tab-item:nth-child(2)').classList.add('active');
+            document.getElementById('mainTeachingView').style.display = 'none';
+            document.getElementById('typeBrowserView').style.display = 'flex';
+            renderTypeBrowser();
+        }
+    }
+
+    function formatIeltsID(id) {
+        id = id.toString().trim();
+        if (id.length === 3) return `${id[0]}-${id[1]}-${id[2]}`;
+        if (id.length === 4) return `${id.slice(0,2)}-${id[2]}-${id[3]}`;
+        return id;
+    }
+
+    function renderTypeBrowser() {
+        const container = document.getElementById('typeGroupsContainer');
+        container.innerHTML = '';
+        const types = [...new Set(ALL_IELTS_DATA.map(i => i.type))];
+        types.forEach(typeName => {
+            if (!localFilters[typeName]) localFilters[typeName] = currentPartFilter;
+            const activeLocalPart = localFilters[typeName];
+            const matchedItems = ALL_IELTS_DATA.filter(item => {
+                if (item.type !== typeName) return false;
+                const itemPart = item.id.toString().slice(-1);
+                return (activeLocalPart === 'all' || itemPart === activeLocalPart);
+            });
+            if (matchedItems.length > 0 || activeLocalPart !== 'all') {
+                const group = document.createElement('div');
+                group.className = 'type-group';
+                group.innerHTML = `<div class="type-header"><div class="type-title" style="border:none;padding:0;">${typeName} <small style="font-size:12px;color:#999;">(${matchedItems.length}题)</small></div><div class="mini-filter"><button class="mini-btn ${activeLocalPart==='all'?'active':''}" onclick="updateLocalFilter('${typeName}','all')">全部</button><button class="mini-btn ${activeLocalPart==='1'?'active':''}" onclick="updateLocalFilter('${typeName}','1')">P1</button><button class="mini-btn ${activeLocalPart==='2'?'active':''}" onclick="updateLocalFilter('${typeName}','2')">P2</button><button class="mini-btn ${activeLocalPart==='3'?'active':''}" onclick="updateLocalFilter('${typeName}','3')">P3</button><button class="mini-btn ${activeLocalPart==='4'?'active':''}" onclick="updateLocalFilter('${typeName}','4')">P4</button></div></div><div class="id-grid"></div>`;
+                const grid = group.querySelector('.id-grid');
+                matchedItems.forEach(item => {
+                    const displayID = formatIeltsID(item.id);
+                    const card = document.createElement('div');
+                    card.className = 'id-card';
+                    card.innerText = displayID;
+// --- 核心修改：增加悬停显示主题功能 ---
+const rawId = item.id; // 原始数字 ID (如 732)
+const formattedId = formatIeltsID(rawId); // 格式化后的 ID (如 7-3-2)
+// 从已加载的主题库中寻找匹配的主题
+const hoverTheme = lessonThemes[formattedId] || lessonThemes[rawId] || "暂无主题";
+card.title = `主题：${hoverTheme}`; // HTML 原生悬停提示
+                    const isAvail = cloudFilesList.some(f => f.name.includes(displayID) && f.name.endsWith('.srt'));
+                    if (isAvail) {
+                        card.classList.add('available');
+                        card.onclick = () => { switchTab('main'); loadFromLibrary(cloudFilesList.find(f => f.name.includes(displayID) && f.name.endsWith('.mp3'))?.name); };
+                    }
+                    grid.appendChild(card);
+                });
+                container.appendChild(group);
+            }
+        });
+    }
+
+    // --- 3. 同步与资源加载 ---
+    async function refreshLibrary() {
+        const token = localStorage.getItem('gh_token');
+        const headers = token ? { 'Authorization': `token ${token}` } : {};
+        try {
             const res = await fetch(`${API_URL}?t=${Date.now()}`, { headers });
-            
-            if (!res.ok) throw new Error("GitHub 限流或仓库错误");
-            
-            const files = await res.json();
-            const mp3Files = files.filter(f => f.name.toLowerCase().endsWith('.mp3'));
+            cloudFilesList = await res.json();
+            const mp3s = cloudFilesList.filter(f => f.name.toLowerCase().endsWith('.mp3'));
             librarySelect.innerHTML = '<option value="">-- 选择入库真题 --</option>';
-            mp3Files.forEach(f => {
+            mp3s.forEach(f => {
                 let opt = document.createElement('option');
-                opt.value = f.name; 
-                opt.innerText = f.name.replace(/\.[^/.]+$/, "");
+                opt.value = f.name; opt.innerText = f.name.replace(/\.[^/.]+$/, "");
                 librarySelect.appendChild(opt);
             });
-            statusInfo.innerText = `同步成功 (共${mp3Files.length}篇)`;
-        } catch (err) { 
-            statusInfo.innerText = "库同步失败，请检查 Token 或网络"; 
-        }
+            loadThemesFromCloud(); // 同时加载主题
+        } catch (err) {}
     }
 
     async function loadFromLibrary(file) {
@@ -222,217 +718,87 @@ async function refreshLibrary() {
         audioPlayer.src = `${BASE_URL}${file}`;
         fetchAudioToBuffer(`${BASE_URL}${file}`);
         pdfFrame.style.display = 'block';
-        document.getElementById('pdf-placeholder').style.display = 'none';
-       // 找到这一行并修改：加上 ?t=... 防止缓存
-    pdfFrame.src = `${BASE_URL}${currentFileName}.pdf?t=${Date.now()}#toolbar=1&view=FitH`;
+        pdfFrame.src = `${BASE_URL}${currentFileName}.pdf?t=${Date.now()}#toolbar=1&view=FitH`;
         autoLoadSRT(currentFileName);
+        updateLessonBadge(); // 更新看板
     }
 
-    async function fetchAudioToBuffer(url) {
-        try {
-            const res = await fetch(url);
-            const arrayBuffer = await res.arrayBuffer();
-            audioBuffer = await audioCtx.decodeAudioData(arrayBuffer);
-            statusInfo.innerText = "资源就绪";
-        } catch (e) { statusInfo.innerText = "缓冲失败"; }
-    }
-
-    document.getElementById('mediaUpload').onchange = async (e) => {
-        const file = e.target.files[0];
-        if (!file) return;
-        currentFileName = file.name.replace(/\.[^/.]+$/, "");
-        audioPlayer.src = URL.createObjectURL(file);
-        const arrayBuffer = await file.arrayBuffer();
-        audioBuffer = await audioCtx.decodeAudioData(arrayBuffer);
-        pdfFrame.style.display = 'block';
-        document.getElementById('pdf-placeholder').style.display = 'none';
-        pdfFrame.src = `${BASE_URL}${currentFileName}.pdf#toolbar=1&view=FitH`;
-        autoLoadSRT(currentFileName);
-    };
-
-    document.getElementById('textUpload').onchange = (e) => {
-        const file = e.target.files[0];
-        if (file) {
-            const reader = new FileReader();
-            reader.onload = (ev) => parseSRT(ev.target.result);
-            reader.readAsText(file);
-        }
-    };
-
- async function autoLoadSRT(id) {
+    // --- (其余功能: render, download, editMode 等继承自 v10.2, 保持原样) ---
+    async function fetchAudioToBuffer(url) { try { const res = await fetch(url); const arrayBuffer = await res.arrayBuffer(); audioBuffer = await audioCtx.decodeAudioData(arrayBuffer); } catch (e) {} }
+    async function autoLoadSRT(id) {
         const token = localStorage.getItem('gh_token');
         const headers = token ? { 'Authorization': `token ${token}` } : {};
-        
         try {
             const res = await fetch(`${API_URL}?t=${Date.now()}`, { headers });
             const files = await res.json();
-            const matched = files.find(f => f.name.includes(id) && f.name.toLowerCase().endsWith('.srt'));
-            if (matched) {
-                const srtRes = await fetch(matched.download_url);
-                parseSRT(await srtRes.text());
-                statusInfo.innerText = "教案同步成功";
-            } else {
-                statusInfo.innerText = "云端未找到 SRT";
-            }
-        } catch (err) {
-            statusInfo.innerText = "自动搜索教案失败";
-        }
+            const matched = files.find(f => f.name.includes(id) && f.name.endsWith('.srt'));
+            if (matched) { const srtRes = await fetch(matched.download_url); parseSRT(await srtRes.text()); }
+        } catch (err) {}
     }
-
     function parseSRT(text) {
-        lyricsData = [];
-        const qBody = document.getElementById('qNavBody');
-        qBody.innerHTML = '';
+        lyricsData = []; const qBody = document.getElementById('qNavBody'); qBody.innerHTML = '';
         text.replace(/\r\n/g, '\n').split(/\n\s*\n/).forEach(block => {
             const lines = block.trim().split('\n');
-            const timeMatch = lines[1]?.match(/(\d{2}):(\d{2}):(\d{2})[,.](\d{3})/);
-            if (timeMatch) {
-                const time = parseInt(timeMatch[1]) * 3600 + parseInt(timeMatch[2]) * 60 + parseInt(timeMatch[3]) + parseInt(timeMatch[4]) / 1000;
-                let content = lines.slice(2).join(' ');
-                let qNum = content.match(/\(Q(.*?)\)(?=\s|\[|$)/)?.[1] || null;
-                let optMark = content.match(/\[(.*?)\]/)?.[1] || null;
-                let cleanContent = content.replace(/\(Q(.*?)\)(?=\s|\[|$)/g, "").replace(/\[(.*?)\]\s*/g, "");
-                
-                lyricsData.push({ time, content: cleanContent, q: qNum, opt: optMark });
-
-                if (qNum) {
-                    let btn = document.createElement('div');
-                    btn.className = 'q-btn'; btn.innerText = `Q ${qNum}`;
-                    btn.onclick = () => { audioPlayer.currentTime = time; audioPlayer.play(); };
-                    qBody.appendChild(btn);
+            const t = lines[1]?.match(/(\d{2}):(\d{2}):(\d{2})[,.](\d{3})/);
+            if (t) {
+                const time = parseInt(t[1])*3600 + parseInt(t[2])*60 + parseInt(t[3]) + parseInt(t[4])/1000;
+                let c = lines.slice(2).join(' ');
+                let q = c.match(/\(Q(.*?)\)(?=\s|\[|$)/)?.[1] || null;
+                let o = c.match(/\[(.*?)\]/)?.[1] || null;
+                let cl = c.replace(/\(Q(.*?)\)(?=\s|\[|$)/g, "").replace(/\[(.*?)\]\s*/g, "");
+                lyricsData.push({ time, content: cl, q, opt: o });
+                if (q) {
+                    let b = document.createElement('div'); b.className = 'q-btn'; b.innerText = `Q ${q}`;
+                    b.onclick = () => { audioPlayer.currentTime = time; audioPlayer.play(); }; qBody.appendChild(b);
                 }
             }
         });
         render();
     }
-
-    // --- 3. 核心修改：双重编辑渲染 ---
-    function render() {
-        const container = document.getElementById('lyrics-content');
-        container.innerHTML = '';
-        lyricsData.forEach((item, i) => {
-            const div = document.createElement('div');
-            div.className = `line ${item.q ? 'is-q' : ''}`;
-            div.id = `line-${i}`;
-            
-            // 题号不支持修改（防止破坏下载逻辑结构），但批注(opt)支持修改
-            const qTag = item.q ? `<span class="q-indicator">[Q${item.q}]</span>` : '';
-            const optTag = item.opt ? `<span class="opt-indicator ${isEditMode?'editable-active':''}" contenteditable="${isEditMode}" onblur="updateData(${i},'opt',this)">${item.opt}</span>` : (isEditMode ? `<span class="opt-indicator editable-active" contenteditable="true" onblur="updateData(${i},'opt',this)">+新批注</span>` : '');
-
-            div.innerHTML = `
-                <div style="width: 100%;">
-                    <div style="margin-bottom: 5px;">${qTag} ${optTag}</div>
-                    <div class="content-text ${isEditMode?'editable-active':''}" 
-                         style="width: 100%; line-height: 1.6; font-size: 16px;" 
-                         contenteditable="${isEditMode}" 
-                         onblur="updateData(${i},'content',this)">${item.content}</div>
-                </div>
-                ${item.q ? `<div style="text-align: right; margin-top: 10px;"><button class="download-btn" onclick="downloadFullQuestion(${i}, event)">⏬下载音频</button></div>` : ''}
-            `;
-            div.onclick = (e) => { 
-                if(!isEditMode) { audioPlayer.currentTime = item.time; audioPlayer.play(); }
-            };
-            container.appendChild(div);
-        });
-    }
-
-    function updateData(index, field, element) {
-        lyricsData[index][field] = element.innerText.trim().replace('+新批注', '');
-    }
-
-    // --- 4. 云端保存核心逻辑 ---
+function render() {
+    const container = document.getElementById('lyrics-content'); container.innerHTML = '';
+    lyricsData.forEach((item, i) => {
+        const div = document.createElement('div');
+        div.className = `line ${item.q ? 'is-q' : ''}`;
+        // ====== 在这里添加这一行 ======
+        div.id = `line-${i}`;
+        // ============================
+        const q = item.q ? `<span class="q-indicator" style="display:inline-block; margin-bottom:8px;">[Q${item.q}]</span>` : '';
+        const o = item.opt ? `<span class="opt-indicator ${isEditMode?'editable-active':''}">${item.opt}</span>` : (isEditMode ? `<span class="opt-indicator editable-active" contenteditable="true" onblur="updateData(${i},'opt',this)">+新批注</span>` : '');
+        div.innerHTML = `<div style="width:100%"><div style="margin-bottom:5px;">${q} ${o}</div><div class="content-text ${isEditMode?'editable-active':''}" contenteditable="${isEditMode}" onblur="updateData(${i},'content',this)" style="width:100%; line-height:1.6; font-size:16px;">${item.content}</div></div>${item.q ? `<div style="text-align:right; margin-top:10px;"><button class="download-btn" onclick="downloadFullQuestion(${i}, event)">⏬下载全题音频</button></div>` : ''}`;
+        div.onclick = () => { if(!isEditMode) { audioPlayer.currentTime = item.time; audioPlayer.play(); } };
+        container.appendChild(div);
+    });
+}
+    function updateData(idx, field, el) { lyricsData[idx][field] = el.innerText.trim().replace('+新批注', ''); }
     async function saveToGithub() {
-        const token = localStorage.getItem('gh_token');
-        if (!token) return alert("请先点击 ⚙️ 设置 Token");
-        statusInfo.innerText = "正在同步云端...";
-
+        const token = localStorage.getItem('gh_token'); if (!token) return alert("请设置 Token");
         try {
-            const res = await fetch(`${API_URL}?t=${Date.now()}`);
+            const res = await fetch(`${API_URL}?t=${Date.now()}`, { headers: {'Authorization': `token ${token}`} });
             const files = await res.json();
             const matched = files.find(f => f.name.includes(currentFileName) && f.name.endsWith('.srt'));
-            if (!matched) throw new Error("云端未找到对应 SRT");
-
-            let srtOutput = "";
-            lyricsData.forEach((item, i) => {
-                const start = formatSrtTime(item.time);
-                const end = formatSrtTime(lyricsData[i+1]?.time || item.time + 3);
-                let text = "";
-                if(item.q) text += `(Q${item.q}) `;
-                if(item.opt && item.opt !== "") text += `[${item.opt}] `;
-                text += item.content;
-                srtOutput += `${i+1}\n${start} --> ${end}\n${text}\n\n`;
+            let srtStr = "";
+            lyricsData.forEach((it, i) => {
+                let txt = ""; if(it.q) txt += `(Q${it.q}) `; if(it.opt) txt += `[${it.opt}] `; txt += it.content;
+                srtStr += `${i+1}\n${formatSrtTime(it.time)} --> ${formatSrtTime(lyricsData[i+1]?.time || it.time+3)}\n${txt}\n\n`;
             });
-
-            const putRes = await fetch(matched.url, {
-                method: 'PUT',
-                headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    message: `Teacher updated notes for ${currentFileName}`,
-                    content: btoa(unescape(encodeURIComponent(srtOutput))),
-                    sha: matched.sha
-                })
-            });
-
-            if (putRes.ok) { alert("保存成功！云端已更新。"); statusInfo.innerText = "同步成功"; }
-            else throw new Error("权限不足或请求失败");
-
-        } catch (err) { alert(err.message); statusInfo.innerText = "同步失败"; }
+            await fetch(matched.url, { method: 'PUT', headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' }, body: JSON.stringify({ message: 'update', content: btoa(unescape(encodeURIComponent(srtStr))), sha: matched.sha }) });
+            alert("云端教案已同步！");
+        } catch (e) { alert("同步失败"); }
     }
 
-    function formatSrtTime(s) {
-        const h = Math.floor(s/3600), m = Math.floor((s%3600)/60), sec = Math.floor(s%60), ms = Math.floor((s%1)*1000);
-        return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(sec).padStart(2,'0')},${String(ms).padStart(3,'0')}`;
-    }
-
-    // --- 音频片段下载逻辑 ---
-    async function downloadFullQuestion(startIndex, event) {
-        event.stopPropagation();
-        if (!audioBuffer) return;
-        try {
-            const qRaw = lyricsData[startIndex].q.replace(/[\\/:*?"<>|]/g, "_"); 
-            const startTime = lyricsData[startIndex].time;
-            let endTime = audioBuffer.duration;
-            for (let j = startIndex + 1; j < lyricsData.length; j++) { if (lyricsData[j].q) { endTime = lyricsData[j].time; break; } }
-            const numFrames = Math.floor((endTime - startTime) * audioBuffer.sampleRate);
-            const newBuffer = audioCtx.createBuffer(audioBuffer.numberOfChannels, numFrames, audioBuffer.sampleRate);
-            for (let ch = 0; ch < audioBuffer.numberOfChannels; ch++) {
-                newBuffer.getChannelData(ch).set(audioBuffer.getChannelData(ch).slice(Math.floor(startTime*audioBuffer.sampleRate), Math.floor(endTime*audioBuffer.sampleRate)));
-            }
-            const a = document.createElement('a'); a.href = URL.createObjectURL(bufferToWav(newBuffer));
-            a.download = `${currentFileName} Q${qRaw}.wav`; a.click();
-        } catch (err) { alert("下载失败"); }
-    }
-
-    function bufferToWav(buffer) {
-        const channels = buffer.numberOfChannels, sampleRate = buffer.sampleRate;
-        const length = buffer.length * channels * 2 + 44; 
-        const view = new DataView(new ArrayBuffer(length));
-        let offset = 0;
-        const writeString = (s) => { for (let i = 0; i < s.length; i++) view.setUint8(offset++, s.charCodeAt(i)); };
-        writeString('RIFF'); view.setUint32(offset, length - 8, true); offset += 4;
-        writeString('WAVE'); writeString('fmt '); view.setUint32(offset, 16, true); offset += 4;
-        view.setUint16(offset, 1, true); offset += 2;
-        view.setUint16(offset, channels, true); offset += 2;
-        view.setUint32(offset, sampleRate, true); offset += 4;
-        view.setUint32(offset, sampleRate * channels * 2, true); offset += 4;
-        view.setUint16(offset, channels * 2, true); offset += 2;
-        view.setUint16(offset, 16, true); offset += 2;
-        writeString('data'); view.setUint32(offset, length - offset - 4, true); offset += 4;
-        for (let i = 0; i < buffer.length; i++) {
-            for (let ch = 0; ch < channels; ch++) {
-                let s = Math.max(-1, Math.min(1, buffer.getChannelData(ch)[i]));
-                view.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7FFF, true); offset += 2;
-            }
-        }
-        return new Blob([view], { type: 'audio/wav' });
-    }
-
-    // --- 界面交互逻辑 ---
-    function changeTime(sec) { audioPlayer.currentTime += sec; }
-    function setSpeed(rate, btn) { audioPlayer.playbackRate = rate; document.querySelectorAll('.speed-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); }
-    function toggleFold(id) { const p = document.getElementById(id); p.classList.toggle('collapsed'); if(!p.classList.contains('collapsed')) p.style.width = (id==='qNavPanel'?'180px':'40%'); }
-    
-    const initResizer = () => {
+    // 其余辅助函数
+    function updateLocalFilter(typeName, partValue) { localFilters[typeName] = partValue; renderTypeBrowser(); }
+    function setPartFilter(part, btn) { currentPartFilter = part; localFilters = {}; document.querySelectorAll('.part-btn').forEach(b => b.classList.remove('active')); btn.classList.add('active'); renderTypeBrowser(); }
+    function formatSrtTime(s) { const h = Math.floor(s/3600), m = Math.floor((s%3600)/60), sec = Math.floor(s%60), ms = Math.floor((s%1)*1000); return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}:${String(sec).padStart(2,'0')},${String(ms).padStart(3,'0')}`; }
+    function changeTime(s) { audioPlayer.currentTime += s; }
+    function setSpeed(r, b) { audioPlayer.playbackRate = r; document.querySelectorAll('.speed-btn').forEach(x => x.classList.remove('active')); b.classList.add('active'); }
+    function toggleFold(id) { document.getElementById(id).classList.toggle('collapsed'); }
+    function toggleSettings() { const s = document.getElementById('settingsBox'); s.style.display = s.style.display === 'block' ? 'none' : 'block'; }
+    function saveToken() { localStorage.setItem('gh_token', document.getElementById('ghToken').value); alert("Token Saved"); toggleSettings(); refreshLibrary(); }
+    function toggleEditMode() { isEditMode = !isEditMode; document.getElementById('editToggleBtn').innerText = isEditMode ? "🚫 关闭模式" : "✍️ 编辑模式"; document.getElementById('cloudSaveBtn').style.display = isEditMode ? "inline-block" : "none"; render(); }
+    function changeTheme(v) { document.body.className = v; }
+    const initDragResizer = () => {
         const res1 = document.getElementById('resizer1'), res2 = document.getElementById('resizer2');
         const qP = document.getElementById('qNavPanel'), pdfP = document.getElementById('pdfPanel');
         const overlay = document.getElementById('drag-overlay');
@@ -450,21 +816,64 @@ async function refreshLibrary() {
         startDrag(res1, qP, true); startDrag(res2, pdfP, false);
     };
 
+    async function downloadFullQuestion(startIndex, event) {
+        event.stopPropagation(); if (!audioBuffer) return;
+        const qRaw = (lyricsData[startIndex].q || startIndex).toString().replace(/[\\/:*?"<>|]/g, "_");
+        const startT = lyricsData[startIndex].time; let endT = audioBuffer.duration;
+        for (let j = startIndex + 1; j < lyricsData.length; j++) { if (lyricsData[j].q) { endT = lyricsData[j].time; break; } }
+        const numFrames = Math.floor((endT - startT) * audioBuffer.sampleRate);
+        const newBuf = audioCtx.createBuffer(audioBuffer.numberOfChannels, Math.max(1, numFrames), audioBuffer.sampleRate);
+        for (let ch = 0; ch < audioBuffer.numberOfChannels; ch++) { newBuf.getChannelData(ch).set(audioBuffer.getChannelData(ch).slice(Math.floor(startT*audioBuffer.sampleRate), Math.floor(endT*audioBuffer.sampleRate))); }
+        const a = document.createElement('a'); a.href = URL.createObjectURL(bufferToWav(newBuf));
+        a.download = `${currentFileName} Q${qRaw}.wav`; a.click();
+    }
+
+    function bufferToWav(buffer) {
+        const channels = buffer.numberOfChannels, length = buffer.length * channels * 2 + 44;
+        const view = new DataView(new ArrayBuffer(length));
+        let offset = 0; const writeStr = (s) => { for (let i = 0; i < s.length; i++) view.setUint8(offset++, s.charCodeAt(i)); };
+        writeStr('RIFF'); view.setUint32(offset, length - 8, true); offset += 4; writeStr('WAVE'); writeStr('fmt '); view.setUint32(offset, 16, true); offset += 4;
+        view.setUint16(offset, 1, true); offset += 2; view.setUint16(offset, channels, true); offset += 2;
+        view.setUint32(offset, buffer.sampleRate, true); offset += 4; view.setUint32(offset, buffer.sampleRate * channels * 2, true); offset += 4;
+        view.setUint16(offset, channels * 2, true); offset += 2; view.setUint16(offset, 16, true); offset += 2; writeStr('data'); view.setUint32(offset, length - offset - 4, true); offset += 4;
+        for (let i = 0; i < buffer.length; i++) { for (let ch = 0; ch < channels; ch++) { let s = Math.max(-1, Math.min(1, buffer.getChannelData(ch)[i])); view.setInt16(offset, s < 0 ? s * 0x8000 : s * 0x7FFF, true); offset += 2; } }
+        return new Blob([view], { type: 'audio/wav' });
+    }
+
+// --- 核心效果：负责实时监测音频进度、切换高亮并强制滚动 ---
     audioPlayer.ontimeupdate = () => {
+        // 安全检查：如果没有教案数据，不执行
+        if (!lyricsData || lyricsData.length === 0) return;
+
         const cur = audioPlayer.currentTime;
+        
         for (let i = 0; i < lyricsData.length; i++) {
+            // 算法：判断当前时间 cur 是否处于这一行(i)和下一行(i+1)的时间点之间
             if (cur >= lyricsData[i].time && (!lyricsData[i+1] || cur < lyricsData[i+1].time)) {
+                
                 const el = document.getElementById(`line-${i}`);
+                
+                // 只有当这一行还不是 active 状态时才执行，避免每一毫秒都重复刷新，导致页面卡顿
                 if (el && !el.classList.contains('active')) {
+                    
+                    // 1. 瞬间移除页面上所有行的高亮 (利用 CSS 处理过渡)
                     document.querySelectorAll('.line.active').forEach(x => x.classList.remove('active'));
-                    el.classList.add('active'); el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+                    // 2. 给找到的这一行穿上“高亮外衣”
+                    el.classList.add('active');
+
+                    // 3. 核心滚动：让这一行平滑滚动到屏幕容器的“正中央”
+                    el.scrollIntoView({ 
+                        behavior: 'smooth', 
+                        block: 'center' 
+                    });
                 }
-                break;
+                break; // 找到当前行后，立即跳出循环，节省性能
             }
         }
     };
 
-    window.onload = () => { refreshLibrary(); initResizer(); };
+    window.onload = () => { refreshLibrary(); initDragResizer(); };
 </script>
 </body>
 </html>
