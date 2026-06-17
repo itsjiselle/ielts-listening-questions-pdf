@@ -1,0 +1,112 @@
+1
+00:00:01,524 --> 00:00:12,750
+(Q11（单选）) Hi everyone, welcome to the Snow Centre. My name's Annie. I hope you enjoyed the bus trip from the airport - we've certainly got plenty of snow today! 大家好，欢迎来到雪地中心。我叫Annie。希望大家从机场坐巴士过来的路上玩得愉快。今天这里的积雪可是相当充足呢！
+
+2
+00:00:12,750 --> 00:00:21,527
+Well, you've come to New Zealand's premier snow and ski centre, and we've a whole load of activities for you during your week here. 这里是新西兰首屈一指的冰雪运动中心，在接下来的一周里，我们为大家安排了丰富多彩的活动。
+
+3
+00:00:21,527 --> 00:00:30,949
+[原词定位词 cross-country skiing] Most visitors come here for the <b><i><u>cross-country skiing,</u></i></b> where you're on fairly flat ground for most of the time, rather than going down steep mountain sides. 大多数游客来这里都是为了体验越野滑雪。这项运动大部分时间都在较为平坦的地面上进行，而不是从陡峭的山坡上滑下来。
+
+4
+00:00:30,949 --> 00:00:38,826
+[✅A：leave these and go off your own = get away 解释] There are marked trails, but you can also leave these and go off on your own and that's an experience not to be missed. 这里设有标记清晰的滑雪路线，不过你也可以离开既定路线，自由探索，这种体验绝对不容错过。
+
+5
+00:00:38,826 --> 00:00:51,209
+[❌C， 偷换概念，按你自己速度来 不等于 slow speed。    ❌B，否定原文， you can enjoy ...] You can <span style="background-color: rgb(255, 205, 210);"><u><b>go at your own speed</b></u></span> - it's great aerobic exercise if you really push yourself,&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ｜&nbsp; &nbsp; or if you prefer<b style="background-color: rgb(255, 205, 210);"> you can </b>just glide gently along and <span style="background-color: rgb(187, 222, 251);"><b>enjoy the beautiful scenery. </b></span>你可以按照自己的节奏前进。如果认真挑战自己，这会是一项很棒的有氧运动；当然，你也可以悠闲地滑行，一边欣赏沿途美丽的风景。
+
+6
+00:00:51,209 --> 00:00:54,965
+(Q12) [题干定位词 dog-sled trip] This afternoon, you'll be going on a dog-sled trip. 今天下午，大家将体验狗拉雪橇之旅。
+
+7
+00:00:54,965 --> 00:01:00,426
+[下文them，代词指代 本句提过的dogs] You may have seen<span style="background-color: rgb(255, 241, 118);"> <b>our dogs </b></span>on TV recently racing in the winter sled festival. 最近你们可能在电视上见过我们的雪橇犬，它们参加了冬季雪橇节的比赛。
+
+8
+00:01:00,426 --> 00:01:08,660
+[✅B 解释： if you want, you can have ... team = anyone can。 ➕ ❗️ 代词指代！！them - 上文提到过的dogs] If you want, you can have your own team for the afternoon and learn how to drive <span style="background-color: rgb(255, 241, 118);"><b>them</b></span>, following behind our leader on the trail. 如果愿意的话，下午你可以拥有属于自己的雪橇犬队，并学习如何驾驭它们，跟随我们的领队沿着路线前进。
+
+9
+00:01:08,660 --> 00:01:14,590
+[✅A/C 未提及] Or if you'd prefer, you can just sit back in the sled and enjoy the ride as a passenger. 当然，如果你更喜欢轻松一点，也可以坐在雪橇上当乘客，尽情享受旅程。
+
+10
+00:01:14,590 --> 00:01:19,833
+(Q13) [题干定位词 原词 team relay event] At the weekend, we have the <b><i><u>team relay event,</u></i></b> and you're all welcome to join in. 周末我们将举行团队接力赛，欢迎大家踊跃参加。
+
+11
+00:01:19,833 --> 00:01:25,527
+[❌C， teacher会参加，没说is led by teacher - 偷换概念] We have a local school coming along, and a lot of the<span style="background-color: rgb(255, 205, 210);"><b><strike> teachers </strike></b></span>are <b>taking part </b>too. 届时当地的一所学校也会参加，而且许多老师也会亲自上场。
+
+12
+00:01:25,527 --> 00:01:32,338
+[✅A everyone = all， 近义词， 加语境 participation 是 main focus] Participation <b style="background-color: rgb(187, 222, 251);">rather than </b>winning is the main focus, and there's <b><u>a medal for everyone </u></b>who takes part. 这项活动重在参与而非竞争，而且每位参赛者都能获得一枚奖牌。
+
+13
+00:01:32,338 --> 00:01:39,510
+[❌B，提到4，但是是4圈 4 laps，] Participants are in teams of two to four, and each team must complete <b style="background-color: rgb(255, 205, 210);"><strike>four laps of the course</strike></b>. 参赛队伍由2至4人组成，每支队伍都需要完成赛道四圈。
+
+14
+00:01:39,510 --> 00:01:47,707
+(Q14) [定位词 snow-shoe] For your final expedition, you'll head off to Mount Frenner wearing a pair of special <b><i><u>snow shoes </u></i></b>which allow you to walk on top of the snow. 在最后一项探险活动中，大家将前往Frenner山，并穿上特制雪鞋，让你能够直接在积雪表面行走。
+
+15
+00:01:47,707 --> 00:01:55,204
+[❌A、 mine出现了，但否定原文 - though + few] This is an area where miners once searched for gold, though there are very few traces of their work left now. 这里曾经是矿工淘金的地区，不过如今已经很难看到他们留下的痕迹了。
+
+16
+00:01:55,204 --> 00:02:00,421
+[❌B flowers出现，但没提unusual的事儿，偷换概念] When the snow melts in summer, the mountain slopes are carpeted in flowers and plants. 到了夏天，积雪融化后，漫山遍野都会铺满鲜花和各种植物。
+
+17
+00:02:00,421 --> 00:02:08,734
+[✅C， summit顶峰= top of a mountain 近义词] It's a long ascent（/əˈsent/&nbsp; n 上坡路）, though not too steep, and walkers generally take a couple of days to <b><u>get to the summit </u></b>and return. 虽然上山的路程较长，但坡度并不算陡。通常徒步者往返山顶需要两天左右的时间。
+
+18
+00:02:08,734 --> 00:02:12,353
+(Q15) [题干定位词 spend the night = accommodation] You'll spend the night <b><u><i>in our hut</i></u></b> half-way up the<b><u><i> mountain.</i></u></b> 大家将在半山腰的小木屋里过夜。
+
+19
+00:02:12,353 --> 00:02:15,981
+[题干动词 include 出现] That's included in your package for the stay. 住宿费用已经包含在你们的活动套餐中了。
+
+20
+00:02:15,981 --> 00:02:20,047
+[✅A drinking water= water for drinking] It's got cooking facilities, firewood and water for drinking. 小木屋内配备了烹饪设施、柴火以及饮用水。
+
+21
+00:02:20,047 --> 00:02:25,752
+For washing, we recommend you use melted snow, though, to conserve supplies. 不过为了节约物资，我们建议大家洗漱时使用融化后的雪水。
+
+22
+00:02:25,752 --> 00:02:31,434
+[❌B关键词luggage出现，但要收费] We can take your luggage up on our snowmobile for you <span style="background-color: rgb(255, 205, 210);"><u>for just ten dollars a person.</u></span> 我们可以用雪地摩托帮大家把行李运上山，每人只需10美元。
+
+23
+00:02:31,434 --> 00:02:38,815
+[❌仅有cooking facilities， meal得自己带] The hut has <span style="background-color: rgb(255, 205, 210);"><b>cooking facilities </b></span>so you can make a hot meal in the evening and morning, but you need to take your own food. 木屋内有<span style="background-color: rgb(255, 205, 210);">烹饪设备</span>，方便大家早晚做热食，不过食物需要自行携带。
+
+24
+00:02:38,815 --> 00:02:42,417
+(Q16) The <b><u style="background-color: rgb(200, 230, 201);"><i>weather </i></u></b>on Mount Frenner can be very <i style="background-color: rgb(200, 230, 201);"><b><u>stormy.</u></b></i> Frenner山的天气有时会非常恶劣。
+
+25
+00:02:42,417 --> 00:02:47,484
+[stay in = wait ✅B] In that case, stay in the hut - generally the storms don't last long. 如果遇到暴风雪天气，请待在木屋里。一般来说，风暴持续时间不会太长。
+
+26
+00:02:47,484 --> 00:02:54,962
+[❌A， 未提及， 关于bus 只是说也不会运行而已。] Don't stress about getting back here to the centre in time to catch the airport bus - they'll probably not be running anyway. 也不用担心赶不上返回机场的巴士，因为那种天气下巴士多半也不会运行。
+
+27
+00:02:54,962 --> 00:03:03,180
+[❌C，否定， only use ... real emergency] We do have an emergency locator beacon in the hut but only use that if it's a real emergency, like if someone's ill or injured. 木屋里配备了紧急定位信标，但只有在真正的紧急情况下才能使用，比如有人生病或受伤时。
+
+28
+00:03:03,180 --> 00:03:05,680
+(Q17（配对）) Now, let me tell you something about the different ski trails you can follow during your stay here. 接下来，我给大家介绍一下入住期间可以体验的几条滑雪路线。
+
