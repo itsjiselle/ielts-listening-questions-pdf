@@ -1,0 +1,212 @@
+1
+00:00:02,408 --> 00:00:05,844
+(Qexample) OFFICER: Good morning. What can I do for you? 警官：早上好，请问有什么可以帮您的吗？
+
+2
+00:00:05,844 --> 00:00:11,817
+LOUISE: I want to report a theft. I had some things stolen out of my bag yesterday. Louise：我想报案。我包里的一些东西昨天被偷了。
+
+3
+00:00:11,817 --> 00:00:19,864
+OFFICER: I'm sorry to hear that. Right, so I'll need to take a few details. Can I start with your name? 警官：很遗憾听到这件事。我需要先记录一些基本信息。请先告诉我您的姓名好吗？
+
+4
+00:00:19,864 --> 00:00:22,746
+LOUISE: Louise Taylor. Louise：Louise Taylor。
+
+5
+00:00:22,746 --> 00:00:27,297
+(Q1) [resident = nationality 解释] OFFICER: OK, thank you. And are you resident in the UK? 警官：好的，谢谢。请问您是英国居民吗？
+
+6
+00:00:27,297 --> 00:00:32,796
+[答案词 Canadian] LOUISE: No, I'm actually Canadian, though my mother was British. Louise：不是，我实际上是加拿大人，不过我母亲是英国人。
+
+7
+00:00:32,796 --> 00:00:35,081
+OFFICER: And your date of birth? 警官：您的出生日期是？
+
+8
+00:00:35,081 --> 00:00:39,442
+LOUISE: December 14th, 1977. Louise：1977年12月14日。
+
+9
+00:00:39,442 --> 00:00:42,944
+(Q2) OFFICER: So you're just <b><u>visiting </u></b>this country? 警官：所以您只是来英国访问的吗？
+
+10
+00:00:42,944 --> 00:00:52,777
+LOUISE: That's right. I come over most summers on business. I'm an interior designer and I come over to buy <b style="background-color: rgb(187, 222, 251);"><u>old furniture</u></b>, antiques you know. Louise：是的。我几乎每年夏天都会因工作来这里。我是一名室内设计师，来这里主要是采购旧家具和古董之类的东西。
+
+11
+00:00:52,777 --> 00:01:02,764
+There are some really lovely things around here, but you need to get out to the small towns. I've had a really good trip this year, until this happened. 这里确实有很多很棒的东西，不过通常得去一些小镇才能找到。今年这趟旅行原本一直都很顺利，直到发生了这件事。
+
+12
+00:01:02,764 --> 00:01:06,894
+(Q3) OFFICER: OK. So you've been here quite a while? 警官：好的。所以您已经在这里待了挺长时间了？
+
+13
+00:01:06,894 --> 00:01:11,933
+LOUISE: Yes, I'm here for two months. I go back next week. Louise：是的，我会在这里待两个月，下周就回去了。
+
+14
+00:01:11,933 --> 00:01:15,977
+[定位词： stay = address 解释， now=current 近义词] OFFICER: So may I ask where you're staying now? 警官：请问您目前住在哪里呢？
+
+15
+00:01:15,977 --> 00:01:22,878
+[at present = current] LOUISE: Well at present I've got a place at<b style="background-color: rgb(187, 222, 251);"><u> Park </u></b>Apartments, that's on King Street. Louise：目前我住在King Street的Park Apartments公寓。
+
+16
+00:01:22,878 --> 00:01:32,677
+[干扰项] I was staying at the<span style="background-color: rgb(255, 205, 210);"><strike> Riverside Apartments </strike></span>on the same street, but the apartment there was only available for six weeks so I had to find another one. 之前我住在同一条街上的Riverside Apartments，不过那边的公寓只租给我六周，所以我不得不另外找地方住。
+
+17
+00:01:32,677 --> 00:01:36,063
+OFFICER: OK. And the apartment number? 警官：好的。公寓房号是多少？
+
+18
+00:01:36,063 --> 00:01:38,313
+LOUISE: Fifteen. Louise：15号。
+
+19
+00:01:38,313 --> 00:01:40,024
+OFFICER: Right. 警官：好的。
+
+20
+00:01:40,024 --> 00:01:48,713
+(Q4) OFFICER: Now, I need to take some<b> details of the theft</b>. So you said you had some things stolen out of your bag? 警官：接下来我需要了解一些失窃情况。您刚才说是包里的东西被偷了，对吗？
+
+21
+00:01:48,713 --> 00:01:50,965
+LOUISE: That's right. Louise：没错。
+
+22
+00:01:50,965 --> 00:01:57,159
+OFFICER: And were you actually carrying the bag when the theft took place? 警官：失窃发生时，包是一直背在您身上的吗？
+
+23
+00:01:57,159 --> 00:02:09,836
+Yes. I really can't understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my<b> wallet </b>wasn't there. Louise：是的。我真的想不通。我一直背着背包，后来进了一家超市买东西，打开包时却发现钱包不见了。
+
+24
+00:02:09,836 --> 00:02:13,502
+OFFICER: And what did your<span style="background-color: rgb(200, 230, 201);"><b><u> wallet </u></b></span>have in it? 警官：钱包里都有什么东西呢？
+
+25
+00:02:13,502 --> 00:02:23,954
+LOUISE: Well, fortunately I don't keep my credit cards in that wallet - I keep them with my passport in an inside compartment in my backpack. Louise：幸运的是，我没有把信用卡放在钱包里。我把信用卡和护照一起放在背包内部的夹层里。
+
+26
+00:02:23,954 --> 00:02:31,677
+But there was quite a bit of cash there…about ￡<span style="background-color: rgb(187, 222, 251);"><b><u>250 sterling,</u></b></span> I should think. 不过钱包里有不少现金，我想大概有250英镑左右。
+
+27
+00:02:31,677 --> 00:02:42,670
+I withdrew <span style="background-color: rgb(255, 205, 210);"><b><strike>￡300 </strike></b></span>from my account yesterday, but I did a bit of shopping, so I must have already spent about<b style="background-color: rgb(255, 205, 210);"><strike> ￡50 </strike></b>of that. 我昨天从账户里取了300英镑，不过后来买了点东西，所以应该已经花掉了大约50英镑。
+
+28
+00:02:42,670 --> 00:02:45,186
+OFFICER: OK. 警官：好的。
+
+29
+00:02:45,186 --> 00:02:54,304
+(Q5) LOUISE: At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well. Louise：一开始我还以为是把钱包落在公寓里了，但后来发现手机也不见了。
+
+30
+00:02:54,304 --> 00:03:04,716
+It was only a week old, and that's when I realised I'd been robbed. Anyway at least they didn't take the keys to my rental car. 那部手机才买了一周。那时候我才意识到自己被偷了。不过至少他们没有拿走我的租车钥匙。
+
+31
+00:03:04,716 --> 00:03:09,822
+(Q6) [yesterday 表示日期 = date] OFFICER: Yes. So you say the theft occurred yesterday? 警官：明白了。所以您是说失窃发生在昨天？
+
+32
+00:03:09,822 --> 00:03:11,866
+LOUISE: Yes. Louise：是的。
+
+33
+00:03:11,866 --> 00:03:15,497
+OFFICER: So that was <span style="background-color: rgb(187, 222, 251);"><b><u>September the tenth.</u></b></span> 警官：那么就是9月10日。
+
+34
+00:03:15,497 --> 00:03:22,800
+(Q7) [where= location] And do you have any idea at all of <span style="background-color: rgb(200, 230, 201);"><b>where </b></span>or when the things might possibly have been stolen? 您有没有任何线索，知道东西大概是在什么时间、什么地点被偷的？
+
+35
+00:03:22,800 --> 00:03:31,596
+LOUISE: Well at first I couldn't believe it because the bag had been on my back ever since I left the apartment after lunch. Louise：起初我根本不敢相信，因为午饭后离开公寓开始，背包就一直背在我身上。
+
+36
+00:03:31,596 --> 00:03:39,478
+It's just a small backpack, but I generally use it when I'm travelling because it seems safer than a handbag. 那只是个小背包，但我旅行时通常都用它，因为感觉比手提包更安全。
+
+37
+00:03:39,478 --> 00:03:46,686
+[Q7答案 ， 但 4pm后面才出现【答案前置】] Anyway, I met up with a friend, and we spent a couple of hours <b style="background-color: rgb(187, 222, 251);"><u>in the museum</u></b>. 后来我和一个朋友碰面，在博物馆待了几个小时。
+
+38
+00:03:46,686 --> 00:03:52,004
+But I do remember that as we were leaving there, at about 4 o'clock,不过我记得很清楚，大约下午4点我们离开博物馆时，
+
+39
+00:03:52,004 --> 00:03:57,701
+(Q8) <b>a group of young boys</b> ran up to us, and they were really crowding round us, 一群小男孩突然跑到我们身边，把我们团团围住，
+
+40
+00:03:57,701 --> 00:04:04,585
+and they were asking us what<b style="background-color: rgb(187, 222, 251);"><u> time </u></b>it was, then all of a sudden they ran off. 还问我们几点了。然后他们突然一下子全跑掉了。
+
+41
+00:04:04,585 --> 00:04:07,883
+(Q9) OFFICER: Can you remember anything about them? 警官：您还记得他们有什么特征吗？
+
+42
+00:04:07,883 --> 00:04:19,752
+LOUISE: The one who did most of the talking was wearing a T-shirt with a picture of something…let's see… a tiger. Louise：那个说话最多的男孩穿着一件印有图案的T恤。让我想想……是一只老虎。
+
+43
+00:04:19,752 --> 00:04:23,865
+OFFICER: Right. Any idea of how old he might have been? 警官：好的。您觉得他大概多大年纪？
+
+44
+00:04:23,865 --> 00:04:27,365
+LOUISE: Around twelve years old? Louise：大概十二岁左右吧。
+
+45
+00:04:27,365 --> 00:04:32,230
+OFFICER: And can you remember anything else about his appearance? 警官：关于他的外貌，您还记得其他细节吗？
+
+46
+00:04:32,230 --> 00:04:37,127
+LOUISE: Not much. He was quite thin… Louise：记得不多了。他挺瘦的……
+
+47
+00:04:37,127 --> 00:04:39,480
+OFFICER: Colour of hair? 警官：头发是什么颜色？
+
+48
+00:04:39,480 --> 00:04:45,947
+LOUISE: I do remember that - he was blond. All the others were dark-haired. Louise：这个我记得。他是金发，其他人都是深色头发。
+
+49
+00:04:45,947 --> 00:04:49,478
+OFFICER: And any details of the others? 警官：那其他几个孩子有什么特征吗？
+
+50
+00:04:49,478 --> 00:04:54,947
+LOUISE: Not really. They came and went so quickly. Louise：没有什么印象。他们来得快，走得也快。
+
+51
+00:04:54,947 --> 00:05:05,067
+(Q10) OFFICER: Right. So what I'm going to do now is give you a crime reference number so you can contact your insurance company. 警官：好的。接下来我会给您一个案件编号，方便您联系保险公司办理理赔。
+
+52
+00:05:05,067 --> 00:05:15,504
+So this is ten digits: 87954 82361 编号一共十位：87954 82361。
+
+53
+00:05:15,504 --> 00:05:18,004
+LOUISE: Thank you. So should I … Louise：谢谢。那么我是不是应该……
+
