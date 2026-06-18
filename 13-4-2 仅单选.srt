@@ -12,7 +12,7 @@ Well, you've come to New Zealand's premier snow and ski centre, and we've a whol
 
 4
 00:00:30,949 --> 00:00:38,826
-[✅A：leave these and go off your own = get away 解释] There are marked trails, but you can also leave these and go off on your own and that's an experience not to be missed. 这里设有标记清晰的滑雪路线，不过你也可以离开既定路线，自由探索，这种体验绝对不容错过。
+[✅A：leave these and go off your own = get away 解释 ➕ 态度词recommend回应（not to be missed）] There are marked trails, but you can also <span style="background-color: rgb(200, 230, 201);"><b>leave these and go off on your own</b></span> and that's an experience <span style="background-color: rgb(225, 190, 231);"><b><u>not to be missed.</u></b></span> 这里设有标记清晰的滑雪路线，不过你也可以离开既定路线，自由探索，这种体验绝对不容错过。
 
 5
 00:00:38,826 --> 00:00:51,209
