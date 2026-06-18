@@ -1,0 +1,72 @@
+1
+00:00:03,231 --> 00:00:13,751
+(Q11（单选）) Good morning, my name is Erica Matthews and I'm the owner of Matthews Island Holidays, a company set up by my parents. 大家早上好。我叫Erica Matthews，是Matthews Island Holidays旅游公司的负责人。这家公司是由我的父母创办的。
+
+2
+00:00:13,751 --> 00:00:20,522
+Thank you for coming to this presentation, in which I hope to interest you in what we have to offer. 感谢大家前来参加这场介绍会，希望通过今天的分享，让大家对我们的旅游产品产生兴趣。
+
+3
+00:00:20,522 --> 00:00:32,108
+[定位词一直只有一个company，注意力要集中； ❌C，否定原文， don't aim to 竞争 on The number of ...] We're a small family-run <b style="background-color: rgb(200, 230, 201);"><i><u>company,</u></i></b> and we believe in the importance of the personal touch, so we <span style="background-color: rgb(255, 205, 210);"><b>don't aim to compete with other companies on the number of customers. </b></span>我们是一家小型家族企业，非常重视个性化服务，因此我们并不追求在客户数量上与其他公司竞争。
+
+4
+00:00:32,108 --> 00:00:48,339
+[✅A， man years ... more than ...; ❌B 否定原文， a small number of 目的地] What we do is build on our <span style="background-color: rgb(200, 230, 201);"><b>many years'</b></span> experience<b style="background-color: rgb(200, 230, 201);"> more than almost </b>any other rail holiday company to ensure we provide perfect holidays and <span style="background-color: rgb(255, 205, 210);"><u>a small number of destinations </u></span>which we've got to know extremely well. 凭借多年积累的经验，我们比大多数铁路旅游公司更专注于少数几个目的地，并力求为客户打造最优质的旅行体验。
+
+5
+00:00:48,339 --> 00:00:52,023
+(Q12) [专有名词定位] I'll start with our 6-day <b>Isle of Man</b> holiday. 接下来我先为大家介绍我们的六天马恩岛之旅。
+
+6
+00:00:52,023 --> 00:01:03,159
+This is a fascinating island in the Irish sea, with Wales to the south, England to the east, Scotland to the north, and Northern Ireland to the west. 马恩岛位于爱尔兰海上，是一个非常迷人的岛屿。它南面是威尔士，东面是英格兰，北面是苏格兰，西面则是北爱尔兰。
+
+7
+00:01:03,159 --> 00:01:11,458
+[✅B， start 标志可能有【顺序】出现，manager定位词出现—— - then] Our holiday starts <b>in Heysham</b>, where your<span style="background-color: rgb(200, 230, 201);"><b><i><u> tour manager </u></i></b></span>will meet you,<b> then</b> you'll travel by ferry to the Isle of Man. 我们的旅程从Heysham开始，届时领队会在那里与大家会合，然后一起乘坐渡轮前往马恩岛。
+
+8
+00:01:11,458 --> 00:01:20,221
+[❌C/A， 都提到，但偷换概念，题目问的是能见到tour manager的] <span style="background-color: rgb(255, 205, 210);"><u>Some people prefer to fly from Luton </u></span>instead and another popular option is to <span style="background-color: rgb(255, 205, 210);"><u>go by train to Liverpool</u></span> and take a ferry from there. 有些游客更喜欢从卢顿乘飞机出发；另一种热门选择则是先乘火车前往利物浦，再从那里搭乘渡轮。
+
+9
+00:01:20,221 --> 00:01:30,989
+(Q13) [定位词price ➕    covers = included  ➕ lunch定位词 on the 3 days ✅A] You have <span style="background-color: rgb(255, 205, 210);"><strike><b>5 nights i</b></strike></span>n the hotel and <span style="background-color: rgb(200, 230, 201);"><b><u><i>the price </i></u></b></span><b><i>covers </i></b>5 breakfast and dinners and<b style="background-color: rgb(200, 230, 201);"><u> lunch on the 3 days </u></b>when there are organized trips. 行程包含五晚酒店住宿，价格还包括五顿早餐、五顿晚餐，以及三天团队活动期间的午餐。
+
+10
+00:01:30,989 --> 00:01:37,048
+[❌four， five都是干扰项， 4说的是第4天自由活动， 5说的是 一共5晚] <span style="background-color: rgb(255, 205, 210);"><b><strike>Day 4 </strike></b></span>is free and most people have lunch in a cafe or restaurant in Douglas. 第四天为自由活动时间，大多数游客会选择在Douglas的咖啡馆或餐厅享用午餐。
+
+11
+00:01:37,048 --> 00:01:46,469
+The price of the holiday includes the ferry to the Isle of Man, all travel on the island, the hotel and the meals I've mentioned. 团费包含往返马恩岛的渡轮费用、岛上所有交通费用、酒店住宿以及刚才提到的餐饮安排。
+
+12
+00:01:46,469 --> 00:01:51,978
+(Q14) Incidentally, we tried to make booking our holidays as simple and fair as possible. 顺便提一下，我们一直努力让预订流程尽可能简单且公平。
+
+13
+00:01:51,978 --> 00:01:59,965
+[定位词 画的是 pay extra（含义上表示价格）， 原文出现price。 ❌B，否定] So, unlike with many companies,<span style="background-color: rgb(200, 230, 201);"><b> the price </b></span><span style="background-color: rgb(255, 205, 210);"><strike style=""><b>is the same </b></strike></span>whether you book six months in advance or at the last minute. 因此，与许多旅游公司不同，无论你提前六个月预订还是临近出发时才预订，价格都完全一样。
+
+14
+00:01:59,965 --> 00:02:03,746
+[supplement 也是表示额外费用，专注等答案句出现。] And there's no <b>supplement</b> for single rooms in hotels. 此外，单人入住酒店也无需支付额外费用。（单词📒：supplement (旅行或住宾馆等所付的) 额外费用）
+
+15
+00:02:03,746 --> 00:02:09,199
+[✅C， change the start date = transfer to another date， change=transfer] If you make a booking, then need to <span style="background-color: rgb(225, 190, 231);"><b>change the start date</b></span>, for example because of illness. 如果您已经预订，但后来因为生病等原因需要更改出发日期，
+
+16
+00:02:09,199 --> 00:02:15,829
+[for ... fee = pay extra] You're welcome to change to an alternative date to a different tour<span style="background-color: rgb(225, 190, 231);"><b> for a small administrative fee. </b></span>只需支付少量手续费，就可以改期或改报其他线路。
+
+17
+00:02:15,829 --> 00:02:19,812
+(Q15（表格填空 table）) Okay, so what does the holiday consist of? 接下来让我为大家介绍具体行程安排。
+
+18
+00:02:19,812 --> 00:02:22,312
+Well on Day 1, you'll arrive in time for a short introduction by your tour manager, followed by dinner in the hotel. 第一天，大家抵达后将参加领队组织的简短说明会，随后在酒店享用晚餐。
+
