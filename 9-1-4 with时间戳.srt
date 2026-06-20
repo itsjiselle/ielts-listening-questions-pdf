@@ -1,0 +1,116 @@
+1
+00:00:01,396 --> 00:00:21,105
+(Q31) Good afternoon everyone. Well, with some of you about to go out on field work it's timely that in this afternoon's session I'll be sharing some ideas about the reasons why groups of whales and dolphins sometimes swim ashore from the sea right onto the beach and, most often, die in what are known as 'mass strandings'. 大家下午好。由于你们当中的一些人即将开展实地考察，因此今天下午这节课正好可以和大家分享一些相关观点：关于为什么成群的鲸鱼和海豚有时会从海里游到岸边，并最终死于所谓的“集体搁浅”现象。
+
+2
+00:00:21,105 --> 00:00:33,574
+Unfortunately, this type of event is a frequent occurrence in some of the locations that you'll be travelling to, where sometimes the <b><u>tide </u></b>goes out suddenly, confusing the animals. 遗憾的是，这类事件在你们即将前往的一些地区经常发生。在这些地区，潮水有时会突然退去，从而使这些动物迷失方向。
+
+3
+00:00:33,574 --> 00:00:38,538
+(Q32) However, there are many other theories about the causes of mass strandings. 不过，关于集体搁浅的成因，还有许多其他理论。
+
+4
+00:00:38,538 --> 00:00:42,994
+[定位词parasite 小标题] The first is that the behaviour is linked to parasites. 第一种理论认为，这种行为与寄生虫有关。
+
+5
+00:00:42,994 --> 00:00:48,322
+It's often found that stranded animals were infested with large numbers of parasites. 研究人员经常发现，搁浅动物体内寄生着大量寄生虫。
+
+6
+00:00:48,322 --> 00:00:54,123
+For instance, a type of worm is commonly found in the ears of dead whales. 例如，人们经常在死亡鲸鱼的耳朵里发现一种蠕虫。
+
+7
+00:00:54,123 --> 00:01:02,969
+[32答案句] Since marine animals rely heavily on their hearing to navigate, this type of infestation has the potential to be very harmful! 由于海洋动物严重依赖听觉进行导航，因此这种寄生虫感染很可能造成严重危害。
+
+8
+00:01:02,969 --> 00:01:08,056
+(Q33) A<span style="background-color: rgb(187, 222, 251);">nother theory</span> is related to toxins, or poisons. 另一种理论与毒素有关。
+
+9
+00:01:08,056 --> 00:01:12,968
+These have also been found to contribute to the death of many marine animals. 研究发现，这些毒素也会导致大量海洋动物死亡。
+
+10
+00:01:12,968 --> 00:01:19,618
+[33答案句] Many toxins, as I'm sure you're aware, originate from <u>plants, or animals. </u>正如大家所知道的那样，许多毒素来源于植物或动物。
+
+11
+00:01:19,618 --> 00:01:31,632
+(Q34) The whale ingests these toxins in its normal feeding behaviour but whether these poisons directly or indirectly lead to stranding and death, seems to depend upon the toxin involved. 鲸鱼会在正常觅食过程中摄入这些毒素。但这些毒素究竟是直接还是间接导致搁浅和死亡，似乎取决于毒素本身的种类。
+
+12
+00:01:31,632 --> 00:01:48,474
+In 1988, for example, fourteen humpback whales examined after stranding along the beaches of Cape Cod were found to have been poisoned after eating tuna that contained saxitoxin, the same toxin that can be fatal in humans. 例如，1988年，在科德角海岸搁浅后接受检查的14头座头鲸，被发现是因为食用了含有麻痹性贝类毒素（saxitoxin）的金枪鱼而中毒，而这种毒素对人类同样可能致命。
+
+13
+00:01:48,474 --> 00:01:59,355
+Alternatively, it has also been suggested that some animals strand accidentally by following their prey ashore in the confusion of the chase. 另外，也有人认为，一些动物是在追捕猎物时，由于过于专注而误跟猎物游上岸，最终导致搁浅。
+
+14
+00:01:59,355 --> 00:02:06,844
+In 1995 David Thurston monitored pilot whales that beached after following squid ashore. 1995年，David Thurston曾追踪观察到一些领航鲸在追逐鱿鱼上岸后发生搁浅。
+
+15
+00:02:06,844 --> 00:02:19,239
+[34 答案句] However, this idea does not seem to hold true for the majority of mass strandings because examination of the animals' stomach contents reveal that most had not been feeding as they stranded. 然而，这种解释似乎并不适用于大多数集体搁浅事件，因为对动物胃内容物的检查表明，大多数动物在搁浅前并没有进食。
+
+16
+00:02:19,239 --> 00:02:24,324
+(Q35) There are also some new theories which link strandings to humans. 还有一些较新的理论认为，搁浅现象与人类活动有关。
+
+17
+00:02:24,324 --> 00:02:29,742
+A growing concern is that loud noises in the ocean cause strandings. 越来越多的人担心，海洋中的巨大噪音会导致搁浅事件发生。
+
+18
+00:02:29,742 --> 00:02:39,720
+[35答案句，答案前置] Noises such as those caused by military exercises are of particular concern and have been pinpointed as the cause of some strandings of late. 尤其令人担忧的是军事演习产生的噪音，近来已有一些搁浅事件被明确认定与此有关。
+
+19
+00:02:39,720 --> 00:02:49,665
+(Q36) One of these, a mass stranding of whales in 2000 in the Bahamas coincided closely with experiments using a new submarine detection system. 其中一个案例是2000年巴哈马群岛发生的大规模鲸鱼搁浅事件，其发生时间与一种新型潜艇探测系统的测试高度吻合。
+
+20
+00:02:49,665 --> 00:02:55,602
+There were several factors that made this stranding stand out as different from previous strandings. 这次搁浅事件有几个特点，使其与以往案例明显不同。
+
+21
+00:02:55,602 --> 00:03:03,397
+[36 答案句] This led researchers to look for a new cause. For one, all the stranded animals were healthy. 这促使研究人员开始寻找新的原因。首先，所有搁浅动物在事发前都十分健康。
+
+22
+00:03:03,397 --> 00:03:14,278
+(Q37) In addition, the animals were spread out along 38 kilometres of coast, whereas it's more common for the animals to be found in a group when mass strandings occur. 此外，这些动物分散在长达38公里的海岸线上，而通常情况下，集体搁浅的动物往往会集中在同一区域。
+
+23
+00:03:14,278 --> 00:03:28,423
+(Q38) A final theory is related to group behaviour, and suggests that sea mammals cannot distinguish between sick and healthy leaders and will follow sick leaders, even to an inevitable death. 最后一种理论与群体行为有关。该理论认为，海洋哺乳动物无法分辨领头个体是否患病，因此它们会跟随生病的领头者，哪怕最终走向不可避免的死亡。
+
+24
+00:03:28,423 --> 00:03:39,061
+[38 答案句] This is a particularly interesting theory since the whales that are thought to be most social - the toothed whales - are the group that strand the most frequently. 这个理论尤其有趣，因为被认为社会性最强的鲸类，即齿鲸类（toothed whales），恰恰也是最容易发生集体搁浅的一类鲸鱼。
+
+25
+00:03:39,061 --> 00:03:45,211
+(Q39) The theory is also supported by evidence from a dolphin stranding in 1994. 这一理论还得到了1994年一起海豚搁浅事件的支持。
+
+26
+00:03:45,211 --> 00:03:53,394
+[39答案句，other than = only] Examination of the dead animals revealed that apart from the leader, all the others had been healthy at the time of their death. 检查结果显示，除了领头个体之外，其余海豚在死亡时都十分健康。
+
+27
+00:03:53,394 --> 00:04:04,225
+(Q40) Without one consistent theory however it is very hard for us to do anything about this phenomenon except to assist animals where and when we can. 然而，在缺乏统一解释理论的情况下，我们几乎无法有效应对这一现象，只能在条件允许的时候尽力救助这些动物。
+
+28
+00:04:04,225 --> 00:04:13,594
+Stranding networks have been established around the world to aid in rescuing animals and collecting samples from those that could not be helped. 世界各地已经建立了搁浅救援网络，用于救助搁浅动物，并从那些未能获救的个体身上采集样本。
+
+29
+00:04:13,594 --> 00:04:16,094
+I recommend John Connor's Marine Mammals Ashore as an excellent starting point if you're interested in finding out more about these networks, or establishing one yourself. 如果你们有兴趣进一步了解这些救援网络，或者希望自行建立类似组织，那么John Connor所著的《Marine Mammals Ashore》会是一个非常好的入门读物。
+
