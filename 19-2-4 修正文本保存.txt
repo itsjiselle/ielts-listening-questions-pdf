@@ -1,0 +1,37 @@
+For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals. 在我的无脊椎动物研究项目中，我选择了研究缓步动物（tardigrades）。它们是微观生物，更准确地说，是接近微观大小的动物。（near-microscopic 不等于完全看不见，大型种类肉眼勉强可见）
+There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada. 目前已知的这类微小动物有一千多个物种，它们属于缓步动物门（Phylum Tardigrada）。
+Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length. 大多数缓步动物体长在0.05毫米到1毫米之间，不过最大的种类可以长到1.2毫米。
+They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move. 它们有时也被称为**“水熊虫（water bears）”**：之所以叫“水”，是因为它们最适宜生活在水环境中；之所以叫“熊”，则是因为它们的移动方式看起来像熊。（thrive = 茁壮生长、繁衍，而不仅仅是“生存”）
+'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“苔藓小猪（moss piglet）”**也是缓步动物的别称，因为从正面看时，它们长得有点像小猪。
+They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773年，德国学者Johann Goeze首次发现了它们，并创造了**Tardigrada（缓步动物）**这一名称。（coin a name = 创造、首次提出一个名称）
+As I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits. 正如我刚才提到的，缓步动物的种类非常多，多到无法在这里一一介绍。不过总体来说，不同物种具有许多相似的身体特征。
+They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments. 它们的身体短而圆，看起来有点像桶（barrel），并且身体由**四个体节（segments）**组成。
+Each segment has a pair of legs, at the end of which are between four and eight sharp claws. 每个体节都有一对腿，而每条腿的末端长有4到8个锋利的爪子。
+I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey. 我还应该补充一点，有些物种并没有爪子，而是长有吸盘状结构（discs），它们通过吸附作用发挥功能。这些结构能帮助缓步动物附着在物体表面，或者抓住猎物。（cling on to = 紧紧附着；grip prey = 抓住猎物）
+Within the body, there are no lungs, or any organs for breathing at all. 在它们体内，没有肺，也完全没有专门负责呼吸的器官。
+Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body. 相反，氧气和体液（这里可理解为血液）是在充满身体腔体的一种液体中运输的。（body cavity = 体腔）
+As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even. 至于缓步动物的头部，我觉得最贴切的描述是：它看起来相当奇怪，甚至有点被压扁了（squashed）。
+Though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific. 尽管我浏览过的许多网站都把它描述得很可爱，但这种说法显然不太科学。
+The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'. 缓步动物的嘴巴是一种管状结构，可以向外张开，露出一种类似牙齿的结构，称为口针（stylets）。
+These are sharp enough to pierce plant or animal cells. 这些口针十分锋利，足以刺穿植物细胞或动物细胞。（pierce = 刺穿）
+So, where are tardigrades found? 那么，缓步动物主要分布在哪里呢？
+Well, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments. 它们遍布世界各地，生活在各种环境中，最常见的是湖底、各种植物表面以及潮湿环境中。
+There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure. 有一些有趣的研究发现，缓步动物能够承受辐射以及极高的压力。
+And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot. 它们还能够耐受低至零下200摄氏度、高达148摄氏度以上的极端温度，这简直令人难以置信。（withstand = 承受，经受住）
+It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth. 有人甚至认为，即使发生小行星撞击地球这样的灾难，在人类灭绝之后很久，缓步动物仍然能够存活。（wipe out = 彻底消灭）
+If conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis. 如果环境变得过于恶劣，缓步动物面临脱水风险，它们就会进入一种被称为**隐生状态（cryptobiosis）**的休眠状态。
+They curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels. 它们会把头和腿缩回身体内，蜷缩成一个球状体，称为tun（桶状体），此时它们的新陈代谢会降到正常水平的1%以下。（retract = 缩回）
+They can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours. 它们可以一直保持这种状态，直到重新接触到水，然后在几个小时内恢复生命活动。（in a matter of a few hours = 短短几个小时内）
+While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA. 处于隐生状态时，缓步动物会产生一种能够保护DNA的蛋白质。
+In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016年，科学家成功复活了两只已经保持桶状体状态超过30年的缓步动物。（revive = 使复活）
+There was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated. 曾有报道称，1948年一只已经处于桶状体状态120年的缓步动物被成功复活，但这一实验后来从未被重复验证。（IELTS易错点：report 不等于事实，只表示“有报道声称”）
+There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days. 目前有多项太空实验正在进行，以确定缓步动物究竟能在太空中存活多久。据我所知，目前的纪录是10天。
+So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive. 接下来谈谈它们的饮食。缓步动物主要通过摄取液体来维持生存。
+Although they have teeth, they don't use these for chewing. 虽然它们有牙状结构，但并不用来咀嚼。
+They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own. 它们会吸取苔藓中的汁液，或从海藻中提取液体。不过，有些种类会捕食其他缓步动物，包括其他物种甚至同类。（prey on = 捕食）
+I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel. 考虑到缓步动物主要由液体构成，并且表面覆盖着一层凝胶状物质，这一点似乎也不令人意外。（be comprised of = 由……组成）
+Finally, I'd like to mention the conservation status of tardigrades. 最后，我想谈谈缓步动物的保护现状。
+It is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions. 据估计，它们已经存在了大约5亿年，并且在此期间成功挺过了五次生物大灭绝。
+So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list. 因此，你们大概不会感到意外：缓步动物尚未接受International Union for Conservation of Nature的保护等级评估，也不在任何濒危物种名单上。（IELTS听力易错：不是“被评为安全”，而是“根本没有评估”）
+Some researchers have described them as thriving. 一些研究人员甚至形容它们正处于繁盛发展的状态（thriving）。
+Does anyone have any questions they'd like to ask? 大家有什么想问的问题吗？
