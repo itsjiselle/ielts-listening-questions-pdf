@@ -1,0 +1,124 @@
+1
+00:00:02,119 --> 00:00:08,035
+(Q11（单选）) Right. Next on the agenda we have traffic and highways. Councillor Thornton. 好的，接下来是议程中的下一项：交通与道路问题。下面有请桑顿议员。（on the agenda = 在议程中；highways 不只是"高速公路"，这里指道路交通事务。）
+
+2
+00:00:08,035 --> 00:00:16,576
+Thank you. Well, we now have the results of the <span style="background-color: rgb(200, 230, 201);"><b><u>survey </u></b></span>carried out last month about traffic and road transport in the town. 谢谢。关于本镇交通和道路运输情况，我们现在已经拿到了上个月开展的调查结果。（carry out a survey = 开展调查。）
+
+3
+00:00:16,576 --> 00:00:20,113
+People were generally satisfied with the state of the roads. 总体来说，人们对道路状况还是比较满意的。（the state of the roads = 道路状况。）
+
+4
+00:00:20,113 --> 00:00:33,539
+There were one or two complaints about potholes which will be addressed, but a significant number of people complained about the increasing number of heavy vehicles using our local roads to avoid traffic elsewhere. 有人反映了路面坑洞的问题，我们会着手解决。不过，更值得关注的是，很多人抱怨越来越多的重型车辆为了避开其他地方的交通拥堵，改走本地道路。（address = 处理，不是"提及"；heavy vehicles = 重型车辆；avoid traffic elsewhere = 为了绕开其他地方的拥堵。）
+
+5
+00:00:33,539 --> 00:00:42,366
+We'd expected more complaints by commuters about the reduction in the train service, but it doesn't seem to have affected people too much. 原本我们预计会有更多通勤者抱怨火车班次减少，不过这件事似乎并没有对大家造成太大影响。（commuters = 通勤者；train service = 铁路班次/铁路服务。）
+
+6
+00:00:42,366 --> 00:00:52,179
+(Q12) The <span style="background-color: rgb(200, 230, 201);"><u><b>cycle path </b></u></span>that runs alongside the river is very well used by both cyclists and pedestrians since the surface was improved last year, 自从去年重新铺设路面之后，河边这条自行车道一直很受骑行者和行人欢迎。【surface = 路面；】
+
+7
+00:00:52,179 --> 00:00:58,337
+but overtaking can be a problem so we're going to add a bit on the side to make it wider. 不过，由于超车比较困难，我们计划把道路向旁边拓宽一些。【overtake = 超车、超过前方的人；add a bit on the side = 向旁边扩宽。】
+
+8
+00:00:58,337 --> 00:01:08,072
+At some stage, we'd like to extend the path so that it goes all the way through the town, but that won't be happening in the immediate future. 未来某个时候，我们希望把这条道路一直延伸贯穿整个小镇，不过近期还不会实施。（at some stage = 将来的某个阶段；in the immediate future = 短期内。）
+
+9
+00:01:08,072 --> 00:01:16,073
+(Q13) The <span style="background-color: rgb(200, 230, 201);"><u><b>plans to</b></u></span> have a <span style="background-color: rgb(200, 230, 201);"><u><b>pedestrian crossing </b></u></span>next to the Post Office have unfortunately had to be put on hold for the time being. 在邮局旁修建人行横道的计划，目前不得不暂时搁置。（put on hold = 暂时搁置。）
+
+10
+00:01:16,073 --> 00:01:19,667
+We'd budgeted for this to be done this financial year, 我们原本已经把这项工程列入本财年的预算，【financial year = 财年；budget for = 为……安排预算。】
+
+11
+00:01:19,667 --> 00:01:26,751
+but then there were rumours that the Post Office was going to move, which would have meant there wasn't really a need for a crossing. 但后来传出邮局可能要搬迁的消息。如果真搬走了，也就没有必要在那里设置人行横道了。
+
+12
+00:01:26,751 --> 00:01:29,391
+Now they've confirmed that they're staying where they are, 现在邮局已经确认不会搬迁了。【where they are = 留在原址】
+
+13
+00:01:29,391 --> 00:01:38,965
+but the Highways Department have told us that it would be dangerous to have a pedestrian crossing where we'd originally planned it as there's a bend in the road there. 不过，道路管理部门告诉我们，原计划设置人行横道的位置由于前方有弯道，因此存在安全隐患。【bend in the road = 道路弯道。】
+
+14
+00:01:38,965 --> 00:01:41,334
+So that'll need some more thought. 因此，这件事还需要进一步研究。（need some more thought = 还需要再考虑。）
+
+15
+00:01:41,334 --> 00:01:54,850
+(Q14) On<span style="background-color: rgb(200, 230, 201);"><b><u> Station Road </u></b></span>near the station and level crossing, drivers can face quite long waits if the level crossing's closed, and we've now got signs up requesting them not to leave their engines running at that time. 在车站路靠近火车站和平交道口的地方，如果道口关闭，司机往往需要等待很长时间，因此我们已经设置了提示牌，提醒他们等待期间不要让发动机一直怠速运转。（level crossing = 铁路平交道口；leave the engine running = 发动机怠速不熄火。）
+
+16
+00:01:54,850 --> 00:02:01,831
+This means pedestrians waiting on the pavement to cross the railway line don't have to breathe in car fumes. 这样一来，在人行道上等着过铁路的行人，就不用吸入汽车尾气了。（car fumes = 汽车尾气。）
+
+17
+00:02:01,831 --> 00:02:13,653
+We've had some problems with cyclists leaving their bikes chained to the railings outside the ticket office, but the station has agreed to provide bike racks there. 一直以来，都有骑行者把自行车锁在售票处外的栏杆上，给我们带来了一些问题。不过，车站已经同意在那里安装自行车停放架。（chain…to… = 用锁链锁在……；bike rack = 自行车停放架。）
+
+18
+00:02:13,653 --> 00:02:20,503
+(Q15（地图）) So next on the agenda is 'Proposals for improvements to the recreation ground'. 接下来议程中的内容是："休闲活动场地改造方案"。（recreation ground = 社区运动场/休闲活动场地。）
+
+19
+00:02:20,503 --> 00:02:23,003
+Councillor Thornton again. 下面继续请桑顿议员发言。
+
+20
+00:02:23,003 --> 00:02:33,136
+Well, since we managed to extend the recreation ground, we've spent some time talking to local people about how it could be made a more attractive and useful space. 自从我们成功扩建了这片休闲活动场地之后，我们一直在征求当地居民的意见，希望把这里建设得更加美观、更加实用。（extend = 扩建；space = 场地。）
+
+21
+00:02:33,136 --> 00:02:41,551
+If you have a look at the map up on the screen, you can see the river up in the north, and the Community Hall near the entrance from the road. 请大家看看屏幕上的地图。北边是河流，而社区活动中心位于道路入口附近。
+
+22
+00:02:41,551 --> 00:02:56,932
+At present, <b style="background-color: rgb(200, 230, 201);">cars can park</b> between the Community Hall and that line of trees to the east, but this is quite dangerous for pedestrians so we're suggesting a new car park on the opposite side of the Community Hall, right next to it. 目前，车辆停放在社区活动中心和东侧那排树之间。不过，这对行人来说存在一定危险，因此我们建议把停车场迁到社区活动中心的另一侧，紧挨着活动中心。（opposite side = 另一侧，不一定是正对面。）
+
+23
+00:02:56,932 --> 00:03:00,699
+(Q16) We also have a new location for the <span style="background-color: rgb(200, 230, 201);"><b>cricket pitch</b></span>. 板球场也将迁到新的位置。
+
+24
+00:03:00,699 --> 00:03:15,414
+As we've now purchased additional space to the east of the recreation ground, beyond the trees, we plan to move it away from its current location, which is rather near the road, into this new area beyond the line of trees. 由于我们已经购买了活动场地东侧、树林后方的一块新土地，因此计划把目前靠近道路的板球场迁到树林后面的新区域。（beyond the trees = 树林后方，是地图题高频定位。）
+
+25
+00:03:15,414 --> 00:03:20,489
+This means there's less danger of stray balls hitting cars or pedestrians. 这样一来，飞出的球击中车辆或行人的风险就会更小。（stray balls = 飞出的球。）
+
+26
+00:03:20,489 --> 00:03:29,009
+(Q17) We've got plans for a <span style="background-color: rgb(200, 230, 201);"><b>children's playground</b></span> which will be accessible by a footpath from the Community Hall and will be alongside the river. 我们计划修建一座儿童游乐场，可以通过社区活动中心旁的人行步道到达，位置就在河边。（accessible by = 可以通过……到达；alongside the river = 沿河。）
+
+27
+00:03:29,009 --> 00:03:35,908
+We'd originally thought of having it close to the road, but we think this will be a more attractive location. 我们原本打算把它建在靠近道路的地方，但现在认为河边的位置更加理想。
+
+28
+00:03:35,908 --> 00:03:49,092
+(Q18) The<b> <span style="background-color: rgb(200, 230, 201);">skateboard ramp </span></b>is very popular with both younger and older children – we had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. 滑板坡道一直很受大一点和小一点的孩子欢迎。我们原本考虑把它迁到靠近河边，不过最终决定仍然放在东南角、靠近道路的位置。（skateboard ramp = 滑板坡道。）
+
+29
+00:03:49,092 --> 00:03:54,852
+(Q19) The <span style="background-color: rgb(200, 230, 201);"><b>pavilion </b></span>is very well used at present by both football players and cricketers. 目前，这座运动服务亭深受足球运动员和板球运动员使用。（pavilion 在运动场里通常译为运动服务亭、更衣亭，不要译成"凉亭"。）
+
+30
+00:03:54,852 --> 00:04:03,324
+It will stay where it is now – to the left of the line of trees and near to the river – handy for both the football and cricket pitches. 它将继续保留在现在的位置，也就是树林左侧、靠近河边，方便足球场和板球场共同使用。（handy for = 方便……使用。）
+
+31
+00:04:03,324 --> 00:04:05,824
+(Q20) And finally, we'll be getting a new <span style="background-color: rgb(200, 230, 201);"><b>notice board</b></span> for local information, and that will be directly on people's right as they go from the road into the recreation ground. 最后，我们还会安装一块新的社区公告栏，用于发布本地信息。人们从道路进入活动场地时，它就在右手边。（notice board = 公告栏；地图题高频词。）
+
