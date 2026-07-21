@@ -1,0 +1,44 @@
+11-3-2
+标题：
+Changes in Barford over the last 50 years
+题目：
+11
+In Shona's opinion, why do fewer people use buses in Barford these days?
+
+A.The buses are old and uncomfortable.
+B.Fares have gone up too much.
+C.There are not so many bus routes.
+12
+What change in the road network is known to have benefited the town most?
+
+A.the construction of a bypass
+B.the development of cycle paths
+C.the banning of cars from certain streets
+13
+What is the problem affecting shopping in the town centre?
+
+A.lack of parking spaces
+B.lack of major retailers
+C.lack of restaurants and cafés
+14
+What does Shona say about medical facilities in Barford?
+
+A.There is no hospital.
+B.New medical practices are planned.
+C.The number of dentists is too low.
+15
+The largest number of people are employed in
+
+A.manufacturing.
+B.services.
+C.education.
+
+解析：
+【11题干】buses原词重现
+【11A】定位：old and conformable 原词重现
+Even replacing old uncomfortable buses with ... has had little impact on passenger numbers.
+【11B】定位：fare原词重现
+It's sometimes said that ..., but ..., fares are not much higher than they were 50 years. ago. 
+【11C】✅ 定位：most:题干fewer反义，需要定位到选项C
+Most people used them frequently, but not now, because the bus companies concentrate on just the routes that attract most passengers. 
+concentrate on just ... = are not so many 
