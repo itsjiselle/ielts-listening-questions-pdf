@@ -11,11 +11,11 @@ My name's Nick, and I'm one of the guides.
 I'll give you a brief introduction to the estate while you're sitting down, and then we'll walk round.
 
 4
-00:00:17,521 --> 00:00:27,432
+00:00:17,521 --> 00:00:27,431
 The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century.
 
 5
-00:00:27,432 --> 00:00:36,189
+00:00:27,431 --> 00:00:36,189
 [🟢] The original house was replaced in the late seventeenth century, and of course it has had a large number of owners.
 
 6
@@ -27,19 +27,19 @@ The estate consists of the house, gardens, parkland and farm, and it dates back 
 The farm looks much as it's always done, although the current owner has done a great deal of work to the flower beds.
 
 8
-00:00:58,404 --> 00:01:06,612
+00:00:58,404 --> 00:01:06,611
 (Q12) In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes. 17
 
 9
-00:01:06,612 --> 00:01:22,736
+00:01:06,611 --> 00:01:22,736
 His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures.
 
 10
-00:01:22,736 --> 00:01:34,460
+00:01:22,736 --> 00:01:34,459
 [Q12 答案句] He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets.
 
 11
-00:01:34,460 --> 00:01:44,429
+00:01:34,459 --> 00:01:44,429
 Unusually for his time, he didn't care whether his guests were rich or poor, as long as they had talent.
 
 12
@@ -59,43 +59,43 @@ They'll explain what they're doing, and tell you their recipes, or what tools th
 We've just introduced this feature to replace the audio guide we used to have available.
 
 16
-00:02:28,924 --> 00:02:33,320
+00:02:28,924 --> 00:02:33,319
 (Q14) I see there are a number of children here with you today.
 
 17
-00:02:33,320 --> 00:02:51,457
+00:02:33,319 --> 00:02:51,456
 Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it's a fine day, some of you will probably want to play in the adventure playground.
 
 18
-00:02:51,457 --> 00:03:00,486
+00:02:51,456 --> 00:03:00,485
 [Q14答案句] Our latest addition is child-sized tractors, that you can drive around the grounds.
 
 19
-00:03:00,486 --> 00:03:08,127
+00:03:00,485 --> 00:03:08,127
 (Q15（配对）) We'll also be going into the farm that's part of the estate, where there's plenty to do.
 
 20
-00:03:08,127 --> 00:03:18,421
+00:03:08,127 --> 00:03:18,420
 Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past.
 
 21
-00:03:18,421 --> 00:03:26,585
+00:03:18,420 --> 00:03:26,585
 Until recently, the dairy was where milk from the cows was turned into cheese.
 
 22
-00:03:26,585 --> 00:03:35,683
+00:03:26,585 --> 00:03:35,682
 It's now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake.
 
 23
-00:03:35,683 --> 00:03:46,127
+00:03:35,682 --> 00:03:46,127
 (Q16) The big stone building that dominates the farm is the large barn, and in here is our collection of agricultural tools.
 
 24
-00:03:46,127 --> 00:03:54,557
+00:03:46,127 --> 00:03:54,556
 These were used in the past to plough the earth, sow seeds, make gates, and much more.
 
 25
-00:03:54,557 --> 00:04:03,412
+00:03:54,556 --> 00:04:03,412
 (Q17) There's a small barn, also made of stone, where you can groom the donkeys and horses, to keep their coats clean.
 
 26
@@ -107,11 +107,11 @@ They really seem to enjoy having it done, and children love grooming them.
 (Q18) The horses no longer live in the stables, which instead is the place to go to buy gifts, books, our own jams and pickles, and clothes and blankets made of wool from our sheep.
 
 28
-00:04:25,230 --> 00:04:36,892
+00:04:25,230 --> 00:04:36,891
 (Q19) Outside the shed, which is the only brick building, you can climb into a horse-drawn carriage for a lovely, relaxing tour of the park and farm.
 
 29
-00:04:36,892 --> 00:04:41,870
+00:04:36,891 --> 00:04:41,870
 The carriages are well over a hundred years old.
 
 30
