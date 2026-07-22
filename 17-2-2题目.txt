@@ -24,3 +24,127 @@ What is new for children at Oniton Hall?
 A.clothes for dressing up
 B.mini tractors
 C.the adventure playground
+
+解析：
+【11题干】【审题】关键词 owners，made changes to。【考点词】many 程度词，past 时间词。【定位】it has had a large number of owners： large number = many，owners原词重现；Almost all of them进一步对应 many。
+
+【11A】定位：flower beds = gardens，上下义词同义替换。
+the current owner has done a great deal of work to the flower beds：对花坛作出改变的是 current owner，而题干问的是 past owners，时间和主体不符合，选项否定原文。
+
+【11B】✅ 定位：adding new rooms ... or demolishing others = made changes to the house，解释型同义替换。
+Almost all of them have left their mark, generally by adding new rooms ... or by demolishing others：大多数过去的主人都通过增加或拆除房间改变了房屋，符合题干要求，确定答案。
+
+【11C】定位：farm原词重现。
+The farm looks much as it’s always done：农场看起来一直没有什么变化，与 made changes to相反，选项否定原文。
+
+
+
+
+【12题干】【审题】关键词 Sir Edward Downes，built 考点词画出 because / wanted 逻辑词，提示寻找建房的原因或目的。【定位】Sir Edward Downes原词重现；intention = want 同义替换
+
+【12A】定位：politics原词重现。
+escape from the world of politics，
+broke off contact with his former political allies：原文说他想逃离政治并断绝与政治盟友的联系，与“建造一个讨论政治的地方”方向相反，选项否定原文。
+
+【12B】定位：wealthy = wealth 同根词同义替换；big collection of books, paintings and sculptures也容易让人联想到展示财富。
+房子要 worthy of his big collection：不代表建房目的是 display his wealth。选项把“他很富有”偷换成“他想炫耀财富”，属于偷换概念。
+
+【12C】✅ 定位：creative and literary people = artists and writers；painters = artists，poets = writers上下义词同义替换
+hosted meetings = a place for 房子被用来接待艺术家和文学人士，符合题干中的建房目的，确定答案。
+
+
+【13题干】【审题】关键词 visitors，learn about the work of servants。考点词画出 in the past 时间词；同时画出 can learn，因为题干问的是游客现在可以通过什么方式了解过去的仆人。【定位】servants原词重现；we’ve tried to show what their working lives were like = visitors can learn about the work of servants。
+
+【13A】定位：audio guide原词重现。
+We’ve just introduced this feature to replace the audio guide we used to have available：audio guide是过去使用的方式，现在已经被替换；used to have表示过去有、现在没有，选项否定原文。
+
+【13B】定位：Photographs原词重现。
+Photographs don’t give much of an idea, so instead ...：原文明确说照片无法让游客充分了解仆人的工作，因此改用另一种方式，选项否定原文。
+
+【13C】✅ 定位：volunteers = people；dressed up as = in costume。
+They’ll explain what they’re doing, and tell you their recipes, or what tools they’re using：由装扮成仆人的志愿者解释工作内容，符合 learn about the work of servants，确定答案。
+
+【14题干】【审题】关键词 children。【考点词】 new 时间词，提示寻找最近新增的儿童活动，而不是所有儿童活动。【定位】children原词重现。
+
+【14A】定位：dressing up，clothes 原词重现。
+we have several activities，like ... and ...：表示已经存在了，不符合题干中的 new，否定原文。
+
+【14B】✅ 定位：child-sized = mini，tractors原词重现；latest addition = new。
+Our latest addition=new，确定答案。
+
+【14C】定位：adventure playground原词重现。
+see A 
+
+
+
+# 二、17-2-2 同义替换
+
+## （一）近义词
+
+* `a large number of` = `many`（Q11）
+* `dressed up` = `in costume`（Q13）
+* `latest addition` = `new`（Q14）
+* `child-sized` = `mini`（Q14）
+
+## （二）上下义词
+
+* `painters` = `artists`（Q12）
+* `poets` = `writers`（Q12）
+* `volunteers` = `people`（Q13）
+* `nineteenth-century` = `in the past`（Q13）
+
+## （三）解释型
+
+* `adding new rooms or demolishing others` = `made changes to the house`（Q11）
+* `hosted meetings of creative and literary people` = `a place for artists and writers`（Q12）
+* `show what their working lives were like` = `learn about the work of servants`（Q13）
+
+## （四）同根词／词性转换
+
+* `wealthy` = `wealth`（Q12）
+
+## （五）组合型同义替换
+
+* `intention` = `wanted`（Q12）
+  类型：近义词＋词性转换
+
+以上对应均来自该题题干、选项与原文；Q11—Q14的原文核心段落依次涉及历任房主改建房屋、Sir Edward Downes的建房意图、仆人展示形式及儿童新增活动。([IELTS Training Online][1])
+
+# 三、其他 Tips
+
+* `almost all`能够支持题干中的`many`，但二者程度并不完全相等，不作为严格同义替换。
+
+* `past owners ≠ current owner`：主体与时间不同。过去的房主改动了房屋；花坛是现任房主改造的。
+
+* `flower beds`属于`gardens`的一部分，是部分—整体关系，不应写成严格的：
+
+  > `flower beds = gardens`
+
+* `The farm looks much as it’s always done`：表示农场基本保持原样，即没有发生题干所说的`changes`，属于语义否定。
+
+* `escape from the world of politics`与`a place for discussing politics`方向相反，A选项否定原文。
+
+* `wealthy`只能定位到`wealth`，但：
+
+  > 人物很富有 ≠ 建房目的是展示财富
+  > 这是把人物属性偷换成行为动机。
+
+* 题干Q12问的是`because he wanted`，必须寻找建房的**目的**。原文附近出现的人物身份、藏品或其他事实，不能自动被当成目的。
+
+* `Photographs ... don’t give much of an idea`：原文否定照片能够有效展示仆人的工作，属于否定原文。
+
+* `instead`表示方式发生替换：照片效果有限，因此改用装扮成仆人的志愿者。
+
+* `used to have`表示过去有、现在没有。audio guide已经被新方式取代，属于时间上的隐性否定。
+
+* Q13有两个时间层：
+
+  > `servants in the past`是要了解的历史内容；
+  > `Visitors can learn ... from`问的是游客现在使用的了解方式。
+  > 不能因为audio guide过去存在，就把它选为现在可用的方式。
+
+* `latest addition`是判断Q14的明确依据，但不能总结成“最后听到的选项就是答案”。正确逻辑是：
+
+  > `latest addition = new`
+
+* 换装服装和adventure playground都在原文中出现，但只是已有活动；只有child-sized tractors被明确称为`latest addition`。([IELTS Training Online][1])
