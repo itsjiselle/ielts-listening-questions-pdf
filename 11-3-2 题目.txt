@@ -34,11 +34,46 @@ B.services.
 C.education.
 
 解析：
-【11题干】buses原词重现
+【11题干】【审题】关键词people， buses。 考点词画出【fewer】程度词。【定位】buses原词重现，
 【11A】定位：old and conformable 原词重现
 Even replacing old uncomfortable buses with ... has had little impact on passenger numbers.
 【11B】定位：fare原词重现
 It's sometimes said that ..., but ..., fares are not much higher than they were 50 years. ago. 
 【11C】✅ 定位：most:题干fewer反义，需要定位到选项C
 Most people used them frequently, but not now, because the bus companies concentrate on just the routes that attract most passengers. 
-concentrate on just ... = are not so many 
+concentrate on just ... routes = are not so many 
+
+
+【12题干】【审题】benefit 态度词， the most 程度词。 【定位】road network原词重现
+【12A】定位：bypass原词重现
+attempts ... have failed：选项否定原文
+【12B】✅ 定位：cycle path原词重现
+far more than was expected = benefit ... the most，确定答案
+【12C】 定位：close v.关闭 = ban v.禁止
+The impact of this is being measured.：选项偷换概念，影响被评估中，不代表已经确定“be known”
+
+【13题干】【审题】关键词shopping， town center。 考点词problem态度词。【定位】shopping，town center原词重现
+【13A】定位：car park = parking spaces
+open new：否定原文lack 
+【13B】✅ 定位：well known chain store = major retailors
+few 几乎没有 = lack 缺少，确定答案
+【13C】 定位：restaurants and cafes
+combine ...with ...:选项lack偷换概念，combine“合并”不意味着lack“缺少”
+【特殊备注】验证后发现problem属于特殊疑问词的部分，其实不用作为审题关键词。因为ABC三个选项都是lack of 某东西，都是problem，本题其实主要考察干扰项和同义替换 
+
+【14题干】【审题】关键词medical facilities，无明显考点词。 【定位】medical facilities原词重现 
+【14A】✅定位：hospital原词重现
+closed ... years ago= no，解释型同义替换，确定答案
+【14B】定位： medical practices原词重现
+未提及plan，无中生有
+【14C】定位：dentists原词重现
+more ... than there used to be: 选项low否定原文
+
+【15题干】【审题】关键词people， emplyed。 考点词 largest程度词。 【定位】employment = employ 词性类同义替换
+【15A】定位： manufacturing原词重现
+hasn't seen the decline：未见衰退，不代表有“最多人”从事，偷换概念
+【15B】定位： services原词重现
+have grown in importance：越来越重要，不代表有“最多人”从事，偷换概念
+【15C】✅定位：schools and colleges = education 上下义词同义替换
+main sector=largest number of people近义词同义替换，确定答案
+
