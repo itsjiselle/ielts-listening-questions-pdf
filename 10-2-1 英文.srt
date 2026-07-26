@@ -1,0 +1,172 @@
+1
+00:00:00,228 --> 00:00:00,898
+(Q1) Excuse me.
+
+2
+00:00:00,898 --> 00:00:01,819
+Yes?
+
+3
+00:00:01,819 --> 00:00:06,895
+I wonder if you could spare a few minutes to do a survey on transport. It won't take long.
+
+4
+00:00:06,895 --> 00:00:08,968
+No, that's fine.
+
+5
+00:00:08,968 --> 00:00:18,105
+Lovely. The survey is on behalf of the local council. They'd like to know about what transport you use and any suggestions for improvement.
+
+6
+00:00:18,105 --> 00:00:22,100
+(Qexample) Can I start by asking you how you travelled to town today?
+
+7
+00:00:22,100 --> 00:00:24,186
+Sure. I came on the bus.
+
+8
+00:00:24,186 --> 00:00:27,921
+Great. Now can I get a few details about yourself?
+
+9
+00:00:27,921 --> 00:00:28,757
+OK.
+
+10
+00:00:28,757 --> 00:00:29,985
+What's your name?
+
+11
+00:00:29,985 --> 00:00:31,292
+It's Luisa ....
+
+12
+00:00:31,292 --> 00:00:32,193
+Yes.
+
+13
+00:00:32,193 --> 00:00:33,002
+Hardie.&nbsp;
+
+14
+00:00:33,002 --> 00:00:34,155
+Can you spell that, please?
+
+15
+00:00:34,155 --> 00:00:38,182
+[Q1答案句] Yes, it's H-A-R-D-I-E.
+
+16
+00:00:38,182 --> 00:00:42,219
+(Q2) Great. Thanks. And can I have your address?
+
+17
+00:00:42,219 --> 00:00:45,310
+[Q2答案句] It's 19, White Stone Road.&nbsp;
+
+18
+00:00:45,310 --> 00:00:48,959
+(Q3) Oh, right. I know that area. It's Bradfield, isn't it?
+
+19
+00:00:48,959 --> 00:00:49,809
+That's right.
+
+20
+00:00:49,809 --> 00:00:52,429
+Is the postcode GT7?
+
+21
+00:00:52,429 --> 00:00:55,379
+[Q3答案句] It's actually G-T-8 2-L-C.
+
+22
+00:00:55,379 --> 00:00:59,470
+(Q4) Great. And could I ask what your job is? Are you a student?
+
+23
+00:00:59,470 --> 00:01:02,957
+[Q4答案句] I've actually just finished my training. I'm a hairdresser.
+
+24
+00:01:02,957 --> 00:01:09,454
+(Q5) Oh, right. And one more question in this section. What is the reason for you coming into town today?
+
+25
+00:01:09,454 --> 00:01:15,170
+[Q5答案句] Actually it's not for shopping today, which would be my normal reason, but to see the dentist.
+
+26
+00:01:15,170 --> 00:01:17,781
+Right. Thanks.
+
+27
+00:01:17,781 --> 00:01:30,780
+(Q6) Now in this last section I'd like you to give us some ideas about the facilities and arrangements in the city for getting to and from work, er, any suggestions you have for improvements.
+
+28
+00:01:30,780 --> 00:01:40,328
+[Q6答案句] Well, something I've thought about for some time is that when I do walk and I'm doing a later shift, I think the lighting should be better.
+
+29
+00:01:40,328 --> 00:01:41,613
+Yes, good point.
+
+30
+00:01:41,613 --> 00:01:49,223
+(Q7) And of course, I think it's a real shame they've been cutting down on the number of footpaths. They should have more of those. Then people would walk more.
+
+31
+00:01:49,223 --> 00:01:50,223
+Yes, right.
+
+32
+00:01:50,223 --> 00:01:55,896
+[Q7答案句] And, I don't think there are enough trains. That's why I don't use them - you have to wait so long.
+
+33
+00:01:55,896 --> 00:02:04,603
+(Q8) Thanks. And finally I'd like to ask your opinion on cycling. As you may know, there's a drive in the city to get more people to cycle to work.
+
+34
+00:02:04,603 --> 00:02:05,386
+Right.
+
+35
+00:02:05,386 --> 00:02:12,325
+But we realize that there are things which the council, but also employers, might do to help encourage workers to cycle to work.
+
+36
+00:02:12,325 --> 00:02:18,878
+[Q8答案句] Yep. Well, I have thought about it and where I work there are no safe places to leave your bikes.
+
+37
+00:02:18,878 --> 00:02:19,931
+OK.
+
+38
+00:02:19,931 --> 00:02:27,737
+(Q9) [Q9答案句] And also, I'd have to cycle uphill and on a hot day I'd arrive at work pretty sweaty so I think I'd need a shower somewhere at work.
+
+39
+00:02:27,737 --> 00:02:28,853
+Right.
+
+40
+00:02:28,853 --> 00:02:34,810
+(Q10) And I suppose the last thing is that I wouldn't be all that confident about cycling on such busy roads.
+
+41
+00:02:34,810 --> 00:02:41,678
+[Q10答案句] I think I'd like to see you offering training for that, you know, I'd feel a lot better about starting if that was the case.
+
+42
+00:02:41,678 --> 00:02:45,053
+Well, that's very helpful. Thank you very much for your time.
+
+43
+00:02:45,053 --> 00:02:47,553
+No problem, bye!
+
