@@ -1,0 +1,220 @@
+1
+00:00:00,269 --> 00:00:01,617
+(Q1) Thorndyke's.
+
+2
+00:00:01,617 --> 00:00:04,397
+Good morning. Is that Mr Thorndyke?
+
+3
+00:00:04,397 --> 00:00:06,504
+Speaking. How can I help?
+
+4
+00:00:06,504 --> 00:00:13,849
+I've got quite a few things which need painting and fixing in the flat and I wonder whether you'd be able to do the work.
+
+5
+00:00:13,849 --> 00:00:17,674
+I'm sure I'd be able to help but let me take down a few details.
+
+6
+00:00:17,674 --> 00:00:19,419
+Yes, of course.
+
+7
+00:00:19,419 --> 00:00:22,632
+Well, firstly, how did you hear about us?
+
+8
+00:00:22,632 --> 00:00:29,648
+(Qexample) It was my friend May Hampton ... you did some excellent work for her a couple of years ago. Do you remember?
+
+9
+00:00:29,648 --> 00:00:33,965
+Oh, yes, that was in West Park Flats, lovely lady.
+
+10
+00:00:33,965 --> 00:00:35,146
+Yes, she is.
+
+11
+00:00:35,146 --> 00:00:37,527
+And what's your name, please?
+
+12
+00:00:37,527 --> 00:00:39,513
+It's Edith Pargetter.
+
+13
+00:00:39,513 --> 00:00:43,369
+Edith ... can you spell your surname, please? Edith……
+
+14
+00:00:43,369 --> 00:00:49,425
+[Q1答案句] It's P-A-R-G-E-double T-E-R.
+
+15
+00:00:49,425 --> 00:00:51,178
+Double T, right.&nbsp;
+
+16
+00:00:51,178 --> 00:00:53,822
+(Q2) And do you live in West Park Flats as well?
+
+17
+00:00:53,822 --> 00:00:58,407
+[Q2答案句] No, actually it's East Park, Flat 4.
+
+18
+00:00:58,407 --> 00:01:03,128
+(Q3) Oh, right, that's over the road, I seem to remember - quite difficult to get to.
+
+19
+00:01:03,128 --> 00:01:06,097
+[Q3答案句] Yes. it's at the back of the library.
+
+20
+00:01:06,097 --> 00:01:09,768
+(Q4) Right, I know. And what's your phone number?
+
+21
+00:01:09,768 --> 00:01:17,500
+875934 but I'm out a great deal in the afternoons and evenings.&nbsp;
+
+22
+00:01:17,500 --> 00:01:20,692
+[Q4答案句] So would the best time to ring you be in the morning?
+
+23
+00:01:20,692 --> 00:01:21,659
+[Q4答案句-确认] Yes.
+
+24
+00:01:21,659 --> 00:01:29,723
+(Q5) Fine. I've made a note of that. Can I just ask, I'll be in a van and I know parking's rather difficult round your flats.
+
+25
+00:01:29,723 --> 00:01:31,405
+Where would you recommend?
+
+26
+00:01:31,405 --> 00:01:39,316
+[Q5答案句] Well. I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.
+
+27
+00:01:39,316 --> 00:01:41,363
+Good, thanks.
+
+28
+00:01:41,363 --> 00:01:45,143
+(Q6) And will you be able to give me a full itemised quote?
+
+29
+00:01:45,143 --> 00:01:49,567
+[Q6答案句] Oh. Yes, I'll list all the jobs separately with individual prices.
+
+30
+00:01:49,567 --> 00:01:51,091
+That'd be a great help.
+
+31
+00:01:51,091 --> 00:01:52,520
+No problem.
+
+32
+00:01:52,520 --> 00:01:55,029
+(Q7（table横纵表格填空）) Now, what would you like me to do?
+
+33
+00:01:55,029 --> 00:01:59,798
+Firstly and most urgently is in the kitchen.
+
+34
+00:01:59,798 --> 00:02:05,407
+With all the weather damage, the glass in the door has cracked and I'd need that fixing ...
+
+35
+00:02:05,407 --> 00:02:07,699
+I presume you mean replacing?
+
+36
+00:02:07,699 --> 00:02:10,903
+Oh, yes. And as soon as possible ...
+
+37
+00:02:10,903 --> 00:02:14,140
+What I'll do is come round tomorrow morning and do that immediately.
+
+38
+00:02:14,140 --> 00:02:18,483
+Thank you so much. The other things aren't so urgent but...
+
+39
+00:02:18,483 --> 00:02:22,068
+Now, I'll make a note of everything you want doing.
+
+40
+00:02:22,068 --> 00:02:26,250
+Well, in the kitchen I'd like some painting doing.
+
+41
+00:02:26,250 --> 00:02:27,828
+All the kitchen walls?
+
+42
+00:02:27,828 --> 00:02:32,038
+Just the area over the cooker. It's very greasy ...
+
+43
+00:02:32,038 --> 00:02:34,477
+Right ...it does tend to get that way!
+
+44
+00:02:34,477 --> 00:02:35,944
+Yes!
+
+45
+00:02:35,944 --> 00:02:42,887
+Well, if you want a proper job done what I'd need to do is strip the old paint and plaster it about a week before I paint it.
+
+46
+00:02:42,887 --> 00:02:48,242
+Of course. Now, May tells me you also do work in the garden.
+
+47
+00:02:48,242 --> 00:02:49,234
+That's right.
+
+48
+00:02:49,234 --> 00:02:52,244
+Well. I'd like you to replace a fence.
+
+49
+00:02:52,244 --> 00:02:53,730
+Just one?
+
+50
+00:02:53,730 --> 00:02:55,692
+Yes, at the far end.
+
+51
+00:02:55,692 --> 00:02:57,476
+Fine. Shouldn't be a problem.
+
+52
+00:02:57,476 --> 00:02:59,241
+And that's the lot.
+
+53
+00:02:59,241 --> 00:03:04,279
+Fine. Yeah, as I say I can come round tomorrow morning to look over things with you.
+
+54
+00:03:04,279 --> 00:03:05,741
+That's great, thank you.
+
+55
+00:03:05,741 --> 00:03:08,241
+So, I'll look forward to seeing you tomorrow at...
+
