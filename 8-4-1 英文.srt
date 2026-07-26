@@ -1,0 +1,184 @@
+1
+00:00:00,077 --> 00:00:02,330
+(Q1) Hello, West Bay Hotel. Can I help you?
+
+2
+00:00:02,330 --> 00:00:06,656
+Oh, good morning. I'm ringing about your advertisement in the Evening Gazette.
+
+3
+00:00:06,656 --> 00:00:09,540
+Is that the one for temporary staff?
+
+4
+00:00:09,540 --> 00:00:10,791
+That's right.
+
+5
+00:00:10,791 --> 00:00:17,942
+Yes. I'm afraid the person who's dealing with that isn't in today, but can give you the main details if you like.
+
+6
+00:00:17,942 --> 00:00:22,243
+[🟢 staff you are looking for = vacancy] Yes please. Could you tell me what kind of staff you are looking for?
+
+7
+00:00:22,243 --> 00:00:24,772
+[Q1答案句] We're looking for waiters at the moment.
+
+8
+00:00:24,772 --> 00:00:28,362
+[⭕️干扰项] There was one post for a cook, but that's already been taken.
+
+9
+00:00:28,362 --> 00:00:32,023
+(Q2) Oh right. Erm, what are the hours of work?
+
+10
+00:00:32,023 --> 00:00:40,298
+There are two different shifts - there's a day shift from 7 to 2 and a late shift from 4 till 11.
+
+11
+00:00:40,298 --> 00:00:43,029
+[🟢 定位词 choose] And can people choose which one they want to do?
+
+12
+00:00:43,029 --> 00:00:46,921
+Not normally, because everyone would choose the day shift I suppose.
+
+13
+00:00:46,921 --> 00:00:49,203
+You alternate from one week to another.
+
+14
+00:00:49,203 --> 00:00:53,797
+Okay. I'm just writing all this down. What about time off?
+
+15
+00:00:53,797 --> 00:01:00,366
+[Q2答案句] You get one day off and I think you can negotiate which one you want, it's more or less up to you.
+
+16
+00:01:00,366 --> 00:01:03,650
+But it has to be the same one every week.
+
+17
+00:01:03,650 --> 00:01:05,474
+(Q3) Do you know what the rates of pay are?
+
+18
+00:01:05,474 --> 00:01:13,625
+[Q3答案句] Yes, I've got them here, You get ￡5.50 an hour, and that includes a break.
+
+19
+00:01:13,625 --> 00:01:15,812
+(Q4) Do I have to go home to eat or...
+
+20
+00:01:15,812 --> 00:01:22,274
+[Q4答案句] You don't have to. You can get a meal in the hotel if you want to, and there's no charge for it so you might as well.
+
+21
+00:01:22,274 --> 00:01:30,168
+(Q5) Oh good. Yes, so let's see. I'd get er, two hundred and twenty one, no,two hundred and thirty one pounds a week?
+
+22
+00:01:30,168 --> 00:01:35,701
+You'd also get tips - our guests tend to be quite generous.
+
+23
+00:01:35,701 --> 00:01:39,224
+[🟢提示进题] Erm, is there a uniform? What about clothes?
+
+24
+00:01:39,224 --> 00:01:45,660
+[Q5答案句] Yes, I forgot to mention that. You need to wear a white shirt, just a plain one, and dark trousers.
+
+25
+00:01:45,660 --> 00:01:49,785
+You know, not green or anything like that. And we don't supply those.
+
+26
+00:01:49,785 --> 00:01:53,509
+(Q6) That's okay, I've got trousers, I'd just have to buy a couple of shirts.
+
+27
+00:01:53,509 --> 00:01:56,436
+What about anything else? Do I need a waistcoat or anything?
+
+28
+00:01:56,436 --> 00:01:59,540
+[Q6答案句， lend you = supplied] You have to wear a jacket, but the hotel lends you that.
+
+29
+00:01:59,540 --> 00:02:04,257
+(Q7) I see. Er, one last thing - I don't know what the starting date is.
+
+30
+00:02:04,257 --> 00:02:12,512
+[Q7答案句] Just a minute, I think it's some time around the end of June. Yes, the 28th, in time for the summer.
+
+31
+00:02:12,512 --> 00:02:14,834
+[⭕️干扰项] That's great. I'm available from the 10th.
+
+32
+00:02:14,834 --> 00:02:20,253
+(Q8) Oh good. Well, if you can call again you need to speak to the Service Manager.
+
+33
+00:02:20,253 --> 00:02:28,297
+[Q8答案句] Her name's Jane Urwin, that's U-R-W-I-N, and she'll probably arrange to meet you.
+
+34
+00:02:28,297 --> 00:02:31,454
+(Q9) Okay. And when's the best time to ring?
+
+35
+00:02:31,454 --> 00:02:40,987
+[Q9答案句] Could you call tomorrow? Um, she usually starts checking the rooms at midday, so before then if you can, so she'll have more time to chat.
+
+36
+00:02:40,987 --> 00:02:43,916
+(Q10) I'll just give you her number because she's got a direct line.
+
+37
+00:02:43,916 --> 00:02:44,832
+Thanks.
+
+38
+00:02:44,832 --> 00:02:48,728
+It's 832 double-0 9.
+
+39
+00:02:48,728 --> 00:02:51,065
+823 double-0 9?&nbsp;
+
+40
+00:02:51,065 --> 00:02:53,736
+832.&nbsp;
+
+41
+00:02:53,736 --> 00:02:55,969
+Oh, okay. Yes, I'll do that.
+
+42
+00:02:55,969 --> 00:03:00,835
+[Q10答案句 🟢 10定位] And by the way, she will ask you for a reference, so you might like to be thinking about that.
+
+43
+00:03:00,835 --> 00:03:03,969
+You know, just someone who knows you and can vouch for you.
+
+44
+00:03:03,969 --> 00:03:07,065
+Yes, no problem. Well, thanks very much for your help.
+
+45
+00:03:07,065 --> 00:03:07,804
+You're welcome. Bye.
+
+46
+00:03:07,804 --> 00:03:10,304
+Bye.
+
