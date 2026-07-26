@@ -1,0 +1,256 @@
+1
+00:00:01,959 --> 00:00:03,467
+
+
+2
+00:00:03,467 --> 00:00:09,225
+⭐ enquire about... —— 咨询……｜hire a room —— 租用房间／场地｜Village Hall —— 村民活动中心；社区礼堂
+
+3
+00:00:09,225 --> 00:00:11,968
+⭐ for the evening of... —— 用于……当天晚上
+
+4
+00:00:11,968 --> 00:00:18,800
+⭐ let me just see —— 我查一下／让我看看｜be available —— 有空的；可供使用的
+
+5
+00:00:18,800 --> 00:00:26,679
+(Q1) ⭐ have seating for... —— 可容纳……人就座｜Main Hall —— 主厅；大厅
+
+6
+00:00:26,679 --> 00:00:27,658
+
+
+7
+00:00:27,658 --> 00:00:35,180
+[Q1答案句] 
+
+8
+00:00:35,180 --> 00:00:38,437
+⭐ up to... —— 最多可达……
+
+9
+00:00:38,437 --> 00:00:47,255
+(Q2) ⭐ organize a dinner —— 组织一场晚宴｜raise money for... —— 为……筹款｜a charity —— 慈善机构｜at least... —— 至少……
+
+10
+00:00:47,255 --> 00:00:53,612
+[Q2定位词] ⭐ go for... —— 选择……｜how much would that cost? —— 那需要多少钱？
+
+11
+00:00:53,612 --> 00:00:59,174
+
+
+12
+00:00:59,174 --> 00:01:01,279
+
+
+13
+00:01:01,279 --> 00:01:13,707
+[Q2答案句+干扰] ⭐ from...to midnight —— 从……到午夜｜weekend price —— 周末价格｜on weekdays —— 在工作日
+
+14
+00:01:13,707 --> 00:01:15,142
+
+
+15
+00:01:15,142 --> 00:01:20,955
+(Q3) ⭐ a deposit of... —— 金额为……的押金
+
+16
+00:01:20,955 --> 00:01:24,885
+⭐ returnable —— 可退还的｜as long as... —— 只要……｜cause damage —— 造成损坏
+
+17
+00:01:24,885 --> 00:01:31,414
+[Q3答案句] ⭐ insist that... —— 坚持要求……｜pay in cash —— 用现金支付｜take cards —— 接受银行卡付款｜do insist —— 的确坚持要求（强调）
+
+18
+00:01:31,414 --> 00:01:39,469
+⭐ the actual rent —— 实际租金；场地租金本身｜however you like —— 用你喜欢的任何方式｜credit card —— 信用卡｜cheque —— 支票（英式拼写）
+
+19
+00:01:39,469 --> 00:01:42,056
+⭐ I suppose that's OK —— 我想应该可以
+
+20
+00:01:42,056 --> 00:01:47,621
+(Q4) ⭐ does the charge include...? —— 这笔费用包括……吗？｜and so on —— 等等
+
+21
+00:01:47,621 --> 00:01:49,098
+
+
+22
+00:01:49,098 --> 00:01:51,467
+[Q4答案句] ⭐ what about...? —— 那……呢？
+
+23
+00:01:51,467 --> 00:01:59,832
+⭐ be included —— 包含在费用中｜the only thing that isn't included —— 唯一不包含的项目
+
+24
+00:01:59,832 --> 00:02:00,869
+
+
+25
+00:02:00,869 --> 00:02:07,735
+⭐ pay extra for... —— 为……另外付费｜use the kitchen —— 使用厨房
+
+26
+00:02:07,735 --> 00:02:13,355
+⭐ have good facilities —— 配有良好的设施｜cooker —— 炉灶；炊具（英式英语）
+
+27
+00:02:13,355 --> 00:02:20,284
+⭐ cover the cost —— 支付／弥补费用｜entry charge —— 入场费
+
+28
+00:02:20,284 --> 00:02:24,197
+⭐ make a note of... —— 记下……
+
+29
+00:02:24,197 --> 00:02:29,548
+(Q5) ⭐ one or two things —— 一两件事情；几个事项｜think about... —— 考虑……
+
+30
+00:02:29,548 --> 00:02:36,617
+[Q5答案句] ⭐ see about doing something —— 着手安排／设法处理某事｜get a licence —— 取得许可证｜plan to do something —— 计划做某事
+
+31
+00:02:36,617 --> 00:02:37,730
+
+
+32
+00:02:37,730 --> 00:02:41,961
+⭐ straightforward —— 简单明了的；不复杂的｜give someone the details —— 把具体信息告诉某人｜later on —— 稍后
+
+33
+00:02:41,961 --> 00:02:48,888
+(Q6) ⭐ contact the caretaker —— 联系场地管理员｜about a week or ten days before... —— 在……前大约一周到十天
+
+34
+00:02:48,888 --> 00:02:55,207
+[Q6答案句] ⭐ make arrangements for... —— 安排……｜sort something out with someone —— 与某人协商并解决／安排某事
+
+35
+00:02:55,207 --> 00:02:58,146
+
+
+36
+00:02:58,146 --> 00:03:04,687
+⭐ deal directly with someone —— 直接与某人办理／处理
+
+37
+00:03:04,687 --> 00:03:10,622
+(Q7) ⭐ is there anything I need to know about...? —— 关于……有什么是我需要了解的吗？
+
+38
+00:03:10,622 --> 00:03:15,909
+⭐ as you'll be aware —— 正如你应该知道的｜no smoking throughout —— 整个场所全面禁烟
+
+39
+00:03:15,909 --> 00:03:17,177
+
+
+40
+00:03:17,177 --> 00:03:19,315
+⭐ have a band —— 邀请／安排乐队演出
+
+41
+00:03:19,315 --> 00:03:20,510
+
+
+42
+00:03:20,510 --> 00:03:22,818
+
+
+43
+00:03:22,818 --> 00:03:30,455
+[Q7答案句] ⭐ rather than doing something —— 而不是做某事｜round the back —— 在建筑物后方｜stage door —— 舞台入口；后台门
+
+44
+00:03:30,455 --> 00:03:35,144
+(Q8) ⭐ from inside —— 从里面｜at the end —— 最后；活动结束时
+
+45
+00:03:35,144 --> 00:03:36,456
+
+
+46
+00:03:36,456 --> 00:03:40,773
+⭐ talking of... —— 说到……｜I'm sure I don't need to tell you... —— 我想不用我提醒你……
+
+47
+00:03:40,773 --> 00:03:47,004
+⭐ make sure that... —— 确保……｜fiddle about with... —— 随意摆弄；乱动……｜fire door —— 消防门
+
+48
+00:03:47,004 --> 00:03:54,005
+⭐ cut in —— 自动启动；介入运行｜reach a certain level —— 达到一定程度｜a legal requirement —— 法律规定的要求
+
+49
+00:03:54,005 --> 00:04:01,052
+⭐ talk to one another —— 彼此交谈｜anything too loud —— 任何声音过大的东西
+
+50
+00:04:01,052 --> 00:04:08,415
+⭐ that reminds me —— 这倒提醒了我｜have speeches —— 安排致辞｜be available —— 可供使用
+
+51
+00:04:08,415 --> 00:04:12,538
+⭐ let someone know —— 告诉某人｜get something for someone —— 为某人准备／取来某物
+
+52
+00:04:12,538 --> 00:04:19,796
+[Q8定位词] ⭐ when the event is over —— 活动结束后｜the premises —— 场地；建筑物及其附属区域｜leave something in good condition —— 使某物保持良好状态｜do ask that... —— 确实要求……（强调）
+
+53
+00:04:19,796 --> 00:04:26,086
+[Q8答案句] ⭐ be informed of... —— 被告知……｜access code —— 进入／开启密码
+
+54
+00:04:26,086 --> 00:04:32,157
+(Q9) ⭐ cleaning equipment —— 清洁设备／用品｜detergent —— 清洁剂
+
+55
+00:04:32,157 --> 00:04:39,501
+⭐ after everyone's gone —— 所有人离开之后｜sweep the floors —— 扫地
+
+56
+00:04:39,501 --> 00:04:44,308
+[Q9答案句] ⭐ not just..., but... —— 不只是……而是……｜wash the floors —— 清洗／拖洗地板
+
+57
+00:04:44,308 --> 00:04:48,033
+(Q10) ⭐ be provided with... —— 获得／被提供……
+
+58
+00:04:48,033 --> 00:04:52,334
+[Q10答案句] ⭐ collect something up —— 把……全部收集起来｜leave something outside the door —— 把某物放在门外
+
+59
+00:04:52,334 --> 00:04:56,081
+⭐ leave everything tidy —— 离开时把一切整理干净
+
+60
+00:04:56,081 --> 00:05:02,385
+⭐ I forgot to ask... —— 我忘了问……｜I presume... —— 我想／我推测……｜have decorations in the room —— 在房间里布置装饰品
+
+61
+00:05:02,385 --> 00:05:05,861
+⭐ take decorations down —— 拆除装饰品｜afterwards —— 之后
+
+62
+00:05:05,861 --> 00:05:06,953
+
+
+63
+00:05:06,953 --> 00:05:12,470
+⭐ stack something up —— 把某物堆叠起来｜neatly —— 整齐地｜at the back of the room —— 在房间后方
+
+64
+00:05:12,470 --> 00:05:14,970
+⭐ make sure one has people to help —— 确保有人提供帮助
+
