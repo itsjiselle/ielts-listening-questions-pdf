@@ -1,0 +1,208 @@
+1
+00:00:00,531 --> 00:00:03,913
+(Q1) Good Morning, Youth Council. Caroline speaking.
+
+2
+00:00:03,913 --> 00:00:10,296
+Oh, hello, I'm interested in standing for election to the Youth Council, and I was told to give you a call.
+
+3
+00:00:10,296 --> 00:00:15,636
+That's good. Could I have your name, please? Yes, it's Roger Brown.
+
+4
+00:00:15,636 --> 00:00:24,021
+Thank you. I'm Caroline, the Youth Council administrator. So do you know much about what the Council does, Roger?
+
+5
+00:00:24,021 --> 00:00:28,469
+I've talked to Stephanie - I think she's the chair of the Council.
+
+6
+00:00:28,469 --> 00:00:31,444
+That's right. And she told me a lot about it.
+
+7
+00:00:31,444 --> 00:00:38,266
+How it's a way for young people to discuss local issues, for example, and make suggestions to the town council.
+
+8
+00:00:38,266 --> 00:00:40,073
+That's what made me interested.&nbsp;
+
+9
+00:00:40,073 --> 00:00:44,499
+Fine. Well let me take down some of your details.
+
+10
+00:00:44,499 --> 00:00:51,503
+First of all, how old are you? You know the Council is for young people aged from 13 to 18?
+
+11
+00:00:51,503 --> 00:00:53,112
+[🟢前一题内容定位] I've just turned 18.&nbsp;
+
+12
+00:00:53,112 --> 00:00:58,267
+[🟢 live=stay] And where do you live, Roger? Well, that's a bit complicated.
+
+13
+00:00:58,267 --> 00:01:07,707
+[Q1答案句] At the moment I'm looking for a flat to rent here, so I'm in a hostel from Monday to Friday, I go back to my parents' place at the weekend.
+
+14
+00:01:07,707 --> 00:01:13,142
+(Q2) OK, so where's the best place to send you some information about the Council?
+
+15
+00:01:13,142 --> 00:01:15,511
+Oh，to my parents' address, please.
+
+16
+00:01:15,511 --> 00:01:28,800
+[Q2答案句] That's 17, Buckleigh Street-B-U-C-K-L-E-I-G-H Street, Stamford, Lincolnshire,
+
+17
+00:01:28,800 --> 00:01:35,017
+though you don't really need the county. Oh, I know Stamford - it's a lovely town.
+
+18
+00:01:35,017 --> 00:01:36,801
+(Q3) And what's the postcode?&nbsp;
+
+19
+00:01:36,801 --> 00:01:41,589
+[Q3答案句] PE9 7QT
+
+20
+00:01:41,589 --> 00:01:46,776
+(Q4) Right, thank you. So are you working here, or are you a student?
+
+21
+00:01:46,776 --> 00:01:53,605
+I started studying at the university a couple of weeks ago, and I've got a part-time job for a few hours a week.
+
+22
+00:01:53,605 --> 00:01:57,358
+What do you do? Well, I've done several different things.
+
+23
+00:01:57,358 --> 00:02:04,168
+[Q4答案句+⭕️干扰项] I've just finished a short-term contract as a courier, and now I'm working as a waiter in one of the big hotels.
+
+24
+00:02:04,168 --> 00:02:07,317
+Uhuh. That can't leave you much time for studying!
+
+25
+00:02:07,317 --> 00:02:10,415
+Oh, it's not too bad. I manage to fit it all in.&nbsp;
+
+26
+00:02:10,415 --> 00:02:12,165
+(Q5) What are you studying?
+
+27
+00:02:12,165 --> 00:02:17,738
+[Q5答案句] My ambition is to go into parliament eventually, so my major subject is politics.
+
+28
+00:02:17,738 --> 00:02:23,298
+That's partly why I think the Youth Council is important and want to be a part of it.
+
+29
+00:02:23,298 --> 00:02:30,255
+And I suppose you've also taking a minor subject, aren't you? I know a lot of people study economics too.
+
+30
+00:02:30,255 --> 00:02:36,088
+I chose history. To be honest, I'm not finding it as interesting as I expected!
+
+31
+00:02:36,088 --> 00:02:43,229
+(Q6) OK, so with your studying and your part-time job, do you have time for any other interests or hobbies?
+
+32
+00:02:43,229 --> 00:02:50,039
+[Q6答案句] Well, I spend quite a lot of time cycling both around town to get to university and to work,
+
+33
+00:02:50,039 --> 00:02:53,353
+and also long-distance, from here to London, for instance.
+
+34
+00:02:53,353 --> 00:02:56,768
+(Q7) [🟢 anything else = and] That's pretty impressive! Anything else?
+
+35
+00:02:56,768 --> 00:03:04,767
+[Q7答案句] For relaxation I'm also keen on the cinema - I used to go at least once a week，but I can't manage to go so often now.
+
+36
+00:03:04,767 --> 00:03:09,391
+(Q8) Right. Are you sure you'll have enough time for the Youth Council?
+
+37
+00:03:09,391 --> 00:03:14,627
+Yes, I've worked out that I can afford to reduce my hours at work, and that will make the time.
+
+38
+00:03:14,627 --> 00:03:19,738
+[🟢Q7定位 专有名词] So is there any particular aspect of the Youth Council's work that appeals to you, Roger?
+
+39
+00:03:19,738 --> 00:03:30,282
+[Q8答案句] Well my sister is blind, so I'm particularly interested in working with disabled young people, to try and improve the quality of their lives.
+
+40
+00:03:30,282 --> 00:03:36,681
+(Q9) That's great. Well, the best way to get involved is to be nominated by some people who you know.
+
+41
+00:03:36,681 --> 00:03:40,390
+Right. Can you tell me how to set about organising that?
+
+42
+00:03:40,390 --> 00:03:44,399
+[🟢 定位 专有名词] You should talk to Jeffrey, our Elections Officer.
+
+43
+00:03:44,399 --> 00:03:49,047
+I can arrange a meeting in the council office with him, if you like. Yes, please.
+
+44
+00:03:49,047 --> 00:03:52,901
+He'll be here next Monday, if that suits you.
+
+45
+00:03:52,901 --> 00:03:58,029
+That's the 14th, isn't it? Yes. I can manage late afternoon.
+
+46
+00:03:58,029 --> 00:04:03,301
+Would you like to suggest a time? He generally leaves around 5.30.
+
+47
+00:04:03,301 --> 00:04:11,100
+[Q9答案句+等确定] Well, would 4.30 be OK? My last class finishes at 4, so I'd have plenty of time to get to your office.
+
+48
+00:04:11,100 --> 00:04:13,046
+Right, that's fine.&nbsp;
+
+49
+00:04:13,046 --> 00:04:16,864
+(Q10) Oh, and could I have a phone number we can contact you on?
+
+50
+00:04:16,864 --> 00:04:25,638
+[Q10答案句] Yes, my mobile number's 07788 136711.
+
+51
+00:04:25,638 --> 00:04:30,039
+Thank you. Well, well look forward to seeing you next week.
+
+52
+00:04:30,039 --> 00:04:32,539
+Thanks very much. Goodbye. Bye.
+
