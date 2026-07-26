@@ -1,0 +1,236 @@
+1
+00:00:00,720 --> 00:00:03,431
+(Q1) Good evening. King's Restaurant.
+
+2
+00:00:03,431 --> 00:00:08,004
+Good evening. I'm ringing about the job I understand you have vacant.
+
+3
+00:00:08,004 --> 00:00:08,995
+Oh yes.
+
+4
+00:00:08,995 --> 00:00:11,882
+I'd like to find out a few more details, if I may.
+
+5
+00:00:11,882 --> 00:00:13,868
+Yes, of course. Can I take your name?
+
+6
+00:00:13,868 --> 00:00:15,899
+It's Peter Chin.
+
+7
+00:00:15,899 --> 00:00:25,128
+Okay Peter. Well, if you want to ask about the job and then if we're both still interested, we could arrange for you to come for an interview.
+
+8
+00:00:25,128 --> 00:00:31,046
+Great, thanks. I'm afraid I missed the advert for the job but heard about it from a friend.
+
+9
+00:00:31,046 --> 00:00:33,699
+That's no problem at all. What would you like to know?
+
+10
+00:00:33,699 --> 00:00:38,076
+[🟢 定位] Well, um, what sort of work is it - washing up?
+
+11
+00:00:38,076 --> 00:00:40,097
+[Q1答案句] It's answering the phone.
+
+12
+00:00:40,097 --> 00:00:42,719
+Oh right, fine.
+
+13
+00:00:42,719 --> 00:00:45,244
+And not waiting at table.
+
+14
+00:00:45,244 --> 00:00:49,548
+(Q2) That'd be good. And how many nights a week would it be?
+
+15
+00:00:49,548 --> 00:00:52,559
+Well, we're really only busy at the weekend.
+
+16
+00:00:52,559 --> 00:00:54,092
+So two nights?
+
+17
+00:00:54,092 --> 00:00:57,942
+Three actually, so it would work out at twelve hours a week.
+
+18
+00:00:57,942 --> 00:01:01,413
+That'd be fine. It wouldn't interfere with my studies.
+
+19
+00:01:01,413 --> 00:01:02,875
+Are you at the university?
+
+20
+00:01:02,875 --> 00:01:05,208
+Yes. First year Physics student.
+
+21
+00:01:05,208 --> 00:01:06,141
+Oh, right.
+
+22
+00:01:06,141 --> 00:01:11,621
+Um, and because I'm not an EU national would I need a work permit?
+
+23
+00:01:11,621 --> 00:01:14,622
+Yes you would. Just get your tutor to sign it.
+
+24
+00:01:14,622 --> 00:01:21,125
+That wouldn't be a problem, if I were to get the job. Um, where exactly is the restaurant?
+
+25
+00:01:21,125 --> 00:01:27,227
+Well, we have two branches - the one we're recruiting for is in Hillsdunne Road.
+
+26
+00:01:27,227 --> 00:01:30,997
+I don't know that. How do you spell it please?
+
+27
+00:01:30,997 --> 00:01:38,338
+[Q2答案句] It's H-I-double L-S-D-U-double N-E Road.
+
+28
+00:01:38,338 --> 00:01:42,420
+(Q3) Got that. Thanks. Is it near a bus stop?
+
+29
+00:01:42,420 --> 00:01:46,107
+[Q3答案句] Yes. The nearest one would probably be just beside the Library.
+
+30
+00:01:46,107 --> 00:01:52,234
+(Q4) Oh yes, I know it. That'd be fine for me. And could I ask about the pay?
+
+31
+00:01:52,234 --> 00:01:55,363
+[Q4答案句] We're offering £4.45 an hour.
+
+32
+00:01:55,363 --> 00:02:02,136
+That's very good. My last job was £3.95 an hour.
+
+33
+00:02:02,136 --> 00:02:06,153
+(Q5) We feel it's pretty good and we also offer some good fringe benefits.
+
+34
+00:02:06,153 --> 00:02:06,942
+Really?
+
+35
+00:02:06,942 --> 00:02:10,201
+Well, we give you a free dinner, so you eat well.
+
+36
+00:02:10,201 --> 00:02:12,707
+Right, better than hostel food!
+
+37
+00:02:12,707 --> 00:02:18,344
+[Q5答案句] We certainly hope so! And we also offer extra pay for working on national holidays.
+
+38
+00:02:18,344 --> 00:02:20,293
+(Q6) Oh, that's a really good perk, isn't it?
+
+39
+00:02:20,293 --> 00:02:28,053
+[Q6答案句] Yes, we think so. And then because of the difficulties of getting public transport, if you're working after 11 o'clock we drive you home.
+
+40
+00:02:28,053 --> 00:02:29,628
+Oh, that's good to know.
+
+41
+00:02:29,628 --> 00:02:35,003
+(Q7) Well, we'd certainly be interested in inviting you for an interview, if you're still interested?
+
+42
+00:02:35,003 --> 00:02:41,008
+Oh yes, certainly. Could I just also ask what qualities you're looking for?
+
+43
+00:02:41,008 --> 00:02:48,424
+[Q7答案句] Well, for this particular job we want a clear voice, which you obviously do have!
+
+44
+00:02:48,424 --> 00:02:49,640
+Thanks.
+
+45
+00:02:49,640 --> 00:02:52,970
+(Q8) [Q8答案句] And you must be able to think quickly, you know.
+
+46
+00:02:52,970 --> 00:02:54,629
+Well, I hope I'd.
+
+47
+00:02:54,629 --> 00:02:59,328
+(Q9) So, when could you come in for an interview? We're actually quite quiet tonight?
+
+48
+00:02:59,328 --> 00:03:07,975
+[Q9答案句] Sorry, I couldn't come tonight. Or tomorrow, I'm afraid. Thursday's okay - that'd be 22nd of October.
+
+49
+00:03:07,975 --> 00:03:09,758
+Fine, after 5 p.m.?
+
+50
+00:03:09,758 --> 00:03:12,960
+Yes, fine. Would 6 o'clock be okay?
+
+51
+00:03:12,960 --> 00:03:17,191
+(Q10) Perfect. And could you bring along with the names of two referees?
+
+52
+00:03:17,191 --> 00:03:18,913
+Yes, that's fine, no problem.
+
+53
+00:03:18,913 --> 00:03:21,259
+Good, I look forward to seeing you.
+
+54
+00:03:21,259 --> 00:03:24,815
+Oh, by the way, who should I ask for?
+
+55
+00:03:24,815 --> 00:03:28,385
+Oh yes, of course, sorry. My name is Samira Manuja.
+
+56
+00:03:28,385 --> 00:03:30,903
+Can you spell that, please?
+
+57
+00:03:30,903 --> 00:03:35,414
+[Q10答案句] M-A-N-U-J-A.&nbsp;&nbsp;
+
+58
+00:03:35,414 --> 00:03:38,997
+Okay, I've got that. Thanks very much.
+
+59
+00:03:38,997 --> 00:03:41,497
+Look forward to seeing you…
+
