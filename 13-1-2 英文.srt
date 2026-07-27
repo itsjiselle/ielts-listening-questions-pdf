@@ -1,0 +1,124 @@
+1
+00:00:01,871 --> 00:00:17,541
+(Q11（单选）) Good evening everyone. My name's Phil Sutton, and I'm chairman of the Highways Committee. We've called this meeting to inform members of the public about the new regulations for traffic and parking we're proposing for Granford.
+
+2
+00:00:17,541 --> 00:00:24,021
+I'll start by summarising these changes before we open the meeting to questions.
+
+3
+00:00:24,021 --> 00:00:35,512
+[🟢 system定位词出现] So, why do we need to make these changes to traffic systems in Granford? Well, we're very aware that traffic is becoming an increasing problem.
+
+4
+00:00:35,512 --> 00:00:42,737
+[❌C， traffic 可以表示vehicles，但关于types 和 change并没有提及，只是大型车辆的amount有明显增加 不等于 车辆type有变化] It's been especially noticeable with the increase in heavy traffic while they've been building the new hospital.
+
+5
+00:00:42,737 --> 00:00:49,090
+[✅B， amount= volumn， rise = increase] But it's the overall rise in the volume of traffic of all kinds that's concerning us.
+
+6
+00:00:49,090 --> 00:00:57,253
+[❌A，否定原文， not] To date there's not been any increase in traffic accidents, but that's not something we want to see happen, obviously.
+
+7
+00:00:57,253 --> 00:01:04,450
+(Q12) [🟢定位词 survey] We recently carried out a survey of local residents, and their responses were interesting.
+
+8
+00:01:04,450 --> 00:01:12,995
+[✅C， lack of visibility = inconvenience 解释； due to cars parked = parked cars] People were very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads.
+
+9
+00:01:12,995 --> 00:01:22,998
+[❌A， parents重现， 但指的是congestion拥堵，不一定是dangerous driving， 偷换概念。     +否定原文， wasn't top of the list] We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up, but this wasn't top of the list,
+
+10
+00:01:22,998 --> 00:01:29,888
+[❌B， 否定， nor were ....] and nor were noise and fumes from trucks and lorries, though they were mentioned by some people.
+
+11
+00:01:29,888 --> 00:01:37,945
+(Q13) [🟢 定位词 regulations] We think these new traffic regulations would make a lot of difference. But we still have a long way to go.
+
+12
+00:01:37,945 --> 00:01:45,144
+[❌A， 否定原文， 控制在范围内 就不需要raise money了] We've managed to keep our proposals within budget, just, so they can be covered by the Council.
+
+13
+00:01:45,144 --> 00:01:52,375
+[✅B， obey= follow， no good ... if ... = problem【态度】] But, of course, it's no good introducing new regulations if we don't have a way of making sure that everyone obeys them,
+
+14
+00:01:52,375 --> 00:01:58,495
+[❌C【代词指代】， 已经说了 让人obey才能好好实行——选项C来自police的support也是支持这件事（让人obey 这个regulation）的，所以选最核心的那件事。/ 或者说，原文的意思，其实表明已经取得了police的support了， 需要work on 的还是上面那件事（让人obey）] and that's an area we're still working on with the help of representatives from the police force.
+
+15
+00:01:58,495 --> 00:02:09,257
+(Q14（地图题）) OK, so this slide shows a map of the central area of Granford, with the High Street in the middle and School Road on the right.
+
+16
+00:02:09,257 --> 00:02:24,879
+Now, we already have a set of traffic lights in the High Street at the junction with Station Road, but we're planning to have another set at the other end, at the School Road junction, to regulate the flow of traffic along the High Street.
+
+17
+00:02:24,879 --> 00:02:30,189
+(Q15) We've decided we definitely need a pedestrian crossing.
+
+18
+00:02:30,189 --> 00:02:34,734
+We considered putting this on School Road, just outside the school,&nbsp;
+
+19
+00:02:34,734 --> 00:02:46,275
+but in the end we decided that could lead to a lot of traffic congestion so we decided to locate it on the High Street, crossing the road in front of the supermarket.
+
+20
+00:02:46,275 --> 00:02:49,906
+That's a very busy area, so it should help things there.
+
+21
+00:02:49,906 --> 00:03:07,344
+(Q16) We're proposing some changes to parking. At present, parking isn't allowed on the High Street outside the library, but we're going to change that, and allow parking there, but not at the other end of the High Street near School Road.
+
+22
+00:03:07,344 --> 00:03:15,751
+(Q17) There'll be a new 'No Parking' sign on School Road, just by the entrance to the school, forbidding parking for 25 metres.&nbsp;
+
+23
+00:03:15,751 --> 00:03:23,790
+This should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school.&nbsp;
+
+24
+00:03:23,790 --> 00:03:30,829
+(Q18) As far as disabled drivers are concerned, at present they have parking outside the supermarket,&nbsp;
+
+25
+00:03:30,829 --> 00:03:40,386
+but lorries also use those spaces, so we've got two new disabled parking spaces on the side road up towards the bank.
+
+26
+00:03:40,386 --> 00:03:45,345
+It's not ideal, but probably better than the present arrangement.&nbsp;
+
+27
+00:03:45,345 --> 00:03:49,830
+(Q19) We also plan to widen the pavement on School Road.
+
+28
+00:03:49,830 --> 00:03:56,965
+We think we can manage to get an extra half-metre on the bend just before you get to the school, on the same side of the road.
+
+29
+00:03:56,965 --> 00:04:08,666
+(Q20) Finally, we've introduced new restrictions on loading and unloading for the supermarket, so lorries will only be allowed to stop there before 8 am.
+
+30
+00:04:08,666 --> 00:04:16,537
+That's the supermarket on School Road - we kept to the existing arrangements with the High Street supermarket.
+
+31
+00:04:16,537 --> 00:04:19,037
+OK. So that's about it. Now, would anyone ...
+

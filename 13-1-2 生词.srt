@@ -1,0 +1,124 @@
+1
+00:00:01,871 --> 00:00:17,541
+(Q11（单选）) 
+
+2
+00:00:17,541 --> 00:00:24,021
+
+
+3
+00:00:24,021 --> 00:00:35,512
+[🟢 system定位词出现] 
+
+4
+00:00:35,512 --> 00:00:42,737
+[❌C， traffic 可以表示vehicles，但关于types 和 change并没有提及，只是大型车辆的amount有明显增加 不等于 车辆type有变化] 
+
+5
+00:00:42,737 --> 00:00:49,090
+[✅B， amount= volumn， rise = increase] 
+
+6
+00:00:49,090 --> 00:00:57,253
+[❌A，否定原文， not] 
+
+7
+00:00:57,253 --> 00:01:04,450
+(Q12) [🟢定位词 survey] 
+
+8
+00:01:04,450 --> 00:01:12,995
+[✅C， lack of visibility = inconvenience 解释； due to cars parked = parked cars] 
+
+9
+00:01:12,995 --> 00:01:22,998
+[❌A， parents重现， 但指的是congestion拥堵，不一定是dangerous driving， 偷换概念。     +否定原文， wasn't top of the list] 
+
+10
+00:01:22,998 --> 00:01:29,888
+[❌B， 否定， nor were ....] 
+
+11
+00:01:29,888 --> 00:01:37,945
+(Q13) [🟢 定位词 regulations] 
+
+12
+00:01:37,945 --> 00:01:45,144
+[❌A， 否定原文， 控制在范围内 就不需要raise money了] 
+
+13
+00:01:45,144 --> 00:01:52,375
+[✅B， obey= follow， no good ... if ... = problem【态度】] 
+
+14
+00:01:52,375 --> 00:01:58,495
+[❌C【代词指代】， 已经说了 让人obey才能好好实行——选项C来自police的support也是支持这件事（让人obey 这个regulation）的，所以选最核心的那件事。/ 或者说，原文的意思，其实表明已经取得了police的support了， 需要work on 的还是上面那件事（让人obey）] 
+
+15
+00:01:58,495 --> 00:02:09,257
+(Q14（地图题）) 
+
+16
+00:02:09,257 --> 00:02:24,879
+⭐ a set of traffic lights —— 一组交通灯｜at the junction with... —— 在与……的交叉口｜at the other end —— 在另一端｜regulate the flow of traffic —— 调节交通流量
+
+17
+00:02:24,879 --> 00:02:30,189
+(Q15) ⭐ decide we need sth —— 决定需要某物｜pedestrian crossing —— 人行横道
+
+18
+00:02:30,189 --> 00:02:34,734
+⭐ consider doing sth —— 考虑做某事｜just outside... —— 就在……外面
+
+19
+00:02:34,734 --> 00:02:46,275
+⭐ in the end —— 最终｜lead to —— 导致｜traffic congestion —— 交通拥堵｜locate sth on... —— 将某物设置在……｜in front of —— 在……前面
+
+20
+00:02:46,275 --> 00:02:49,906
+⭐ busy area —— 繁忙区域｜help things —— 改善情况（口语表达）
+
+21
+00:02:49,906 --> 00:03:07,344
+(Q16) ⭐ propose changes to sth —— 提出对某事的调整｜at present —— 目前｜parking isn't allowed —— 不允许停车｜allow parking —— 允许停车｜the other end of... —— ……另一端
+
+22
+00:03:07,344 --> 00:03:15,751
+(Q17) ⭐ No Parking sign —— 禁止停车标志｜just by —— 就在……旁边｜entrance to... —— ……入口｜forbid parking —— 禁止停车
+
+23
+00:03:15,751 --> 00:03:23,790
+⭐ improve visibility —— 提高可见度｜bend —— 弯道｜to the north of... —— 在……北方
+
+24
+00:03:23,790 --> 00:03:30,829
+(Q18) ⭐ as far as... are concerned —— 就……而言
+
+25
+00:03:30,829 --> 00:03:40,386
+⭐ disabled drivers —— 残疾司机｜at present —— 目前｜parking spaces —— 停车位｜side road —— 支路｜up towards... —— 朝……方向
+
+26
+00:03:40,386 --> 00:03:45,345
+⭐ not ideal —— 不理想的｜present arrangement —— 当前安排
+
+27
+00:03:45,345 --> 00:03:49,830
+(Q19) ⭐ widen the pavement —— 拓宽人行道
+
+28
+00:03:49,830 --> 00:03:56,965
+⭐ manage to do sth —— 设法做到某事｜extra half-metre —— 额外半米｜just before... —— 就在……之前｜the same side of the road —— 道路同一侧
+
+29
+00:03:56,965 --> 00:04:08,666
+(Q20) ⭐ introduce restrictions on... —— 对……实施限制｜loading and unloading —— 装货和卸货｜be allowed to do sth —— 被允许做某事｜before 8 am —— 上午8点之前
+
+30
+00:04:08,666 --> 00:04:16,537
+⭐ keep to sth —— 保持；遵守｜existing arrangements —— 现有安排
+
+31
+00:04:16,537 --> 00:04:19,037
+⭐ that's about it —— 差不多就是这些了
+
