@@ -24,19 +24,19 @@ Sorry?
 
 7
 00:00:27,658 --> 00:00:35,179
-(Q2) [Q1答案句] The Charlton Room - C-H-A-R-L-T-O-N. Charlton Room，
+[Q1答案句] The Charlton Room - C-H-A-R-L-T-O-N. Charlton Room，
 
 8
-00:00:35,179 --> 00:00:38,436
-[Q2定位词] That's got seating for up to one hundred.
+00:00:35,179 --> 00:00:38,435
+That's got seating for up to one hundred.
 
 9
-00:00:38,436 --> 00:00:47,255
-(Q2) [Q2答案句+干扰] Well, we're organizing a dinner to raise money for a charity, and we're hoping for at least 150 people,
+00:00:38,435 --> 00:00:47,255
+(Q2) Well, we're organizing a dinner to raise money for a charity, and we're hoping for at least 150 people,
 
 10
 00:00:47,255 --> 00:00:53,612
-(Q3) [Q2定位词] so I think well go for the Main Hall. How much would that cost?
+so I think well go for the Main Hall. How much would that cost?
 
 11
 00:00:53,612 --> 00:00:59,173
@@ -44,7 +44,7 @@ Let's see. You wanted it for the evening of September 1st?
 
 12
 00:00:59,173 --> 00:01:01,279
-[Q3答案句] Yes, that's a Saturday.
+Yes, that's a Saturday.
 
 13
 00:01:01,279 --> 00:01:13,706
@@ -55,12 +55,12 @@ Let's see. You wanted it for the evening of September 1st?
 That's all right.
 
 15
-00:01:15,141 --> 00:01:20,954
+00:01:15,141 --> 00:01:20,953
 (Q3) And I have to tell you there's also a deposit of 250,
 
 16
-00:01:20,954 --> 00:01:24,885
-[Q4答案句] which is returnable of course as long as there's no damage.
+00:01:20,953 --> 00:01:24,885
+which is returnable of course as long as there's no damage.
 
 17
 00:01:24,885 --> 00:01:31,414
@@ -79,36 +79,36 @@ Oh, well I suppose that's OK.
 (Q4) So does the charge include use of tables and chairs and so on?
 
 21
-00:01:47,620 --> 00:01:49,097
+00:01:47,620 --> 00:01:49,096
 oh, yes.
 
 22
-00:01:49,097 --> 00:01:51,466
-(Q5) [Q4答案句] And what about parking?
+00:01:49,096 --> 00:01:51,465
+[Q4答案句] And what about parking?
 
 23
-00:01:51,466 --> 00:01:59,831
-[Q5答案句] Yeah, that's all included. The only thing that isn't included is...you said you were organising a dinner?
+00:01:51,465 --> 00:01:59,831
+Yeah, that's all included. The only thing that isn't included is...you said you were organising a dinner?
 
 24
-00:01:59,831 --> 00:02:00,868
+00:01:59,831 --> 00:02:00,867
 Yeah.
 
 25
-00:02:00,868 --> 00:02:07,734
-(Q6) Well, you'll have to pay extra for the kitchen if you want to use that. It's 25.
+00:02:00,867 --> 00:02:07,733
+Well, you'll have to pay extra for the kitchen if you want to use that. It's 25.
 
 26
-00:02:07,734 --> 00:02:13,354
-[Q6答案句] It's got very good facilities - good quality cookers and fridges and so on.
+00:02:07,733 --> 00:02:13,354
+It's got very good facilities - good quality cookers and fridges and so on.
 
 27
-00:02:13,354 --> 00:02:20,283
+00:02:13,354 --> 00:02:20,282
 OK, well I suppose that s all right. We can cover the cost in our entry charges.
 
 28
-00:02:20,283 --> 00:02:24,197
-(Q7) Right. So I'll make a note of that.
+00:02:20,282 --> 00:02:24,197
+Right. So I'll make a note of that.
 
 29
 00:02:24,197 --> 00:02:29,548
@@ -120,22 +120,22 @@ OK, well I suppose that s all right. We can cover the cost in our entry charges.
 
 31
 00:02:36,616 --> 00:02:37,729
-[Q7答案句] Oh, really?
+Oh, really?
 
 32
 00:02:37,729 --> 00:02:41,961
-(Q8) it's quite straightforward, I'll give you the details later on.
+it's quite straightforward, I'll give you the details later on.
 
 33
 00:02:41,961 --> 00:02:48,888
 (Q6) And about a week or ten days before your event you'll need to contact the caretaker,
 
 34
-00:02:48,888 --> 00:02:55,206
+00:02:48,888 --> 00:02:55,205
 [Q6答案句] that's Mr Evans, to make the arrangements for entry-he'll sort that out with you.
 
 35
-00:02:55,206 --> 00:02:58,145
+00:02:55,205 --> 00:02:58,145
 And do I give him the payment as well?
 
 36
@@ -147,23 +147,23 @@ No, you do that directly with me.
 (Q7) Right. Now is there anything I need to know about what happens during the event?
 
 38
-00:03:10,622 --> 00:03:15,908
+00:03:10,622 --> 00:03:15,907
 Well, as you'll be aware, of course the building is no smoking throughout.
 
 39
-00:03:15,908 --> 00:03:17,176
-[Q8定位词] Of course.
+00:03:15,907 --> 00:03:17,175
+Of course.
 
 40
-00:03:17,176 --> 00:03:19,314
-[Q8答案句] Now, are you having a band?
+00:03:17,175 --> 00:03:19,313
+Now, are you having a band?
 
 41
-00:03:19,314 --> 00:03:20,509
-(Q9) Yes.
+00:03:19,313 --> 00:03:20,508
+Yes.
 
 42
-00:03:20,509 --> 00:03:22,818
+00:03:20,508 --> 00:03:22,818
 Well, they'll have a lot of equipment,
 
 43
@@ -176,35 +176,35 @@ Well, they'll have a lot of equipment,
 
 45
 00:03:35,144 --> 00:03:36,455
-[Q10答案句] OK.
+OK.
 
 46
-00:03:36,455 --> 00:03:40,772
+00:03:36,455 --> 00:03:40,771
 And talking of bands, I'm sure I don't need to tell you this,
 
 47
-00:03:40,772 --> 00:03:47,003
+00:03:40,771 --> 00:03:47,002
 but you must make sure that no one fiddles about with the black box by the fire door
 
 48
-00:03:47,003 --> 00:03:54,004
+00:03:47,002 --> 00:03:54,003
 that's a system that cuts in when the volume reaches a certain level. It's a legal requirement.
 
 49
-00:03:54,004 --> 00:04:01,051
+00:03:54,003 --> 00:04:01,050
 Sure. Anyway, we want people to be able to talk to one another so we don't want anything too loud.
 
 50
-00:04:01,051 --> 00:04:08,414
+00:04:01,050 --> 00:04:08,413
 Oh, that reminds me, we'll be having speeches - are there any microphones available?
 
 51
-00:04:08,414 --> 00:04:12,538
-Yeah. Just let the caretaker know, he'll get those for you.
+00:04:08,413 --> 00:04:12,538
+[Q8定位词] Yeah. Just let the caretaker know, he'll get those for you.
 
 52
 00:04:12,538 --> 00:04:19,795
-[Q8定位词] Right, now when the event is over we do ask that the premises are left in good condition.
+Right, now when the event is over we do ask that the premises are left in good condition.
 
 53
 00:04:19,795 --> 00:04:26,086
@@ -216,11 +216,11 @@ Yeah. Just let the caretaker know, he'll get those for you.
 
 55
 00:04:32,156 --> 00:04:39,500
-Right. So what do we need to do after everyone's gone? Sweep the floors I suppose?
+[Q9答案句] Right. So what do we need to do after everyone's gone? Sweep the floors I suppose?
 
 56
 00:04:39,500 --> 00:04:44,307
-[Q9答案句] Well, actually they have to be washed, not just swept.
+Well, actually they have to be washed, not just swept.
 
 57
 00:04:44,307 --> 00:04:48,033
@@ -243,11 +243,11 @@ Oh, and I forgot to ask, I presume we can have decorations in the room?
 Yes, but you must take them down afterwards.
 
 62
-00:05:05,860 --> 00:05:06,952
+00:05:05,860 --> 00:05:06,951
 Sure.
 
 63
-00:05:06,952 --> 00:05:12,470
+00:05:06,951 --> 00:05:12,470
 And the chairs and tables should be stacked up neatly at the back of the room.
 
 64
