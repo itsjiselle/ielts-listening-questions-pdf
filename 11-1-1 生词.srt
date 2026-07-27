@@ -24,19 +24,19 @@
 
 7
 00:00:27,658 --> 00:00:35,179
-(Q2) [Q1答案句] ⭐ organize a dinner —— 组织一场晚宴｜raise money for... —— 为……筹款｜a charity —— 慈善机构｜at least... —— 至少……
+[Q1答案句] ⭐ organize a dinner —— 组织一场晚宴｜raise money for... —— 为……筹款｜a charity —— 慈善机构｜at least... —— 至少……
 
 8
-00:00:35,179 --> 00:00:38,436
-[Q2定位词] ⭐ go for... —— 选择……｜how much would that cost? —— 那需要多少钱？
+00:00:35,179 --> 00:00:38,435
+⭐ go for... —— 选择……｜how much would that cost? —— 那需要多少钱？
 
 9
-00:00:38,436 --> 00:00:47,255
-(Q2) [Q2答案句+干扰] ⭐ from...to midnight —— 从……到午夜｜weekend price —— 周末价格｜on weekdays —— 在工作日
+00:00:38,435 --> 00:00:47,255
+(Q2) ⭐ from...to midnight —— 从……到午夜｜weekend price —— 周末价格｜on weekdays —— 在工作日
 
 10
 00:00:47,255 --> 00:00:53,612
-(Q3) [Q2定位词] ⭐ a deposit of... —— 金额为……的押金
+⭐ a deposit of... —— 金额为……的押金
 
 11
 00:00:53,612 --> 00:00:59,173
@@ -44,7 +44,7 @@
 
 12
 00:00:59,173 --> 00:01:01,279
-[Q3答案句] ⭐ insist that... —— 坚持要求……｜pay in cash —— 用现金支付｜take cards —— 接受银行卡付款｜do insist —— 的确坚持要求（强调）
+⭐ insist that... —— 坚持要求……｜pay in cash —— 用现金支付｜take cards —— 接受银行卡付款｜do insist —— 的确坚持要求（强调）
 
 13
 00:01:01,279 --> 00:01:13,706
@@ -55,12 +55,12 @@
 ⭐ I suppose that's OK —— 我想应该可以
 
 15
-00:01:15,141 --> 00:01:20,954
+00:01:15,141 --> 00:01:20,953
 (Q3) ⭐ does the charge include...? —— 这笔费用包括……吗？｜and so on —— 等等
 
 16
-00:01:20,954 --> 00:01:24,885
-[Q4答案句] ⭐ what about...? —— 那……呢？
+00:01:20,953 --> 00:01:24,885
+⭐ what about...? —— 那……呢？
 
 17
 00:01:24,885 --> 00:01:31,414
@@ -79,36 +79,36 @@
 (Q4) ⭐ cover the cost —— 支付／弥补费用｜entry charge —— 入场费
 
 21
-00:01:47,620 --> 00:01:49,097
+00:01:47,620 --> 00:01:49,096
 ⭐ make a note of... —— 记下……
 
 22
-00:01:49,097 --> 00:01:51,466
-(Q5) [Q4答案句] ⭐ one or two things —— 一两件事情；几个事项｜think about... —— 考虑……
+00:01:49,096 --> 00:01:51,465
+[Q4答案句] ⭐ one or two things —— 一两件事情；几个事项｜think about... —— 考虑……
 
 23
-00:01:51,466 --> 00:01:59,831
-[Q5答案句] ⭐ see about doing something —— 着手安排／设法处理某事｜get a licence —— 取得许可证｜plan to do something —— 计划做某事
+00:01:51,465 --> 00:01:59,831
+⭐ see about doing something —— 着手安排／设法处理某事｜get a licence —— 取得许可证｜plan to do something —— 计划做某事
 
 24
-00:01:59,831 --> 00:02:00,868
+00:01:59,831 --> 00:02:00,867
 ⭐ straightforward —— 简单明了的；不复杂的｜give someone the details —— 把具体信息告诉某人｜later on —— 稍后
 
 25
-00:02:00,868 --> 00:02:07,734
-(Q6) ⭐ contact the caretaker —— 联系场地管理员｜about a week or ten days before... —— 在……前大约一周到十天
+00:02:00,867 --> 00:02:07,733
+⭐ contact the caretaker —— 联系场地管理员｜about a week or ten days before... —— 在……前大约一周到十天
 
 26
-00:02:07,734 --> 00:02:13,354
-[Q6答案句] ⭐ make arrangements for... —— 安排……｜sort something out with someone —— 与某人协商并解决／安排某事
+00:02:07,733 --> 00:02:13,354
+⭐ make arrangements for... —— 安排……｜sort something out with someone —— 与某人协商并解决／安排某事
 
 27
-00:02:13,354 --> 00:02:20,283
+00:02:13,354 --> 00:02:20,282
 ⭐ deal directly with someone —— 直接与某人办理／处理
 
 28
-00:02:20,283 --> 00:02:24,197
-(Q7) ⭐ is there anything I need to know about...? —— 关于……有什么是我需要了解的吗？
+00:02:20,282 --> 00:02:24,197
+⭐ is there anything I need to know about...? —— 关于……有什么是我需要了解的吗？
 
 29
 00:02:24,197 --> 00:02:29,548
@@ -120,22 +120,22 @@
 
 31
 00:02:36,616 --> 00:02:37,729
-[Q7答案句] ⭐ rather than doing something —— 而不是做某事｜round the back —— 在建筑物后方｜stage door —— 舞台入口；后台门
+⭐ rather than doing something —— 而不是做某事｜round the back —— 在建筑物后方｜stage door —— 舞台入口；后台门
 
 32
 00:02:37,729 --> 00:02:41,961
-(Q8) ⭐ from inside —— 从里面｜at the end —— 最后；活动结束时
+⭐ from inside —— 从里面｜at the end —— 最后；活动结束时
 
 33
 00:02:41,961 --> 00:02:48,888
 (Q6) ⭐ talking of... —— 说到……｜I'm sure I don't need to tell you... —— 我想不用我提醒你……
 
 34
-00:02:48,888 --> 00:02:55,206
+00:02:48,888 --> 00:02:55,205
 [Q6答案句] ⭐ make sure that... —— 确保……｜fiddle about with... —— 随意摆弄；乱动……｜fire door —— 消防门
 
 35
-00:02:55,206 --> 00:02:58,145
+00:02:55,205 --> 00:02:58,145
 ⭐ cut in —— 自动启动；介入运行｜reach a certain level —— 达到一定程度｜a legal requirement —— 法律规定的要求
 
 36
@@ -147,23 +147,23 @@
 (Q7) ⭐ that reminds me —— 这倒提醒了我｜have speeches —— 安排致辞｜be available —— 可供使用
 
 38
-00:03:10,622 --> 00:03:15,908
+00:03:10,622 --> 00:03:15,907
 ⭐ let someone know —— 告诉某人｜get something for someone —— 为某人准备／取来某物
 
 39
-00:03:15,908 --> 00:03:17,176
-[Q8定位词] ⭐ when the event is over —— 活动结束后｜the premises —— 场地；建筑物及其附属区域｜leave something in good condition —— 使某物保持良好状态｜do ask that... —— 确实要求……（强调）
+00:03:15,907 --> 00:03:17,175
+⭐ when the event is over —— 活动结束后｜the premises —— 场地；建筑物及其附属区域｜leave something in good condition —— 使某物保持良好状态｜do ask that... —— 确实要求……（强调）
 
 40
-00:03:17,176 --> 00:03:19,314
-[Q8答案句] ⭐ be informed of... —— 被告知……｜access code —— 进入／开启密码
+00:03:17,175 --> 00:03:19,313
+⭐ be informed of... —— 被告知……｜access code —— 进入／开启密码
 
 41
-00:03:19,314 --> 00:03:20,509
-(Q9) ⭐ cleaning equipment —— 清洁设备／用品｜detergent —— 清洁剂
+00:03:19,313 --> 00:03:20,508
+⭐ cleaning equipment —— 清洁设备／用品｜detergent —— 清洁剂
 
 42
-00:03:20,509 --> 00:03:22,818
+00:03:20,508 --> 00:03:22,818
 ⭐ after everyone's gone —— 所有人离开之后｜sweep the floors —— 扫地
 
 43
@@ -176,35 +176,35 @@
 
 45
 00:03:35,144 --> 00:03:36,455
-[Q10答案句] ⭐ collect something up —— 把……全部收集起来｜leave something outside the door —— 把某物放在门外
+⭐ collect something up —— 把……全部收集起来｜leave something outside the door —— 把某物放在门外
 
 46
-00:03:36,455 --> 00:03:40,772
+00:03:36,455 --> 00:03:40,771
 ⭐ leave everything tidy —— 离开时把一切整理干净
 
 47
-00:03:40,772 --> 00:03:47,003
+00:03:40,771 --> 00:03:47,002
 ⭐ I forgot to ask... —— 我忘了问……｜I presume... —— 我想／我推测……｜have decorations in the room —— 在房间里布置装饰品
 
 48
-00:03:47,003 --> 00:03:54,004
+00:03:47,002 --> 00:03:54,003
 ⭐ take decorations down —— 拆除装饰品｜afterwards —— 之后
 
 49
-00:03:54,004 --> 00:04:01,051
+00:03:54,003 --> 00:04:01,050
 ⭐ stack something up —— 把某物堆叠起来｜neatly —— 整齐地｜at the back of the room —— 在房间后方
 
 50
-00:04:01,051 --> 00:04:08,414
+00:04:01,050 --> 00:04:08,413
 ⭐ make sure one has people to help —— 确保有人提供帮助
 
 51
-00:04:08,414 --> 00:04:12,538
-
+00:04:08,413 --> 00:04:12,538
+[Q8定位词] 
 
 52
 00:04:12,538 --> 00:04:19,795
-[Q8定位词] 
+
 
 53
 00:04:19,795 --> 00:04:26,086
@@ -216,11 +216,11 @@
 
 55
 00:04:32,156 --> 00:04:39,500
-
+[Q9答案句] 
 
 56
 00:04:39,500 --> 00:04:44,307
-[Q9答案句] 
+
 
 57
 00:04:44,307 --> 00:04:48,033
@@ -243,11 +243,11 @@
 
 
 62
-00:05:05,860 --> 00:05:06,952
+00:05:05,860 --> 00:05:06,951
 
 
 63
-00:05:06,952 --> 00:05:12,470
+00:05:06,951 --> 00:05:12,470
 
 
 64
