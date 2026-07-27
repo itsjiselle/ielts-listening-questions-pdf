@@ -1,0 +1,216 @@
+1
+00:00:01,455 --> 00:00:10,424
+(Q1) SALLY: Good morning. Thanks for coming in to see us here at the agency, JOE. I'm one of the agency representatives, and my name's SALLY Baker. SALLY：
+
+2
+00:00:10,424 --> 00:00:13,393
+JOE: Hi SALLY. I think we spoke on the phone, didn't we? JOE：
+
+3
+00:00:13,393 --> 00:00:23,930
+SALLY: That's right, we did. So thank you for sending in your CV. We've had quite a careful look at it and I think we have two jobs that might be suitable for you. SALLY：
+
+4
+00:00:23,930 --> 00:00:24,764
+JOE: OK.
+
+5
+00:00:24,764 --> 00:00:31,102
+SALLY: The first one is in a company based in North London. They're looking for an administrative assistant. SALLY：
+
+6
+00:00:31,102 --> 00:00:33,792
+JOE: OK. What sort of company is it? JOE：
+
+7
+00:00:33,792 --> 00:00:39,132
+[Q1答案句] SALLY: They're called Home Solutions and they design and make furniture. SALLY：
+
+8
+00:00:39,132 --> 00:00:43,545
+JOE: Oh, I don't know much about that, but it sounds interesting. JOE：
+
+9
+00:00:43,545 --> 00:00:52,787
+(Q2) SALLY: Yes, well as I said, they want someone in their office, and looking at your past experience it does look as if you fit quite a few of the requirements. SALLY：
+
+10
+00:00:52,787 --> 00:00:57,039
+So on your CV it appears you've done some data entry?
+
+11
+00:00:57,039 --> 00:00:57,735
+JOE: Yes.
+
+12
+00:00:57,735 --> 00:01:05,179
+[Q2答案句] SALLY: So that's one skill they want. Then they expect the person they appoint to attend meetings and take notes there … SALLY：
+
+13
+00:01:05,179 --> 00:01:08,487
+JOE: OK. I've done that before, yes.
+
+14
+00:01:08,487 --> 00:01:11,302
+(Q3) SALLY: And you'd need to be able to cope with general admin. SALLY：
+
+15
+00:01:11,302 --> 00:01:18,915
+[Q3答案句] JOE: Filing, and keeping records and so on? That should be OK. And in my last job I also had to manage the diary. JOE：
+
+16
+00:01:18,915 --> 00:01:25,177
+SALLY: Excellent. That's something they want here too. I'd suggest you add it to your CV – SALLY：
+
+17
+00:01:25,177 --> 00:01:27,133
+I don't think you mentioned that, did you?
+
+18
+00:01:27,133 --> 00:01:27,971
+JOE: No.
+
+19
+00:01:27,971 --> 00:01:36,315
+(Q4) SALLY: So as far as the requirements go, they want good computer skills, of course, and they particularly mention spreadsheets. SALLY：
+
+20
+00:01:36,315 --> 00:01:38,048
+JOE: That should be fine.
+
+21
+00:01:38,048 --> 00:01:42,688
+SALLY: And interpersonal skills – which would be something they'd check with your references. SALLY：
+
+22
+00:01:42,688 --> 00:01:45,939
+JOE: I think that should be OK, yes.
+
+23
+00:01:45,939 --> 00:01:55,205
+[Q4答案句] SALLY: Then they mention that they want someone who is careful and takes care with details – just looking at your CV, I'd say you're probably alright there. SALLY：
+
+24
+00:01:55,205 --> 00:01:59,766
+(Q5) JOE: I think so, yes. Do they want any special experience? JOE：
+
+25
+00:01:59,766 --> 00:02:03,308
+SALLY: I think they wanted some experience of teleconferencing. SALLY：
+
+26
+00:02:03,308 --> 00:02:06,767
+JOE: I've got three years' experience of that. JOE：
+
+27
+00:02:06,767 --> 00:02:16,197
+[Q5答案句] SALLY: Let's see, yes, good. In fact they're only asking for at least one year, so that's great. So is that something that might interest you? SALLY：
+
+28
+00:02:16,197 --> 00:02:24,276
+JOE: It is, yes. The only thing is, you said they were in North London so it would be quite a long commute for me. JOE：
+
+29
+00:02:24,276 --> 00:02:27,683
+SALLY: OK.
+
+30
+00:02:27,683 --> 00:02:35,921
+(Q6) SALLY: So the second position might suit you better as far as the location goes; that's for a warehouse assistant and that's in South London. SALLY：
+
+31
+00:02:35,921 --> 00:02:38,171
+JOE: Yes, that would be a lot closer. JOE：
+
+32
+00:02:38,171 --> 00:02:40,825
+SALLY: And you've worked in a warehouse before, haven't you? SALLY：
+
+33
+00:02:40,825 --> 00:02:41,585
+JOE: Yes.
+
+34
+00:02:41,585 --> 00:02:50,523
+[Q6答案句] SALLY: So as far as the responsibilities for this position go, they want someone who can manage the stock, obviously, and also deliveries. SALLY：
+
+35
+00:02:50,523 --> 00:02:57,526
+JOE: That should be OK. You've got to keep track of stuff, but I've always been quite good with numbers. JOE：
+
+36
+00:02:57,526 --> 00:03:04,585
+(Q7) SALLY: Good. that's their first requirement. And they want someone who's computer literate, which we know you are. SALLY：
+
+37
+00:03:04,585 --> 00:03:05,384
+JOE: Sure.
+
+38
+00:03:05,384 --> 00:03:10,999
+SALLY: Then they mention organisational skills. They want someone who's well organised. SALLY：
+
+39
+00:03:10,999 --> 00:03:13,348
+JOE: Yes, I think I am.
+
+40
+00:03:13,348 --> 00:03:15,370
+[Q7答案句+确认] SALLY: And tidy?
+
+41
+00:03:15,370 --> 00:03:18,791
+JOE: Yes, they go together really, don't they?
+
+42
+00:03:18,791 --> 00:03:25,089
+(Q8) SALLY: Sure. Then the usual stuff; they want someone who can communicate well both orally and in writing. SALLY：
+
+43
+00:03:25,089 --> 00:03:32,742
+JOE: OK. And for the last warehouse job I had, one of the things I enjoyed most was being part of a team. JOE：
+
+44
+00:03:32,742 --> 00:03:35,615
+I found that was really essential for the job.
+
+45
+00:03:35,615 --> 00:03:41,340
+[Q8答案句（代词指代）] SALLY: Excellent. Yes, they do mention that they want someone who's used to that, yes.&nbsp;
+
+46
+00:03:41,340 --> 00:03:47,633
+(Q9) Now when you were working in a warehouse last time, what sorts of items were you dealing with?&nbsp;
+
+47
+00:03:47,633 --> 00:03:54,112
+JOE: It was mostly bathroom and kitchen equipment, sinks and stoves and fridges. JOE：
+
+48
+00:03:54,112 --> 00:03:57,603
+[Q9答案句] SALLY: So you're OK moving heavy things? SALLY：
+
+49
+00:03:57,603 --> 00:04:01,093
+JOE: Sure. I'm quite strong, and I've had the training. JOE：
+
+50
+00:04:01,093 --> 00:04:10,974
+(Q10) SALLY: Good. Now as far as experience goes, they mention they want someone with a licence, and that you have experience of driving in London – SALLY：
+
+51
+00:04:10,974 --> 00:04:13,337
+so you can cope with the traffic and so on.
+
+52
+00:04:13,337 --> 00:04:15,126
+JOE: Yes, no problem.
+
+53
+00:04:15,126 --> 00:04:24,698
+[Q10答案句] SALLY: And you've got experience of warehouse work … and the final thing they mention is customer service. I think looking at your CV you're OK there. SALLY：
+
+54
+00:04:24,698 --> 00:04:27,198
+JOE: Right. So what about pay? Can you tell me a bit more about that, please … JOE：
+
