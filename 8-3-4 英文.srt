@@ -40,7 +40,7 @@ It seems that most large industries are trying to repeat their own successes, an
 
 11
 00:01:28,724 --> 00:01:43,144
-[32答案句] A host of studies confirm this, covering a wide range of business settings: branch banks, retail stores, real estate agencies, factories, call centres, to name but a few.
+[Q32答案句] A host of studies confirm this, covering a wide range of business settings: branch banks, retail stores, real estate agencies, factories, call centres, to name but a few.
 
 12
 00:01:43,144 --> 00:01:49,972
