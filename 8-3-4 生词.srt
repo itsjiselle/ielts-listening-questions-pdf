@@ -1,0 +1,144 @@
+1
+00:00:00,000 --> 00:00:01,759
+(Q31) 
+
+2
+00:00:01,759 --> 00:00:09,574
+⭐ deal with = 处理；讨论（B2）｜move on to = 转向；继续进行下一项（B2）
+
+3
+00:00:09,574 --> 00:00:18,930
+⭐ what can go wrong = 可能出什么问题（C1）｜best practice = 最佳实践（C1）
+
+4
+00:00:18,930 --> 00:00:27,555
+⭐ introduce a process = 引入流程（C1）｜branch bank = 银行分行
+
+5
+00:00:27,555 --> 00:00:35,870
+⭐ parent organisation = 母公司；总公司（C1）｜repeat success = 复制成功经验｜capture success = 把成功经验固定下来并推广（C1）｜on a bigger scale = 以更大规模（B2）
+
+6
+00:00:35,870 --> 00:00:43,571
+⭐ utilise = 利用（C1，比use正式）｜existing knowledge = 现有知识｜generate knowledge = 产生知识
+
+7
+00:00:43,571 --> 00:00:52,639
+[Q31答案句] ⭐ glamorous = 令人向往的；吸引人的（C1）｜pure innovation = 纯创新｜as a matter of fact = 事实上（C1）
+
+8
+00:00:52,639 --> 00:01:01,497
+(Q32) ⭐ get things right = 把事情做好；做对（B2）｜not necessarily = 不一定（B2）
+
+9
+00:01:01,497 --> 00:01:12,394
+⭐ research into = 关于……的研究（C1）｜previous success = 过去的成功｜be confined to = 局限于（C1）
+
+10
+00:01:12,394 --> 00:01:28,724
+⭐ manage knowledge = 管理知识（C1）｜acquire knowledge = 获取知识（C1）｜even so = 即便如此（C1）｜the overwhelming majority of = 压倒性多数的；绝大多数的（C1）｜attempt fail = 尝试失败
+
+11
+00:01:28,724 --> 00:01:43,144
+[32答案句] ⭐ a host of = 大量的（C1）｜cover a wide range of = 涉及广泛的（C1）｜business setting = 商业环境｜to name but a few = 仅举几个例子（C1）
+
+12
+00:01:43,144 --> 00:01:49,972
+(Q33) ⭐ get things right = 做对事情；取得成功
+
+13
+00:01:49,972 --> 00:02:00,789
+⭐ a reason for failure = 失败原因｜place trust in sb = 信任某人（C1）｜run an operation = 运营某项业务（C1）｜shall we say = 我们姑且称之为……（C1）
+
+14
+00:02:00,789 --> 00:02:14,797
+⭐ apply existing knowledge = 应用已有知识｜start off by doing sth = 开始做某事（B2）｜pick someone's brain(s) = 向某人请教；获取某人的想法（C1）
+
+15
+00:02:14,797 --> 00:02:25,519
+[Q33答案句] ⭐ approach = 方法（C1）｜gain an understanding of = 理解；获得认识（C1）｜rough understanding = 粗略理解｜isolated problem = 独立的问题
+
+16
+00:02:25,519 --> 00:02:38,970
+⭐ The trouble is = 问题在于（C1）｜fully grasp = 完全理解（C1）｜when it comes to = 当涉及……时（C1）｜component = 组成部分（C1）｜interwoven with = 与……交织在一起（C1）
+
+17
+00:02:38,970 --> 00:02:44,231
+(Q34) ⭐ have access to = 获取；接触（B2）｜necessary information = 必要信息
+
+18
+00:02:44,231 --> 00:02:53,691
+⭐ complicate further = 进一步使复杂（C1）｜be aware of = 意识到（B2）｜ignorance = 无知；不了解（C1）
+
+19
+00:02:53,691 --> 00:03:03,334
+⭐ take various forms = 以各种形式存在（C1）｜be invisible to sb = 对某人不可见（C1）
+
+20
+00:03:03,334 --> 00:03:14,037
+[Q33答案句] ⭐ learn on the job = 在工作中学习（B2）｜in a way that... = 以一种……的方式（B2）
+
+21
+00:03:14,037 --> 00:03:25,277
+⭐ be aware of = 意识到
+
+22
+00:03:25,277 --> 00:03:37,115
+(Q35(notes填空)) ⭐ occur = 发生（B2）｜set up = 建立（B2）｜duplicate system = 复制系统｜replicate = 复制；再现（C1）
+
+23
+00:03:37,115 --> 00:03:46,949
+⭐ improve on/upon = 改进；优于（C1）
+
+24
+00:03:46,949 --> 00:03:57,340
+[Q35答案句] ⭐ in the hope of doing sth = 希望做某事（C1）｜perfect combination = 完美组合
+
+25
+00:03:57,340 --> 00:04:06,185
+(Q36) ⭐ turn out to be = 结果证明是（B2）｜misguided = 被误导的；错误的（C1）｜lead to = 导致（B2）
+
+26
+00:04:06,185 --> 00:04:16,937
+⭐ after all = 毕竟；最终（B2）｜accurate = 准确的（B2）
+
+27
+00:04:16,937 --> 00:04:22,754
+⭐ comparable = 可比较的（C1）
+
+28
+00:04:22,754 --> 00:04:31,548
+⭐ more typically = 更典型的是（C1）｜overlook = 忽视（C1）
+
+29
+00:04:31,548 --> 00:04:37,999
+[Q36答案句] ⭐ modification = 修改；调整（C1）｜compromise = 损害；危及（C1）
+
+30
+00:04:37,999 --> 00:04:49,159
+(Q37) ⭐ intend to do sth = 打算做某事（B2）｜suggest that... = 表明；提出（B2）
+
+31
+00:04:49,159 --> 00:04:59,763
+⭐ underlying problem = 根本问题（C1）｜have more to do with = 更多与……有关（C1）｜actual difficulty = 实际难度
+
+32
+00:04:59,763 --> 00:05:09,834
+[Q37答案句] ⭐ involve doing sth = 包括做某事（B2）｜realistic = 现实的（B2）｜cautious = 谨慎的（C1）
+
+33
+00:05:09,834 --> 00:05:18,449
+(Q38) [Q38答案句] ⭐ exert control on/over = 施加控制（C1）｜strict controls = 严格控制｜operational system = 运营系统
+
+34
+00:05:18,449 --> 00:05:24,664
+(Q39) ⭐ in turn = 反过来；因此（C1）｜as closely as possible = 尽可能接近地（B2）
+
+35
+00:05:24,664 --> 00:05:35,971
+(Q40) [Q39&40答案句] ⭐ not merely...but also... = 不仅……而且……（C1）｜physical characteristics = 物理特征｜employee skills = 员工技能
+
+36
+00:05:35,971 --> 00:05:38,471
+⭐ reliance on = 依赖；依靠（C1）｜template = 模板（C1）｜built-in = 内置的；固有的（C1）｜consistency = 一致性（C1）
+
