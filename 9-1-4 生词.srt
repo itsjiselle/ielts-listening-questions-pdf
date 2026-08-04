@@ -1,21 +1,17 @@
-明白了！把⭐️后面的生词注释内容填到您提供的模板里，原有标记（如 Q31、[定位词] 等）全部保留不动。
-
----
-
 1
 00:00:01,395 --> 00:00:21,105
 (Q31) ⭐ be about to do sth = 即将做某事（B2）｜field work = 实地考察（B2）｜it's timely that... = ……正是时候（C1）｜swim ashore = 游上岸（C1）｜be known as... = 被称为……（B2）｜mass stranding = 集体搁浅（C1）
 
 2
 00:00:21,105 --> 00:00:33,573
-⭐ frequent occurrence = 常见事件（C1）｜tide goes out = 潮水退去（B2）｜confuse = 使迷失方向；使困惑（B2）
+[Q31答案句] ⭐ frequent occurrence = 常见事件（C1）｜tide goes out = 潮水退去（B2）｜confuse = 使迷失方向；使困惑（B2）
 
 3
-00:00:33,573 --> 00:00:38,537
+00:00:33,573 --> 00:00:38,536
 (Q32) ⭐ theory about = 关于……的理论｜cause of = ……的原因
 
 4
-00:00:38,537 --> 00:00:42,993
+00:00:38,536 --> 00:00:42,993
 [定位词parasite 小标题] ⭐ be linked to = 与……有关（B2）｜parasite = 寄生虫（C1）
 
 5
@@ -23,12 +19,12 @@
 ⭐ be infested with = 遭受……侵染；寄生着……（C1）｜large numbers of = 大量的
 
 6
-00:00:48,322 --> 00:00:54,122
+00:00:48,322 --> 00:00:54,121
 ⭐ for instance = 例如（B2）
 
 7
-00:00:54,122 --> 00:01:02,969
-[32答案句] ⭐ rely heavily on = 严重依赖（C1）｜navigate = 导航（C1）｜infestation = 寄生虫感染（C1）｜have the potential to... = 有可能……（B2）
+00:00:54,121 --> 00:01:02,969
+[Q32答案句] ⭐ rely heavily on = 严重依赖（C1）｜navigate = 导航（C1）｜infestation = 寄生虫感染（C1）｜have the potential to... = 有可能……（B2）
 
 8
 00:01:02,969 --> 00:01:08,055
@@ -40,7 +36,7 @@
 
 10
 00:01:12,968 --> 00:01:19,617
-[33答案句] ⭐ be aware = 知道；意识到（B2）｜originate from = 来源于（C1）
+[Q33答案句] ⭐ be aware = 知道；意识到（B2）｜originate from = 来源于（C1）
 
 11
 00:01:19,617 --> 00:01:31,632
@@ -60,7 +56,7 @@
 
 15
 00:02:06,843 --> 00:02:19,239
-[34 答案句] ⭐ hold true = 成立；适用（C1）｜the majority of = 大多数（B2）｜stomach contents = 胃内容物（C1）
+[Q34答案句] ⭐ hold true = 成立；适用（C1）｜the majority of = 大多数（B2）｜stomach contents = 胃内容物（C1）
 
 16
 00:02:19,239 --> 00:02:24,324
@@ -71,32 +67,32 @@
 ⭐ a growing concern = 日益增长的担忧（C1）
 
 18
-00:02:29,741 --> 00:02:39,719
-[35答案句，答案前置] ⭐ military exercise = 军事演习｜be of particular concern = 尤其值得关注（C1）｜pinpoint = 精确指出；确定（C1）｜of late = 近来（C1）
+00:02:29,741 --> 00:02:39,718
+[Q35答案句，答案前置] ⭐ military exercise = 军事演习｜be of particular concern = 尤其值得关注（C1）｜pinpoint = 精确指出；确定（C1）｜of late = 近来（C1）
 
 19
-00:02:39,719 --> 00:02:49,664
+00:02:39,718 --> 00:02:49,663
 (Q36) ⭐ coincide with = 与……同时发生；吻合（C1）｜submarine detection system = 潜艇探测系统
 
 20
-00:02:49,664 --> 00:02:55,602
+00:02:49,663 --> 00:02:55,602
 ⭐ stand out = 突出；显得不同（B2）｜previous = 先前的（B2）
 
 21
-00:02:55,602 --> 00:03:03,396
-[36 答案句] ⭐ lead sb to do sth = 促使某人做某事（C1）｜for one = 首先；其中一个原因（C1）
+00:02:55,602 --> 00:03:03,395
+[Q36 答案句] ⭐ lead sb to do sth = 促使某人做某事（C1）｜for one = 首先；其中一个原因（C1）
 
 22
-00:03:03,396 --> 00:03:14,277
-(Q37) ⭐ in addition = 此外（B2）｜spread out = 分散开（B2）｜whereas = 然而；而（C1）
+00:03:03,395 --> 00:03:14,276
+(Q37) [Q37答案句] ⭐ in addition = 此外（B2）｜spread out = 分散开（B2）｜whereas = 然而；而（C1）
 
 23
-00:03:14,277 --> 00:03:28,423
+00:03:14,276 --> 00:03:28,423
 (Q38) ⭐ distinguish between A and B = 区分A和B（C1）｜inevitable = 不可避免的（B2）
 
 24
 00:03:28,423 --> 00:03:39,061
-[38 答案句] ⭐ be thought to... = 被认为……（B2）｜toothed whale = 齿鲸｜strand (v.) = 搁浅（C1）
+[Q38答案句] ⭐ be thought to... = 被认为……（B2）｜toothed whale = 齿鲸｜strand (v.) = 搁浅（C1）
 
 25
 00:03:39,061 --> 00:03:45,211
@@ -104,16 +100,17 @@
 
 26
 00:03:45,211 --> 00:03:53,394
-[39答案句，other than = only] ⭐ apart from = 除了……之外（B2）｜at the time of... = 在……的时候（B2）｜reveal = 揭示（B2）
+[Q39答案句，other than = only] ⭐ apart from = 除了……之外（B2）｜at the time of... = 在……的时候（B2）｜reveal = 揭示（B2）
 
 27
-00:03:53,394 --> 00:04:04,224
+00:03:53,394 --> 00:04:04,223
 (Q40) ⭐ consistent theory = 一致的理论；统一理论（C1）｜do something about = 设法解决……（B2）｜phenomenon = 现象（C1）
 
 28
-00:04:04,224 --> 00:04:13,593
+00:04:04,223 --> 00:04:13,592
 ⭐ be established = 建立（B2）｜aid in doing sth = 帮助做某事（C1）｜collect samples = 采集样本（B2）
 
 29
-00:04:13,593 --> 00:04:16,093
-⭐ recommend...as... = 推荐……作为……（B2）｜starting point = 入门；起点（B2）｜find out more about... = 进一步了解……（B2）｜establish = 建立（C1）
+00:04:13,592 --> 00:04:16,092
+[Q40答案句] ⭐ recommend...as... = 推荐……作为……（B2）｜starting point = 入门；起点（B2）｜find out more about... = 进一步了解……（B2）｜establish = 建立（C1）
+
