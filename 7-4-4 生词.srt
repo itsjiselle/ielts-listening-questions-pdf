@@ -15,11 +15,11 @@
 (Q32) ⭐ the main reason why... = ……的主要原因
 
 5
-00:00:36,198 --> 00:00:49,056
+00:00:36,198 --> 00:00:49,055
 ⭐ incorporate sth in/into sth = 将某物加入；融入某物（C1）｜a type of...known as... = 一种被称为……的……｜have the ability to do sth = 具有做某事的能力（B2）
 
 6
-00:00:49,056 --> 00:01:01,957
+00:00:49,055 --> 00:01:01,957
 [Q32答案句] ⭐ It wasn't until...that... = 直到……才……（C1，非常重要句型）｜be responsible for = 对……负责；导致……（B2）｜improvement in flavour = 味道提升
 
 7
@@ -31,19 +31,19 @@
 [Q33答案句] ⭐ It was in...that... = 正是在……（强调句型）｜increase dramatically = 大幅增长（C1）｜to this day = 直到今天（C1）
 
 9
-00:01:24,031 --> 00:01:31,859
+00:01:24,031 --> 00:01:31,858
 ⭐ hundreds of thousands of = 数十万的（B2）｜all over the world = 世界各地
 
 10
-00:01:31,859 --> 00:01:35,041
+00:01:31,858 --> 00:01:35,040
 (Q34（notes）) ⭐ what exactly is...? = ……究竟是什么？
 
 11
-00:01:35,041 --> 00:01:47,461
+00:01:35,040 --> 00:01:47,460
 [Q34答案句] ⭐ contain = 包含（B2）｜per cent = 百分比
 
 12
-00:01:47,461 --> 00:01:59,340
+00:01:47,460 --> 00:01:59,340
 (Q35&36) [Q35答案句] ⭐ be found naturally in = 天然存在于（B2）｜protein-containing foods = 含蛋白质的食物（C1）
 
 13
@@ -59,15 +59,15 @@
 ⭐ how exactly does...work? = ……究竟如何运作？
 
 16
-00:02:25,823 --> 00:02:37,314
+00:02:25,823 --> 00:02:37,313
 ⭐ be familiar with = 熟悉（B2）｜concept = 概念（B2）
 
 17
-00:02:37,314 --> 00:02:43,576
+00:02:37,313 --> 00:02:43,575
 [Q37答案句] ⭐ identify = 发现；确认（C1）
 
 18
-00:02:43,576 --> 00:02:50,669
+00:02:43,575 --> 00:02:50,669
 (Q38) ⭐ It is thought that... = 人们认为……（C1）｜intensify = 加强；增强（C1）｜naturally occurring = 自然存在的（C1）
 
 19
@@ -75,22 +75,22 @@
 [Q38答案句] ⭐ make perfect sense = 完全合理（C1）｜evolutionary sense = 进化意义（C1）｜have the ability to detect = 具有检测……的能力（C1）｜most common = 最常见的
 
 20
-00:03:03,733 --> 00:03:14,601
+00:03:03,733 --> 00:03:14,600
 (Q39) ⭐ associate professor = 副教授｜serve a purpose = 发挥作用；有用途（C1）
 
 21
-00:03:14,601 --> 00:03:25,415
+00:03:14,600 --> 00:03:25,414
 ⭐ signal the presence of... = 表明……的存在（C1）｜in the same way that... = 以同样方式……（B2）｜energy-giving = 提供能量的（C1）
 
 22
-00:03:25,415 --> 00:03:36,188
+00:03:25,414 --> 00:03:29,683
 [Q39答案句] ⭐ alert sb of/about sth = 提醒某人注意某事（C1）｜toxin = 毒素（C1）
 
 23
-00:00:00,000 --> 00:00:00,000
+00:03:29,683 --> 00:03:36,187
 (Q40) [Q40答案句] ⭐ warn sb of sth = 警告某人某事（B2）｜spoilage = 腐坏；变质（C1）｜signal the presence of... = 表明……存在（C1）
 
 24
-00:03:36,188 --> 00:03:38,688
+00:03:36,187 --> 00:03:38,687
 ⭐ what else do we know about...? = 关于……还有什么了解？（B2）
 
