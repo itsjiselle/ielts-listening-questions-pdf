@@ -87,90 +87,86 @@
 ⭐ means = 方法；手段（C1）
 
 23
-00:02:44,177 --> 00:02:50,663
-⭐ conduct a census = 进行人口普查（C1）｜given area = 特定区域
+00:02:44,177 --> 00:03:00,061
+[Q36答案句] ⭐ conduct a census = 进行人口普查（C1）｜given area = 特定区域&nbsp; | by means of = 通过；借助（C1）｜with the help of = 借助（B2）｜satellite relay = 卫星传输
 
 24
-00:02:50,663 --> 00:03:00,061
-[Q36答案句] ⭐ by means of = 通过；借助（C1）｜with the help of = 借助（B2）｜satellite relay = 卫星传输
-
-25
 00:03:00,061 --> 00:03:10,307
 (Q37) ⭐ come a long way = 取得巨大进步（C1）｜exploration of the world = 世界探索｜at one's disposal = 可供某人使用（C1）
 
-26
+25
 00:03:10,307 --> 00:03:14,485
 ⭐ gather information = 收集信息（B2）｜analyse = 分析（C1）
 
-27
+26
 00:03:14,485 --> 00:03:20,324
 [Q37答案句] ⭐ look for patterns = 寻找规律（C1）｜cause and consequence = 原因与结果（C1）
 
-28
+27
 00:03:20,324 --> 00:03:26,617
 (Q38) ⭐ predict = 预测（B2）｜resolve problems = 解决问题（C1）
 
-29
+28
 00:03:26,617 --> 00:03:30,449
 ⭐ keep sth confidential = 对某事保密（C1）
 
-30
+29
 00:03:30,449 --> 00:03:36,631
 ⭐ publish findings = 发布研究结果（C1）｜access information = 获取信息（B2）｜be informed by = 从……中获得信息（C1）
 
-31
+30
 00:03:36,631 --> 00:03:42,112
 ⭐ in the form of = 以……形式（B2）
 
-32
+31
 00:03:42,112 --> 00:03:46,197
 ⭐ at some stage = 在某个阶段（C1）
 
-33
+32
 00:03:46,197 --> 00:03:50,641
 ⭐ from...perspective = 从……角度来看（C1）
 
-34
+33
 00:03:50,641 --> 00:03:58,283
 ⭐ store of reference = 大量参考资料（C1）｜atlas = 地图册
 
-35
+34
 00:03:58,283 --> 00:04:06,780
 ⭐ depict = 描绘；展示（C1）｜in greater detail = 更详细地（C1）
 
-36
+35
 00:04:06,780 --> 00:04:08,627
 ⭐ drawback = 缺点；不足（C1）
 
-37
+36
 00:04:08,627 --> 00:04:22,547
 [Q38答案句] ⭐ replicate = 复制；再现（C1）｜three-dimensional = 三维的｜a certain degree of = 一定程度的（C1）｜distortion = 失真；变形（C1）
 
-38
+37
 00:04:22,547 --> 00:04:24,826
 (Q39) ⭐ cannot be avoided = 无法避免（B2）
 
-39
+38
 00:04:24,826 --> 00:04:32,134
 ⭐ aerial photograph = 航空照片｜at high altitude = 在高海拔/高空
 
-40
+39
 00:04:32,134 --> 00:04:38,694
 ⭐ be great for doing sth = 非常适合做某事（B2）｜from the ground = 从地面角度
 
-41
+40
 00:04:38,694 --> 00:04:49,670
 [Q39答案句] ⭐ illustrate = 展示；说明（C1）｜at a given time = 在某一特定时间（C1）｜deep sea bed = 深海海床
 
-42
+41
 00:04:49,670 --> 00:04:59,134
 (Q40) ⭐ circle the earth = 环绕地球运行｜transmit information = 传输信息（C1）
 
-43
+42
 00:04:59,134 --> 00:05:09,338
 [Q40答案句] ⭐ a mass of = 大量的（C1）｜be familiar with = 熟悉（B2）
 
-44
+43
 00:05:09,338 --> 00:05:11,838
 ⭐ what we're going to do is... = 我们接下来要做的是……（口语高频结构）｜presentation = 展示；演示（B2）
 
