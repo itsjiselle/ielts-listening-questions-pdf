@@ -1,0 +1,148 @@
+1
+00:00:01,461 --> 00:00:13,904
+(Q31) ⭐ marine archaeology = 海洋考古学（C1）｜the branch of... = ……的分支领域（C1）｜focus on human interaction with... = 关注人类与……之间的互动（C1）
+
+2
+00:00:13,904 --> 00:00:22,377
+⭐ physical remains = 实物遗存；遗迹（C1）｜cargo = 货物（B2）
+
+3
+00:00:22,377 --> 00:00:32,372
+⭐ go on to do sth = 继续做某事（B2）｜be transformed by... = 被……改变/转变（C1）｜the use of the latest technology = 最新技术的应用（B2）
+
+4
+00:00:32,372 --> 00:00:44,092
+⭐ on the coast of... = 位于……海岸（B2）｜thrive = 繁荣发展；兴旺（C1）
+
+5
+00:00:44,092 --> 00:00:59,969
+⭐ keep cattle = 饲养牛群（B2）｜store grain = 储存谷物（B2）｜be constructed of... = 由……建造（B2）
+
+6
+00:00:59,969 --> 00:01:13,907
+[Q31答案句] ⭐ impressive monument = 令人印象深刻的遗迹/纪念建筑（C1）｜stand in a semicircle = 呈半圆形排列（C1）｜ceremonial purposes = 仪式用途（C1）
+
+7
+00:01:13,907 --> 00:01:28,326
+(Q32) ⭐ be destroyed by... = 被……摧毁（B2）｜cause sth to do sth = 导致某物发生某事（B2）｜sea levels rise = 海平面上升（B2）｜flood sth gradually = 逐渐淹没某物（C1）
+
+8
+00:01:28,326 --> 00:01:38,311
+⭐ whatever the cause = 无论原因是什么（C1）｜lie below the surface = 位于表面以下（C1）｜be buried under... = 被埋在……之下（B2）
+
+9
+00:01:38,311 --> 00:01:47,628
+⭐ be described as... = 被描述为……（B2）｜well preserved = 保存完好的（B2）｜prehistoric settlement = 史前聚落（C1）｜seabed = 海床（C1）
+
+10
+00:01:47,628 --> 00:01:52,756
+⭐ treasure trove = 宝库；丰富来源（C1）
+
+11
+00:01:52,756 --> 00:02:05,703
+[Q32答案句] ⭐ human remains = 人类遗骸（C1）｜reveal how... = 揭示……如何（B2）｜bustling = 繁忙的；热闹的（C1）｜suffer from... = 患有；遭受（B2）
+
+12
+00:02:05,703 --> 00:02:13,878
+(Q33) ⭐ a window into... = 了解……的窗口（C1）｜lost world = 消失的世界（B2）
+
+13
+00:02:13,878 --> 00:02:22,652
+⭐ a fuller picture = 更完整的了解（C1）｜sunken settlement = 沉没的聚落（C1）｜the hard part is... = 难点在于……（B2）
+
+14
+00:02:22,652 --> 00:02:45,821
+⭐ used to do sth = 过去常常做某事（B2）｜shipwreck = 沉船（C1）｜artefact = 人工制品；文物（C1）｜autonomous = 自主的（C1）｜be operated by... = 由……操作（B2）
+
+15
+00:02:45,821 --> 00:03:00,638
+[Q33答案句] ⭐ for instance = 例如（B2）｜create maps of... = 绘制……地图（B2）｜install pipelines = 安装管道（C1）
+
+16
+00:03:00,638 --> 00:03:17,198
+(Q34) [Q34答案句] ⭐ navigate = 导航；定位（C1）｜sensor = 传感器（B2）｜until relatively recently = 直到最近一段时间（C1）｜so...that... = 如此……以至于……（B2）｜launch from... = 从……发射（B2）
+
+17
+00:03:17,198 --> 00:03:32,806
+(Q35) ⭐ manoeuvre = 操控；操纵（C1）｜make sth accessible to... = 使某物更容易被……使用（C1）
+
+18
+00:03:32,806 --> 00:03:48,853
+⭐ sophisticated = 复杂先进的（C1）｜communicate with each other = 相互交流（B2）｜work out = 找出；计算出（B2）｜survey a site = 勘察地点（C1）
+
+19
+00:03:48,853 --> 00:03:52,657
+⭐ field test = 实地测试（C1）｜the approach can work = 这种方法可行（B2）
+
+20
+00:03:52,657 --> 00:04:02,159
+⭐ in a trial = 在一次试验/测试中（B2）｜search for = 寻找（B1，但在学术语境中常见）｜wreck = 沉船；失事船只（C1）｜off the coast of... = 在……海岸附近（B2）
+
+21
+00:04:02,159 --> 00:04:17,061
+[Q35答案句] ⭐ final resting place = 最终归宿；安息之地（C1）｜sink = 沉没（B2）｜ferry sth = 运输某物（C1）｜prefabricated = 预制的（C1）
+
+22
+00:04:17,061 --> 00:04:25,319
+(Q36) ⭐ map an area in detail = 详细绘制区域地图（C1）｜carry columns = 携带柱子（B2）
+
+23
+00:04:25,319 --> 00:04:33,128
+⭐ be no easy matter = 并非易事（C1）
+
+24
+00:04:33,128 --> 00:04:43,105
+⭐ electromagnetic waves = 电磁波（C1）｜travel a distance = 传播一段距离（B2）
+
+25
+00:04:43,105 --> 00:04:48,778
+⭐ a mix of technologies = 技术组合（C1）｜be required = 被需要（B2）
+
+26
+00:04:48,778 --> 00:04:59,801
+[Q36答案句] ⭐ share data = 共享数据（B2）｜acoustic waves = 声波（C1）｜over long distances = 长距离范围内（B2）
+
+27
+00:04:59,801 --> 00:05:18,987
+(Q37) ⭐ creative solution = 创新解决方案（B2）｜offload data to... = 将数据转移给……（C1）｜surface = 浮出水面（C1）｜beam data = 发送数据（C1）
+
+28
+00:05:18,987 --> 00:05:27,979
+⭐ enable sb to do sth = 使某人能够做某事（B2）｜seabed scans = 海床扫描（C1）
+
+29
+00:05:27,979 --> 00:05:51,050
+[Q37答案句] ⭐ intriguing = 引人关注的；有趣的（C1）｜coordinates = 坐标（C1）｜make a closer inspection of... = 对……进行进一步检查（C1）
+
+30
+00:05:51,050 --> 00:05:58,698
+(Q38) ⭐ be excited about the potential of... = 对……潜力感到兴奋（C1）｜discipline = 学科；领域（C1）
+
+31
+00:05:58,698 --> 00:06:06,606
+⭐ be deployed = 被部署；投入使用（C1）｜off the coast of... = 在……海岸附近（B2）
+
+32
+00:06:06,606 --> 00:06:15,717
+⭐ a 2,000-year-old + noun = 有2000年历史的……（B2）｜vessel = 船；舰艇（C1）｜be discovered = 被发现（B2）｜in ... metres of water = 位于水下……米处（C1）
+
+33
+00:06:15,717 --> 00:06:24,372
+[Q38答案句] ⭐ medical goods = 医疗用品（B2）｜receptacle = 容器（C1）
+
+34
+00:06:24,372 --> 00:06:37,823
+(Q39) [Q39答案句] ⭐ give insight into... = 使人深入了解……（C1）｜treatment available = 可用的治疗方法（B2）｜be thought to have done sth = 被认为曾做过某事（C1）｜dissolve = 溶解（B2）
+
+35
+00:06:37,823 --> 00:06:44,656
+(Q40) ⭐ go down = 下沉；沉没（B2）｜take sth with them = 带着某物一起（B2）
+
+36
+00:06:44,656 --> 00:06:55,297
+[Q40答案句] ⭐ be made of... = 由……制成（B2）｜transport cargo = 运输货物（B2）
+
+37
+00:06:55,297 --> 00:06:57,797
+⭐ in many cases = 在很多情况下（B2）｜remain = 留存（B2）｜be buried under... = 被埋在……下面（B2）｜silt = 淤泥（C1）
+
