@@ -87,90 +87,86 @@ You'll be doing a lot of that on your first field trip!
 How do we do this? There are several means.
 
 23
-00:02:44,177 --> 00:02:50,663
-We might, for example, conduct a census - count a population in a given area perhaps.
+00:02:44,177 --> 00:03:00,061
+[Q36答案句] We might, for example, conduct a census - count a population in a given area perhaps.&nbsp; &nbsp;We also need images of the earth's surface which we can produce by means of computer-generation technology or with the help of satellite relays.
 
 24
-00:02:50,663 --> 00:03:00,061
-[Q36答案句] We also need images of the earth's surface which we can produce by means of computer-generation technology or with the help of satellite relays.
-
-25
 00:03:00,061 --> 00:03:10,307
 (Q37) We've come a very long way from the early exploration of the world by sailing ships when geographers only had pens and paper at their disposal.
 
-26
+25
 00:03:10,307 --> 00:03:14,485
 After we've gathered our information, we must analyse it!
 
-27
+26
 00:03:14,485 --> 00:03:20,324
 [Q37答案句] We need to look for patterns, most commonly those of causes and consequences.
 
-28
+27
 00:03:20,324 --> 00:03:26,617
 (Q38) This kind of information helps us to predict and resolve problems that could affect the world we live in.
 
-29
+28
 00:03:26,617 --> 00:03:30,449
 But we don't keep all this information confidential.
 
-30
+29
 00:03:30,449 --> 00:03:36,631
 We then need to publish our findings so that other people can access it and be informed by it.
 
-31
+30
 00:03:36,631 --> 00:03:42,112
 And one way in which this information can be published is in the form of maps.
 
-32
+31
 00:03:42,112 --> 00:03:46,197
 You'll all have used one at some stage of your life already.
 
-33
+32
 00:03:46,197 --> 00:03:50,641
 Let's consider the benefits of maps from a geographer's perspective.
 
-34
+33
 00:03:50,641 --> 00:03:58,283
 Maps can be folded and put in a pocket and can provide a great store of reference when they're collected into an atlas.
 
-35
+34
 00:03:58,283 --> 00:04:06,780
 They can depict the physical features of the entire planet if necessary, or, just a small part of it in much greater detail.
 
-36
+35
 00:04:06,780 --> 00:04:08,627
 But there is a drawback.
 
-37
+36
 00:04:08,627 --> 00:04:22,547
 [Q38答案句] You can't exactly replicate something that is three-dimensional, like our planet, on a flat piece of paper, because paper has only two dimensions, and that means there'll always be a certain degree of distortion on a map.
 
-38
+37
 00:04:22,547 --> 00:04:24,826
 (Q39) It can't be avoided.
 
-39
+38
 00:04:24,826 --> 00:04:32,134
 We can also use aerial photographs, pictures taken by cameras at high altitude above the earth.
 
-40
+39
 00:04:32,134 --> 00:04:38,694
 These are great for showing all kinds of geographical features that are not easy to see from the ground.
 
-41
+40
 00:04:38,694 --> 00:04:49,670
 [Q39答案句] You can easily illustrate areas of diseased trees or how much traffic is on the roads at a given time or information about deep sea beds, for example.
 
-42
+41
 00:04:49,670 --> 00:04:59,134
 (Q40) Then there are Landsats. These are satellites that circle the earth and transmit visual information to computers at receiving stations.
 
-43
+42
 00:04:59,134 --> 00:05:09,338
 [Q40答案句] They circle the earth several times a day and can provide a mass of information - you'll all be familiar with the information they give us about the weather, for example.
 
-44
+43
 00:05:09,338 --> 00:05:11,838
 So, what we're going to do now is look at a short presentation in which you'll see all these tools...
 
