@@ -100,7 +100,7 @@
 
 26
 00:03:24,418 --> 00:03:32,575
-(Q16) ⭐ recognise the need to… —— 意识到有必要……｜invest in —— 投资于｜staff retention —— 员工留任
+⭐ recognise the need to… —— 意识到有必要……｜invest in —— 投资于｜staff retention —— 员工留任
 
 27
 00:03:32,575 --> 00:03:38,981
@@ -112,7 +112,7 @@
 
 29
 00:03:45,677 --> 00:03:55,701
-(Q17) ⭐ high achiever —— 高绩效者，优秀员工｜from across… —— 来自整个……｜hotel chain —— 连锁酒店集团
+⭐ high achiever —— 高绩效者，优秀员工｜from across… —— 来自整个……｜hotel chain —— 连锁酒店集团
 
 30
 00:03:55,701 --> 00:04:04,836
@@ -128,7 +128,7 @@
 
 33
 00:04:19,483 --> 00:04:28,290
-(Q18) ⭐ identify that… —— 发现/确认……｜retention —— 留任，保留｜be an issue —— 是一个问题
+⭐ identify that… —— 发现/确认……｜retention —— 留任，保留｜be an issue —— 是一个问题
 
 34
 00:04:28,290 --> 00:04:35,353
@@ -140,7 +140,7 @@
 
 36
 00:04:46,245 --> 00:04:54,418
-(Q19) ⭐ be seen as —— 被视为｜caring employer —— 关爱员工的雇主
+⭐ be seen as —— 被视为｜caring employer —— 关爱员工的雇主
 
 37
 00:04:54,418 --> 00:04:58,976
@@ -148,7 +148,7 @@
 
 38
 00:04:58,976 --> 00:05:10,744
-(Q20) ⭐ staff retention rate —— 员工留任率｜in the business —— 在业内
+⭐ staff retention rate —— 员工留任率｜in the business —— 在业内
 
 39
 00:05:10,744 --> 00:05:17,543
