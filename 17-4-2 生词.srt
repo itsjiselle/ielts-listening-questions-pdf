@@ -1,62 +1,62 @@
 1
-00:00:00,505 --> 00:00:12,447
+00:00:00,505 --> 00:00:12,446
 (Q11（单选）) ⭐ staff turnover —— 员工流失率｜hotel industry —— 酒店行业｜experience a problem —— 经历/遇到某种问题
 
 2
-00:00:12,447 --> 00:00:22,095
+00:00:12,446 --> 00:00:22,094
 ⭐ rely on —— 依赖｜make sure (that) —— 确保｜run smoothly —— 顺利运转
 
 3
-00:00:22,095 --> 00:00:28,605
+00:00:22,094 --> 00:00:28,605
 ⭐ constantly —— 持续不断地｜make life difficult for —— 给……带来麻烦/增加困难
 
 4
-00:00:28,605 --> 00:00:33,538
-⭐ leave —— 离职｜frequently —— 频繁地
+00:00:28,605 --> 00:00:33,537
+[🟢定位题干：why=because of 逻辑] ⭐ leave —— 离职｜frequently —— 频繁地
 
 5
-00:00:33,538 --> 00:00:41,389
+00:00:33,537 --> 00:00:41,389
 ⭐ low-skilled —— 技术要求低的｜well-paid —— 薪资优厚的（此处为否定）
 
 6
-00:00:41,389 --> 00:00:57,906
-(Q11答案句) ⭐ long hours —— 长时间工作｜staff turnover —— 员工流失率｜lack of —— 缺乏｜a huge factor —— 一个重要因素｜realise —— 意识到
+00:00:41,389 --> 00:00:57,905
+[Q11答案句+干扰， 以but后才是正确答案] ⭐ long hours —— 长时间工作｜staff turnover —— 员工流失率｜lack of —— 缺乏｜a huge factor —— 一个重要因素｜realise —— 意识到
 
 7
-00:00:57,906 --> 00:01:03,300
+00:00:57,905 --> 00:01:03,299
 (Q12) ⭐ turnover of staff —— 员工流失｜cause —— 导致，引发
 
 8
-00:01:03,300 --> 00:01:16,050
-(Q12答案句) ⭐ recruit —— 招聘｜time-consuming —— 耗时的｜cover some duties —— 临时承担工作职责
+00:01:03,299 --> 00:01:16,049
+[Q12答案句- A， 同替：cover some duties= increased workload] ⭐ recruit —— 招聘｜time-consuming —— 耗时的｜cover some duties —— 临时承担工作职责
 
 9
-00:01:16,050 --> 00:01:23,679
-⭐ less immediate —— 不那么紧迫的｜think about —— 考虑｜improve their service —— 提升服务质量
+00:01:16,049 --> 00:01:23,679
+[Q11-C干扰项， less immediate说明不是targets] ⭐ less immediate —— 不那么紧迫的｜think about —— 考虑｜improve their service —— 提升服务质量
 
 10
-00:01:23,679 --> 00:01:30,633
-⭐ severely affect —— 严重影响｜leave behind —— 留下
+00:01:23,679 --> 00:01:30,632
+[Q12-B干扰项： 主体不同，这是对staff影响。题目问对manager影响] ⭐ severely affect —— 严重影响｜leave behind —— 留下
 
 11
-00:01:30,633 --> 00:01:38,393
+00:01:30,632 --> 00:01:38,393
 ⭐ have a negative effect on —— 对……产生负面影响｜remaining staff —— 留任员工｜think about leaving —— 考虑离职
 
 12
-00:01:38,393 --> 00:01:42,062
+00:01:38,393 --> 00:01:42,061
 (Q13) ⭐ what can be done —— 可以采取哪些措施｜change the situation —— 改变局面
 
 13
-00:01:42,062 --> 00:01:50,535
+00:01:42,061 --> 00:01:50,534
 ⭐ basic errors —— 基本错误｜leave somebody feeling… —— 使某人感到……｜resentful —— 愤愤不平的，心怀怨气的
 
 14
-00:01:50,535 --> 00:01:58,360
-(Q13答案句) ⭐ organise shifts —— 安排班次｜preferential treatment —— 特殊待遇，优待｜make sure —— 确保
+00:01:50,534 --> 00:01:58,359
+[Q13答案句-A: never=题干avoid， give preferential treatment=fail to treat ... equally] ⭐ organise shifts —— 安排班次｜preferential treatment —— 特殊待遇，优待｜make sure —— 确保
 
 15
-00:01:58,360 --> 00:02:07,911
-⭐ be given some choice —— 被赋予一定选择权｜shift —— 轮班，班次
+00:01:58,359 --> 00:02:07,911
+[Q 13-B 干扰项： give choice就不会是without warning， 否定] ⭐ be given some choice —— 被赋予一定选择权｜shift —— 轮班，班次
 
 16
 00:02:07,911 --> 00:02:16,650
@@ -67,102 +67,102 @@
 (Q14) ⭐ tangible benefits —— 实实在在的好处｜keep staff happy —— 让员工保持满意
 
 18
-00:02:21,829 --> 00:02:25,666
+00:02:21,829 --> 00:02:25,665
 ⭐ take … as an example —— 以……为例
 
 19
-00:02:25,666 --> 00:02:37,116
+00:02:25,665 --> 00:02:37,116
 ⭐ experience a problem with —— 遇到……方面的问题｜in order to —— 为了｜deal with —— 处理，应对｜invest in —— 投资于
 
 20
-00:02:37,116 --> 00:02:47,766
-(Q14答案句) ⭐ Not only did… but also… —— 不仅……而且……｜a significant increase in —— ……显著增长｜during their stay —— 在入住期间
+00:02:37,116 --> 00:02:47,765
+[Q14答案句- C：increase=rise] ⭐ Not only did… but also… —— 不仅……而且……｜a significant increase in —— ……显著增长｜during their stay —— 在入住期间
 
 21
-00:02:47,766 --> 00:02:55,297
-⭐ introduce a scheme —— 推出一项计划｜customer loyalty scheme —— 顾客忠诚度计划｜go well —— 进展顺利
+00:02:47,765 --> 00:02:55,296
+[Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] ⭐ introduce a scheme —— 推出一项计划｜customer loyalty scheme —— 顾客忠诚度计划｜go well —— 进展顺利
 
 22
-00:02:55,297 --> 00:03:07,574
+00:02:55,296 --> 00:03:07,574
 (Q15（配对）) ⭐ look at —— 探讨，研究｜reduce staff turnover —— 降低员工流失率｜by doing… —— 通过……的方式｜give some examples of —— 举……的例子
 
 23
-00:03:07,574 --> 00:03:14,677
+00:03:07,574 --> 00:03:14,676
 ⭐ receive feedback —— 收到反馈｜value somebody's opinions —— 重视某人的意见
 
 24
-00:03:14,677 --> 00:03:22,111
+00:03:14,676 --> 00:03:22,110
 ⭐ be made to feel —— 被使得感到……｜contribute to —— 为……作出贡献｜as a whole —— 整体而言，从整体来看
 
 25
-00:03:22,111 --> 00:03:24,418
-
-
-26
-00:03:24,418 --> 00:03:32,576
+00:03:22,110 --> 00:03:24,418
 ⭐ at all levels —— 各个层级｜be invited to —— 被邀请参加｜be welcomed —— 受到欢迎/得到认可
 
-27
-00:03:32,576 --> 00:03:38,982
+26
+00:03:24,418 --> 00:03:32,575
 (Q16) ⭐ recognise the need to… —— 意识到有必要……｜invest in —— 投资于｜staff retention —— 员工留任
 
-28
-00:03:38,982 --> 00:03:45,678
-⭐ introduce a scheme —— 推出一项计划｜recognise talent —— 发掘/识别人才｜amongst —— 在……之中（正式用法）
+27
+00:03:32,575 --> 00:03:38,981
+(Q16) ⭐ introduce a scheme —— 推出一项计划｜recognise talent —— 发掘/识别人才｜amongst —— 在……之中（正式用法）
 
-29
-00:03:45,678 --> 00:03:55,702
+28
+00:03:38,981 --> 00:03:45,677
 ⭐ management potential —— 管理潜力｜encourage somebody to stay with… —— 鼓励某人继续留在……｜stay with the business —— 继续留在公司任职
 
-30
-00:03:55,702 --> 00:04:04,836
+29
+00:03:45,677 --> 00:03:55,701
 (Q17) ⭐ high achiever —— 高绩效者，优秀员工｜from across… —— 来自整个……｜hotel chain —— 连锁酒店集团
 
-31
-00:04:04,836 --> 00:04:11,272
-⭐ as a reward —— 作为奖励｜all-expenses-paid —— 全程费用全包的｜be sent on a trip —— 被安排去旅行
+30
+00:03:55,701 --> 00:04:04,836
+(Q17) ⭐ as a reward —— 作为奖励｜all-expenses-paid —— 全程费用全包的｜be sent on a trip —— 被安排去旅行
 
-32
-00:04:11,272 --> 00:04:19,484
+31
+00:04:04,836 --> 00:04:11,271
 ⭐ an important element —— 一个重要组成部分｜the opportunity to… —— ……的机会
 
-33
-00:04:19,484 --> 00:04:28,291
+32
+00:04:11,271 --> 00:04:19,483
 ⭐ include a visit to… —— 包括参观……｜brewery —— 啤酒厂｜learn about —— 了解
 
-34
-00:04:28,291 --> 00:04:35,353
+33
+00:04:19,483 --> 00:04:28,290
 (Q18) ⭐ identify that… —— 发现/确认……｜retention —— 留任，保留｜be an issue —— 是一个问题
+
+34
+00:04:28,290 --> 00:04:35,353
+(Q18) ⭐ in order to —— 为了｜worthwhile and rewarding —— 值得投入且有成就感的｜good prospects —— 良好的发展前景｜management programme —— 管理培训项目
 
 35
 00:04:35,353 --> 00:04:46,245
-⭐ in order to —— 为了｜worthwhile and rewarding —— 值得投入且有成就感的｜good prospects —— 良好的发展前景｜management programme —— 管理培训项目
+⭐ additional responsibilities —— 更多职责｜various roles —— 不同岗位｜be given the chance to… —— 获得……的机会
 
 36
 00:04:46,245 --> 00:04:54,418
-⭐ additional responsibilities —— 更多职责｜various roles —— 不同岗位｜be given the chance to… —— 获得……的机会
-
-37
-00:04:54,418 --> 00:04:58,977
 (Q19) ⭐ be seen as —— 被视为｜caring employer —— 关爱员工的雇主
 
+37
+00:04:54,418 --> 00:04:58,976
+(Q19) ⭐ make life easier for —— 让……生活更轻松｜childcare responsibilities —— 育儿责任｜issue vouchers —— 发放代金券｜cover the cost of —— 支付/承担……的费用
+
 38
-00:04:58,977 --> 00:05:10,744
-⭐ make life easier for —— 让……生活更轻松｜childcare responsibilities —— 育儿责任｜issue vouchers —— 发放代金券｜cover the cost of —— 支付/承担……的费用
+00:04:58,976 --> 00:05:10,744
+(Q20) ⭐ staff retention rate —— 员工留任率｜in the business —— 在业内
 
 39
 00:05:10,744 --> 00:05:17,543
-(Q20) ⭐ staff retention rate —— 员工留任率｜in the business —— 在业内
+(Q20) ⭐ make a huge effort —— 作出巨大努力｜achieve this by… —— 通过……实现这一目标｜co-operative and supportive environment —— 合作互助、支持性的环境
 
 40
-00:05:17,543 --> 00:05:26,623
-⭐ make a huge effort —— 作出巨大努力｜achieve this by… —— 通过……实现这一目标｜co-operative and supportive environment —— 合作互助、支持性的环境
-
-41
-00:05:26,623 --> 00:05:31,904
+00:05:17,543 --> 00:05:26,622
 ⭐ be part of —— 是……的一部分｜be valued —— 被重视
 
-42
-00:05:31,904 --> 00:05:34,404
+41
+00:05:26,622 --> 00:05:31,903
 ⭐ I'd like to… —— 我想……（正式演讲中的过渡表达）
+
+42
+00:05:31,903 --> 00:05:34,403
+
 
