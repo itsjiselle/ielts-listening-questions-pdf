@@ -1,62 +1,62 @@
 1
-00:00:00,505 --> 00:00:12,447
+00:00:00,505 --> 00:00:12,446
 (Q11（单选）) As many of you here today have worked in the hotel industry for some time, I'm sure you have experienced the problem of high staff turnover in your hotels.
 
 2
-00:00:12,447 --> 00:00:22,095
+00:00:12,446 --> 00:00:22,094
 Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly.
 
 3
-00:00:22,095 --> 00:00:28,605
+00:00:22,094 --> 00:00:28,605
 If staff are constantly changing, it can make life difficult for everyone.
 
 4
-00:00:28,605 --> 00:00:33,538
-But why do staff leave frequently in many hotels?
+00:00:28,605 --> 00:00:33,537
+[🟢定位题干：why=because of 逻辑] But why do staff leave frequently in many hotels?
 
 5
-00:00:33,538 --> 00:00:41,389
+00:00:33,537 --> 00:00:41,389
 Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid.
 
 6
-00:00:41,389 --> 00:00:57,906
-(Q11答案句) A lot of managers think it's this and the long hours that are the main causes of high staff turnover – but what they don't realise is that it's the lack of training in many hotel jobs which is a huge factor.
+00:00:41,389 --> 00:00:57,905
+[Q11答案句+干扰， 以but后才是正确答案] A lot of managers think it's this and the long hours that are the main causes of high staff turnover – but what they don't realise is that it's the lack of training in many hotel jobs which is a huge factor.
 
 7
-00:00:57,906 --> 00:01:03,300
+00:00:57,905 --> 00:01:03,299
 (Q12) So, what kind of problems does a high turnover of staff cause?
 
 8
-00:01:03,300 --> 00:01:16,050
-(Q12答案句) Well, having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive.
+00:01:03,299 --> 00:01:16,049
+[Q12答案句- A， 同替：cover some duties= increased workload] Well, having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive.
 
 9
-00:01:16,050 --> 00:01:23,679
-This means they don't have time to think about less immediate problems such as how to improve their service.
+00:01:16,049 --> 00:01:23,679
+[Q11-C干扰项， less immediate说明不是targets] This means they don't have time to think about less immediate problems such as how to improve their service.
 
 10
-00:01:23,679 --> 00:01:30,633
-When staff leave, it can also severely affect the colleagues they leave behind.
+00:01:23,679 --> 00:01:30,632
+[Q12-B干扰项： 主体不同，这是对staff影响。题目问对manager影响] When staff leave, it can also severely affect the colleagues they leave behind.
 
 11
-00:01:30,633 --> 00:01:38,393
+00:01:30,632 --> 00:01:38,393
 It has a negative effect on remaining staff, who may start to feel that they too should be thinking about leaving.
 
 12
-00:01:38,393 --> 00:01:42,062
+00:01:38,393 --> 00:01:42,061
 (Q13) So, what can be done to change this situation?
 
 13
-00:01:42,062 --> 00:01:50,535
+00:01:42,061 --> 00:01:50,534
 Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful.
 
 14
-00:01:50,535 --> 00:01:58,360
-(Q13答案句) When organising shifts, for example, make sure you never give certain staff preferential treatment.
+00:01:50,534 --> 00:01:58,359
+[Q13答案句-A: never=题干avoid， give preferential treatment=fail to treat ... equally] When organising shifts, for example, make sure you never give certain staff preferential treatment.
 
 15
-00:01:58,360 --> 00:02:07,911
-All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts.
+00:01:58,359 --> 00:02:07,911
+[Q 13-B 干扰项： give choice就不会是without warning， 否定] All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts.
 
 16
 00:02:07,911 --> 00:02:16,650
@@ -67,71 +67,71 @@ If you treat staff fairly, they'll be more likely to step in and help when extra
 (Q14) Keeping staff happy has other tangible benefits for the business.
 
 18
-00:02:21,829 --> 00:02:25,666
+00:02:21,829 --> 00:02:25,665
 Take the Dunwich Hotel as an example.
 
 19
-00:02:25,666 --> 00:02:37,116
+00:02:25,665 --> 00:02:37,116
 It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions.
 
 20
-00:02:37,116 --> 00:02:47,766
-(Q14答案句) Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay.
+00:02:37,116 --> 00:02:47,765
+[Q14答案句- C：increase=rise] Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay.
 
 21
-00:02:47,766 --> 00:02:55,297
-They have now introduced a customer loyalty scheme which is going really well.
+00:02:47,765 --> 00:02:55,296
+[Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] They have now introduced a customer loyalty scheme which is going really well.
 
 22
-00:02:55,297 --> 00:03:07,574
+00:02:55,296 --> 00:03:07,574
 (Q15（配对）) Now I'd like to look at some ways you can reduce staff turnover in your hotels, and I'll do this by giving some examples of hotels where I've done some training recently.
 
 23
-00:03:07,574 --> 00:03:14,677
+00:03:07,574 --> 00:03:14,676
 The Sun Club received feedback which showed that staff thought managers didn't value their opinions.&nbsp;
 
 24
-00:03:14,677 --> 00:03:22,111
+00:03:14,676 --> 00:03:22,110
 They weren't made to feel they were partners who were contributing to the success of the business as a whole.
 
 25
-00:03:22,111 --> 00:03:24,418
+00:03:22,110 --> 00:03:24,418
 This situation has changed.
 
 26
-00:03:24,418 --> 00:03:32,576
-Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.
+00:03:24,418 --> 00:03:32,575
+(Q16) Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.
 
 27
-00:03:32,576 --> 00:03:38,982
+00:03:32,575 --> 00:03:38,981
 (Q16) A year ago, The Portland recognised the need to invest in staff retention.
 
 28
-00:03:38,982 --> 00:03:45,678
+00:03:38,981 --> 00:03:45,677
 Their first step was to introduce a scheme for recognising talent amongst their employees.
 
 29
-00:03:45,678 --> 00:03:55,702
-The hope is that organising training for individuals with management potential will encourage them to stay with the business.
+00:03:45,677 --> 00:03:55,701
+(Q17) The hope is that organising training for individuals with management potential will encourage them to stay with the business.
 
 30
-00:03:55,702 --> 00:04:04,836
+00:03:55,701 --> 00:04:04,836
 (Q17) At Bluewater, managers decided to recognise 50 high achievers from across the company's huge hotel chain.
 
 31
-00:04:04,836 --> 00:04:11,272
+00:04:04,836 --> 00:04:11,271
 As a reward, they're sent on an all-expenses-paid trip abroad every year.
 
 32
-00:04:11,272 --> 00:04:19,484
+00:04:11,271 --> 00:04:19,483
 Fun is an important element in the trips, but there's also the opportunity to learn something useful.
 
 33
-00:04:19,484 --> 00:04:28,291
-This year's trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel.
+00:04:19,483 --> 00:04:28,290
+(Q18) This year's trip included a visit to a brewery, where staff learned about the new beer that would be served in the hotel.
 
 34
-00:04:28,291 --> 00:04:35,353
+00:04:28,290 --> 00:04:35,353
 (Q18) Pentlow Hotels identified that retention of junior reception staff was an issue.&nbsp;
 
 35
@@ -140,29 +140,29 @@ In order to encourage them to see that working in a hotel could be worthwhile an
 
 36
 00:04:46,245 --> 00:04:54,418
-These staff were given additional responsibilities and the chance to work in various roles in the hotel.
+(Q19) These staff were given additional responsibilities and the chance to work in various roles in the hotel.
 
 37
-00:04:54,418 --> 00:04:58,977
+00:04:54,418 --> 00:04:58,976
 (Q19) Green Planet wanted to be seen as a caring employer.&nbsp;
 
 38
-00:04:58,977 --> 00:05:10,744
-To make life easier for staff, many of whom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost of childcare.
+00:04:58,976 --> 00:05:10,744
+(Q20) To make life easier for staff, many of whom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost of childcare.
 
 39
 00:05:10,744 --> 00:05:17,543
 (Q20) Louise Marsh at The Amesbury has one of the best staff retention rates in the business.&nbsp;
 
 40
-00:05:17,543 --> 00:05:26,623
+00:05:17,543 --> 00:05:26,622
 Since she joined the company, she has made a huge effort to achieve this by creating a co-operative and supportive environment.
 
 41
-00:05:26,623 --> 00:05:31,904
+00:05:26,622 --> 00:05:31,903
 For her, the staff are part of a large family where everyone is valued.
 
 42
-00:05:31,904 --> 00:05:34,404
+00:05:31,903 --> 00:05:34,403
 OK, now I'd like to …
 
