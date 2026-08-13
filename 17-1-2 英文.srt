@@ -16,7 +16,7 @@ Our boats aren't huge as you can see.
 
 5
 00:00:20,242 --> 00:00:31,515
-We already have three staff members on board and on top of that, we can transport a further fifteen people – that's you – around the coastline.
+[Q 11题干定位： 有3 people，反应过来指的是number of people] We already have three staff members on board and on top of that, we can transport a further fifteen people – that's you – around the coastline.
 
 6
 00:00:31,515 --> 00:00:42,664
@@ -40,7 +40,7 @@ This gives our boats a rather unique appearance, don't you think?
 
 11
 00:01:08,712 --> 00:01:13,328
-Lunchbox 1 contains ham and tomato sandwiches.&nbsp;
+[Q13干扰项A] Lunchbox 1 contains ham and tomato sandwiches.&nbsp;
 
 12
 00:01:13,328 --> 00:01:17,025
@@ -48,7 +48,7 @@ Lunchbox 1 contains ham and tomato sandwiches.&nbsp;
 
 13
 00:01:17,025 --> 00:01:23,415
-and Lunchbox 3 is salad-based and also contains eggs and tuna.&nbsp;
+[Q13干扰项C] and Lunchbox 3 is salad-based and also contains eggs and tuna.&nbsp;
 
 14
 00:01:23,415 --> 00:01:29,418
