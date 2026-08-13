@@ -16,7 +16,7 @@ I'll give you a brief introduction to the estate while you're sitting down, and 
 
 5
 00:00:27,431 --> 00:00:36,189
-[🟢] The original house was replaced in the late seventeenth century, and of course it has had a large number of owners.
+[🟢Q11题干定位] The original house was replaced in the late seventeenth century, and of course it has had a large number of owners.
 
 6
 00:00:36,189 --> 00:00:49,003
@@ -28,7 +28,7 @@ I'll give you a brief introduction to the estate while you're sitting down, and 
 
 8
 00:00:58,404 --> 00:01:06,611
-(Q12) In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes.&nbsp;
+(Q12) [Q12题干定位] In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes.&nbsp;
 
 9
 00:01:06,611 --> 00:01:22,736
@@ -44,7 +44,7 @@ I'll give you a brief introduction to the estate while you're sitting down, and 
 
 12
 00:01:44,429 --> 00:01:57,167
-(Q13) Big houses like Oniton had dozens of servants until the 1920s or 30s, and we've tried to show what their working lives were like.
+(Q13) [Q13题干定位] Big houses like Oniton had dozens of servants until the 1920s or 30s, and we've tried to show what their working lives were like.
 
 13
 00:01:57,167 --> 00:02:12,735
