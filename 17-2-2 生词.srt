@@ -16,7 +16,7 @@
 
 5
 00:00:27,431 --> 00:00:36,189
-[🟢] ⭐ leave one's mark = 留下自己的印记（⭐⭐⭐推荐）；demolish = 拆除；conservatory = 温室、玻璃花房
+[🟢Q11题干定位] ⭐ leave one's mark = 留下自己的印记（⭐⭐⭐推荐）；demolish = 拆除；conservatory = 温室、玻璃花房
 
 6
 00:00:36,189 --> 00:00:49,003
@@ -28,7 +28,7 @@
 
 8
 00:00:58,404 --> 00:01:06,611
-(Q12) ⭐ His intention was to… = 他的目的是……；escape from… = 远离……；be worthy of… = 配得上……；足以容纳……；a collection of… = 一系列收藏
+(Q12) [Q12题干定位] ⭐ His intention was to… = 他的目的是……；escape from… = 远离……；be worthy of… = 配得上……；足以容纳……；a collection of… = 一系列收藏
 
 9
 00:01:06,611 --> 00:01:22,736
@@ -44,7 +44,7 @@
 
 12
 00:01:44,429 --> 00:01:57,167
-(Q13) ⭐ give an idea of… = 让人了解……；dress up as… = 打扮成……；go about one's work = 忙着自己的工作；干活（⭐⭐⭐很自然）
+(Q13) [Q13题干定位] ⭐ give an idea of… = 让人了解……；dress up as… = 打扮成……；go about one's work = 忙着自己的工作；干活（⭐⭐⭐很自然）
 
 13
 00:01:57,167 --> 00:02:12,735
