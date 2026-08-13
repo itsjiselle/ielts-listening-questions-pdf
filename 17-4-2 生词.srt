@@ -24,7 +24,7 @@
 
 7
 00:00:57,905 --> 00:01:03,298
-(Q12) ⭐ turnover of staff —— 员工流失｜cause —— 导致，引发
+(Q12) [Q12题干定位] ⭐ turnover of staff —— 员工流失｜cause —— 导致，引发
 
 8
 00:01:03,298 --> 00:01:16,049
@@ -32,7 +32,7 @@
 
 9
 00:01:16,049 --> 00:01:23,679
-[Q11-C干扰项， less immediate说明不是targets] ⭐ less immediate —— 不那么紧迫的｜think about —— 考虑｜improve their service —— 提升服务质量
+[Q12-C干扰项， less immediate说明不是targets] ⭐ less immediate —— 不那么紧迫的｜think about —— 考虑｜improve their service —— 提升服务质量
 
 10
 00:01:23,679 --> 00:01:30,632
@@ -48,7 +48,7 @@
 
 13
 00:01:42,061 --> 00:01:50,534
-⭐ basic errors —— 基本错误｜leave somebody feeling… —— 使某人感到……｜resentful —— 愤愤不平的，心怀怨气的
+[Q13题干定位] ⭐ basic errors —— 基本错误｜leave somebody feeling… —— 使某人感到……｜resentful —— 愤愤不平的，心怀怨气的
 
 14
 00:01:50,534 --> 00:01:58,358
@@ -64,14 +64,14 @@
 
 17
 00:02:16,650 --> 00:02:21,829
-(Q14) ⭐ tangible benefits —— 实实在在的好处｜keep staff happy —— 让员工保持满意
+(Q14) [Q14题干定位] ⭐ tangible benefits —— 实实在在的好处｜keep staff happy —— 让员工保持满意
 
 18
-00:02:21,829 --> 00:02:25,664
-⭐ take … as an example —— 以……为例
+00:02:21,829 --> 00:02:25,663
+[Q14题干定位] ⭐ take … as an example —— 以……为例
 
 19
-00:02:25,664 --> 00:02:37,116
+00:02:25,663 --> 00:02:37,116
 ⭐ experience a problem with —— 遇到……方面的问题｜in order to —— 为了｜deal with —— 处理，应对｜invest in —— 投资于
 
 20
@@ -79,11 +79,11 @@
 [Q14答案句- C：increase=rise] ⭐ Not only did… but also… —— 不仅……而且……｜a significant increase in —— ……显著增长｜during their stay —— 在入住期间
 
 21
-00:02:47,764 --> 00:02:55,295
+00:02:47,764 --> 00:02:55,294
 [Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] ⭐ introduce a scheme —— 推出一项计划｜customer loyalty scheme —— 顾客忠诚度计划｜go well —— 进展顺利
 
 22
-00:02:55,295 --> 00:03:07,574
+00:02:55,294 --> 00:03:07,574
 (Q15（配对）) ⭐ look at —— 探讨，研究｜reduce staff turnover —— 降低员工流失率｜by doing… —— 通过……的方式｜give some examples of —— 举……的例子
 
 23
@@ -103,19 +103,19 @@
 ⭐ recognise the need to… —— 意识到有必要……｜invest in —— 投资于｜staff retention —— 员工留任
 
 27
-00:03:32,574 --> 00:03:38,980
+00:03:32,574 --> 00:03:38,979
 (Q16) ⭐ introduce a scheme —— 推出一项计划｜recognise talent —— 发掘/识别人才｜amongst —— 在……之中（正式用法）
 
 28
-00:03:38,980 --> 00:03:45,676
+00:03:38,979 --> 00:03:45,675
 ⭐ management potential —— 管理潜力｜encourage somebody to stay with… —— 鼓励某人继续留在……｜stay with the business —— 继续留在公司任职
 
 29
-00:03:45,676 --> 00:03:55,700
+00:03:45,675 --> 00:03:55,699
 ⭐ high achiever —— 高绩效者，优秀员工｜from across… —— 来自整个……｜hotel chain —— 连锁酒店集团
 
 30
-00:03:55,700 --> 00:04:04,836
+00:03:55,699 --> 00:04:04,836
 (Q17) ⭐ as a reward —— 作为奖励｜all-expenses-paid —— 全程费用全包的｜be sent on a trip —— 被安排去旅行
 
 31
