@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "description": "IELTS listening multiple-choice questions archived after teacher confirmation.",
+  "updatedAt": "2026-08-13T05:53:18.857Z",
+  "records": {
+    "17-3-2": {
+      "index": "17-3-2",
+      "updatedAt": "2026-08-13T05:53:18.857Z",
+      "questionCount": 3,
+      "questions": [
+        {
+          "number": 13,
+          "stem": "How much does childcare cost for a complete afternoon session per child?",
+          "options": {
+            "A": "£3.50",
+            "B": "£5.70",
+            "C": "£7.20"
+          }
+        },
+        {
+          "number": 14,
+          "stem": "What does the manager say about food?",
+          "options": {
+            "A": "Children with allergies should bring their own food.",
+            "B": "Children may bring healthy snacks with them.",
+            "C": "Children are given a proper meal at 5 p.m."
+          }
+        },
+        {
+          "number": 15,
+          "stem": "What is different about arrangements in the school holidays?",
+          "options": {
+            "A": "Children from other schools can attend.",
+            "B": "Older children can attend.",
+            "C": "A greater number of children can attend."
+          }
+        }
+      ]
+    }
+  }
+}
