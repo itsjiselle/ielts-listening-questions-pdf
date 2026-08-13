@@ -108,7 +108,7 @@ So if any of you fancy being outside and getting your hands dirty, this is the p
 
 28
 00:03:34,627 --> 00:03:41,786
-Quite a few owned both a computer and a mobile phone, but these tended to be outdated models.
+[Q17&18答案句：C] Quite a few owned both a computer and a mobile phone, but these tended to be outdated models.
 
 29
 00:03:41,786 --> 00:03:51,936
@@ -116,25 +116,29 @@ They generally knew how to do simple things, like send texts, but weren't aware 
 
 30
 00:03:51,936 --> 00:04:01,282
-A few were keen to learn but most were quite dismissive at first - they couldn't see the point of updating their skills. But that soon changed.
+[Q17&18答案句：E] A few were keen to learn but most were quite dismissive at first - they couldn't see the point of updating their skills. But that soon changed.
 
 31
 00:04:01,282 --> 00:04:04,412
 (Q19/20（多选）) The feedback was very positive.
 
 32
-00:04:04,412 --> 00:04:18,754
-The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren, who prefer this form of communication to phoning or sending emails.
+00:04:04,412 --> 00:04:13,569
+[Q19&20答案句：B] The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren,&nbsp;
 
 33
-00:04:18,754 --> 00:04:25,836
-A lot of them also said playing online games would help them make new friends and keep their brains active.
+00:04:13,569 --> 00:04:18,754
+[Q19&20干扰项：E   prefer ... to ... , 后面那个是否定掉的] who prefer this form of communication to phoning or sending emails.
 
 34
+00:04:18,754 --> 00:04:25,836
+[Q19&20答案句：D] A lot of them also said playing online games would help them make new friends and keep their brains active.
+
+35
 00:04:25,836 --> 00:04:39,091
 They weren't that impressed with being able to order their groceries online, as they liked going out to the shops, but some said it would come in handy if they were ill or the weather was really bad.
 
-35
+36
 00:04:39,091 --> 00:04:41,591
 One thing they asked about was using tablets for things like reading newspapers - some people had been given tablets as presents but had never used them, so that's something we'll make sure we include this time ...
 
