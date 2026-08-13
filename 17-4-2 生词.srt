@@ -1,9 +1,9 @@
 1
-00:00:00,505 --> 00:00:12,446
+00:00:00,505 --> 00:00:12,445
 (Q11（单选）) ⭐ staff turnover —— 员工流失率｜hotel industry —— 酒店行业｜experience a problem —— 经历/遇到某种问题
 
 2
-00:00:12,446 --> 00:00:22,094
+00:00:12,445 --> 00:00:22,094
 ⭐ rely on —— 依赖｜make sure (that) —— 确保｜run smoothly —— 顺利运转
 
 3
@@ -11,23 +11,23 @@
 ⭐ constantly —— 持续不断地｜make life difficult for —— 给……带来麻烦/增加困难
 
 4
-00:00:28,605 --> 00:00:33,537
+00:00:28,605 --> 00:00:33,536
 [🟢定位题干：why=because of 逻辑] ⭐ leave —— 离职｜frequently —— 频繁地
 
 5
-00:00:33,537 --> 00:00:41,389
+00:00:33,536 --> 00:00:41,389
 ⭐ low-skilled —— 技术要求低的｜well-paid —— 薪资优厚的（此处为否定）
 
 6
 00:00:41,389 --> 00:00:57,905
-[Q11答案句+干扰， 以but后才是正确答案] ⭐ long hours —— 长时间工作｜staff turnover —— 员工流失率｜lack of —— 缺乏｜a huge factor —— 一个重要因素｜realise —— 意识到
+[Q11答案句：A   +干扰B， 以but后才是正确答案] ⭐ long hours —— 长时间工作｜staff turnover —— 员工流失率｜lack of —— 缺乏｜a huge factor —— 一个重要因素｜realise —— 意识到
 
 7
-00:00:57,905 --> 00:01:03,299
+00:00:57,905 --> 00:01:03,298
 (Q12) ⭐ turnover of staff —— 员工流失｜cause —— 导致，引发
 
 8
-00:01:03,299 --> 00:01:16,049
+00:01:03,298 --> 00:01:16,049
 [Q12答案句- A， 同替：cover some duties= increased workload] ⭐ recruit —— 招聘｜time-consuming —— 耗时的｜cover some duties —— 临时承担工作职责
 
 9
@@ -51,11 +51,11 @@
 ⭐ basic errors —— 基本错误｜leave somebody feeling… —— 使某人感到……｜resentful —— 愤愤不平的，心怀怨气的
 
 14
-00:01:50,534 --> 00:01:58,359
+00:01:50,534 --> 00:01:58,358
 [Q13答案句-A: never=题干avoid， give preferential treatment=fail to treat ... equally] ⭐ organise shifts —— 安排班次｜preferential treatment —— 特殊待遇，优待｜make sure —— 确保
 
 15
-00:01:58,359 --> 00:02:07,911
+00:01:58,358 --> 00:02:07,911
 [Q 13-B 干扰项： give choice就不会是without warning， 否定] ⭐ be given some choice —— 被赋予一定选择权｜shift —— 轮班，班次
 
 16
@@ -67,31 +67,31 @@
 (Q14) ⭐ tangible benefits —— 实实在在的好处｜keep staff happy —— 让员工保持满意
 
 18
-00:02:21,829 --> 00:02:25,665
+00:02:21,829 --> 00:02:25,664
 ⭐ take … as an example —— 以……为例
 
 19
-00:02:25,665 --> 00:02:37,116
+00:02:25,664 --> 00:02:37,116
 ⭐ experience a problem with —— 遇到……方面的问题｜in order to —— 为了｜deal with —— 处理，应对｜invest in —— 投资于
 
 20
-00:02:37,116 --> 00:02:47,765
+00:02:37,116 --> 00:02:47,764
 [Q14答案句- C：increase=rise] ⭐ Not only did… but also… —— 不仅……而且……｜a significant increase in —— ……显著增长｜during their stay —— 在入住期间
 
 21
-00:02:47,765 --> 00:02:55,296
+00:02:47,764 --> 00:02:55,295
 [Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] ⭐ introduce a scheme —— 推出一项计划｜customer loyalty scheme —— 顾客忠诚度计划｜go well —— 进展顺利
 
 22
-00:02:55,296 --> 00:03:07,574
+00:02:55,295 --> 00:03:07,574
 (Q15（配对）) ⭐ look at —— 探讨，研究｜reduce staff turnover —— 降低员工流失率｜by doing… —— 通过……的方式｜give some examples of —— 举……的例子
 
 23
-00:03:07,574 --> 00:03:14,676
+00:03:07,574 --> 00:03:14,675
 ⭐ receive feedback —— 收到反馈｜value somebody's opinions —— 重视某人的意见
 
 24
-00:03:14,676 --> 00:03:22,110
+00:03:14,675 --> 00:03:22,110
 ⭐ be made to feel —— 被使得感到……｜contribute to —— 为……作出贡献｜as a whole —— 整体而言，从整体来看
 
 25
@@ -99,31 +99,31 @@
 ⭐ at all levels —— 各个层级｜be invited to —— 被邀请参加｜be welcomed —— 受到欢迎/得到认可
 
 26
-00:03:24,418 --> 00:03:32,575
+00:03:24,418 --> 00:03:32,574
 ⭐ recognise the need to… —— 意识到有必要……｜invest in —— 投资于｜staff retention —— 员工留任
 
 27
-00:03:32,575 --> 00:03:38,981
+00:03:32,574 --> 00:03:38,980
 (Q16) ⭐ introduce a scheme —— 推出一项计划｜recognise talent —— 发掘/识别人才｜amongst —— 在……之中（正式用法）
 
 28
-00:03:38,981 --> 00:03:45,677
+00:03:38,980 --> 00:03:45,676
 ⭐ management potential —— 管理潜力｜encourage somebody to stay with… —— 鼓励某人继续留在……｜stay with the business —— 继续留在公司任职
 
 29
-00:03:45,677 --> 00:03:55,701
+00:03:45,676 --> 00:03:55,700
 ⭐ high achiever —— 高绩效者，优秀员工｜from across… —— 来自整个……｜hotel chain —— 连锁酒店集团
 
 30
-00:03:55,701 --> 00:04:04,836
+00:03:55,700 --> 00:04:04,836
 (Q17) ⭐ as a reward —— 作为奖励｜all-expenses-paid —— 全程费用全包的｜be sent on a trip —— 被安排去旅行
 
 31
-00:04:04,836 --> 00:04:11,271
+00:04:04,836 --> 00:04:11,270
 ⭐ an important element —— 一个重要组成部分｜the opportunity to… —— ……的机会
 
 32
-00:04:11,271 --> 00:04:19,483
+00:04:11,270 --> 00:04:19,483
 ⭐ include a visit to… —— 包括参观……｜brewery —— 啤酒厂｜learn about —— 了解
 
 33
@@ -143,11 +143,11 @@
 ⭐ be seen as —— 被视为｜caring employer —— 关爱员工的雇主
 
 37
-00:04:54,418 --> 00:04:58,976
+00:04:54,418 --> 00:04:58,975
 (Q19) ⭐ make life easier for —— 让……生活更轻松｜childcare responsibilities —— 育儿责任｜issue vouchers —— 发放代金券｜cover the cost of —— 支付/承担……的费用
 
 38
-00:04:58,976 --> 00:05:10,744
+00:04:58,975 --> 00:05:10,744
 ⭐ staff retention rate —— 员工留任率｜in the business —— 在业内
 
 39
