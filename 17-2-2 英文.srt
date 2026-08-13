@@ -12,7 +12,7 @@ I'll give you a brief introduction to the estate while you're sitting down, and 
 
 4
 00:00:17,521 --> 00:00:27,431
-The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century.
+[🟢] The estate consists of the house, gardens, parkland and farm, and it dates back to the fourteenth century.
 
 5
 00:00:27,431 --> 00:00:36,189
@@ -20,27 +20,27 @@ The estate consists of the house, gardens, parkland and farm, and it dates back 
 
 6
 00:00:36,189 --> 00:00:49,003
-[Q11-答案句] Almost all of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others.
+[Q11-答案句：B] Almost all of them have left their mark, generally by adding new rooms, like the ballroom and conservatory, or by demolishing others.
 
 7
 00:00:49,003 --> 00:00:58,404
-The farm looks much as it's always done, although the current owner has done a great deal of work to the flower beds.
+[Q11干扰项C：] The farm looks much as it's always done, although the current owner has done a great deal of work to the flower beds.
 
 8
 00:00:58,404 --> 00:01:06,611
-(Q12) In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes. 17
+(Q12) In the seventeenth century, the estate was owned by a very wealthy man called Sir Edward Downes.&nbsp;
 
 9
 00:01:06,611 --> 00:01:22,736
-His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures.
+[Q12干扰项A： 要escape from政治， 否定原文] His intention was to escape from the world of politics, after years as an active politician, and to build a new house worthy of his big collection of books, paintings and sculptures.
 
 10
 00:01:22,736 --> 00:01:34,459
-[Q12 答案句] He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets.
+[Q12 答案句：C] He broke off contact with his former political allies, and hosted meetings of creative and literary people, like painters and poets.
 
 11
 00:01:34,459 --> 00:01:44,429
-Unusually for his time, he didn't care whether his guests were rich or poor, as long as they had talent.
+[Q12干扰项B： 不在意wealth， 否定原文] Unusually for his time, he didn't care whether his guests were rich or poor, as long as they had talent.
 
 12
 00:01:44,429 --> 00:01:57,167
@@ -48,7 +48,7 @@ Unusually for his time, he didn't care whether his guests were rich or poor, as 
 
 13
 00:01:57,167 --> 00:02:12,735
-[Q13答案句] Photographs of course don't give much of an idea, so instead, as you go round the house, you'll see volunteers dressed up as nineteenth-century servants, going about their work.
+[Q13答案句：C] Photographs of course don't give much of an idea, so instead, as you go round the house, you'll see volunteers dressed up as nineteenth-century servants, going about their work.
 
 14
 00:02:12,735 --> 00:02:21,114
@@ -56,43 +56,43 @@ They'll explain what they're doing, and tell you their recipes, or what tools th
 
 15
 00:02:21,114 --> 00:02:28,924
-We've just introduced this feature to replace the audio guide we used to have available.
+[Q13干扰项A： 用上述内容replace A， 否定原文] We've just introduced this feature to replace the audio guide we used to have available.
 
 16
-00:02:28,924 --> 00:02:33,319
+00:02:28,924 --> 00:02:33,318
 (Q14) I see there are a number of children here with you today.
 
 17
-00:02:33,319 --> 00:02:51,456
-Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it's a fine day, some of you will probably want to play in the adventure playground.
+00:02:33,318 --> 00:02:51,455
+[Q14干扰项：A 现在已经有了，不属于new，偷换概念/主体不符] Well, we have several activities specially for children, like dressing up in the sorts of clothes that children wore in the past, and as it's a fine day, some of you will probably want to play in the adventure playground.
 
 18
-00:02:51,456 --> 00:03:00,485
-[Q14答案句] Our latest addition is child-sized tractors, that you can drive around the grounds.
+00:02:51,455 --> 00:03:00,485
+[Q14答案句：B， latest= new] Our latest addition is child-sized tractors, that you can drive around the grounds.
 
 19
 00:03:00,485 --> 00:03:08,127
 (Q15（配对）) We'll also be going into the farm that's part of the estate, where there's plenty to do.
 
 20
-00:03:08,127 --> 00:03:18,420
+00:03:08,127 --> 00:03:18,419
 Most of the buildings date from the eighteenth century, so you can really step back into an agricultural past.
 
 21
-00:03:18,420 --> 00:03:26,585
+00:03:18,419 --> 00:03:26,585
 Until recently, the dairy was where milk from the cows was turned into cheese.
 
 22
-00:03:26,585 --> 00:03:35,682
-It's now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake.
+00:03:26,585 --> 00:03:35,681
+(Q16) It's now the place to go for lunch, or afternoon tea, or just a cup of coffee and a slice of homemade cake.
 
 23
-00:03:35,682 --> 00:03:46,127
+00:03:35,681 --> 00:03:46,127
 (Q16) The big stone building that dominates the farm is the large barn, and in here is our collection of agricultural tools.
 
 24
 00:03:46,127 --> 00:03:54,556
-These were used in the past to plough the earth, sow seeds, make gates, and much more.
+(Q17) These were used in the past to plough the earth, sow seeds, make gates, and much more.
 
 25
 00:03:54,556 --> 00:04:03,412
@@ -100,7 +100,7 @@ These were used in the past to plough the earth, sow seeds, make gates, and much
 
 26
 00:04:03,412 --> 00:04:09,560
-They really seem to enjoy having it done, and children love grooming them.
+(Q18) They really seem to enjoy having it done, and children love grooming them.
 
 27
 00:04:09,560 --> 00:04:25,230
@@ -112,7 +112,7 @@ They really seem to enjoy having it done, and children love grooming them.
 
 29
 00:04:36,891 --> 00:04:41,870
-The carriages are well over a hundred years old.
+(Q20) The carriages are well over a hundred years old.
 
 30
 00:04:41,870 --> 00:04:52,408
