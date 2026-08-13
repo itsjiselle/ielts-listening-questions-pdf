@@ -3,59 +3,59 @@
 (Q11&12（多选）) ⭐ Great to see you! —— 很高兴见到你！
 
 2
-00:00:03,772 --> 00:00:11,440
+00:00:03,772 --> 00:00:11,439
 ⭐ look after sb —— 照顾某人；负责某人｜for the first month —— 第一个月期间
 
 3
-00:00:11,440 --> 00:00:18,057
+00:00:11,439 --> 00:00:18,056
 ⭐ tell sb something about... —— 告诉某人关于……的信息｜take sb to meet... —— 带某人去见……
 
 4
-00:00:18,057 --> 00:00:22,402
+00:00:18,056 --> 00:00:22,402
 ⭐ be modernised —— 被现代化改造｜several times —— 多次
 
 5
-00:00:22,402 --> 00:00:28,516
-⭐ carry out —— 实施；进行｜major refurbishment —— 大规模翻修｜at the moment —— 目前
+00:00:22,402 --> 00:00:28,515
+[Q11&12题干定位：refurbishment原词重现] ⭐ carry out —— 实施；进行｜major refurbishment —— 大规模翻修｜at the moment —— 目前
 
 6
-00:00:28,516 --> 00:00:35,528
-⭐ interior —— 内部｜exterior —— 外部｜be about to do sth —— 即将做某事｜start on sth —— 开始处理某事
+00:00:28,515 --> 00:00:35,527
+[Q11&12干扰项D：outside还没开始（about to）] ⭐ interior —— 内部｜exterior —— 外部｜be about to do sth —— 即将做某事｜start on sth —— 开始处理某事
 
 7
-00:00:35,528 --> 00:00:37,745
+00:00:35,527 --> 00:00:37,744
 ⭐ a big job —— 一项艰巨的工作
 
 8
-00:00:37,745 --> 00:00:43,572
-⭐ run over budget —— 超出预算｜postpone doing sth —— 推迟做某事｜install an elevator —— 安装电梯
+00:00:37,744 --> 00:00:43,572
+[Q1&12干扰项C： postpone 电梯] ⭐ run over budget —— 超出预算｜postpone doing sth —— 推迟做某事｜install an elevator —— 安装电梯
 
 9
 00:00:43,572 --> 00:00:47,154
 ⭐ run up and down stairs —— 上上下下楼梯
 
 10
-00:00:47,154 --> 00:00:55,223
+00:00:47,154 --> 00:00:55,222
 ⭐ generally —— 通常｜close together —— 靠得很近
 
 11
-00:00:55,223 --> 00:00:59,670
-⭐ replace A with B —— 用B替代A｜legroom —— 腿部空间
+00:00:55,222 --> 00:00:59,670
+[Q11&12干扰项E+答案句B] ⭐ replace A with B —— 用B替代A｜legroom —— 腿部空间
 
 12
 00:00:59,670 --> 00:01:10,218
-⭐ in total —— 总共｜take the opportunity to do sth —— 利用机会做某事｜acting spaces —— 表演空间
+[Q11&12答案句 B] ⭐ in total —— 总共｜take the opportunity to do sth —— 利用机会做某事｜acting spaces —— 表演空间
 
 13
 00:01:10,218 --> 00:01:17,786
-⭐ turn sth over to sth —— 将某物转作某用途｜storeroom —— 储藏室｜for other purposes —— 用于其他目的
+[Q11&12答案句：A] ⭐ turn sth over to sth —— 将某物转作某用途｜storeroom —— 储藏室｜for other purposes —— 用于其他目的
 
 14
-00:01:17,786 --> 00:01:22,202
+00:01:17,786 --> 00:01:22,201
 (Q13&14) ⭐ try hard to do sth —— 努力做某事｜involve sb in sth —— 让某人参与某事｜members of the public —— 公众成员
 
 15
-00:01:22,202 --> 00:01:31,021
+00:01:22,201 --> 00:01:31,021
 ⭐ backstage tour —— 后台参观｜show sb round —— 带某人参观｜operate —— 运作
 
 16
@@ -63,35 +63,35 @@
 ⭐ prove popular —— 证明受欢迎
 
 17
-00:01:34,305 --> 00:01:45,666
+00:01:34,305 --> 00:01:45,665
 ⭐ look into —— 调查；考虑｜the possibility of doing sth —— 做某事的可能性｜in due course —— 适当时候；未来某时
 
 18
-00:01:45,666 --> 00:01:53,005
+00:01:45,665 --> 00:01:53,004
 ⭐ specialise in —— 专门从事；专营｜attract customers —— 吸引顾客
 
 19
-00:01:53,005 --> 00:02:03,782
+00:01:53,004 --> 00:02:03,781
 ⭐ be available for hire —— 可出租｜conference —— 会议｜private function —— 私人活动
 
 20
-00:02:03,782 --> 00:02:09,758
+00:02:03,781 --> 00:02:09,758
 ⭐ consider doing sth —— 考虑做某事｜hire out —— 出租｜amateur drama club —— 业余戏剧俱乐部
 
 21
-00:02:09,758 --> 00:02:13,976
+00:02:09,758 --> 00:02:13,975
 (Q15&16) ⭐ workshop —— 工作坊；培训课程
 
 22
-00:02:13,976 --> 00:02:18,722
+00:02:13,975 --> 00:02:18,722
 ⭐ a programme of... —— 一系列……｜anyone can join —— 任何人都可以参加
 
 23
-00:02:18,722 --> 00:02:27,571
+00:02:18,722 --> 00:02:27,570
 ⭐ eventually —— 最终｜intend to do sth —— 打算做某事｜have sb in place —— 找好并安排好某人
 
 24
-00:02:27,571 --> 00:02:31,460
+00:02:27,570 --> 00:02:31,460
 ⭐ prove difficult —— 证明困难｜than expected —— 比预期
 
 25
@@ -99,35 +99,35 @@
 ⭐ a big demand for... —— 对……有很大需求｜technical side —— 技术方面｜put on a production —— 制作/上演演出
 
 26
-00:02:41,299 --> 00:02:45,327
+00:02:41,299 --> 00:02:45,326
 ⭐ start one on... —— 开设一个关于……的课程
 
 27
-00:02:45,327 --> 00:02:52,436
+00:02:45,326 --> 00:02:52,436
 ⭐ a number of... —— 许多……｜enquire about... —— 询问……｜for the future —— 未来
 
 28
-00:02:52,436 --> 00:02:57,154
+00:02:52,436 --> 00:02:57,153
 ⭐ a surprise success —— 意外的成功
 
 29
-00:02:57,154 --> 00:03:03,186
+00:02:57,153 --> 00:03:03,186
 ⭐ happen to do sth —— 碰巧做某事｜as a hobby —— 作为爱好｜offer to do sth —— 主动提出做某事
 
 30
-00:03:03,186 --> 00:03:09,612
+00:03:03,186 --> 00:03:09,611
 ⭐ so...that... —— 如此……以至于……
 
 31
-00:03:09,612 --> 00:03:13,473
+00:03:09,611 --> 00:03:13,473
 (Q17（地图题）) ⭐ layout of... —— ……的布局
 
 32
-00:03:13,473 --> 00:03:19,915
+00:03:13,473 --> 00:03:19,914
 ⭐ auditorium —— 观众厅｜dressing room —— 更衣室｜below ground level —— 低于地面
 
 33
-00:03:19,915 --> 00:03:25,375
+00:03:19,914 --> 00:03:25,375
 ⭐ ground floor —— 一楼｜the public doesn't see —— 公众看不到的
 
 34
@@ -139,15 +139,15 @@
 ⭐ foyer —— 门厅；大厅｜wonder why... —— 想知道为什么……｜expect to find... —— 预期找到……
 
 36
-00:03:40,419 --> 00:03:50,523
+00:03:40,419 --> 00:03:50,522
 ⭐ next door —— 隔壁｜separate entrance —— 独立入口
 
 37
-00:03:50,523 --> 00:04:04,468
+00:03:50,522 --> 00:04:04,467
 (Q18) ⭐ go across —— 穿过｜double doors —— 双扇门｜at the end of the corridor —— 走廊尽头
 
 38
-00:04:04,468 --> 00:04:12,328
+00:04:04,467 --> 00:04:12,328
 (Q19) ⭐ lighting box —— 灯光控制室｜operate —— 操作｜at the back of... —— 在……后方
 
 39
@@ -159,17 +159,14 @@
 ⭐ the second room along... —— 沿着……数第二个房间
 
 41
-00:04:25,305 --> 00:04:32,381
+00:04:25,305 --> 00:04:32,380
 ⭐ have a window into sth —— 有一扇可以看到……的窗户；通向/朝向……的窗户
 
-
-auditorium —— 观众厅；礼堂
-
 42
-00:04:32,381 --> 00:04:42,765
+00:04:32,380 --> 00:04:42,764
 (Q20) ⭐ artistic director —— 艺术总监｜the first room you come to —— 第一个遇到的房间
 
 43
-00:04:42,765 --> 00:04:45,265
+00:04:42,764 --> 00:04:45,264
 ⭐ for the moment —— 目前｜take sb next —— 接下来带某人去……
 
