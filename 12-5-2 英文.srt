@@ -1,0 +1,128 @@
+1
+00:00:01,572 --> 00:00:08,233
+(Q11（单选）) Good morning everyone. My name’s Joy Parkins and I’m the restaurant manager.
+
+2
+00:00:08,233 --> 00:00:14,531
+And I understand that none of you’ve had any previous experience as kitchen assistants.
+
+3
+00:00:14,531 --> 00:00:21,971
+[Q11定位词（同义替换）enjoy = like， most 也原词重现] Well, you might be feeling a bit nervous now, but most of our kitchen assistants say they enjoy the work.
+
+4
+00:00:21,971 --> 00:00:31,954
+[✅A， different things to do = variety of work] OK, they might get shouted at sometimes, but it’s nothing personal, and they’re pleased that they have so many different things to do, which means they never get bored.
+
+5
+00:00:31,954 --> 00:00:41,545
+[❌C，偷换概念， might think 给机会晋升， 完全不是 员工 like 的点] And I’ll tell you straightaway that if you do well, we might think about moving you up and giving you some more responsibility.
+
+6
+00:00:41,545 --> 00:00:47,371
+(Q12) Right, well, you’ve all shown up on time, which is an excellent start.
+
+7
+00:00:47,371 --> 00:00:57,914
+[❌C footwear =shoes，选项C出现， 但 否定原文， 大家都穿了合适的鞋 不等于 经理在concered] Now I’m glad to see none of you have unsuitable footwear, so that’s good - you need to be careful as the floors can get very wet and slippery.
+
+8
+00:00:57,914 --> 00:01:13,548
+[❌B 提到了hair， 扎好了 get it well 否定原文「担心」。   ✅A - rings&bracelets = jewellery， hazard = concern的含义] Those of you with long hair have got it well out of the way, but some of you’ll need to remove your rings and bracelets - just put them somewhere safe for today, and remember to leave them at home tomorrow, as they can be a safety hazard.
+
+9
+00:01:13,548 --> 00:01:23,625
+(Q13) [🟢 定位词 busy， ✅C don't have any table free = fully booked] Now it’s going to be a busy day for you all today - we don’t have any tables free for this evening, and only a few for lunch.
+
+10
+00:01:23,625 --> 00:01:32,316
+[❌B， 否定原文，absent 不在场的，原文 be back 。 ❌A未提及] Fortunately we’ve got our Head Chef back - he was away on holiday all last week which meant the other chefs had extra work.
+
+11
+00:01:32,316 --> 00:01:39,346
+(Q14) Now, I’ll tell you a bit more about the job in a minute but first, some general regulations.
+
+12
+00:01:39,346 --> 00:01:53,900
+[🟢 提到了age，定位词 18 or order 都是指年龄。 ❌A出现， 否定原文] For all of you, whatever your age, there’s some equipment you mustn’t use until you’ve been properly trained, like the waste disposal system for example, for health and safety reasons.
+
+13
+00:01:53,900 --> 00:02:01,575
+[原词 18 出现，但说的under 18] Then I think there are two of you here who are under 18 - that’s Emma and Jake, isn’t it?
+
+14
+00:02:01,575 --> 00:02:07,534
+[✅C 同义替换 解释类： for under 18， xxx out of bounds = 18 or order allow] Right. so for you two, the meat slicer is out of bounds.
+
+15
+00:02:07,534 --> 00:02:14,508
+[❌B， 否定原文] And of course none of you are allowed to use the electric mixer until you’ve been shown how it works.
+
+16
+00:02:14,508 --> 00:02:22,720
+(Q15&16（多选）) Now you may have heard that this can be a stressful job, and I have to say that can be true.
+
+17
+00:02:22,720 --> 00:02:32,160
+You'll be working an eight-hour day for the first week, though you'll have the chance to do overtime after that as well if you want to.
+
+18
+00:02:32,160 --> 00:02:37,021
+But however long the hours are, you'll get a break in the middle.
+
+19
+00:02:37,021 --> 00:02:46,159
+What you will find is that you're on your feet all day long, lifting and carrying, so if you're not fit now you soon will be!
+
+20
+00:02:46,159 --> 00:02:53,862
+You'll find you don't have much chance to take it easy - when someone tells you to do something you need to do it straightaway&nbsp;
+
+21
+00:02:53,862 --> 00:03:00,247
+- but at least we do have a very efficient air conditioning system compared with some kitchens.
+
+22
+00:03:00,247 --> 00:03:04,765
+(Q17（配对题）) Now let me tell you about some of the people you need to know.
+
+23
+00:03:04,765 --> 00:03:12,944
+So as I said, I'm Joy Parkins and I decide who does what during the day and how long they work for.
+
+24
+00:03:12,944 --> 00:03:20,976
+I'll be trying to get you to work with as many different people in the kitchen as possible, so that you learn while you're on the job.
+
+25
+00:03:20,976 --> 00:03:26,382
+One person whose name you must remember is David Field.
+
+26
+00:03:26,382 --> 00:03:37,688
+If you injure yourself at all, even if it's really minor, you must report to him and he'll make sure the incident is recorded and you get the appropriate treatment.
+
+27
+00:03:37,688 --> 00:03:44,164
+He's trained to give basic treatment to staff himself, or he'll send you off somewhere else if necessary.
+
+28
+00:03:44,164 --> 00:03:52,148
+Then there's Dexter Wills - he's the person you need to see if you smash a plate or something like that.
+
+29
+00:03:52,148 --> 00:04:01,915
+Don't just leave it and hope no one will notice - it's really important to get things noted and replaced or there could be problems later.
+
+30
+00:04:01,915 --> 00:04:05,063
+And finally, there's Mike Smith.
+
+31
+00:04:05,063 --> 00:04:19,100
+He's the member of staff who takes care of all the stores of perishables, so if you notice we're getting low in flour or sugar or something, make sure you let him know so he can put in an order.
+
+32
+00:04:19,100 --> 00:04:21,600
+OK, now the next thing ...
+
