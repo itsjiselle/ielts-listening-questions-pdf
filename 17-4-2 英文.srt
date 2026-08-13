@@ -1,9 +1,9 @@
 1
-00:00:00,505 --> 00:00:12,446
+00:00:00,505 --> 00:00:12,445
 (Q11（单选）) As many of you here today have worked in the hotel industry for some time, I'm sure you have experienced the problem of high staff turnover in your hotels.
 
 2
-00:00:12,446 --> 00:00:22,094
+00:00:12,445 --> 00:00:22,094
 Every hotel relies on having loyal and experienced members of staff who make sure that everything runs smoothly.
 
 3
@@ -11,23 +11,23 @@ Every hotel relies on having loyal and experienced members of staff who make sur
 If staff are constantly changing, it can make life difficult for everyone.
 
 4
-00:00:28,605 --> 00:00:33,537
+00:00:28,605 --> 00:00:33,536
 [🟢定位题干：why=because of 逻辑] But why do staff leave frequently in many hotels?
 
 5
-00:00:33,537 --> 00:00:41,389
+00:00:33,536 --> 00:00:41,389
 Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-paid.
 
 6
 00:00:41,389 --> 00:00:57,905
-[Q11答案句+干扰， 以but后才是正确答案] A lot of managers think it's this and the long hours that are the main causes of high staff turnover – but what they don't realise is that it's the lack of training in many hotel jobs which is a huge factor.
+[Q11答案句：A   +干扰B， 以but后才是正确答案] A lot of managers think it's this and the long hours that are the main causes of high staff turnover – but what they don't realise is that it's the lack of training in many hotel jobs which is a huge factor.
 
 7
-00:00:57,905 --> 00:01:03,299
+00:00:57,905 --> 00:01:03,298
 (Q12) So, what kind of problems does a high turnover of staff cause?
 
 8
-00:01:03,299 --> 00:01:16,049
+00:01:03,298 --> 00:01:16,049
 [Q12答案句- A， 同替：cover some duties= increased workload] Well, having to recruit new staff all the time can be very time-consuming, and managers may have to cover some duties while waiting for new staff to arrive.
 
 9
@@ -51,11 +51,11 @@ It has a negative effect on remaining staff, who may start to feel that they too
 Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful.
 
 14
-00:01:50,534 --> 00:01:58,359
+00:01:50,534 --> 00:01:58,358
 [Q13答案句-A: never=题干avoid， give preferential treatment=fail to treat ... equally] When organising shifts, for example, make sure you never give certain staff preferential treatment.
 
 15
-00:01:58,359 --> 00:02:07,911
+00:01:58,358 --> 00:02:07,911
 [Q 13-B 干扰项： give choice就不会是without warning， 否定] All staff should be given some choice about when they work, and everyone should have to work some evening and weekend shifts.
 
 16
@@ -67,31 +67,31 @@ If you treat staff fairly, they'll be more likely to step in and help when extra
 (Q14) Keeping staff happy has other tangible benefits for the business.
 
 18
-00:02:21,829 --> 00:02:25,665
+00:02:21,829 --> 00:02:25,664
 Take the Dunwich Hotel as an example.
 
 19
-00:02:25,665 --> 00:02:37,116
+00:02:25,664 --> 00:02:37,116
 It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions.
 
 20
-00:02:37,116 --> 00:02:47,765
+00:02:37,116 --> 00:02:47,764
 [Q14答案句- C：increase=rise] Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay.
 
 21
-00:02:47,765 --> 00:02:55,296
+00:02:47,764 --> 00:02:55,295
 [Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] They have now introduced a customer loyalty scheme which is going really well.
 
 22
-00:02:55,296 --> 00:03:07,574
+00:02:55,295 --> 00:03:07,574
 (Q15（配对）) Now I'd like to look at some ways you can reduce staff turnover in your hotels, and I'll do this by giving some examples of hotels where I've done some training recently.
 
 23
-00:03:07,574 --> 00:03:14,676
+00:03:07,574 --> 00:03:14,675
 The Sun Club received feedback which showed that staff thought managers didn't value their opinions.&nbsp;
 
 24
-00:03:14,676 --> 00:03:22,110
+00:03:14,675 --> 00:03:22,110
 They weren't made to feel they were partners who were contributing to the success of the business as a whole.
 
 25
@@ -99,31 +99,31 @@ They weren't made to feel they were partners who were contributing to the succes
 This situation has changed.
 
 26
-00:03:24,418 --> 00:03:32,575
+00:03:24,418 --> 00:03:32,574
 Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.
 
 27
-00:03:32,575 --> 00:03:38,981
+00:03:32,574 --> 00:03:38,980
 (Q16) A year ago, The Portland recognised the need to invest in staff retention.
 
 28
-00:03:38,981 --> 00:03:45,677
+00:03:38,980 --> 00:03:45,676
 Their first step was to introduce a scheme for recognising talent amongst their employees.
 
 29
-00:03:45,677 --> 00:03:55,701
+00:03:45,676 --> 00:03:55,700
 The hope is that organising training for individuals with management potential will encourage them to stay with the business.
 
 30
-00:03:55,701 --> 00:04:04,836
+00:03:55,700 --> 00:04:04,836
 (Q17) At Bluewater, managers decided to recognise 50 high achievers from across the company's huge hotel chain.
 
 31
-00:04:04,836 --> 00:04:11,271
+00:04:04,836 --> 00:04:11,270
 As a reward, they're sent on an all-expenses-paid trip abroad every year.
 
 32
-00:04:11,271 --> 00:04:19,483
+00:04:11,270 --> 00:04:19,483
 Fun is an important element in the trips, but there's also the opportunity to learn something useful.
 
 33
@@ -143,11 +143,11 @@ In order to encourage them to see that working in a hotel could be worthwhile an
 These staff were given additional responsibilities and the chance to work in various roles in the hotel.
 
 37
-00:04:54,418 --> 00:04:58,976
+00:04:54,418 --> 00:04:58,975
 (Q19) Green Planet wanted to be seen as a caring employer.&nbsp;
 
 38
-00:04:58,976 --> 00:05:10,744
+00:04:58,975 --> 00:05:10,744
 To make life easier for staff, many of whom had childcare responsibilities, the hotel began issuing vouchers to help cover the cost of childcare.
 
 39
