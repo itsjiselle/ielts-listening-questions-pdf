@@ -24,7 +24,7 @@ Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-p
 
 7
 00:00:57,905 --> 00:01:03,298
-(Q12) So, what kind of problems does a high turnover of staff cause?
+(Q12) [Q12题干定位] So, what kind of problems does a high turnover of staff cause?
 
 8
 00:01:03,298 --> 00:01:16,049
@@ -32,7 +32,7 @@ Of course, many hotel jobs, such as cleaning, are low-skilled and are not well-p
 
 9
 00:01:16,049 --> 00:01:23,679
-[Q11-C干扰项， less immediate说明不是targets] This means they don't have time to think about less immediate problems such as how to improve their service.
+[Q12-C干扰项， less immediate说明不是targets] This means they don't have time to think about less immediate problems such as how to improve their service.
 
 10
 00:01:23,679 --> 00:01:30,632
@@ -48,7 +48,7 @@ It has a negative effect on remaining staff, who may start to feel that they too
 
 13
 00:01:42,061 --> 00:01:50,534
-Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful.
+[Q13题干定位] Firstly, managers should stop making basic errors which leave their staff feeling upset and resentful.
 
 14
 00:01:50,534 --> 00:01:58,358
@@ -64,14 +64,14 @@ If you treat staff fairly, they'll be more likely to step in and help when extra
 
 17
 00:02:16,650 --> 00:02:21,829
-(Q14) Keeping staff happy has other tangible benefits for the business.
+(Q14) [Q14题干定位] Keeping staff happy has other tangible benefits for the business.
 
 18
-00:02:21,829 --> 00:02:25,664
-Take the Dunwich Hotel as an example.
+00:02:21,829 --> 00:02:25,663
+[Q14题干定位] Take the Dunwich Hotel as an example.
 
 19
-00:02:25,664 --> 00:02:37,116
+00:02:25,663 --> 00:02:37,116
 It had been experiencing a problem with staff complaints and in order to deal with this, invested in staff training and improved staff conditions.
 
 20
@@ -79,11 +79,11 @@ It had been experiencing a problem with staff complaints and in order to deal wi
 [Q14答案句- C：increase=rise] Not only did the level of complaints fall, but they also noticed a significant increase in the amount each customer spent during their stay.
 
 21
-00:02:47,764 --> 00:02:55,295
+00:02:47,764 --> 00:02:55,294
 [Q14-干扰项B： 只说introduce并且效果不错，不代表是increase in ... membership] They have now introduced a customer loyalty scheme which is going really well.
 
 22
-00:02:55,295 --> 00:03:07,574
+00:02:55,294 --> 00:03:07,574
 (Q15（配对）) Now I'd like to look at some ways you can reduce staff turnover in your hotels, and I'll do this by giving some examples of hotels where I've done some training recently.
 
 23
@@ -103,19 +103,19 @@ This situation has changed.
 Junior staff at all levels are regularly invited to meetings where their ideas are welcomed.
 
 27
-00:03:32,574 --> 00:03:38,980
+00:03:32,574 --> 00:03:38,979
 (Q16) A year ago, The Portland recognised the need to invest in staff retention.
 
 28
-00:03:38,980 --> 00:03:45,676
+00:03:38,979 --> 00:03:45,675
 Their first step was to introduce a scheme for recognising talent amongst their employees.
 
 29
-00:03:45,676 --> 00:03:55,700
+00:03:45,675 --> 00:03:55,699
 The hope is that organising training for individuals with management potential will encourage them to stay with the business.
 
 30
-00:03:55,700 --> 00:04:04,836
+00:03:55,699 --> 00:04:04,836
 (Q17) At Bluewater, managers decided to recognise 50 high achievers from across the company's huge hotel chain.
 
 31
