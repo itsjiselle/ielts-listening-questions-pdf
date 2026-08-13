@@ -60,7 +60,7 @@ Please let staff know which lunchbox you prefer.
 
 16
 00:01:33,846 --> 00:01:39,197
-(Q14) [Q16题干定位： throw anything = litter] I'm sure I don't have to ask you not to throw anything into the sea.
+(Q14) [Q14题干定位： throw anything = litter] I'm sure I don't have to ask you not to throw anything into the sea.
 
 17
 00:01:39,197 --> 00:01:51,653
