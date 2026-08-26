@@ -8,7 +8,7 @@ Our first speaker is Shona Ferguson, from Barford town council. Shona.
 
 3
 00:00:12,797 --> 00:00:21,297
-(Q11（单选）) [🟢◾️题干定位词 buses出现，] Thank you. First I'll briefly give you some background information, then I'll be asking you for your comments on developments in the town.
+(Q11（单选) ) [🟢◾️
 
 4
 00:00:21,297 --> 00:00:30,219
@@ -96,15 +96,15 @@ So parts of the town are no longer served by buses.
 
 25
 00:02:48,383 --> 00:02:53,633
-[❌A，变得重要 也不等于 最多人从事， 偷换概念] Services, such as website design and accountancy, have grown in importance,
+[❌A，变得重要 也不等于 最多人从事， 偷换概念。 ) [❌B 未见衰退 不等于largest number of people， 偷换概念/断章取义] Services, such as website design and accountancy, have grown in importance,
 
 26
 00:02:53,633 --> 00:03:03,360
-(Q16（配对）) [❌B 未见衰退 不等于largest number of people， 偷换概念/断章取义] and surprisingly, perhaps, manufacturing hasn't seen the decline that has affected it in other parts of the country.
+And surprisingly perhaps, manufacturing hasn't seen the decline that&nbsp; has affected it in other parts of the country.
 
 27
 00:03:03,360 --> 00:03:11,667
-Now I'll very quickly outline current plans for some of the town's facilities, before asking for your comments.
+(Q16（配对）) Now I'll very quickly outline current plans for some of the town's facilities, before asking for your comments.
 
 28
 00:03:11,667 --> 00:03:17,961
@@ -116,11 +116,11 @@ The railway company applied for permission to replace it with a multi-storey car
 
 30
 00:03:24,550 --> 00:03:30,889
-Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces.
+[Q16答案句：G] Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces.
 
 31
 00:03:30,889 --> 00:03:38,717
-The Grand, the old cinema in the high street, will close at the end of the year, and reopen on a different site.
+(Q17) [Q17答案句：A  reopen on a different site = new location] The Grand, the old cinema in the high street, will close at the end of the year, and reopen on a different site.
 
 32
 00:03:38,717 --> 00:03:41,389
@@ -132,7 +132,7 @@ The plan is to have three screens with fewer seats, rather than just the one lar
 
 34
 00:03:48,687 --> 00:03:52,651
-I expect many of you shop in the indoor market.
+(Q18) I expect many of you shop in the indoor market.
 
 35
 00:03:52,651 --> 00:04:00,431
@@ -140,15 +140,15 @@ It's become more and more shabby-looking, and because of fears about safety, it 
 
 36
 00:04:00,431 --> 00:04:08,199
-The good news is that it will close for six weeks to be made safe and redecorated, and the improved building will open in July.
+[Q18答案句：C redecorated=refurbished] The good news is that it will close for six weeks to be made safe and redecorated, and the improved building will open in July.
 
 37
 00:04:08,199 --> 00:04:14,531
-Lots of people use the library, including school and college students who go there to study.
+(Q19) Lots of people use the library, including school and college students who go there to study.
 
 38
 00:04:14,531 --> 00:04:21,016
-The council has managed to secure funding to keep the library open later into the evening, twice a week.
+[Q19答案句：B keep... open until the evening = opening hours extended] The council has managed to secure funding to keep the library open later into the evening, twice a week.
 
 39
 00:04:21,016 --> 00:04:27,617
@@ -156,7 +156,7 @@ We would like to enlarge the building in the not-too-distant future, but this is
 
 40
 00:04:27,617 --> 00:04:34,432
-There's no limit on access to the nature reserve on the edge of town, and this will continue to be the case.
+(Q20) There's no limit on access to the nature reserve on the edge of town, and this will continue to be the case.
 
 41
 00:04:34,432 --> 00:04:39,504
@@ -164,7 +164,7 @@ What will change, though, is that the council will no longer be in charge of the
 
 42
 00:04:39,504 --> 00:04:46,867
-Instead it will become the responsibility of a national body that administers most nature reserves in the country.
+[Q20答案句：F instead后跟信息， national body that administer ... = management] Instead it will become the responsibility of a national body that administers most nature reserves in the country.
 
 43
 00:04:46,867 --> 00:04:49,367
