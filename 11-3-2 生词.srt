@@ -1,172 +1,172 @@
 1
 00:00:01,740 --> 00:00:07,157
-[part2有个主持人] 
+[part2有个主持人]  
 
 2
 00:00:07,157 --> 00:00:12,797
-
+ 
 
 3
 00:00:12,797 --> 00:00:21,297
-(Q11（单选）) [🟢◾️题干定位词 buses出现，] 
+(Q11（单选) ⭐ ) [🟢◾️题干定位词 buses出现，]
 
 4
 00:00:21,297 --> 00:00:30,219
-
+ 
 
 5
 00:00:30,219 --> 00:00:37,081
-
+ 
 
 6
 00:00:37,081 --> 00:00:45,719
-[Q11答案句 ✅C 只在乘客多的线路安排bus= 没有那么多线路了 ， 以及， 判断出题目有fewer，【程度】考点，又听到程度词most 就必须关注] 
+[Q11答案句 ✅C 只在乘客多的线路安排bus= 没有那么多线路了 ， 以及， 判断出题目有fewer，【程度】考点，又听到程度词most 就必须关注]  
 
 7
 00:00:45,719 --> 00:00:49,868
-
+ 
 
 8
 00:00:49,868 --> 00:00:57,209
-[❌A 断章取义： 原文说 就算把old&uncomfortable换了， 也没用（have little impact）] 
+[❌A 断章取义： 原文说 就算把old&uncomfortable换了， 也没用（have little impact）]  
 
 9
 00:00:57,209 --> 00:01:06,787
-[❌B 否定原文： 明确否定票价涨幅过大] 
+[❌B 否定原文： 明确否定票价涨幅过大]  
 
 10
 00:01:06,787 --> 00:01:11,019
-(Q12) [🟢◾️Q12 定位词 road network出现 （名词），🟠考点词： benefit+ most 程度+态度] 
+(Q12) [🟢◾️Q12 定位词 road network出现 （名词），🟠考点词： benefit+ most 程度+态度]  
 
 11
 00:01:11,019 --> 00:01:17,653
-[❌C：偷换概念 且程度不一，center was closed to traffic 虽然是banning of cars， 但效果还在评估， 断章取义] 
+[❌C：偷换概念 且程度不一，center was closed to traffic 虽然是banning of cars， 但效果还在评估， 断章取义]  
 
 12
 00:01:17,653 --> 00:01:20,855
-[但效果还在评估 —— 断章取义 ❌C] 
+[但效果还在评估 —— 断章取义 ❌C]  
 
 13
 00:01:20,855 --> 00:01:31,819
-[Q12答案句 ✅选项B cycle path原词， be used far more than = 在选项发展； reducing+improving 都表示题干的benefit] 
+[Q12答案句 ✅选项B cycle path原词， be used far more than = 在选项发展； reducing+improving 都表示题干的benefit]  
 
 14
 00:01:31,819 --> 00:01:41,581
-[❌A否定原文， bypass这个想法 have failed] 
+[❌A否定原文， bypass这个想法 have failed]  
 
 15
 00:01:41,581 --> 00:01:45,242
-(Q13) [🟢◾️定位词shopping （名词），🟠考点词 判断为 problem（态度）] 
+(Q13) [🟢◾️定位词shopping （名词），🟠考点词 判断为 problem（态度）]  
 
 16
 00:01:45,242 --> 00:01:49,700
-[无考点词，有🟢◾️定位词medical facilities ❌B 虽然提到了medical practices， 但 plan相关的事未提及，无中生有。] 
+[无考点词，有🟢◾️定位词medical facilities ❌B 虽然提到了medical practices， 但 plan相关的事未提及，无中生有。]  
 
 17
 00:01:49,700 --> 00:01:57,930
-[❌A 否定原文， despite提供停车场，数字还是falling] 
+[❌A 否定原文， despite提供停车场，数字还是falling]  
 
 18
 00:01:57,930 --> 00:02:03,129
-[❌C 断章取义， 说的只是有些人会把两件事（restaurant&cafe）合在一起干。] 
+[❌C 断章取义， 说的只是有些人会把两件事（restaurant&cafe）合在一起干。]  
 
 19
 00:02:03,129 --> 00:02:16,092
-[Q13答案句 ✅B， 说大家更愿意去的是 📚well known chain store = major retailer 【同义替换】] 
+[Q13答案句 ✅B， 说大家更愿意去的是 📚well known chain store = major retailer 【同义替换】]  
 
 20
 00:02:16,092 --> 00:02:28,204
-(Q14) [无考点词，有🟢◾️定位词medical facilities ❌B 虽然提到了medical practices， 但 plan相关的事未提及，无中生有。] 
+(Q14) [无考点词，有🟢◾️定位词medical facilities ❌B 虽然提到了medical practices， 但 plan相关的事未提及，无中生有。]  
 
 21
 00:02:28,204 --> 00:02:34,639
-[Q14答案句 ✅A， 15年前close了，那就是现在no hospital] 
+[Q14答案句 ✅A， 15年前close了，那就是现在no hospital]  
 
 22
 00:02:34,639 --> 00:02:38,973
-[❌C 否定原文，  选项too low，原文more detists than used to be，] 
+[❌C 否定原文，  选项too low，原文more detists than used to be，]  
 
 23
 00:02:38,973 --> 00:02:43,330
-(Q15) [🟢◾️定位词顺延寻找：已画出employ——题干be  employed in📚同义替换定位（换词性）。 🟠考点词：程度 largest] 
+(Q15) [🟢◾️定位词顺延寻找：已画出employ——题干be  employed in📚同义替换定位（换词性）。 🟠考点词：程度 largest]  
 
 24
 00:02:43,330 --> 00:02:48,383
-[Q15答案句 ✅C， main sector = 题干largest number of people， 📚 schools and colleges 🟰 education] 
+[Q15答案句 ✅C， main sector = 题干largest number of people， 📚 schools and colleges 🟰 education]  
 
 25
 00:02:48,383 --> 00:02:53,633
-[❌A，变得重要 也不等于 最多人从事， 偷换概念] 
+[❌A，变得重要 也不等于 最多人从事， 偷换概念。 ) [❌B 未见衰退 不等于largest number of people， 偷换概念/断章取义]  
 
 26
 00:02:53,633 --> 00:03:03,360
-(Q16（配对）) [❌B 未见衰退 不等于largest number of people， 偷换概念/断章取义] 
+ 
 
 27
 00:03:03,360 --> 00:03:11,667
-⭐ as you'll know —— 正如你所知道的（★★★★★）｜regularly use —— 经常使用｜car park —— 停车场（英式英语）｜be full —— 满了；没有空位
+(Q16（配对）)  
 
 28
 00:03:11,667 --> 00:03:17,961
-⭐ apply for permission —— 申请许可（★★★★★）｜replace A with B —— 用 B 替代 A（★★★★★）｜multi-storey car park —— 多层停车场（C1）｜be refused —— 被拒绝
+⭐ as you'll know —— 正如你所知道的（★★★★★）｜regularly use —— 经常使用｜car park —— 停车场（英式英语）｜be full —— 满了；没有空位
 
 29
 00:03:17,961 --> 00:03:24,550
-⭐ instead —— 相反；作为替代方案｜adjoining land —— 相邻的土地（C1）｜be used to do something —— 被用于……｜increase the number of… —— 增加……的数量（★★★★★）｜parking spaces —— 停车位
+⭐ apply for permission —— 申请许可（★★★★★）｜replace A with B —— 用 B 替代 A（★★★★★）｜multi-storey car park —— 多层停车场（C1）｜be refused —— 被拒绝
 
 30
 00:03:24,550 --> 00:03:30,889
-⭐ at the end of the year —— 年底｜reopen —— 重新开放｜on a different site —— 在新的地点（★★★★★）
+[Q16答案句：G] ⭐ instead —— 相反；作为替代方案｜adjoining land —— 相邻的土地（C1）｜be used to do something —— 被用于……｜increase the number of… —— 增加……的数量（★★★★★）｜parking spaces —— 停车位
 
 31
 00:03:30,889 --> 00:03:38,717
-⭐ under construction —— 在建设中；施工中（★★★★★）
+(Q17) [Q17答案句：A  reopen on a different site = new location] ⭐ at the end of the year —— 年底｜reopen —— 重新开放｜on a different site —— 在新的地点（★★★★★）
 
 32
 00:03:38,717 --> 00:03:41,389
-⭐ The plan is to… —— 计划是……（★★★★★）｜screen —— 影厅（电影院）｜rather than —— 而不是（★★★★★）｜auditorium —— 放映厅；礼堂（C1）
+⭐ under construction —— 在建设中；施工中（★★★★★）
 
 33
 00:03:41,389 --> 00:03:48,687
-⭐ I expect… —— 我想；我认为（口语★★★★★）｜indoor market —— 室内市场
+⭐ The plan is to… —— 计划是……（★★★★★）｜screen —— 影厅（电影院）｜rather than —— 而不是（★★★★★）｜auditorium —— 放映厅；礼堂（C1）
 
 34
 00:03:48,687 --> 00:03:52,651
-⭐ more and more… —— 越来越……（★★★★★）｜shabby-looking —— 看起来破旧的（C1）｜because of —— 因为｜be threatened with… —— 面临……的威胁（★★★★★）｜demolition —— 拆除（C1）
+(Q18) ⭐ I expect… —— 我想；我认为（口语★★★★★）｜indoor market —— 室内市场
 
 35
 00:03:52,651 --> 00:04:00,431
-⭐ The good news is that… —— 好消息是……（★★★★★）｜close for… —— 停业……时间｜be made safe —— 进行安全改造｜redecorate —— 重新装修（C1）｜improved building —— 改造后的建筑
+⭐ more and more… —— 越来越……（★★★★★）｜shabby-looking —— 看起来破旧的（C1）｜because of —— 因为｜be threatened with… —— 面临……的威胁（★★★★★）｜demolition —— 拆除（C1）
 
 36
 00:04:00,431 --> 00:04:08,199
-⭐ including… —— 包括……（★★★★★）｜go somewhere to do something —— 去某地做某事
+[Q18答案句：C redecorated=refurbished] ⭐ The good news is that… —— 好消息是……（★★★★★）｜close for… —— 停业……时间｜be made safe —— 进行安全改造｜redecorate —— 重新装修（C1）｜improved building —— 改造后的建筑
 
 37
 00:04:08,199 --> 00:04:14,531
-⭐ manage to do something —— 成功做到某事（★★★★★）｜secure funding —— 获得资金（★★★★★）｜keep…open —— 保持……营业｜later into the evening —— 营业到更晚的晚上（C1）｜twice a week —— 每周两次
+(Q19) ⭐ including… —— 包括……（★★★★★）｜go somewhere to do something —— 去某地做某事
 
 38
 00:04:14,531 --> 00:04:21,016
-⭐ enlarge —— 扩建；扩大（C1）｜in the not-too-distant future —— 在不久的将来（★★★★★）｜by no means —— 绝不；远非（★★★★★）｜definite —— 确定的
+[Q19答案句：B keep... open until the evening = opening hours extended] ⭐ manage to do something —— 成功做到某事（★★★★★）｜secure funding —— 获得资金（★★★★★）｜keep…open —— 保持……营业｜later into the evening —— 营业到更晚的晚上（C1）｜twice a week —— 每周两次
 
 39
 00:04:21,016 --> 00:04:27,617
-⭐ there's no limit on… —— 对……没有限制（★★★★★）｜access to… —— 对……的进入权（★★★★★）｜nature reserve —— 自然保护区｜on the edge of town —— 位于城镇边缘｜continue to be the case —— 情况将继续如此（★★★★★）
+⭐ enlarge —— 扩建；扩大（C1）｜in the not-too-distant future —— 在不久的将来（★★★★★）｜by no means —— 绝不；远非（★★★★★）｜definite —— 确定的
 
 40
 00:04:27,617 --> 00:04:34,432
-⭐ What will change is that… —— 将改变的是……（★★★★★）｜no longer —— 不再（★★★★★）｜be in charge of… —— 负责；管理……（★★★★★）
+(Q20) ⭐ there's no limit on… —— 对……没有限制（★★★★★）｜access to… —— 对……的进入权（★★★★★）｜nature reserve —— 自然保护区｜on the edge of town —— 位于城镇边缘｜continue to be the case —— 情况将继续如此（★★★★★）
 
 41
 00:04:34,432 --> 00:04:39,504
-⭐ become the responsibility of… —— 成为……的职责（★★★★★）｜national body —— 国家机构（C1）｜administer —— 管理；运营（C1）｜nature reserve —— 自然保护区
+⭐ What will change is that… —— 将改变的是……（★★★★★）｜no longer —— 不再（★★★★★）｜be in charge of… —— 负责；管理……（★★★★★）
 
 42
 00:04:39,504 --> 00:04:46,867
-⭐ let me ask you… —— 让我问大家……（★★★★★）
+[Q20答案句：F instead后跟信息， national body that administer ... = management] ⭐ become the responsibility of… —— 成为……的职责（★★★★★）｜national body —— 国家机构（C1）｜administer —— 管理；运营（C1）｜nature reserve —— 自然保护区
 
 43
 00:04:46,867 --> 00:04:49,367
-
+⭐ let me ask you… —— 让我问大家……（★★★★★）
 
