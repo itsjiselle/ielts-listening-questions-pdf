@@ -1,0 +1,268 @@
+1
+00:00:00,181 --> 00:00:01,285
+(Q1) Good morning.
+
+2
+00:00:01,285 --> 00:00:02,314
+Can I help you?
+
+3
+00:00:02,314 --> 00:00:02,869
+Yes.
+
+4
+00:00:02,869 --> 00:00:10,155
+[Example] I've just been accepted on a course at the university and I'd like to try and arrange accommodation in the hall of residence.
+
+5
+00:00:10,155 --> 00:00:11,318
+Yes, certainly.
+
+6
+00:00:11,318 --> 00:00:12,936
+Please sit down.
+
+7
+00:00:12,936 --> 00:00:17,835
+What I'll do is fill in a form with you to find out a little more about your preferences and so forth.
+
+8
+00:00:17,835 --> 00:00:19,102
+Thank you.
+
+9
+00:00:19,102 --> 00:00:21,880
+[Q1定位词：name原词] So first of all, can I take your name?
+
+10
+00:00:21,880 --> 00:00:23,586
+It's Anu Bhatt.
+
+11
+00:00:23,586 --> 00:00:25,302
+Could you spell your name please?
+
+12
+00:00:25,302 --> 00:00:31,659
+[Q1答案句] Yes. A-N-U…B-H-A double T. A-N-U……
+
+13
+00:00:31,659 --> 00:00:34,461
+(Q2) Thanks, and could I ask your date of birth?
+
+14
+00:00:34,461 --> 00:00:37,749
+[Q2答案句：注意日期写法，和字数要求（不需要写年份）] The 31st March 1972.
+
+15
+00:00:37,749 --> 00:00:38,806
+Thank you.
+
+16
+00:00:38,806 --> 00:00:40,082
+(Q3) [Q3定位词1️⃣： where... from = country of origin 来源国] And where are you from?
+
+17
+00:00:40,082 --> 00:00:41,166
+India.
+
+18
+00:00:41,166 --> 00:00:42,118
+Oh right.
+
+19
+00:00:42,118 --> 00:00:44,222
+[Q3临近定位词❗️：study原词， what ... study = course] And what will you be studying?
+
+20
+00:00:44,222 --> 00:00:46,702
+[Q3答案句] I'm doing a course in nursing.
+
+21
+00:00:46,702 --> 00:00:48,037
+Right, thank you.
+
+22
+00:00:48,037 --> 00:00:51,052
+(Q4) And how long would you want to stay in hall, do you think?
+
+23
+00:00:51,052 --> 00:00:57,228
+[Q4干扰项： 3     +    Q4答案句：2， 通过but得到] Well, it'll take three years but I'd only like to stay in hall for two.
+
+24
+00:00:57,228 --> 00:01:00,879
+I'd like to think about living outside for the third year.
+
+25
+00:01:00,879 --> 00:01:04,334
+(Q5) Fine. And what did you have in mind for catering?
+
+26
+00:01:04,334 --> 00:01:09,042
+Do you want to cook for yourself or have all your meals provided, that's full board?
+
+27
+00:01:09,042 --> 00:01:11,440
+Is there something in between?
+
+28
+00:01:11,440 --> 00:01:12,042
+Yes.
+
+29
+00:01:12,042 --> 00:01:15,548
+[Q5定位词1️⃣: half board原词，继续跟] You can just have evening meal provided, which is half board.
+
+30
+00:01:15,548 --> 00:01:17,166
+That's what I'd prefer.
+
+31
+00:01:17,166 --> 00:01:19,861
+Yes a lot of students opt for that.
+
+32
+00:01:19,861 --> 00:01:24,676
+[Q5核心定位词❗️： special原词， diet=dietary 饮食的] Now, with that in mind, do you have any special diet, anything we should know about?
+
+33
+00:01:24,676 --> 00:01:27,530
+[Q5答案句： don't take 表否定+ no, 跟出答案词] Yes, I don't take red meat.
+
+34
+00:01:27,530 --> 00:01:29,379
+No red meat.
+
+35
+00:01:29,379 --> 00:01:34,200
+(Q6) Now, thinking about the room itself, we have a number of options.
+
+36
+00:01:34,200 --> 00:01:37,750
+You can have a single study bedroom or you can have a shared one.
+
+37
+00:01:37,750 --> 00:01:40,690
+These are both what we call simple rooms.
+
+38
+00:01:40,690 --> 00:01:47,397
+The other alternative is to opt for a single bedsit which actually has more space and better facilities.
+
+39
+00:01:47,397 --> 00:01:50,822
+There's about 20 a week difference between them.
+
+40
+00:01:50,822 --> 00:01:56,933
+[Q6答案句： 排除干扰后， 对话形式 要听「POI」 的] Well, actually my grant is quite generous and I think the bedsit sounds the best option.
+
+41
+00:01:56,933 --> 00:01:57,942
+Lovely.
+
+42
+00:01:57,942 --> 00:02:01,192
+I'll put you down for that and we'll see what availability is like.
+
+43
+00:02:01,192 --> 00:02:05,180
+(Q7) Now can I ask some other personal details which we like to have on record?
+
+44
+00:02:05,180 --> 00:02:06,488
+Yes, of course.
+
+45
+00:02:06,488 --> 00:02:09,727
+[Q7定位词： interests 原词] I wonder if you could let us know what your interests are.
+
+46
+00:02:09,727 --> 00:02:13,713
+This might help us get a closer match for placing you in a particular hall.
+
+47
+00:02:13,713 --> 00:02:17,986
+[Q7答案句] Ummm. Well, I love the theatre.
+
+48
+00:02:17,986 --> 00:02:18,776
+Right.
+
+49
+00:02:18,776 --> 00:02:22,366
+And I enjoy sports, particularly badmintion.
+
+50
+00:02:22,366 --> 00:02:24,022
+That's worth knowing.
+
+51
+00:02:24,022 --> 00:02:33,814
+(Q8) Now, what we finish with on the form is really a list from you of what your priorities are in choosing a hall and we'll do our best to take these into account.
+
+52
+00:02:33,814 --> 00:02:39,913
+[Q8答案句： the first thing 表明「第一点」， other关键词原词，跟住] Well, the first thing is I'd prefer a hall where there are other mature students. If possible.
+
+53
+00:02:39,913 --> 00:02:43,598
+Yes, we do have halls which tend to cater for slightly older students.
+
+54
+00:02:43,598 --> 00:02:48,841
+(Q9) [and 表示递进，第二点。   Q9答案句： out of = outside] Ummm and I'd prefer to be out of town.
+
+55
+00:02:48,841 --> 00:02:53,464
+That's actually very good for you because we tend to have more vacancies in out-of-town halls.
+
+56
+00:02:53,464 --> 00:02:54,498
+Lucky!
+
+57
+00:02:54,498 --> 00:02:55,580
+Yes.
+
+58
+00:02:55,580 --> 00:02:56,996
+(Q10) [Q10定位词， anything else 来到该【属性priorities】的最后一点] Anything else?
+
+59
+00:02:56,996 --> 00:03:00,251
+[Q10答案句] Well, I would like somewhere with a shared area.
+
+60
+00:03:00,251 --> 00:03:03,288
+A TV room for example, or something like that.
+
+61
+00:03:03,288 --> 00:03:05,619
+[Q10❗️ 听到socializing再蹲答案词已经晚了] It's a good way to socialise.
+
+62
+00:03:05,619 --> 00:03:06,574
+It certainly is.
+
+63
+00:03:06,574 --> 00:03:07,833
+That's it.
+
+64
+00:03:07,833 --> 00:03:11,336
+Now, we just need a contact telephone number for you.
+
+65
+00:03:11,336 --> 00:03:14,915
+Sure, I'll just find it.
+
+66
+00:03:14,915 --> 00:03:19,823
+It's double 67549.
+
+67
+00:03:19,823 --> 00:03:22,323
+Great, so we'll be in contact with you as soon as possible…
+
