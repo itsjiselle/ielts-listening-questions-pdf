@@ -1,0 +1,96 @@
+1
+00:00:00,000 --> 00:00:01,087
+(Q11（单选）) [城市项目]  
+
+2
+00:00:01,087 --> 00:00:13,017
+⭐ ️【new development = 新建项目；新开发设施】⭐️【open-air swimming pool = 露天游泳池】⭐️【adventure playground = 探险游乐场】
+
+3
+00:00:13,017 --> 00:00:23,138
+⭐ ️【initiative = 新举措；新项目】⭐️【extensive consultation exercise = 大规模意见征询活动】⭐️【conduct a consultation = 开展意见征询】
+
+4
+00:00:23,138 --> 00:00:30,098
+⭐ ️【realise an initiative = 将项目／构想变为现实】⭐️【regional development commission = 地区发展委员会】
+
+5
+00:00:30,098 --> 00:00:32,810
+[露天泳池] ⭐ ️【first of all = 首先（话语功能：开启第一项内容）】
+
+6
+00:00:32,810 --> 00:00:44,233
+⭐ ️【the sea front = 海滨地区】⭐️【be judged to be = 被判定为……】
+
+7
+00:00:44,233 --> 00:00:59,556
+⭐ ️【secure the talents of = 成功请到某位人才】⭐️【internationally renowned = 国际知名的】⭐️【fit in with = 与……协调；融入……】
+
+8
+00:00:59,556 --> 00:01:08,589
+⭐ ️【up-to-the-minute = 最新式的；最先进的】⭐️【the only one of its kind = 同类中唯一的一个】⭐️【enable something to be used = 使某物能够得到使用】
+
+9
+00:01:08,589 --> 00:01:21,642
+⭐ ️【the local press = 当地媒体】⭐️【the design is deceptive = 设计呈现出的空间感具有迷惑性；实际空间比看起来大】⭐️【rigorous checks = 严格检查】⭐️【capacity = 容纳能力】
+
+10
+00:01:21,642 --> 00:01:33,717
+⭐ ️【just in case you were wondering = 或许你正想知道（话语功能：预判并回应疑问）】⭐️【be on schedule = 按计划进行】⭐️【well within budget = 远未超出预算】⭐️【a testimony to = ……的有力证明】⭐️【contractor = 承包商】
+
+11
+00:01:33,717 --> 00:01:38,305
+[开幕活动] ⭐ ️【as many people as possible = 尽可能多的人】
+
+12
+00:01:38,305 --> 00:01:46,637
+⭐ ️【engage someone to do = 聘请／邀请某人做某事】⭐️【award-winning = 获奖的】⭐️【declare something open = 宣布某设施正式开放】
+
+13
+00:01:46,637 --> 00:01:58,318
+⭐ ️【decide on = 选定；决定采用】⭐️【historical figure = 历史人物】
+
+14
+00:01:58,318 --> 00:02:09,716
+(Q15（配对）) ⭐ ️【move on to = 转而介绍……（话语功能：话题转换）】⭐️【come through = 消息传来；收到消息】
+
+15
+00:02:09,716 --> 00:02:21,225
+⭐ ️【be based on the concept of = 以……概念为基础】⭐️【representative feature = 代表性特色】
+
+16
+00:02:21,225 --> 00:02:33,400
+(Q15) [答案句E：snakes, orang-utans, tigers = local animals] ⭐ ️【in the shape of = 呈……形状】⭐️【fauna = 某地区的动物群】⭐️【be native to = 原生于……】
+
+17
+00:02:33,400 --> 00:02:42,215
+(Q16) [干扰项C(ice&snow)+答案句F：mountains原词， 但需要听到instead of表示转折才行] ⭐ ️【run to = 有足够的钱负担】⭐️【opt instead for = 转而选择】⭐️【climbing block = 攀爬设施】【ice rink 溜冰场】
+
+18
+00:02:42,215 --> 00:02:48,539
+⭐ ️【slide = 滑梯】⭐️【be too literal = 表现得过于字面化／直白】
+
+19
+00:02:48,539 --> 00:02:57,625
+(Q17) [答案句D： precious stone = jewels 珠宝] ⭐ ️【El Dorado = 传说中的黄金国】⭐️【replicate = 再现；仿制】⭐️【precious stone = 宝石】
+
+20
+00:02:57,625 --> 00:03:12,253
+(Q18) [答案句H： space station太空站=space travel原词+同替+识别discourse markers（but finally opt for)； +干扰项G： 听到Jazz就想选music] ⭐ ️【considerable debate = 大量讨论；激烈争论】⭐️【the contribution of = ……所作的贡献】⭐️【opt for = 选择】
+
+21
+00:03:12,253 --> 00:03:20,413
+(Q19) [答案句A： medieval 中世纪的 = ancient， fortification=fort 堡垒] ⭐ ️【medieval castle = 中世纪城堡】⭐️【fortification = 防御工事】
+
+22
+00:03:20,413 --> 00:03:32,407
+(Q20) [答案句B：rivers=waterways 水路，航道] ⭐ ️【last but not least = 最后但同样重要的是（话语功能：强调最后一项的重要性）】⭐️【a whole set of = 一整套】⭐️【mosaic = 马赛克图案；镶嵌画】⭐️【trail = 路线；步道】⭐️【a varied continent = 多元的大陆】
+
+23
+00:03:32,407 --> 00:03:37,281
+⭐ ️【opening date = 开放日期】
+
+24
+00:03:37,281 --> 00:03:39,781
+⭐ ️【make a date = 约定日期；把日期预留出来】⭐️【amenity = 便利设施；公共设施】⭐️【in the heart of = 位于……中心地带】
+
