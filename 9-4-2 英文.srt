@@ -1,0 +1,248 @@
+1
+00:00:00,105 --> 00:00:01,252
+(Q11（Diagram）) Hello?
+
+2
+00:00:01,252 --> 00:00:01,983
+Hi.
+
+3
+00:00:01,983 --> 00:00:03,683
+It's Laura Carlton here.
+
+4
+00:00:03,683 --> 00:00:08,755
+We've just arrived at the holiday flat, but I can't get the hot water and heating to work.
+
+5
+00:00:08,755 --> 00:00:10,295
+Oh right!
+
+6
+00:00:10,295 --> 00:00:12,616
+That's easy. Don't worry.
+
+7
+00:00:00,000 --> 00:00:00,000
+
+
+8
+00:00:12,616 --> 00:00:16,155
+In the upstairs cupboard, you'll find the water heater.
+
+9
+00:00:16,155 --> 00:00:20,466
+You'll see three main controls on the left at the bottom of the heater.
+
+10
+00:00:20,466 --> 00:00:27,107
+The first one-the round one on the far left-is the most important one for the heating and hot water.
+
+11
+00:00:27,107 --> 00:00:29,133
+It's the main control switch.
+
+12
+00:00:29,133 --> 00:00:31,612
+Make sure it's in the 'on' position.
+
+13
+00:00:31,612 --> 00:00:37,831
+The switch itself doesn't light up, but the little square below will be black if the switch is 'off'.
+
+14
+00:00:37,831 --> 00:00:42,195
+That's probably what's happened-it's got switched off by mistake.
+
+15
+00:00:42,195 --> 00:00:49,223
+[控制旋钮] The middle one of these three controls-you'll see it's slightly larger than the first one-controls the radiators.
+
+16
+00:00:49,223 --> 00:00:55,314
+If you feel cold while you're there and need the radiators on, this needs to be turned to maximum.
+
+17
+00:00:55,314 --> 00:01:05,178
+The last of the three controls-the one on the right-is usually on about a number for setting which for the water in the taps is usually quite hot enough.
+
+18
+00:01:05,178 --> 00:01:10,556
+Below the heating controls in the middle is a small round plastic button.
+
+19
+00:01:10,556 --> 00:01:15,219
+If there isn't enough water in the pipes, sometimes the heater goes out.
+
+20
+00:01:15,219 --> 00:01:19,287
+If this happens you'll need to press this button to reset the heater.
+
+21
+00:01:19,287 --> 00:01:24,546
+Hold it in for about five seconds and the heater should come on again.
+
+22
+00:01:24,546 --> 00:01:30,481
+Then there's a little square indicator under the third knob that's a kind of alarm light.
+
+23
+00:01:30,481 --> 00:01:32,915
+It'll flash if you need to reset the heater.
+
+24
+00:01:32,915 --> 00:01:35,693
+It sounds complicated…
+
+25
+00:01:35,693 --> 00:01:38,762
+I'm sure you won't have any problems with it.
+
+26
+00:01:38,762 --> 00:01:42,677
+There should be some more instructions on the side of the heater.
+
+27
+00:01:42,677 --> 00:01:44,788
+Call me back if you can't make it work.
+
+28
+00:01:44,788 --> 00:01:48,013
+Okay.
+
+29
+00:01:48,013 --> 00:01:56,297
+(Q14（配对）) [生活用品] While you're on the phone, we haven't managed to find a few things we need, like extra pillows for the beds and some washing powder.
+
+30
+00:01:56,297 --> 00:01:57,920
+Is there any here?
+
+31
+00:01:57,920 --> 00:02:10,438
+(Q14) [Q14答案句B： cupboard原词，可能的Q14干扰项 E (shelf), F(top)，但定语都不对] Pillows… yes. If you look in the cupboard, the large white one upstairs-to the left of the bathroom door-there should be four or five on the top shelf.
+
+32
+00:02:10,438 --> 00:02:16,201
+(Q15) And if you want to do some washing, there's some powder for that…
+
+33
+00:02:16,201 --> 00:02:21,944
+[Q15答案句E： by the back door原词，shelf原词] probably by the back door. There's a kind of shelf there above the sink.
+
+34
+00:02:21,944 --> 00:02:25,455
+[Q15干扰项A：提到了 box, 但位置不对，没有on washing machine] In fact, I'm sure there's some there, in a large blue box.
+
+35
+00:02:25,455 --> 00:02:29,095
+You need about half a cup full for each wash.
+
+36
+00:02:29,095 --> 00:02:37,066
+(Q16) [Q16答案句D：next to = by, window原词] And that reminds me, the spare key to the back door is hanging on a hook on the wall by the sitting room window.
+
+37
+00:02:37,066 --> 00:02:40,028
+Please make sure to put it back when you've used it.
+
+38
+00:02:40,028 --> 00:02:44,189
+The previous guests lost it in the garden and I had to get another one made!
+
+39
+00:02:44,189 --> 00:02:55,235
+(Q17) [Q17答案句A：box 原词+ on top of washing machine 原词] And if you have any trouble with the lamps,you'll find some spare bulbs in a large cardboard box. It's on top of the washing machine with all kinds of useful things in it.
+
+40
+00:02:55,235 --> 00:02:58,706
+(Q18) Oh, and another thing I forgot to mention when we last spoke…
+
+41
+00:02:58,706 --> 00:02:59,822
+Yes?
+
+42
+00:02:59,822 --> 00:03:04,068
+I've left you a local map, so you'll be able to find your way around easily.
+
+43
+00:03:04,068 --> 00:03:06,247
+It shows the whole area.
+
+44
+00:03:06,247 --> 00:03:10,593
+[Q18答案句C： drawer of the chest = in the chest of drawers 语序颠倒一下] I put it in the top drawer of the chest under the TV in your bedroom.
+
+45
+00:03:10,593 --> 00:03:13,865
+There's a whole file of local information in there too.
+
+46
+00:03:13,865 --> 00:03:14,820
+(Q19（notes）) Thanks.
+
+47
+00:03:14,820 --> 00:03:16,995
+What about visiting the town?
+
+48
+00:03:16,995 --> 00:03:18,559
+Can you give us any advice?
+
+49
+00:03:18,559 --> 00:03:19,932
+Yes.
+
+50
+00:03:19,932 --> 00:03:22,152
+You'll need to take the car.
+
+51
+00:03:22,152 --> 00:03:24,864
+It's too far to talk from the flat really.
+
+52
+00:03:24,864 --> 00:03:34,793
+You have to pay to leave your car in all the car parks now I'm afraid…I like the one that's by the station best and you can walk to the town centre from there in five minutes.
+
+53
+00:03:34,793 --> 00:03:37,205
+That's where all the best restaurants are.
+
+54
+00:03:37,205 --> 00:03:42,397
+[外卖选择] But if you want a takeaway, the ltalian one does really good pasta and pizzas.
+
+55
+00:03:42,397 --> 00:03:51,754
+Call 7-3 double 2,8-1for that one, or 7 double 6, double 1, 9 for the Chinese.
+
+56
+00:03:51,754 --> 00:03:55,162
+They're both good and they'll both deliver to the flat.
+
+57
+00:03:55,162 --> 00:04:01,330
+[铁路博物馆] As for places to visit, yes, do go and see the railway museum.
+
+58
+00:04:01,330 --> 00:04:04,657
+The exhibition is small but really good.
+
+59
+00:04:04,657 --> 00:04:20,448
+It gets very crowded on Sundays, so I suggest you visit it on a quieter day, later in the week, but not on Thursdays which is market day-you won't find anywhere to park and it's also the only day of the week when they're not open!
+
+60
+00:04:20,448 --> 00:04:21,825
+Anything else?
+
+61
+00:04:21,825 --> 00:04:22,822
+Not for the moment.
+
+62
+00:04:22,822 --> 00:04:25,322
+Thanks!
+
