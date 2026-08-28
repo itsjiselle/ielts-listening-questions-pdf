@@ -1,0 +1,144 @@
+1
+00:00:00,273 --> 00:00:07,523
+(Q31（单选）) I've been doing some research into what people in Britain think of doctors, the ones who work in general practice -
+
+2
+00:00:07,523 --> 00:00:14,041
+the first call for medical care - and comparing this with the situation in a couple of other countries.
+
+3
+00:00:14,041 --> 00:00:18,928
+I want to talk about the rationale behind what I decided to do.
+
+4
+00:00:18,928 --> 00:00:28,769
+[跨国筹备] Now I had to set up my programme of research in three different countries so I approached postgraduates in my field in overseas departments,
+
+5
+00:00:28,769 --> 00:00:33,654
+contacting them by email, to organize things for me at their end.
+
+6
+00:00:33,654 --> 00:00:43,122
+I thought I would have trouble recruiting help but in fact everyone was very willing and sometimes their tutors got involved too.
+
+7
+00:00:43,122 --> 00:00:50,701
+I had to give my helpers clear instructions about what kind of sample population I wanted them to use.
+
+8
+00:00:50,701 --> 00:00:59,271
+[样本选择] I decided that people under 18 should be excluded because most of them are students or looking for their first job,
+
+9
+00:00:59,271 --> 00:01:05,466
+and also I decided at this stage just to focus on men who were in employment,
+
+10
+00:01:05,466 --> 00:01:13,410
+and set up something for people who didn't have jobs and for employed women later on as a separate investigation.
+
+11
+00:01:13,410 --> 00:01:19,966
+[研究方法] I specifically wanted to do a questionnaire, and interviews with a focus group.
+
+12
+00:01:19,966 --> 00:01:28,124
+With the questionnaire, rather than limiting it to one specific point, I wanted to include as much variety as possible.
+
+13
+00:01:28,124 --> 00:01:38,727
+I know questionnaires are a very controlled way to do things but I thought I could do taped interviews later on to counteract the effects of this.
+
+14
+00:01:38,727 --> 00:01:50,094
+And the focus group may also prove useful in future, by targeting subjects I can easily return to, as the participants tend to be more involved.
+
+15
+00:01:50,094 --> 00:01:53,199
+So I'm just collating the results now.
+
+16
+00:01:53,199 --> 00:02:01,875
+[初步结果] At the moment it looks as if, in the UK, despite the fact that newspapers continually report that people are unhappy with medical care,
+
+17
+00:02:01,875 --> 00:02:10,032
+in fact it is mainly the third level of care, which takes place in hospitals, that they are worried about.
+
+18
+00:02:10,032 --> 00:02:23,293
+Government reforms have been proposed at all levels and although their success is not guaranteed, long-term hospital care is in fact probably less of an issue than the media would have us believe.
+
+19
+00:02:23,293 --> 00:02:27,719
+However, I've still got quite a bit of data to look at.
+
+20
+00:02:27,719 --> 00:02:38,627
+[后续方向] Certainly I will need to do more far-reaching research than I had anticipated in order to establish if people want extra medical staff invested in the community,
+
+21
+00:02:38,627 --> 00:02:44,796
+or if they want care to revert to fewer, but larger, key medical units.
+
+22
+00:02:44,796 --> 00:02:55,664
+The solution may well be something that can be easily implemented by those responsible in local government, with central government support of course.
+
+23
+00:02:55,664 --> 00:02:59,703
+[研究反馈] This first stage has proved very valuable though.
+
+24
+00:02:59,703 --> 00:03:09,648
+I was surprised by how willing most of the subjects were to get involved in the project - I had expected some unwillingness to answer questions honestly.
+
+25
+00:03:09,648 --> 00:03:24,512
+But I was taken aback and rather concerned that something I thought I'd set up very well didn't necessarily seem that way to everyone in my own department.
+
+26
+00:03:24,512 --> 00:03:32,146
+(Q37（配对）) I thought you might also be interested in some of the problems I encountered in collecting my data.
+
+27
+00:03:32,146 --> 00:03:43,657
+[🟢定位词： shopping in town = in the street, 上下义 。    Q37答案句B： pull out 退出= stop participating ，注意decide不能作为定位词，有可能替换/出现的但实为干扰的] There were odd cases that threw me - one of the subjects who I had approached while he was out shopping in town, decided to pull out when it came to the second round.
+
+28
+00:03:43,657 --> 00:03:49,983
+It was a shame as it was someone who I would like to have interviewed more closely.
+
+29
+00:03:49,983 --> 00:03:58,140
+(Q38) [🟢定位 first-year student =undergraduate。    Q37答案句F： no name be traceable = confidentiality] And one of the first-year students I interviewed wanted reassurance that no names would be traceable from the answers.
+
+30
+00:03:58,140 --> 00:04:06,383
+I was so surprised, because they think nothing of telling you about themselves and their opinions in seminar groups!
+
+31
+00:04:06,383 --> 00:04:10,583
+(Q39) [🟢定位： I work with = colleague, 解释型] Then, one of the people that I work with got a bit funny.
+
+32
+00:04:10,583 --> 00:04:21,532
+[Q39答案句D：one minute ..., then..., in the end ... = keep changing mind] The questions were quite personal and one minute he said he'd do it, then the next day he wouldn't, and in the end he did do it.
+
+33
+00:04:21,532 --> 00:04:31,369
+[Q39干扰项E：angry， 对象反了，要angry也得是Shona对采访对象] It's hard not to get angry in that situation but I tried to keep focused on the overall picture in order to stay calm.
+
+34
+00:04:31,369 --> 00:04:38,852
+(Q40) [🟢定位词：teacher=tutor] The most bizarre case was a telephone interview I did with a teacher at a university in France.
+
+35
+00:04:38,852 --> 00:04:51,334
+[Q40答案句C：wouldn't tell = refuse to] He answered all my questions in great detail- but then when I asked how much access he had to dangerous substances he wouldn't tell me exactly what his work involved.
+
+36
+00:04:51,334 --> 00:04:53,834
+It's a real eye-opener...
+
