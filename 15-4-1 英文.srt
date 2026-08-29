@@ -1,0 +1,340 @@
+1
+00:00:01,417 --> 00:00:01,917
+[调查背景] Man: Hello.
+
+2
+00:00:01,917 --> 00:00:05,514
+Do you mind if I ask you some questions about your journey today?
+
+3
+00:00:05,514 --> 00:00:08,954
+We're doing a customer satisfaction survey.
+
+4
+00:00:08,954 --> 00:00:12,973
+Sophie: Yes.&nbsp; OK. I've got about ten minutes before my train home leaves.
+
+5
+00:00:12,973 --> 00:00:14,256
+I'm on a day trip.
+
+6
+00:00:14,256 --> 00:00:15,077
+Man: Great.
+
+7
+00:00:15,077 --> 00:00:15,806
+Thank you.
+
+8
+00:00:15,806 --> 00:00:18,789
+So first of all, could you tell me your name?
+
+9
+00:00:18,789 --> 00:00:20,775
+Sophie: It's Sophie Bird. Sophie：
+
+10
+00:00:20,775 --> 00:00:22,010
+Man: Thank you.
+
+11
+00:00:22,010 --> 00:00:25,922
+[Q1定位：what ... do = occupation n职业； Q1答案句] And would you mind telling me what you do?&nbsp; &nbsp; &nbsp;Sophie: I'm a journalist.&nbsp;
+
+12
+00:00:25,922 --> 00:00:29,494
+Man: Oh really? That must be interesting. Sophie: Yes. It is.
+
+13
+00:00:29,494 --> 00:00:33,394
+(Q2) [定位： reason原词] Man: So was the reason for your visit here today work?
+
+14
+00:00:33,394 --> 00:00:37,460
+[Q2答案句] Sophie: Actually, it's my day off.&nbsp; I came here to do some shopping.
+
+15
+00:00:37,460 --> 00:00:38,460
+Man: Oh right.
+
+16
+00:00:38,460 --> 00:00:41,043
+[Q2干扰项： 回答人先说+又说无关信息] Sophie: But I do sometimes come here for work. Sophie：
+
+17
+00:00:41,043 --> 00:00:42,277
+Man: OK.
+
+18
+00:00:42,277 --> 00:00:46,337
+(Q3) Now I'd like to ask some questions about your journey today, if that's OK.
+
+19
+00:00:46,337 --> 00:00:47,409
+Sophie: Yes. No problem.
+
+20
+00:00:47,409 --> 00:00:51,783
+[Q3定位句：station原词， back  = return] Man: Right, so can you tell me which station you're travelling back to?
+
+21
+00:00:51,783 --> 00:00:54,393
+Sophie: Staunfirth, where I live. Sophie：Staunfirth，
+
+22
+00:00:54,393 --> 00:01:04,182
+[Q3答案句： 拼写类 听到就要跟上， 不要等另一方确认，另一方可能有更改，但也可能只说yes] Man: Can I just check the spelling? S-T-A-U-N-F-I-R-T-H?&nbsp;
+
+23
+00:01:04,182 --> 00:01:06,034
+Sophie: That's right. Sophie：
+
+24
+00:01:06,034 --> 00:01:08,330
+Man: And you travelled from there this morning?
+
+25
+00:01:08,330 --> 00:01:09,401
+Sophie: Yes. Sophie：
+
+26
+00:01:09,401 --> 00:01:10,764
+Man: OK, good.
+
+27
+00:01:10,764 --> 00:01:14,037
+(Q4) Next, can I ask what kind of ticket you bought?
+
+28
+00:01:14,037 --> 00:01:17,567
+I assume it wasn't a season ticket, as you don't travel every day.
+
+29
+00:01:17,567 --> 00:01:18,824
+Sophie: That's right. Sophie：
+
+30
+00:01:18,824 --> 00:01:22,391
+[Q4答案句] No, I just got a normal return ticket.
+
+31
+00:01:22,391 --> 00:01:26,016
+(Q5) [其实还没进题] I don't have a rail card so I didn't get any discount.
+
+32
+00:01:26,016 --> 00:01:29,371
+I keep meaning to get one because it's a lot cheaper.
+
+33
+00:01:29,371 --> 00:01:33,217
+[Q5干扰项（不完全算干扰，因为还没进题）： 预判是数字， 听到20就写了， 但其实是20% 折扣] Man: Yes – you'd have saved 20% on your ticket today.
+
+34
+00:01:33,217 --> 00:01:38,256
+[Q5定位：问的人   pay=cost，    Q5答案句：] So you paid the full price for your ticket?&nbsp; &nbsp; &nbsp;Sophie: I paid ￡23.70.&nbsp;
+
+35
+00:01:38,256 --> 00:01:39,169
+Man: OK.
+
+36
+00:01:39,169 --> 00:01:41,304
+Do you think that's good value for money?
+
+37
+00:01:41,304 --> 00:01:42,237
+Sophie: Not really. Sophie：
+
+38
+00:01:42,237 --> 00:01:45,654
+I think it's too much for a journey that only takes 45 minutes.
+
+39
+00:01:45,654 --> 00:01:48,688
+Man: Yes, that's one of the main complaints we get.
+
+40
+00:01:48,688 --> 00:01:51,313
+(Q6) So, you didn't buy your ticket in advance?
+
+41
+00:01:51,313 --> 00:01:52,146
+Sophie: No. Sophie：
+
+42
+00:01:52,146 --> 00:01:56,708
+I know it's cheaper if you buy a week in advance but I didn't know I was coming then.
+
+43
+00:01:56,708 --> 00:01:57,544
+Man: I know.
+
+44
+00:01:57,544 --> 00:01:59,794
+You can't always plan ahead.
+
+45
+00:01:59,794 --> 00:02:02,239
+So, did you buy it this morning?
+
+46
+00:02:02,239 --> 00:02:04,325
+[跟住空前上一行定位词 yesterday] Sophie: No, it was yesterday.&nbsp;
+
+47
+00:02:04,325 --> 00:02:05,296
+Man: Right.
+
+48
+00:02:05,296 --> 00:02:08,724
+[Q6定位句： buy=bought , at station = where(上下义)] And do you usually buy your tickets at the station?
+
+49
+00:02:08,724 --> 00:02:14,777
+[Q6可能的干扰项： ticket machine， 其实是hate，所以不会是答案] Sophie: Well, I do usually but the ticket office closes early and I hate using ticket machines.&nbsp;
+
+50
+00:02:14,777 --> 00:02:18,372
+I think ticket offices should be open for longer hours.
+
+51
+00:02:18,372 --> 00:02:21,634
+There's always a queue for the machines and they're often out of order.
+
+52
+00:02:21,634 --> 00:02:24,567
+Man: A lot of customers are saying the same thing.
+
+53
+00:02:24,567 --> 00:02:29,345
+[Q6答案句： 明确回答问题的信号词 to answer your question ( 属于连接词)] Sophie: So to answer your question … I got an e-ticket online.&nbsp;
+
+54
+00:02:29,345 --> 00:02:31,667
+Man: OK. Thank you.
+
+55
+00:02:31,667 --> 00:02:35,465
+(Q7) [跟定位词 小标题： satisfaction with journey 原词] Now I'd like to ask you about your satisfaction with your journey.
+
+56
+00:02:35,465 --> 00:02:39,374
+[跟定位词空前上一行： most satisfied] So what would you say you were most satisfied with today?
+
+57
+00:02:39,374 --> 00:02:42,691
+[wifi,继续跟定位] Sophie: Well, I like the wifi on the train. Sophie：
+
+58
+00:02:42,691 --> 00:02:44,571
+It's improved a lot.
+
+59
+00:02:44,571 --> 00:02:47,274
+It makes it easier for me to work if I want to.
+
+60
+00:02:47,274 --> 00:02:50,154
+Man: That's the first time today anyone's mentioned that.
+
+61
+00:02:50,154 --> 00:02:53,318
+It's good to get some positive feedback on that.
+
+62
+00:02:53,318 --> 00:02:57,235
+[Q7定位：问句 同替： not safisfied= least +adj 表示否定。 强调weren't 发音] Man: And, is there anything you weren't satisfied with?
+
+63
+00:02:57,235 --> 00:03:08,242
+[Q7答案句：delay。   but.后面跟重点信息， this morning = today 扩展记忆区间] Sophie: Well, normally, the trains run on time and are pretty reliable but today there was a delay; the train was about 15 minutes behind schedule. Sophie：
+
+64
+00:03:08,242 --> 00:03:10,352
+Man: OK. I'll put that down.
+
+65
+00:03:10,352 --> 00:03:15,072
+(Q8) [Q8跟定位： 小标题原词] Now I'd also like to ask about the facilities at this station.
+
+66
+00:03:15,072 --> 00:03:18,676
+You've probably noticed that the whole station's been upgraded.
+
+67
+00:03:18,676 --> 00:03:21,510
+[Q8定位词： most satisfied] What are you most satisfied with?
+
+68
+00:03:21,510 --> 00:03:30,025
+[the amount of = how much， 表示「数量」 ，听 是什么东西的数量，      give = provide 被动语态+扩展记忆区间] Sophie: I think the best thing is that they've improved the amount of information about train times etc. that's given to passengers.&nbsp;
+
+69
+00:03:30,025 --> 00:03:37,394
+– it's much clearer – before there was only one board and I couldn't always see it properly – which was frustrating. ——
+
+70
+00:03:37,394 --> 00:03:38,442
+Man: That's good.
+
+71
+00:03:38,442 --> 00:03:41,316
+(Q9) [Q9定位： not satisfied=least 同Q7] And is there anything you're not satisfied with?
+
+72
+00:03:41,316 --> 00:03:43,016
+Sophie: Let's see … Sophie：
+
+73
+00:03:43,016 --> 00:03:46,428
+I think things have generally improved a lot.
+
+74
+00:03:46,428 --> 00:03:51,040
+The trains are much more modern and I like the new café.
+
+75
+00:03:51,040 --> 00:03:56,662
+[Q9答案句： not enough = lack of 缺少…，   especially=particularly 后面跟出答案] But one thing is that there aren't enough places to sit down, especially on the platforms.
+
+76
+00:03:56,662 --> 00:04:02,411
+Man: OK – so I'll put 'seating' down, shall I, as the thing you're least satisfied with?
+
+77
+00:04:02,411 --> 00:04:04,175
+Sophie: Yes. Sophie：
+
+78
+00:04:04,175 --> 00:04:07,745
+(Q10) Man: Can I ask your opinion about some of the other facilities?
+
+79
+00:04:07,745 --> 00:04:15,275
+[🟢Q10定位词：Neither……nor 原词] We'd like feedback on whether people are satisfied, dissatisfied or neither satisfied nor dissatisfied.
+
+80
+00:04:15,275 --> 00:04:16,107
+Sophie: OK. Sophie：
+
+81
+00:04:16,107 --> 00:04:19,807
+[Q10答案句： 听到了预测时的一类东西 就要先写上] Man: What about the parking at the station?
+
+82
+00:04:19,807 --> 00:04:24,065
+Sophie: Well to be honest, I don't really have an opinion as I never use it.&nbsp;
+
+83
+00:04:24,065 --> 00:04:27,559
+Man: So, neither satisfied nor dissatisfied for that then.
+
+84
+00:04:27,559 --> 00:04:30,249
+[Q10通过另一方回答，辅助确认答案] Sophie: Yes, I suppose so …&nbsp;
+
+85
+00:04:30,249 --> 00:04:32,749
+Man: OK, and what about …?
+
