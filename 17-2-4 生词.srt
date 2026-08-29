@@ -1,0 +1,124 @@
+1
+00:00:00,288 --> 00:00:03,878
+(Q31) ⭐ ️【make a start = 开始（话语功能：开启讲述）】
+
+2
+00:00:03,878 --> 00:00:22,001
+⭐ ️【be in decline = 处于衰落之中】⭐️【in particular = 尤其（话语功能：突出重点）】⭐️【digital technology = 数字技术】
+
+3
+00:00:22,001 --> 00:00:36,942
+[Q31答案句：321000， around=approximately adv.大约] ⭐ ️【illustrate the effect = 说明其影响】⭐️【focus on = 重点讨论】
+
+4
+00:00:36,942 --> 00:00:42,723
+(Q32) ⭐ ️【even though = 尽管（话语功能：让步）】
+
+5
+00:00:42,723 --> 00:00:52,641
+[Q32答案句+Q32干扰项：... is not ...,  nor..., In fact 表示转折！] ⭐ ️【nor is it about = 问题也不在于……（话语功能：承接否定／补充排除）】⭐️【lose words to another language = 词语被另一种语言取代】
+
+6
+00:00:52,641 --> 00:00:59,684
+⭐ ️【in fact = 事实上（话语功能：补充／纠正预期）】⭐️【rather than = 而不是（话语功能：对比选择）】⭐️【borrow from another language = 从另一种语言中借词】
+
+7
+00:00:59,684 --> 00:01:12,979
+(Q33) ⭐ ️【millennium = 一千年；千年】⭐️【handle a concept = 表达／处理某个概念】⭐️【yet = 然而；却（话语功能：转折）】
+
+8
+00:01:12,979 --> 00:01:21,339
+⭐ ️【take, for example = 以……为例（话语功能：引出例证）】⭐️【web browser = 网页浏览器】⭐️【come from = 来源于】⭐️【wander = 漫游；闲逛】
+
+9
+00:01:21,339 --> 00:01:27,621
+⭐ ️【appropriate term = 贴切的用语】⭐️【mentally = 在思维层面】⭐️【browse the internet = 浏览互联网】
+
+10
+00:01:27,621 --> 00:01:34,504
+[Q33答案句： podcast， there's another = and, 并列递进关系] ⭐ ️【and so on = 等等；诸如此类】
+
+11
+00:01:34,504 --> 00:01:45,548
+(Q34) [digital出现] ⭐ ️【alive and growing = 充满活力并不断发展】⭐️【it’s a big but = 这是一个非常重要的转折／问题】⭐️【a great deal of time = 大量时间】⭐️【predominantly = 主要地；占主导地位地】
+
+12
+00:01:45,548 --> 00:01:48,281
+[Q34答案句： think about 也可以是一种举例]  
+
+13
+00:01:48,281 --> 00:02:00,747
+(Q35) ⭐ ️【comparatively recently = 相对较近的时期】
+
+14
+00:02:00,747 --> 00:02:14,612
+[Q35答案句：听前预测， 寻找adj类] ⭐ ️【in many respects = 在许多方面】⭐️【bilingual skills = 双语能力】⭐️【the extent of = ……的程度】⭐️【the virtual world = 虚拟世界】⭐️【staggering = 令人震惊的】
+
+15
+00:02:14,612 --> 00:02:21,835
+(Q36) ⭐ ️【native-speaker skills = 母语者的语言能力】
+
+16
+00:02:21,835 --> 00:02:26,390
+⭐ ️【outcome = 结果】⭐️【troubling = 令人不安的】
+
+17
+00:02:26,390 --> 00:02:35,176
+[Q36答案句： conversation = discussion， 扩展记忆区间 playground discussion] ⭐ ️【conduct a conversation in = 使用……进行交谈】⭐️【while = 与此同时（话语功能：并列对照）】⭐️【report situations where = 报告出现……的情况】
+
+18
+00:02:35,176 --> 00:02:44,811
+(Q37) [Q37答案句：picture，find = identify,     what is in a ... = content] ⭐ new_word: 释义
+
+19
+00:02:44,811 --> 00:02:57,836
+(Q38) ⭐ ️【consequence = 后果】⭐️【be at risk of doing = 面临做……的风险】⭐️【mother tongue = 母语】
+
+20
+00:02:57,836 --> 00:03:16,248
+[跟住定位词：  has a population the size of = number of ...] ⭐ ️【say = 比如；譬如（话语功能：引出例子）】⭐️【justify the expense of = 证明……的开支合理／值得】⭐️【a population the size of = 与……规模相当的人口】
+
+21
+00:03:16,248 --> 00:03:23,732
+[Q38答案句：grammar + 扩展记忆区间] ⭐ ️【drawback = 缺点；不利因素】⭐️【significantly more complex = 复杂得多】
+
+22
+00:03:23,732 --> 00:03:28,889
+⭐ ️【tech giant = 科技巨头】⭐️【tackle a problem = 处理／解决问题】
+
+23
+00:03:28,889 --> 00:03:33,208
+(Q39) ⭐ ️【do something about = 采取措施处理……】
+
+24
+00:03:33,208 --> 00:03:48,681
+⭐ ️【large sums of money = 巨额资金】⭐️【allocate money to = 向……拨付资金】⭐️【lead to the development of = 推动／促成……的开发】⭐️【Icelandic sourced = 以冰岛语为基础的】⭐️【an uphill struggle = 一场艰苦且胜算不大的斗争】
+
+25
+00:03:48,681 --> 00:03:55,363
+[跟住定位词： positive side 讲的是好事 = believes ...区分态度] ⭐ ️【on the positive side = 从积极的一面来看（话语功能：转换至正面因素）】
+
+26
+00:03:55,363 --> 00:04:05,694
+[跟住定位词： sound future, future 原词， sound=secure  可靠的] ⭐ ️【well over = 远远超过】⭐️【nation state = 民族国家】⭐️【a sound future = 稳固的发展前景】⭐️【continue to be so = 继续保持如此】
+
+27
+00:04:05,694 --> 00:04:11,782
+⭐ ️【there’s no doubt that = 毫无疑问……】⭐️【inevitable = 不可避免的】⭐️【second choice = 第二选择；次要选择】
+
+28
+00:04:11,782 --> 00:04:15,072
+⭐ ️【raise a question = 引出／提出问题】
+
+29
+00:04:15,072 --> 00:04:22,942
+[Q39答案句： identity] ⭐ ️【be tied up in = 与……紧密相连；蕴含在……之中】⭐️【a sense of identity = 身份认同感】
+
+30
+00:04:22,942 --> 00:04:26,405
+(Q40)  
+
+31
+00:04:26,405 --> 00:04:28,905
+[Q40答案句： children出现， neither表否定=not， 预测为adj] ⭐ ️【through different routes = 通过不同途径】⭐️【be fully fluent in = 能够完全流利地使用……】⭐️【express yourself = 表达自己】
+
