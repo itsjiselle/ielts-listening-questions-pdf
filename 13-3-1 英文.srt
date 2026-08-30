@@ -1,0 +1,240 @@
+1
+00:00:01,673 --> 00:00:04,468
+(Q1) LINDA: Hello, Linda speaking. Linda：
+
+2
+00:00:04,468 --> 00:00:08,193
+MATT: Oh hi, Linda.&nbsp; This is Matt Brooks.
+
+3
+00:00:08,193 --> 00:00:10,681
+Alex White gave me your number. Alex White
+
+4
+00:00:10,681 --> 00:00:14,901
+He said you'd be able to give me some advice about moving to Banford.
+
+5
+00:00:14,901 --> 00:00:20,696
+LINDA: Yes, Alex did mention you. Linda：
+
+6
+00:00:20,696 --> 00:00:25,842
+MATT: Well, first of all - which area to live in? Matt：
+
+7
+00:00:25,842 --> 00:00:36,917
+[Example] LINDA: Well, I live in Dalton, which is a really nice suburb-not too expensive, and there's a nice park. Linda：
+
+8
+00:00:36,917 --> 00:00:43,022
+[Q1定位句：预判 how much = 英镑符号， 后听到的2-bedroom = accommodation但是已经晚了] MATT: Sounds good.&nbsp; Do you know how much it would be to rent a two bedroom flat there?
+
+9
+00:00:43,022 --> 00:00:51,678
+[Q1答案句： 850] LINDA: Yeah, you should be able to get something reasonable for 850 pounds per month. Linda：
+
+10
+00:00:51,678 --> 00:00:54,919
+That's what people typically pay.&nbsp;
+
+11
+00:00:54,919 --> 00:01:00,144
+[Q1干扰项： 正确答案后+无关信息] You certainly wouldn't want to pay more than 900 pounds.
+
+12
+00:01:00,144 --> 00:01:03,509
+That doesn't include bills or anything.
+
+13
+00:01:03,509 --> 00:01:08,842
+MATT: No.&nbsp; That sounds alright. I'll definitely have a look there.
+
+14
+00:01:08,842 --> 00:01:13,024
+(Q2) [🟩Q2定位词 ： transport原词] Are the transport links easy from where you live?
+
+15
+00:01:13,024 --> 00:01:15,782
+LINDA: Well, I'm very lucky. Linda：
+
+16
+00:01:15,782 --> 00:01:24,359
+[Q2答案句：bike] I work in the city centre so I don't have to use public transport. I go by bike.
+
+17
+00:01:24,359 --> 00:01:27,105
+MATT: Oh, I wish I could do that. Matt：
+
+18
+00:01:27,105 --> 00:01:30,386
+(Q3) Is it safe to cycle around the city?
+
+19
+00:01:30,386 --> 00:01:35,804
+LINDA: Yes, it's fine. And it keeps me fit.
+
+20
+00:01:35,804 --> 00:01:45,820
+[Q3答案句： parking。 听出机会： hardly = limited] Anyway, driving to work in the city centre would be a nightmare because there's hardly any parking.
+
+21
+00:01:45,820 --> 00:01:50,545
+And the traffic during the rush hour can be bad.
+
+22
+00:01:50,545 --> 00:01:57,342
+(Q4) MATT: I'd be working from home but I'd have to go to London one or two days a week. Matt：
+
+23
+00:01:57,342 --> 00:01:59,938
+LINDA: Oh, that's perfect. Linda：
+
+24
+00:01:59,938 --> 00:02:03,751
+Getting to London is no problem.
+
+25
+00:02:03,751 --> 00:02:11,155
+[Q4答案句： 30， 干扰项45] There's a fast train every 30 minutes which only takes 45 minutes.
+
+26
+00:02:11,155 --> 00:02:13,546
+MATT: That's good. Matt：
+
+27
+00:02:13,546 --> 00:02:18,721
+(Q5) [Q5定位句：service] LINDA: Yeah, the train service isn't bad during the week. Linda：
+
+28
+00:02:18,721 --> 00:02:21,568
+And they run quite late at night.
+
+29
+00:02:21,568 --> 00:02:26,052
+[Q5答案句：weekends， 答案前置？ It is the 答案词+ that are a problem.      problem=poor  ...] It's weekends that are a problem.
+
+30
+00:02:26,052 --> 00:02:38,134
+They're always doing engineering work and you have to take a bus to Hadham and pick up the train there, which is really slow.
+
+31
+00:02:38,134 --> 00:02:43,497
+(Q6) [Q6定位： great place = advantages 跟定位] But other than that, Banford's a great place to live.
+
+32
+00:02:43,497 --> 00:02:45,990
+I've never been happier.
+
+33
+00:02:45,990 --> 00:02:56,074
+[Q6答案句：cinema， brand new = new] LINDA: There are some nice restaurants in the city centre and a brand new cinema which has only been open a couple of months. Linda：
+
+34
+00:02:56,074 --> 00:02:59,489
+(Q7) There's a good arts centre too.
+
+35
+00:02:59,489 --> 00:03:02,917
+MATT: Sounds like Banford's got it all. Matt：
+
+36
+00:03:02,917 --> 00:03:10,850
+[Q7跟定位： there're ALSO,提到第二点] LINDA: Yes!&nbsp; We're really lucky. There are lots of really good aspects to living here.
+
+37
+00:03:10,850 --> 00:03:17,712
+[Q7干扰： 听到两个名词schools&hospital，先记下来，继续听，one of the best = reputation] The schools are good and the hospital here is one of the best in the country.
+
+38
+00:03:17,712 --> 00:03:23,438
+[Q7答案句： everyone has POSITIVE experience = excellent] Everyone I know who's been there's had a positive experience.
+
+39
+00:03:23,438 --> 00:03:32,476
+(Q8) [根据预判听名词+扩展记忆区间，dentist + 后面听到Bridge Street] Oh, I can give you the name of my dentist too in Bridge Street, if you're interested.
+
+40
+00:03:32,476 --> 00:03:39,159
+I've been going to him for years and I've never had any problems.
+
+41
+00:03:39,159 --> 00:03:42,319
+MATT: Oh, OK. Matt：
+
+42
+00:03:42,319 --> 00:03:46,427
+LINDA: I'll find his number and send it to you. Linda：
+
+43
+00:03:46,427 --> 00:03:50,041
+MATT: Thanks, that would be really helpful. Matt：
+
+44
+00:03:50,041 --> 00:03:53,473
+(Q9) LINDA: Are you planning to visit Banford soon? Linda：
+
+45
+00:03:53,473 --> 00:03:57,861
+MATT: Yes. My wife and I are both coming next week.
+
+46
+00:03:57,861 --> 00:04:01,771
+We want to make some appointments with estate agents.
+
+47
+00:04:01,771 --> 00:04:06,321
+[Q9定位词：meet] LINDA: I could meet you if you like and show you around. Linda：
+
+48
+00:04:06,321 --> 00:04:10,546
+MATT: Are you sure? We'd really appreciate that.
+
+49
+00:04:10,546 --> 00:04:17,901
+[Q9干扰： Tuesday Thursday， 听另一个人选什么] LINDA: Either a Tuesday or Thursday is good for me, after 5.30. Linda：
+
+50
+00:04:17,901 --> 00:04:24,717
+[Q9答案句： Thursday， 确定态度： preferable] MATT: Thursday's preferable - Tuesday I need to get home before 6 pm. Matt：
+
+51
+00:04:24,717 --> 00:04:26,058
+LINDA: OK. Linda：
+
+52
+00:04:26,058 --> 00:04:27,856
+Great.
+
+53
+00:04:27,856 --> 00:04:35,833
+(Q10) [根据预判听地点，Q10答案句：cafe] Let me know which train you're catching and I'll meet you in the cafe outside.
+
+54
+00:04:35,833 --> 00:04:37,646
+You can't miss it.
+
+55
+00:04:37,646 --> 00:04:42,451
+It's opposite the station and next to the museum.
+
+56
+00:04:42,451 --> 00:04:44,053
+MATT: Brilliant.&nbsp;
+
+57
+00:04:44,053 --> 00:04:47,432
+I'll text you next week then.
+
+58
+00:04:47,432 --> 00:04:50,450
+Thanks so much for all the advice.
+
+59
+00:04:50,450 --> 00:04:52,563
+LINDA: No problem. Linda：
+
+60
+00:04:52,563 --> 00:04:55,063
+I'll see you next week.
+
