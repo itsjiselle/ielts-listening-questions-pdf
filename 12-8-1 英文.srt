@@ -1,0 +1,252 @@
+1
+00:00:03,062 --> 00:00:07,428
+(QExample) BOB: Hello, Pembroke Cycling Holidays, Bob speaking. Bob：
+
+2
+00:00:07,428 --> 00:00:09,113
+MARGARET: Oh hello. Margaret：
+
+3
+00:00:09,113 --> 00:00:13,314
+I've seen your advert for people to lead cycle trips.
+
+4
+00:00:13,314 --> 00:00:15,729
+Are you the right person to speak to?
+
+5
+00:00:15,729 --> 00:00:17,955
+BOB: Yes, I am. Bob：
+
+6
+00:00:17,955 --> 00:00:19,420
+Could I have your name , please?
+
+7
+00:00:19,420 --> 00:00:21,596
+(Q1) MARGARET : It's Margaret Smith. Margaret：
+
+8
+00:00:21,596 --> 00:00:25,083
+BOB: Are you looking for a permanent job, Margaret? Bob：Margaret，
+
+9
+00:00:25,083 --> 00:00:33,109
+[Q1答案句： temporary， 听出机会/听出方式： 场景词熟悉] MARGARET : No, temporary. I've got a permanent job starting in a few months' time, and I want to do something else until then.
+
+10
+00:00:33,109 --> 00:00:35,385
+(Q2) [定位词work原词] BOB: What work do you do? Bob：
+
+11
+00:00:35,385 --> 00:00:44,320
+[Q2答案句+Q2干扰： doctor， 时间干扰。 疑似选项： lawyer（无关信息+正确答案）] MARGARET : This will probably sound crazy - I used to be a lawyer, and then I made a complete career change and I'm going to be a doctor. Margaret：
+
+12
+00:00:44,320 --> 00:00:46,571
+I've just finished my training.
+
+13
+00:00:46,571 --> 00:00:48,053
+BOB: Right. Bob：
+
+14
+00:00:48,053 --> 00:00:51,766
+(Q3) [定位词： lead cycle] And have you had any experience of leading cycle trips?
+
+15
+00:00:51,766 --> 00:00:56,085
+[Q3答案句： Africa] MARGARET : Yes, I've led several bike tours in Africa.&nbsp;
+
+16
+00:00:56,085 --> 00:01:06,815
+[Q3干扰项： India， 下个月， cancel （正确答案+无关信息， 混合语义 cancel）] The trip to India that I had arranged to lead next month has now been cancelled, so when I saw you were advertising for tour leaders , I decided to apply.
+
+17
+00:01:06,815 --> 00:01:08,370
+BOB: OK. Bob：
+
+18
+00:01:08,370 --> 00:01:13,358
+(Q4) Now we normally have two or three leaders on a trip, depending on the size of the group.
+
+19
+00:01:13,358 --> 00:01:23,687
+Some tours are for very experienced cyclists , but we've got a tour coming up soon in Spain, which is proving so popular we need an additional leader.
+
+20
+00:01:23,687 --> 00:01:27,193
+[跟定位] It's a cycling holiday for families. Would that suit you?
+
+21
+00:01:27,193 --> 00:01:29,142
+MARGARET : It certainly would.&nbsp;
+
+22
+00:01:29,142 --> 00:01:36,814
+I enjoy working with children, and I probably need some more experience before I go on a really challenging trip.
+
+23
+00:01:36,814 --> 00:01:42,215
+BOB: That tour includes several teenagers : have you worked with that age group before?&nbsp;
+
+24
+00:01:42,215 --> 00:01:49,309
+[Q4答案句：youth。      听出方式： 跟定位+同义替换  volunteer= voluntary，] MARGARET : Yes, I'm a volunteer worker in a youth club, where I help people to improve their cycling skills.&nbsp;
+
+25
+00:01:49,309 --> 00:01:53,757
+Before that I helped out in a cycling club where I taught beginners.
+
+26
+00:01:53,757 --> 00:01:55,858
+BOB: Well that's great.&nbsp;
+
+27
+00:01:55,858 --> 00:02:03,237
+(Q5) Now the trip I mentioned is just for a fortnight, but there might be the possibility of leading other tours after that.
+
+28
+00:02:03,237 --> 00:02:05,344
+Would that fit in with your plans?
+
+29
+00:02:05,344 --> 00:02:07,201
+MARGARET: That'd be fine. Margaret：
+
+30
+00:02:07,201 --> 00:02:09,285
+[跟定位： five months原词重现， +同替 free=available] I'll be free for five months.
+
+31
+00:02:09,285 --> 00:02:17,795
+[Q5答案句： May， 混了三个干扰项， 也都跟时间有关] My job is due to start on October the 2nd, and I'm available from May the 1st until late September.
+
+32
+00:02:17,795 --> 00:02:19,032
+BOB: Good.&nbsp;
+
+33
+00:02:19,032 --> 00:02:22,259
+(Q6) Now is there anything I need to know about the food you eat?
+
+34
+00:02:22,259 --> 00:02:31,118
+We usually have one or two people in the group who don't eat meat, or have some sort of food allergy, so we're always very careful about that.
+
+35
+00:02:31,118 --> 00:02:33,818
+[Q6答案句： 跟同替： allergic to = can't eat] MARGARET : Yes, I'm allergic to cheese.&nbsp;
+
+36
+00:02:33,818 --> 00:02:35,506
+Would that be a problem?
+
+37
+00:02:35,506 --> 00:02:39,794
+BOB: No, as long as we have enough notice, we can deal with that.&nbsp;
+
+38
+00:02:39,794 --> 00:02:41,879
+MARGARET: That's great.&nbsp;
+
+39
+00:02:41,879 --> 00:02:47,273
+(Q7) MARGARET : It sounds really interesting - would you like me to fill in an application form?&nbsp;
+
+40
+00:02:47,273 --> 00:02:49,078
+BOB: Yes, please.&nbsp;
+
+41
+00:02:49,078 --> 00:02:50,965
+Where should I post it to?
+
+42
+00:02:50,965 --> 00:03:03,835
+[Q7答案句： 比较直观，跟上拼写即可] MARGARET:Could you send it to 27 Arbuthnot Place-A-R-B-U-T-H-N-0-T - Place, Dumfries .
+
+43
+00:03:03,835 --> 00:03:06,562
+(Q8) BOB: And what's the postcode, please?&nbsp;
+
+44
+00:03:06,562 --> 00:03:10,533
+[Q8答案句] MARGARET: DG7 4PH.&nbsp;
+
+45
+00:03:10,533 --> 00:03:14,101
+[Q8干扰项： 正确答案+无关信息，] BOB: Was that P Papa or B Bravo?
+
+46
+00:03:14,101 --> 00:03:15,869
+MARGARET: P Papa.&nbsp;
+
+47
+00:03:15,869 --> 00:03:16,873
+BOB: Got that.&nbsp;
+
+48
+00:03:16,873 --> 00:03:23,741
+(Q9) [定位词 interview， 听到预判时的答案词就要跟上，以防后面不再说了： Tuesday（Q9答案句）] If you could return the application form by Friday this week, we can interview you on Tuesday next week.
+
+49
+00:03:23,741 --> 00:03:25,830
+[空前定位词： 2:30pm] Say half past two.
+
+50
+00:03:25,830 --> 00:03:27,400
+Would that be possible for you?
+
+51
+00:03:27,400 --> 00:03:29,435
+MARGARET: Yes, it's fine.&nbsp;
+
+52
+00:03:29,435 --> 00:03:33,675
+[Q9干扰项：正确答案+无关信息] You're quite a long way from where I live, so I'll drive, over on Monday.
+
+53
+00:03:33,675 --> 00:03:36,104
+(Q10) Should I bring anything to the interview?
+
+54
+00:03:36,104 --> 00:03:45,102
+BOB: We'll have your application form, of course, but we'll need to see any certificates you've got that are relevant, in cycling, first aid, or whatever.&nbsp;
+
+55
+00:03:45,102 --> 00:03:46,559
+MARGARET: OK.
+
+56
+00:03:46,559 --> 00:03:56,418
+[Q10答案句： prepare=plan， 锁定答案- talk] BOB: And at the interview we'd like to find out about your experience of being a tour guide.So could you prepare a ten-minute talk about that, please?&nbsp;
+
+57
+00:03:56,418 --> 00:04:01,846
+You don't need slides or any complicated equipment - just some notes.
+
+58
+00:04:01,846 --> 00:04:05,579
+MARGARET: Right. I'll start thinking about that straightaway!
+
+59
+00:04:05,579 --> 00:04:07,508
+BOB: Good.&nbsp;
+
+60
+00:04:07,508 --> 00:04:13,207
+Well, we'll look forward to receiving your application form, and we'll contact you to confirm the interview.
+
+61
+00:04:13,207 --> 00:04:15,355
+MARGARET: Thanks very much.&nbsp;
+
+62
+00:04:15,355 --> 00:04:16,727
+BOB : Thank you, Margaret.&nbsp;
+
+63
+00:04:16,727 --> 00:04:19,227
+Goodbye.
+
