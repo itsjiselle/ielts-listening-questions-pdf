@@ -1,0 +1,248 @@
+1
+00:00:01,717 --> 00:00:04,064
+(Q1) TC EMPLOYEE: Hi. Can I help you?
+
+2
+00:00:04,064 --> 00:00:09,931
+VISITOR: I'd like to find out if you have any excursions suitable for families.
+
+3
+00:00:09,931 --> 00:00:11,068
+TC EMPLOYEE: Sure.
+
+4
+00:00:11,068 --> 00:00:13,226
+How about taking your family for a cruise?
+
+5
+00:00:13,226 --> 00:00:18,769
+We have a steamship that takes passengers out several times a day - it's over 100 years old.
+
+6
+00:00:18,769 --> 00:00:23,079
+VISITOR: That sounds interesting. How long is the trip?
+
+7
+00:00:23,079 --> 00:00:25,052
+TC EMPLOYEE: About an hour and a half.
+
+8
+00:00:25,052 --> 00:00:27,490
+[Q 1答案句： mountains 注意复数。  picture=photo] And don't forget to take pictures of the mountains.
+
+9
+00:00:27,490 --> 00:00:30,786
+They're all around you when you're on the boat and they look fantastic.
+
+10
+00:00:30,786 --> 00:00:36,145
+(Q2) VISITOR: OK. And I assume there's a cafe or something on board?
+
+11
+00:00:36,145 --> 00:00:38,884
+TC EMPLOYEE: Sure. How old are your children?
+
+12
+00:00:38,884 --> 00:00:43,202
+VISITOR: Er, my daughter's fifteen and my son's seven.
+
+13
+00:00:43,202 --> 00:00:44,311
+TC EMPLOYEE: Right.
+
+14
+00:00:44,311 --> 00:00:48,715
+Well there are various things you can do once you've crossed the lake, to make a day of it.
+
+15
+00:00:48,715 --> 00:00:52,644
+One thing that's very popular is a visit to the Country Farm.
+
+16
+00:00:52,644 --> 00:00:58,225
+[Q1-Q2之间跟定位词，feed the sheep] You're met off the boat by the farmer and he'll take you to the holding pens, where the sheep are kept.
+
+17
+00:00:58,225 --> 00:01:00,265
+Children love feeding them!
+
+18
+00:01:00,265 --> 00:01:02,610
+VISITOR: My son would love that.
+
+19
+00:01:02,610 --> 00:01:04,354
+He really likes animals.
+
+20
+00:01:04,354 --> 00:01:10,162
+[Q2答案句： horse，跟上定位句词 40 minutes，  on a] TC EMPLOYEE: Well, there's also a 40-minute trek round the farm on a horse, if he wants.
+
+21
+00:01:10,162 --> 00:01:12,233
+(Q3) VISITOR: Do you think he'd manage it?
+
+22
+00:01:12,233 --> 00:01:14,744
+He hasn't done that before.
+
+23
+00:01:14,744 --> 00:01:15,876
+TC EMPLOYEE: Sure.
+
+24
+00:01:15,876 --> 00:01:17,928
+It's suitable for complete beginners.
+
+25
+00:01:17,928 --> 00:01:19,739
+VISITOR: Ah, good.
+
+26
+00:01:19,739 --> 00:01:26,840
+TC EMPLOYEE: And again, visitors are welcome to explore the farm on their own, as long as they take care to close gates and so on.
+
+27
+00:01:26,840 --> 00:01:34,059
+[Q3答案句： garden(s).   along the side of  = by the ... 沿着……] There are some very beautiful gardens along the side of the lake which also belong to the farm - they'll be just at their best now.
+
+28
+00:01:34,059 --> 00:01:36,552
+You could easily spend an hour or two there.
+
+29
+00:01:36,552 --> 00:01:37,959
+(Q4) VISITOR: OK.
+
+30
+00:01:37,959 --> 00:01:39,981
+Well that all sounds good.
+
+31
+00:01:39,981 --> 00:01:47,371
+[Q4答案句： 疑似答案词， n出现， 先记下来。【答案前置-代词指代】 not included = at extra cost] And can we get lunch there?&nbsp; —TC EMPLOYEE: You can, and it's very good, though it's not included in the basic cost.
+
+32
+00:01:47,371 --> 00:01:49,134
+You pay when you get there.
+
+33
+00:01:49,134 --> 00:01:50,618
+VISITOR: Right.
+
+34
+00:01:50,618 --> 00:01:54,721
+(Q5) VISITOR: So is there anything else to do over on that side of the lake?
+
+35
+00:01:54,721 --> 00:02:00,097
+TC EMPLOYEE: Well, what you can do is take a bike over on the ship and then go on a cycling trip.
+
+36
+00:02:00,097 --> 00:02:08,211
+There's a trail there called the Back Road -- you could easily spend three or four hours exploring it, and the scenery's wonderful.
+
+37
+00:02:08,211 --> 00:02:13,313
+[Q5答案句：map.] They'll give you a map when you get your ticket for the cruise - there's no extra charge.
+
+38
+00:02:13,313 --> 00:02:17,230
+(Q6) VISITOR: What's the trail like in terms of difficulty?
+
+39
+00:02:17,230 --> 00:02:19,941
+TC EMPLOYEE: Quite challenging in places.
+
+40
+00:02:19,941 --> 00:02:22,237
+It wouldn't be suitable for your seven-year-old.
+
+41
+00:02:22,237 --> 00:02:25,809
+[Q6答案句：experience] It needs someone who's got a bit more experience.
+
+42
+00:02:25,809 --> 00:02:35,806
+(Q7) VISITOR: Hmm. Well, my daughter loves cycling and so do I, so maybe the two of us could go, and my wife and son could stay on the farm.
+
+43
+00:02:35,806 --> 00:02:38,385
+That might work out quite well.
+
+44
+00:02:38,385 --> 00:02:44,619
+But we don't have bikes here... is there somewhere we could rent them?
+
+45
+00:02:44,619 --> 00:02:47,833
+TC EMPLOYEE: Yes, there's a place here in the city.
+
+46
+00:02:47,833 --> 00:02:50,251
+It's called Ratchesons.
+
+47
+00:02:50,251 --> 00:02:54,307
+VISITOR: I'll just make a note of that - er, how do you spell it?
+
+48
+00:02:54,307 --> 00:03:01,364
+[Q7答案句：纯听写。 字母] TC EMPLOYEE: R-A-T-C-H-E-S-O-N-S.
+
+49
+00:03:01,364 --> 00:03:03,931
+It's just by the cruise ship terminal.
+
+50
+00:03:03,931 --> 00:03:05,579
+VISITOR: OK.
+
+51
+00:03:05,579 --> 00:03:16,775
+(Q8) [need 小标题分点，repair kit 原词， snack and some water = food and drink] TC EMPLOYEE: You'd also need to pick up a repair kit for the bike from there to take along with you, and you'd need to take along a snack and some water - it'd be best to get those in the city.
+
+52
+00:03:16,775 --> 00:03:19,289
+VISITOR: Fine. That shouldn't be a problem.
+
+53
+00:03:19,289 --> 00:03:23,221
+[Q8答案句： helmet， rent=hire] And I assume I can rent a helmet from the bike place?
+
+54
+00:03:23,221 --> 00:03:26,318
+TC EMPLOYEE: Sure, you should definitely get that.
+
+55
+00:03:26,318 --> 00:03:36,875
+(Q9) [Q9答案句： won't see any ... = there are no ...] It's a great ride, but you want to be well prepared because it's very remote - you won't see any shops round there, or anywhere to stay, so you need to get back in time for the last boat.
+
+56
+00:03:36,875 --> 00:03:38,226
+VISITOR: Yeah.
+
+57
+00:03:38,226 --> 00:03:41,505
+(Q10) [定位： price = cost] So what sort of prices are we looking at here?
+
+58
+00:03:41,505 --> 00:03:57,004
+TC EMPLOYEE: Let's see, that'd be one adult and one child for the cruise with farm tour, that's $117, and an adult and a child for the cruise only so that's $214 dollars altogether.
+
+59
+00:03:57,004 --> 00:04:00,984
+Oh, wait a minute, how old did you say your daughter was?
+
+60
+00:04:00,984 --> 00:04:02,443
+VISITOR: Fifteen.
+
+61
+00:04:02,443 --> 00:04:14,901
+[Q10答案句： $267.   干扰项4个 ⭐️⭐️] TC EMPLOYEE: Then I'm afraid it's $267 because she has to pay the adult fare, which is $75 instead of the child fare which is $22 - sorry about that.
+
+62
+00:04:14,901 --> 00:04:17,401
+VISITOR: That's OK.
+
