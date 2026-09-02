@@ -1,0 +1,236 @@
+1
+00:00:03,118 --> 00:00:06,869
+(Q1) Amber: Hello William, this is Amber. Amber：
+
+2
+00:00:06,869 --> 00:00:13,327
+You said to phone if I wanted to get more information about the job agency you mentioned.
+
+3
+00:00:13,327 --> 00:00:15,331
+Is now a good time?
+
+4
+00:00:15,331 --> 00:00:18,245
+William: Hi Amber, yes, fine. William：
+
+5
+00:00:18,245 --> 00:00:23,576
+So, the agency I was talking about is called Bankside, they're based in Docklands.
+
+6
+00:00:23,576 --> 00:00:27,322
+I can tell you the address now, 497 Eastside.
+
+7
+00:00:27,322 --> 00:00:29,048
+Amber: Ok, thanks. Amber：
+
+8
+00:00:29,048 --> 00:00:33,342
+So, is there anyone in particular I should speak to there?
+
+9
+00:00:33,342 --> 00:00:37,192
+William: The agent I always deal with is called Becky Jamieson. William：
+
+10
+00:00:37,192 --> 00:00:39,463
+Amber: Let me write that down. Amber：
+
+11
+00:00:39,463 --> 00:00:48,567
+[Q1答案句：拼写] Becky...&nbsp; &nbsp; William: Jamieson, J-A-M-I-E-S-O-N.&nbsp;
+
+12
+00:00:48,567 --> 00:00:51,193
+(Q2) Amber: Do you have her direct line? Amber：
+
+13
+00:00:51,193 --> 00:00:54,123
+William: Yes, it's in my contact somewhere. William：
+
+14
+00:00:54,123 --> 00:01:01,422
+[跟住上一行信息] Right, here we are, 07866 510333.
+
+15
+00:01:01,422 --> 00:01:04,418
+[Q2答案句] I wouldn't call her until the afternoon if I were you.
+
+16
+00:01:04,418 --> 00:01:08,915
+She's always really busy in the morning trying to fill last minute vacancies.
+
+17
+00:01:08,915 --> 00:01:14,803
+(Q3) She's really helpful and friendly, so I'm sure it would be worth getting in touch with her for an informal chat.
+
+18
+00:01:14,803 --> 00:01:19,709
+[跟定位词： Q2-Q3] Amber: It's mainly clerical and admin jobs they do, where isn't it? Amber：
+
+19
+00:01:19,709 --> 00:01:20,759
+William: That's right. William：
+
+20
+00:01:20,759 --> 00:01:24,224
+I know you're hoping to find a full-time job in the media eventually.
+
+21
+00:01:24,224 --> 00:01:32,356
+But Becky mostly recruits temporary staff for the finance sector, which will look good on your CV and generally pays better too.
+
+22
+00:01:32,356 --> 00:01:38,257
+Amber: Yeah, I'm just a bit worried because I don't have much office experience. Amber：
+
+23
+00:01:38,257 --> 00:01:39,046
+William: I wouldn't worry. William：
+
+24
+00:01:39,046 --> 00:01:42,836
+They'll probably start you with a receptionist or something like that.
+
+25
+00:01:42,836 --> 00:01:50,283
+[跟定位词： skill] So, what's important for that kind of job isn't so much having business skills or knowing lots of different computer systems.
+
+26
+00:01:50,283 --> 00:01:52,536
+[Q3答案句：强调句引出 it is ...that matters = must have good ...] It's communication that really matters.
+
+27
+00:01:52,536 --> 00:01:56,915
+So, you'd be fine there and you'll pick up office skills really quickly on the job.
+
+28
+00:01:56,915 --> 00:01:58,558
+It's not that complicated.
+
+29
+00:01:58,558 --> 00:02:00,146
+(Q4) Amber: Okay good. Amber：
+
+30
+00:02:00,146 --> 00:02:04,685
+So how long do people generally need temporary staff for?
+
+31
+00:02:04,685 --> 00:02:08,876
+[Q4干扰项] It would be great if I could get something lasting at least a month.
+
+32
+00:02:08,876 --> 00:02:15,548
+[Q4答案句： more likely to = usually , 答案词- week，先无关信息+正确答案] William: That shouldn't be too difficult, but you're more likely to be offered something for a week at first, which might get extended. William：
+
+33
+00:02:15,548 --> 00:02:18,467
+It's unusual to be sent somewhere for just a day or two.
+
+34
+00:02:18,467 --> 00:02:25,356
+(Q5) Amber: Right, I've heard the pay isn't too bad, better than working in a shop or a restaurant. Amber：
+
+35
+00:02:25,356 --> 00:02:26,670
+William: Oh yes, definitely. William：
+
+36
+00:02:26,670 --> 00:02:30,322
+[Q5答案句：about=usually， Q6干扰项： 11 if you're lucky] The hourly rate is about 10 pounds, 11 if you're lucky.
+
+37
+00:02:30,322 --> 00:02:36,561
+[Q5干扰项：8/9] Amber: That's pretty good. I was only expecting to get 8 or 9 pounds an hour.
+
+38
+00:02:36,561 --> 00:02:39,874
+(Q6) [🟢Q6定位句： registration process小标题原词重现] William: Do you want me to tell you anything about the registration process?&nbsp;
+
+39
+00:02:39,874 --> 00:02:43,930
+Amber: Yes, please. I know you have had an interview.
+
+40
+00:02:43,930 --> 00:02:48,675
+William: The interview usually takes about an hour, and you should arrange that about a week in advance. William：
+
+41
+00:02:48,675 --> 00:02:53,025
+Amber: I suppose I should dress smartly if it's for office work. Amber：
+
+42
+00:02:53,025 --> 00:03:00,286
+[Q6答案句： suit ，+ 另一方回应 good idea] I can probably borrow a suit from mum.&nbsp; &nbsp; William: Good idea, it's better to look too smart than too casual.&nbsp;
+
+43
+00:03:00,286 --> 00:03:05,542
+(Q7) [bring 空前v原词] Amber: Will I need to bring copies of my exam certificate or anything like that. Amber：
+
+44
+00:03:05,542 --> 00:03:07,948
+William: No, they don't need to see those, I don't think. William：
+
+45
+00:03:07,948 --> 00:03:12,284
+[Q7答案句] Amber: What about my passport?&nbsp; &nbsp; &nbsp;William: Oh yes, they will ask to see that.&nbsp;
+
+46
+00:03:12,284 --> 00:03:13,729
+Amber: Ok. Amber：
+
+47
+00:03:13,729 --> 00:03:19,100
+(Q8) William: I wouldn't get stressed about the interview there. It's just a chance for them to build relationship with you.
+
+48
+00:03:19,100 --> 00:03:21,667
+So, they can try and match you to a job which you like.
+
+49
+00:03:21,667 --> 00:03:27,806
+[Q8答案句： personality。  需要知道同替 candidate=applicant，答案前置] So, there are questions about personality that they always ask candidates, fairly basic ones.
+
+50
+00:03:27,806 --> 00:03:33,009
+And they probably won't ask anything too difficult like what your plans are for the future.
+
+51
+00:03:33,009 --> 00:03:35,375
+Amber: Oh, hope not. Amber：
+
+52
+00:03:35,375 --> 00:03:39,143
+(Q9) [Q9跟定位，benefit=advantage  小标题同替] William: Anyway, there are lots of benefits to using an agency. William：
+
+53
+00:03:39,143 --> 00:03:46,057
+[Q9答案句： feedback，前置（不明显定语从句）， they give= you receive] For example, the interview will be useful because they'll give you feedback on your performance, so you can improve next time.
+
+54
+00:03:46,057 --> 00:03:49,934
+(Q10) [Q9-Q10之间，隔一行，跟定位 access] Amber: And they'll have access to jobs which aren't advertised. Amber：
+
+55
+00:03:49,934 --> 00:03:53,471
+William: Exactly, most temporary jobs aren't advertised. William：
+
+56
+00:03:53,471 --> 00:03:59,226
+[Q10答案句： time，答案前置， take a lot less time] Amber: And I expect finding a temporary job this way takes a lot less time. Amber：
+
+57
+00:03:59,226 --> 00:04:03,044
+It's much easier than bringing up individual company.
+
+58
+00:04:03,044 --> 00:04:04,783
+William: Yes, indeed. William：
+
+59
+00:04:04,783 --> 00:04:07,283
+Well, I think I've covered everything... (fade out)
+
