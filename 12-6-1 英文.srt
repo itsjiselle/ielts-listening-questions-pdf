@@ -1,0 +1,296 @@
+1
+00:00:02,419 --> 00:00:05,551
+MAN: Good morning, Kenton Festival box office.
+
+2
+00:00:05,551 --> 00:00:07,039
+How can I help you?
+
+3
+00:00:07,039 --> 00:00:08,882
+WOMAN: Oh, good morning.
+
+4
+00:00:08,882 --> 00:00:16,626
+I'm coming to Kenton for a few days' holiday next month, and a friend told me there's a festival.
+
+5
+00:00:16,626 --> 00:00:19,414
+She gave me this number to find out about it.
+
+6
+00:00:19,414 --> 00:00:26,590
+(QExample) MAN: That's right, the festival begins on the 16th of May and goes on till the 19th.
+
+7
+00:00:26,590 --> 00:00:28,763
+WOMAN: Oh, that's great.
+
+8
+00:00:28,763 --> 00:00:32,008
+I'll be there from the 15th till the 19th.
+
+9
+00:00:32,008 --> 00:00:35,361
+(Q1) So could you tell me the programme, please?
+
+10
+00:00:35,361 --> 00:00:41,386
+[Q1定位词： town center] MAN: Well, on the first day, there's the opening ceremony, in the town centre.
+
+11
+00:00:41,386 --> 00:00:54,428
+[Q1答案句： 2:45， start at. 原词] People start gathering around 2 o'clock, to get a good place to see from, and the events will start at 2.45, and finish about 5.30.
+
+12
+00:00:54,428 --> 00:00:56,148
+WOMAN: OK, thanks.
+
+13
+00:00:56,148 --> 00:00:59,784
+(Q2) I'll make sure I get there early to get a good spot.
+
+14
+00:00:59,784 --> 00:01:04,049
+[Q2跟定位： 两个答案空不相邻，跟定位 mayor] MAN: The festival will be officially opened by the mayor.
+
+15
+00:01:04,049 --> 00:01:09,412
+He'll just speak for a few minutes, welcoming everyone to the festival.
+
+16
+00:01:09,412 --> 00:01:15,077
+All the town councillors will be there, and of course lots of other people.
+
+17
+00:01:15,077 --> 00:01:17,122
+WOMAN: Right.
+
+18
+00:01:17,122 --> 00:01:21,153
+[Q2答案句： band] MAN: Then there'll be a performance by a band.
+
+19
+00:01:21,153 --> 00:01:30,361
+[Q2干扰项] Most years we have a children's choir, but this year the local army cadets offered to perform, and they're very good.
+
+20
+00:01:30,361 --> 00:01:31,571
+WOMAN: Uhuh.
+
+21
+00:01:31,571 --> 00:01:40,050
+(Q3) [Q3答案句： play， 跟定位 will perform ... = permance of ... 词性同义替换] MAN: After that, a community group from the town will perform a play they've written themselves, just a short one.
+
+22
+00:01:40,050 --> 00:01:42,547
+(Q4) It's about Helen Tungate.
+
+23
+00:01:42,547 --> 00:01:45,222
+I don't know if you've heard of her?
+
+24
+00:01:45,222 --> 00:01:47,626
+WOMAN: I certainly have.
+
+25
+00:01:47,626 --> 00:01:50,310
+[Q4答案句] She was a scientist years ago.
+
+26
+00:01:50,310 --> 00:01:52,160
+MAN: That's right.
+
+27
+00:01:52,160 --> 00:01:59,431
+(Q5) She was born in Kenton exactly 100 years ago, so we're celebrating her centenary.
+
+28
+00:01:59,431 --> 00:02:03,656
+WOMAN: I'm a biologist, so I've always been interested in her.
+
+29
+00:02:03,656 --> 00:02:07,229
+I didn't realise she came from Kenton.
+
+30
+00:02:07,229 --> 00:02:08,600
+MAN: Yes.
+
+31
+00:02:08,600 --> 00:02:16,551
+[fireworks原词重现 跟定位] Well, all that will take place in the afternoon, and later, as the sun sets, there'll be a firework display.
+
+32
+00:02:16,551 --> 00:02:22,198
+[Q5疑似干扰项park，但只是go to park] You should go to the park to watch, as you'll get the best view from there.
+
+33
+00:02:22,198 --> 00:02:26,756
+[Q5答案句（river）：take place = situated ...,  on the opposite side 在…的对面= across] And the display takes place on the opposite side of the river.
+
+34
+00:02:26,756 --> 00:02:30,812
+It's always one of the most popular events in the festival.
+
+35
+00:02:30,812 --> 00:02:33,061
+WOMAN: Sounds great.
+
+36
+00:02:33,061 --> 00:02:36,343
+(Q6) [小标题 other events] WOMAN: And what's happening on the other days?
+
+37
+00:02:36,343 --> 00:02:40,219
+MAN: There are several events that go on the whole time.
+
+38
+00:02:40,219 --> 00:02:51,802
+[Q6答案句(grandparents)：videos原词， relationships原词，  between... and 答案词= ... have with ...] For example, the students of the art college have produced a number of videos, all connected with relationships between children and their grandparents.
+
+39
+00:02:51,802 --> 00:02:54,346
+WOMAN: That sounds interesting.
+
+40
+00:02:54,346 --> 00:02:58,519
+(Q7) It makes a change from children and parents, doesn't it!
+
+41
+00:02:58,519 --> 00:03:00,488
+MAN: Exactly.
+
+42
+00:03:00,488 --> 00:03:10,003
+Because the art college is in use for classes, throughout the festival, the videos are being shown in Handsworth House.
+
+43
+00:03:10,003 --> 00:03:22,209
+[Q7答案句：拼写， 注意W读法（double u)] WOMAN: How do you spell the name?&nbsp; &nbsp; &nbsp;MAN: H-A-N-D-S-W-O-R-T-H. Handsworth House.&nbsp;
+
+44
+00:03:22,209 --> 00:03:24,994
+It's close to the Town Hall.
+
+45
+00:03:24,994 --> 00:03:26,566
+WOMAN: Right.
+
+46
+00:03:26,566 --> 00:03:31,198
+(Q8) MAN: Now let me see, what else can I tell you about?
+
+47
+00:03:31,198 --> 00:03:34,760
+[Q8疑似答案词： ballet，先记下，听后续] WOMAN: Are there any displays of ballet dancing?
+
+48
+00:03:34,760 --> 00:03:38,814
+I'm particularly interested in that as I do it as a hobby.
+
+49
+00:03:38,814 --> 00:03:47,410
+[Q8干扰项： isn't any, Q8答案句： but ... traditional✅， demonstration=performance] MAN: There isn't any ballet, I'm afraid, but there'll be a demonstration of traditional dances from all round the country.
+
+50
+00:03:47,410 --> 00:03:49,475
+(Q9) WOMAN: Oh, that'd be nice.
+
+51
+00:03:49,475 --> 00:03:51,450
+[where... = venue] Where's that being held?
+
+52
+00:03:51,450 --> 00:03:57,983
+[Q9答案句] MAN: It's in the market in the town centre - the outdoor one, not the covered market.
+
+53
+00:03:57,983 --> 00:04:05,954
+(Q10) [Q10跟定位] And it's on at 2 and 5 every afternoon of the festival, apart from the first day.
+
+54
+00:04:05,954 --> 00:04:07,626
+WOMAN: Lovely.
+
+55
+00:04:07,626 --> 00:04:12,452
+I'm interested in all kinds of dancing, so I'm sure I'll enjoy that!
+
+56
+00:04:12,452 --> 00:04:13,710
+MAN: Mmm.
+
+57
+00:04:13,710 --> 00:04:15,136
+I'm sure you will.
+
+58
+00:04:15,136 --> 00:04:19,438
+[Q10跟定位：concerts] WOMAN: And I'd really like to go to some concerts, if there are any.
+
+59
+00:04:19,438 --> 00:04:21,625
+MAN: Yes, there are several.
+
+60
+00:04:21,625 --> 00:04:26,859
+Three performed by professionals, and one by local children.
+
+61
+00:04:26,859 --> 00:04:29,607
+WOMAN: And where is it being held?
+
+62
+00:04:29,607 --> 00:04:33,791
+[Q10跟定位：library] MAN: It's in the library, which is in Park Street.
+
+63
+00:04:33,791 --> 00:04:38,697
+On the 18th, at 6.30 in the evening.
+
+64
+00:04:38,697 --> 00:04:41,970
+WOMAN: I presume I'll need tickets for that.
+
+65
+00:04:41,970 --> 00:04:43,178
+MAN: Yes.
+
+66
+00:04:43,178 --> 00:04:48,313
+[Q10跟定位] You can book online, or you can buy them when you arrive in Kenton.
+
+67
+00:04:48,313 --> 00:04:55,207
+[Q10答案句，display ... = have ...] Either at the festival box office, or from any shops displaying our logo in the windows.
+
+68
+00:04:55,207 --> 00:04:56,880
+WOMAN: Well.
+
+69
+00:04:56,880 --> 00:05:01,242
+I think that'll keep me busy for the whole of my stay in Kenton.
+
+70
+00:05:01,242 --> 00:05:04,007
+Thank you so much for all your help.
+
+71
+00:05:04,007 --> 00:05:05,485
+MAN: You're welcome.
+
+72
+00:05:05,485 --> 00:05:08,015
+I hope you enjoy your stay.
+
+73
+00:05:08,015 --> 00:05:09,072
+WOMAN: Thank you.
+
+74
+00:05:09,072 --> 00:05:11,572
+Goodbye.
+
