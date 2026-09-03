@@ -1,0 +1,280 @@
+1
+00:00:01,609 --> 00:00:04,764
+(Q1) Jim: Hello, South City Cycling Club.&nbsp;
+
+2
+00:00:04,764 --> 00:00:06,593
+Woman: Oh, hi.
+
+3
+00:00:06,593 --> 00:00:11,037
+Er ... I want to find out about joining the club.
+
+4
+00:00:11,037 --> 00:00:11,956
+Jim: Right.&nbsp;
+
+5
+00:00:11,956 --> 00:00:13,157
+I can help you there.
+
+6
+00:00:13,157 --> 00:00:17,422
+[Example] I'm the club secretary and my name's Jim Hunter.
+
+7
+00:00:17,422 --> 00:00:19,421
+Woman: Oh, hi Jim.
+
+8
+00:00:19,421 --> 00:00:23,651
+Jim: So, are you interested in membership for yourself?&nbsp;
+
+9
+00:00:23,651 --> 00:00:25,674
+Woman: That's right.
+
+10
+00:00:25,674 --> 00:00:27,091
+Jim: OK. Jim：
+
+11
+00:00:27,091 --> 00:00:30,900
+Well there are basically two types of adult membership.
+
+12
+00:00:30,900 --> 00:00:36,186
+If you're pretty serious about cycling, there's the Full membership.
+
+13
+00:00:36,186 --> 00:00:50,163
+[Q1答案句： races， not only ... but also = and] That costs 260 dollars and that covers you not just for ordinary cycling but also for races both here in the city and also in other parts of Australia.
+
+14
+00:00:50,163 --> 00:00:51,472
+(Q2) Woman: Right.
+
+15
+00:00:51,472 --> 00:00:54,200
+Well, I'm not really up to that standard.
+
+16
+00:00:54,200 --> 00:00:59,439
+I was more interested in just joining a group to do some cycling in my free time.
+
+17
+00:00:59,439 --> 00:01:00,898
+Jim: Sure.&nbsp;
+
+18
+00:01:00,898 --> 00:01:03,105
+That's why most people join.
+
+19
+00:01:03,105 --> 00:01:08,197
+[Q2跟定位词] So, in that case you'd be better with the Recreational membership.
+
+20
+00:01:08,197 --> 00:01:15,956
+That's 108 dollars if you're over 19, and 95 dollars if you're under.&nbsp;
+
+21
+00:01:15,956 --> 00:01:17,707
+Woman: I'm 25.
+
+22
+00:01:17,707 --> 00:01:19,751
+Jim: OK. Jim：
+
+23
+00:01:19,751 --> 00:01:26,008
+It's paid quarterly, and you can upgrade it later to the Full membership if you want to, of course.
+
+24
+00:01:26,008 --> 00:01:39,650
+[Q2答案句： insurance。 空前and , also=and] Now both types of membership include the club fee of 20 dollars.&nbsp; &nbsp;They also provide insurance in case you have an accident, though we hope you won't need that, of course.
+
+25
+00:01:39,650 --> 00:01:41,067
+Woman: No.
+
+26
+00:01:41,067 --> 00:01:45,327
+(Q3) OK, well, I'll go with the Recreational membership, I think.
+
+27
+00:01:45,327 --> 00:01:49,290
+And that allows me to join in the club activities, and so on?
+
+28
+00:01:49,290 --> 00:01:50,558
+Jim: That's right. Jim：
+
+29
+00:01:50,558 --> 00:01:56,897
+And once you're a member of the club, you're also permitted to wear our kit when you're out cycling.
+
+30
+00:01:56,897 --> 00:01:58,780
+It's green and white.
+
+31
+00:01:58,780 --> 00:02:02,545
+Woman: Yes, I've seen cyclists wearing it.
+
+32
+00:02:02,545 --> 00:02:04,567
+So, can I buy that at the club?
+
+33
+00:02:04,567 --> 00:02:19,131
+[Q3答案句： 拼写] Jim: No, it's made to order by a company in Brisbane.&nbsp; &nbsp;You can find them online: they're called Jerriz. That's J-E-R-R-l-Z.
+
+34
+00:02:19,131 --> 00:02:23,612
+You can use your membership number to put in an order on their website.
+
+35
+00:02:23,612 --> 00:02:24,964
+Woman: OK.
+
+36
+00:02:24,964 --> 00:02:28,810
+(Q4) Now, can you tell me a bit about the rides I can do?
+
+37
+00:02:28,810 --> 00:02:29,915
+Jim: Sure.&nbsp;
+
+38
+00:02:29,915 --> 00:02:43,451
+[Q4跟定位： cycling skills] So we have training rides pretty well every morning, and they're a really good way of improving your cycling skills as well as your general level of fitness, but they're different levels.
+
+39
+00:02:43,451 --> 00:02:50,835
+Level A is pretty fast - you're looking at about 30 or 35 kilometres an hour.&nbsp;
+
+40
+00:02:50,835 --> 00:03:04,079
+[Q4答案句：25] If you can do about 25 kilometres an hour, you'd probably be level B, and then level C are the novices, who stay at about 15 kilometres per hour.
+
+41
+00:03:04,079 --> 00:03:05,262
+Woman: Right.
+
+42
+00:03:05,262 --> 00:03:07,982
+Well I reckon I'd be level B.
+
+43
+00:03:07,982 --> 00:03:11,057
+(Q5) So, when are the sessions for that level?
+
+44
+00:03:11,057 --> 00:03:13,810
+Jim: There are a couple each week. Jim：
+
+45
+00:03:13,810 --> 00:03:16,416
+They're both early morning sessions.
+
+46
+00:03:16,416 --> 00:03:26,880
+[Q5答案句： stadium] There's one on Tuesdays, and for that one you meet at 5.30 am, and the meeting point's the stadium - do you know where that is?
+
+47
+00:03:26,880 --> 00:03:29,785
+Woman: Yes, it's quite near my home, in fact.
+
+48
+00:03:29,785 --> 00:03:33,009
+(Q6) OK, and how about the other one?
+
+49
+00:03:33,009 --> 00:03:40,362
+[Q6答案句： park.      main gate = entrance] Jim: That's on Thursdays.&nbsp; It starts at the same time, but they meet at the main gate to the park.
+
+50
+00:03:40,362 --> 00:03:43,492
+Woman: Is that the one just past the shopping mall?
+
+51
+00:03:43,492 --> 00:03:45,702
+Jim: That's it. Jim：
+
+52
+00:03:45,702 --> 00:03:47,963
+(Q7) [也可能没有小标题， 直接就过渡] Woman: So how long are the rides?
+
+53
+00:03:47,963 --> 00:03:51,131
+[跟定位] Jim: They're about an hour and a half.&nbsp;
+
+54
+00:03:51,131 --> 00:03:55,570
+So, if you have a job it's easy to fit in before you go to work.
+
+55
+00:03:55,570 --> 00:04:02,417
+[Q7答案句：coffee， go +地点 for ...= have ...] And the members often go somewhere for coffee afterwards, so it's quite a social event.
+
+56
+00:04:02,417 --> 00:04:05,055
+Woman: OK. That sounds good.
+
+57
+00:04:05,055 --> 00:04:09,783
+(Q8) I've only just moved to the city so I don't actually know many people yet.
+
+58
+00:04:09,783 --> 00:04:13,393
+Jim: Well, it's a great way to meet people. Jim：
+
+59
+00:04:13,393 --> 00:04:25,300
+[Q8答案句： leader。 算前置，但猜不到 ，  所以跟疑似词] Woman: And does each ride have a leader?&nbsp;Jim: Sometimes, but not always.&nbsp; &nbsp;But you don't really need one; the group members on the ride support one another, anyway.
+
+60
+00:04:25,300 --> 00:04:27,694
+(Q9) Woman: How would we know where to go?
+
+61
+00:04:27,694 --> 00:04:38,214
+[Q9答案句： route。 代词指代 print that out] Jim: If you check the club website, you'll see that the route for each ride is clearly marked.&nbsp; &nbsp; &nbsp; So you can just print that out and take it along with you.
+
+62
+00:04:38,214 --> 00:04:44,680
+It's similar from one week to another, but it's not always exactly the same.
+
+63
+00:04:44,680 --> 00:04:47,713
+(Q10) Woman: And what do I need to bring?
+
+64
+00:04:47,713 --> 00:04:51,303
+Jim: Well, bring a bottle of water, and your phone.&nbsp;
+
+65
+00:04:51,303 --> 00:04:55,393
+You shouldn't use it while you're cycling, but have it with you.
+
+66
+00:04:55,393 --> 00:04:56,690
+Woman: Right.
+
+67
+00:04:56,690 --> 00:05:05,217
+[Q10答案句，同替] Jim: And in winter, it's well before sunrise when we set out, so you need to make sure your bike's got lights.&nbsp;
+
+68
+00:05:05,217 --> 00:05:10,458
+Woman: That's OK. Well, thanks Jim. I'd definitely like to join.
+
+69
+00:05:10,458 --> 00:05:13,150
+So what's the best way of going about it?
+
+70
+00:05:13,150 --> 00:05:15,650
+Jim: You can... Jim：
+
