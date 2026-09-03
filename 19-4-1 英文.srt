@@ -1,0 +1,328 @@
+1
+00:00:00,352 --> 00:00:05,480
+(Q1) Kaeden: Hello Charlotte. I’m Kaeden, one of the supervisors. Welcome to the team.
+
+2
+00:00:05,480 --> 00:00:06,796
+Charlotte: Hi Aiden. Charlotte：
+
+3
+00:00:06,796 --> 00:00:08,248
+Kaeden: It’s Kaeden. Kaeden：
+
+4
+00:00:08,248 --> 00:00:09,624
+Charlotte: I’m so sorry. Charlotte：
+
+5
+00:00:09,624 --> 00:00:10,578
+Kaeden: Don’t worry. Kaeden：
+
+6
+00:00:10,578 --> 00:00:20,886
+[Q1答案句：字母拼写] People often get my name wrong; they never know how to spell it.&nbsp; It’s K-A-E-D-E-N, in case you ever need to write it.
+
+7
+00:00:20,886 --> 00:00:23,199
+Charlotte: I’ll try and remember. Charlotte：
+
+8
+00:00:23,199 --> 00:00:28,497
+(Q2) Kaeden: So, there are a few practical things you need to sort out this morning. Kaeden：
+
+9
+00:00:28,497 --> 00:00:31,503
+Then I’ll show you what you’re going to do today.
+
+10
+00:00:31,503 --> 00:00:38,903
+Charlotte: The email I received said to go to the front desk, to show my letter of appointment and pick up my badge. Charlotte：
+
+11
+00:00:38,903 --> 00:00:44,526
+Kaeden: You’ll need that for the staffroom and other areas of the supermarket where shoppers aren’t allowed. Kaeden：
+
+12
+00:00:44,526 --> 00:00:53,148
+[答案空后的词出现： staffroom， Q2答案句：locker(s)] Kaeden: So, after you’ve finished at the front desk, I’ll take you to the staffroom.&nbsp; &nbsp; Put your coat and rucksack in one of the lockers there.
+
+13
+00:00:53,148 --> 00:00:55,497
+Take whichever one is free.
+
+14
+00:00:55,497 --> 00:00:57,293
+(Q3) Charlotte: Will I have a key? Charlotte：
+
+15
+00:00:57,293 --> 00:00:58,292
+Kaeden: Yes. Kaeden：
+
+16
+00:00:58,292 --> 00:00:59,498
+Try not to lose it.
+
+17
+00:00:59,498 --> 00:01:03,940
+At the end of the day, leave it in the door for the next person to use.
+
+18
+00:01:03,940 --> 00:01:05,049
+Charlotte: Will do. Charlotte：
+
+19
+00:01:05,049 --> 00:01:09,217
+Kaeden: You also need to go to the HR department to see Tiffany. Kaeden：
+
+20
+00:01:09,217 --> 00:01:10,720
+She’s really helpful.
+
+21
+00:01:10,720 --> 00:01:17,799
+[Q3答案句， 疑似答案+肯定回复] Charlotte: I was told to bring my passport with me.&nbsp; &nbsp;HR need to take a note of the number in it.Kaeden: That’s right.&nbsp;
+
+22
+00:01:17,799 --> 00:01:19,839
+[Q3干扰项] Or you can show your ID card.
+
+23
+00:01:19,839 --> 00:01:21,787
+Charlotte: I don’t have one of those. Charlotte：
+
+24
+00:01:21,787 --> 00:01:22,753
+Kaeden: OK. Kaeden：
+
+25
+00:01:22,753 --> 00:01:24,311
+(Q4) [Q4答案句，稍难， 答案句和定位词离得很近—— give =collect] Tiffany will give you a uniform.&nbsp;
+
+26
+00:01:24,311 --> 00:01:28,903
+They have lots in different sizes, so you just tell her what you need.
+
+27
+00:01:28,903 --> 00:01:32,986
+(Q5) Kaeden: I won’t come with you to HR – I’ve got to go and sort something else out.&nbsp;
+
+28
+00:01:32,986 --> 00:01:35,410
+Problem with a bread slicer.
+
+29
+00:01:35,410 --> 00:01:38,861
+Charlotte: Is the HR office near the staffroom?&nbsp;
+
+30
+00:01:38,861 --> 00:01:45,203
+[Q5答案句： 3rd] Kaeden: The staffroom’s on the first floor, and HR are a couple of floors above that, on the third floor.&nbsp;
+
+31
+00:01:45,203 --> 00:01:47,135
+There’s a staircase outside the staffroom.
+
+32
+00:01:47,135 --> 00:01:48,520
+Charlotte: OK.&nbsp;
+
+33
+00:01:48,520 --> 00:01:52,715
+(Q6) Kaeden: When you’ve finished with HR, come and find me in the bakery section of the shop.&nbsp;
+
+34
+00:01:52,715 --> 00:01:55,174
+Charlotte: I’m looking forward to getting started.&nbsp;
+
+35
+00:01:55,174 --> 00:01:59,155
+Kaeden: I’ll just give you my phone number, in case you can’t find me. Kaeden：
+
+36
+00:01:59,155 --> 00:02:01,256
+Have you got your phone there?
+
+37
+00:02:01,256 --> 00:02:05,323
+Charlotte: Yes . . . OK, ready. Charlotte：
+
+38
+00:02:05,323 --> 00:02:12,277
+[Q6答案句： 数字拼写‘] Kaeden: It’s oh-four-one-two double-six-five nine-oh-three. Kaeden：
+
+39
+00:02:12,277 --> 00:02:14,561
+Charlotte: OK, done. Charlotte：
+
+40
+00:02:14,561 --> 00:02:23,779
+(Q7（table）) Kaeden: So, Charlotte, your tasks today are in the bakery section, on the sushi counter, and on the meat and fish counters. Kaeden：Charlotte，
+
+41
+00:02:23,779 --> 00:02:28,344
+Kaeden: The first job is to check sell-by dates on the bread and cakes. Kaeden：
+
+42
+00:02:28,344 --> 00:02:32,864
+If any of the dates are today’s, put a new price label on the packaging.
+
+43
+00:02:32,864 --> 00:02:37,463
+Charlotte: What if any of the labels are yesterday’s dates, or older? Charlotte：
+
+44
+00:02:37,463 --> 00:02:40,075
+Do I throw those items away?
+
+45
+00:02:40,075 --> 00:02:43,716
+Kaeden: Yes, but that shouldn’t happen – we check the stock every day. Kaeden：
+
+46
+00:02:43,716 --> 00:02:49,391
+[Q7答案句：yellow] When something needs a new price label, put a yellow one on the package, next to the original price.
+
+47
+00:02:49,391 --> 00:02:50,445
+Charlotte: OK.&nbsp;
+
+48
+00:02:50,445 --> 00:02:53,900
+(Q8) Kaeden: After that, you’ll go to the sushi takeaway counter.&nbsp;
+
+49
+00:02:53,900 --> 00:02:57,156
+Charlotte: Will I be preparing boxes of food? Charlotte：
+
+50
+00:02:57,156 --> 00:03:00,066
+Kaeden: For today, you’ll just be helping the staff. Kaeden：
+
+51
+00:03:00,066 --> 00:03:01,091
+Charlotte: Yes, of course. Charlotte：
+
+52
+00:03:01,091 --> 00:03:05,408
+Kaeden: You’ll see lots of flat cardboard boxes at one end of the counter. Kaeden：
+
+53
+00:03:05,408 --> 00:03:12,991
+[Q8答案句： plastic， 先出疑似答案，跟上， run out quickly+bring some more = re-stock] Kaeden: Beneath those is where we keep the plastic boxes – we run out of those really quickly, so you should bring more from the storeroom. Kaeden：
+
+54
+00:03:12,991 --> 00:03:16,435
+Charlotte: Is that my only task on the sushi counter? Charlotte：
+
+55
+00:03:16,435 --> 00:03:17,303
+Kaeden: No. Kaeden：
+
+56
+00:03:17,303 --> 00:03:20,360
+You also need to clean the area where they prepare the dishes.
+
+57
+00:03:20,360 --> 00:03:23,220
+There are cloths and bottles of spray by the sink.
+
+58
+00:03:23,220 --> 00:03:26,078
+Oh, and please make sure you clean that too.
+
+59
+00:03:26,078 --> 00:03:26,919
+Charlotte: Sure. Charlotte：
+
+60
+00:03:26,919 --> 00:03:28,643
+That’s important, isn’t it?
+
+61
+00:03:28,643 --> 00:03:29,759
+Kaeden: Absolutely. Kaeden：
+
+62
+00:03:29,759 --> 00:03:31,651
+But you mustn’t wash up knives.
+
+63
+00:03:31,651 --> 00:03:35,541
+You have to do some training before you’re allowed to touch sharp objects.
+
+64
+00:03:35,541 --> 00:03:37,980
+Charlotte: What should I do if there are any? Charlotte：
+
+65
+00:03:37,980 --> 00:03:40,255
+Kaeden: Ask someone to put them in the dishwasher. Kaeden：
+
+66
+00:03:40,255 --> 00:03:41,637
+Charlotte: OK, thanks. Charlotte：
+
+67
+00:03:41,637 --> 00:03:43,681
+I don’t want to get anything wrong.
+
+68
+00:03:43,681 --> 00:03:44,457
+Kaeden: Don’t worry. Kaeden：
+
+69
+00:03:44,457 --> 00:03:45,273
+You’ll be fine.
+
+70
+00:03:45,273 --> 00:03:46,742
+And I’ll be around to help.
+
+71
+00:03:46,742 --> 00:03:47,394
+Charlotte: Right. Charlotte：
+
+72
+00:03:47,394 --> 00:03:50,409
+(Q9) Kaeden: Finally, the meat and fish counters. Kaeden：
+
+73
+00:03:50,409 --> 00:03:55,909
+You need to clean the area where staff serve customers, including wiping the weighing scales.
+
+74
+00:03:55,909 --> 00:03:56,934
+Charlotte: OK. Charlotte：
+
+75
+00:03:56,934 --> 00:03:58,873
+Anything else?
+
+76
+00:03:58,873 --> 00:04:05,269
+[Q9答案句，先出疑似答案词，需要记下，再听同替。   fish原词+ cold room] Kaeden: The fish is laid on ice, but when that starts to melt, you’ll need to get more from the cold-room. Kaeden：
+
+77
+00:04:05,269 --> 00:04:09,344
+(Q10) Charlotte: I know the staff on the food counters wear a hat. Charlotte：
+
+78
+00:04:09,344 --> 00:04:11,668
+Will that be the same for me?
+
+79
+00:04:11,668 --> 00:04:14,595
+Kaeden: You won’t be serving customers directly, so no. Kaeden：
+
+80
+00:04:14,595 --> 00:04:19,061
+[Q10答案句： gloves， make sure = must,    thermal = special] Kaeden: But make sure you put on thermal gloves when you take anything out of the cold-room. Kaeden：
+
+81
+00:04:19,061 --> 00:04:22,751
+The temperature’s low enough in there to get frostbite from touching things.
+
+82
+00:04:22,751 --> 00:04:25,251
+Charlotte: Understoood. Charlotte：
+
