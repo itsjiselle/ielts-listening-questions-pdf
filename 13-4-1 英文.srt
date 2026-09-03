@@ -1,0 +1,276 @@
+1
+00:00:01,329 --> 00:00:07,694
+(Q1) MARTHA: Hi Alex. It's Martha Clines here. James White gave me your number.&nbsp;
+
+2
+00:00:07,694 --> 00:00:10,186
+I hope you don't mind me calling you.
+
+3
+00:00:10,186 --> 00:00:12,030
+ALEX: Of course not. ALEX：
+
+4
+00:00:12,030 --> 00:00:13,245
+How are you, Martha?
+
+5
+00:00:13,245 --> 00:00:15,010
+MARTHA: Good thanks. MARTHA：
+
+6
+00:00:15,010 --> 00:00:18,988
+I'm ringing because I need a bit of advice.
+
+7
+00:00:18,988 --> 00:00:20,924
+ALEX: Oh yeah. ALEX：What about?
+
+8
+00:00:20,924 --> 00:00:25,015
+MARTHA: The training you did at JPNW a few years ago. MARTHA：
+
+9
+00:00:25,015 --> 00:00:27,574
+I'm applying for the same thing.
+
+10
+00:00:27,574 --> 00:00:29,603
+ALEX: Oh right. ALEX：
+
+11
+00:00:29,603 --> 00:00:31,584
+[Example] Yes, I did mine in 2014.
+
+12
+00:00:31,584 --> 00:00:33,228
+Best thing I ever did.
+
+13
+00:00:33,228 --> 00:00:34,475
+I'm still working there.
+
+14
+00:00:34,475 --> 00:00:35,929
+MARTHA: Really? MARTHA：
+
+15
+00:00:35,929 --> 00:00:37,807
+What are you doing?
+
+16
+00:00:37,807 --> 00:00:44,282
+[Q1答案句 + Q1干扰项] ALEX: Well, now I work in the customer services department but I did my initial training in Finance.&nbsp;
+
+17
+00:00:44,282 --> 00:00:48,611
+I stayed there for the first two years and then moved to where I am now.
+
+18
+00:00:48,611 --> 00:00:52,326
+(Q2) MARTHA: That's the same department I'm applying for.&nbsp;
+
+19
+00:00:52,326 --> 00:00:53,528
+Did you enjoy it?
+
+20
+00:00:53,528 --> 00:00:57,076
+ALEX: I was pretty nervous to begin with.&nbsp;
+
+21
+00:00:57,076 --> 00:01:01,407
+[Q2答案句： math /Math / Mathematics] I didn't do well in my exams at school and I was really worried because I failed Maths.
+
+22
+00:01:01,407 --> 00:01:05,543
+But it didn't actually matter because I did lots of courses on the job.
+
+23
+00:01:05,543 --> 00:01:13,329
+(Q3) [Q3答案句] MARTHA: Did you get a diploma at the end of your trainee period?&nbsp; I'm hoping to do the one in business skills.
+
+24
+00:01:13,329 --> 00:01:14,965
+ALEX: Yes. That sounds good.
+
+25
+00:01:14,965 --> 00:01:19,265
+[代词指代， 答案已经说过了] I took the one on IT skills but I wish I'd done that one instead.
+
+26
+00:01:19,265 --> 00:01:21,756
+MARTHA: OK, that's good to know.&nbsp;
+
+27
+00:01:21,756 --> 00:01:24,736
+(Q4) What about the other trainees?
+
+28
+00:01:24,736 --> 00:01:27,318
+How did you get on with them?
+
+29
+00:01:27,318 --> 00:01:38,249
+[Q4答案句+Q4干扰项] ALEX: There were about 20 of us who started at the same time and we were all around the same age - I was 18 and there was only one person younger than me, who was 17. ALEX：
+
+30
+00:01:38,249 --> 00:01:41,168
+The rest were between 18 and 20.
+
+31
+00:01:41,168 --> 00:01:43,006
+I made some good friends.
+
+32
+00:01:43,006 --> 00:01:47,484
+(Q5) MARTHA: I've heard lots of good things about the training at JPNW. MARTHA：
+
+33
+00:01:47,484 --> 00:01:51,206
+It seems like there are a lot of opportunities there.
+
+34
+00:01:51,206 --> 00:01:53,204
+ALEX: Yeah, definitely. ALEX：
+
+35
+00:01:53,204 --> 00:01:58,084
+Because of its size you can work in loads of different areas within the organisation.
+
+36
+00:01:58,084 --> 00:02:04,801
+[Q5干扰项] MARTHA: What about pay? I know you get a lower minimum wage than regular employees.
+
+37
+00:02:04,801 --> 00:02:10,338
+[Q5答案句] ALEX: That's right - which isn't great.&nbsp; &nbsp; &nbsp; &nbsp;But you get the same number of days' holiday as everyone else.
+
+38
+00:02:10,338 --> 00:02:15,261
+And the pay goes up massively if they offer you a job at the end of the training period.
+
+39
+00:02:15,261 --> 00:02:22,043
+(Q6) MARTHA: Yeah, but I'm not doing it for the money - it's the experience I think will be really useful.&nbsp;
+
+40
+00:02:22,043 --> 00:02:26,425
+[跟定位词] Everyone says by the end of the year you gain so much confidence.
+
+41
+00:02:26,425 --> 00:02:27,897
+ALEX: You're right.&nbsp;
+
+42
+00:02:27,897 --> 00:02:29,894
+That's the most useful part about it.
+
+43
+00:02:29,894 --> 00:02:32,398
+There's a lot of variety too.
+
+44
+00:02:32,398 --> 00:02:34,672
+You're given lots of different things to do.
+
+45
+00:02:34,672 --> 00:02:38,557
+I enjoyed it all - I didn't even mind the studying.
+
+46
+00:02:38,557 --> 00:02:43,913
+[Q6答案句，一方提出，另一方表态 = 代词指代] MARTHA: Do you have to spend any time in college?&nbsp;&nbsp;ALEX: Yes, one day each month.&nbsp;
+
+47
+00:02:43,913 --> 00:02:47,765
+So you get lots of support from both your tutor and your manager.
+
+48
+00:02:47,765 --> 00:02:53,283
+(Q7) [company出现] MARTHA: That's good.&nbsp; And the company is easy to get to, isn't it?
+
+49
+00:02:53,283 --> 00:02:59,390
+[Q7答案句： location 。  ... is a real advantage = ... is convenient] ALEX: Yes, it's very close to the train station so the location's a real advantage.&nbsp;
+
+50
+00:02:59,390 --> 00:03:02,321
+(Q8) ALEX: Have you got a date for your interview yet? ALEX：
+
+51
+00:03:02,321 --> 00:03:06,157
+MARTHA: Yes, it's on the 23rd of this month. MARTHA：
+
+52
+00:03:06,157 --> 00:03:09,996
+ALEX: So long as you're well prepared there's nothing to worry about. ALEX：
+
+53
+00:03:09,996 --> 00:03:11,670
+Everyone's very friendly.
+
+54
+00:03:11,670 --> 00:03:17,242
+[Q8跟定位： wear] MARTHA: I am not sure what I should wear. What do you think?
+
+55
+00:03:17,242 --> 00:03:21,094
+[Q8答案句， 否定 = nothing too ... , like ... = don't wear] ALEX: Nothing too casual - like jeans, for example.&nbsp;
+
+56
+00:03:21,094 --> 00:03:25,559
+If you've got a nice jacket, wear that with a skirt or trousers.
+
+57
+00:03:25,559 --> 00:03:26,801
+MARTHA: OK. MARTHA：
+
+58
+00:03:26,801 --> 00:03:27,525
+Thanks.
+
+59
+00:03:27,525 --> 00:03:30,051
+(Q9) Any other tips?
+
+60
+00:03:30,051 --> 00:03:34,819
+ALEX: Erm, well I know it's really obvious but arrive in plenty of time.&nbsp;
+
+61
+00:03:34,819 --> 00:03:36,771
+[Q9答案句： hate people who are ... = don't be ...] They hate people who are late.
+
+62
+00:03:36,771 --> 00:03:40,440
+So make sure you know exactly where you have to get to.
+
+63
+00:03:40,440 --> 00:03:47,267
+(Q10) [Q10答案句] And one other useful piece of advice my manager told me before I had the interview for this job - is to smile.
+
+64
+00:03:47,267 --> 00:03:49,427
+Even if you feel terrified.
+
+65
+00:03:49,427 --> 00:03:51,777
+It makes people respond better to you.
+
+66
+00:03:51,777 --> 00:03:56,387
+MARTHA: I'll have to practise doing that in the mirror!&nbsp;
+
+67
+00:03:56,387 --> 00:03:58,822
+ALEX: Yeah - well, good luck.&nbsp;
+
+68
+00:03:58,822 --> 00:04:01,340
+Let me know if you need any more information.
+
+69
+00:04:01,340 --> 00:04:03,840
+MARTHA: Thanks very much.
+
