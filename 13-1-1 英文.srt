@@ -1,0 +1,188 @@
+1
+00:00:01,332 --> 00:00:06,607
+(Q1) Official: Hello, Tourist Information Centre, Mike speaking, how can I help you?
+
+2
+00:00:06,607 --> 00:00:08,338
+Woman: Oh, hi.
+
+3
+00:00:08,338 --> 00:00:11,121
+[纵向表头1] I wanted to find out about cookery classes.
+
+4
+00:00:11,121 --> 00:00:15,012
+I believe there are some one-day classes for tourists?
+
+5
+00:00:15,012 --> 00:00:19,598
+Official: Well, they're open to everyone, but tourists are always welcome.
+
+6
+00:00:19,598 --> 00:00:22,367
+OK, let me give you some details of what's available.
+
+7
+00:00:22,367 --> 00:00:24,241
+There are several classes.
+
+8
+00:00:24,241 --> 00:00:29,292
+[Example] One very popular one is at the Food Studio.
+
+9
+00:00:29,292 --> 00:00:35,790
+[Q1答案句： choose。 空格【后】出现and] Official: They focus on seasonal products, and as well as teaching you how to cook them, they also show you how to choose them.
+
+10
+00:00:35,790 --> 00:00:38,478
+Woman: Right, that sounds good.
+
+11
+00:00:38,478 --> 00:00:40,499
+(Q2) How big are the classes?
+
+12
+00:00:40,499 --> 00:00:43,912
+[small 原词] Official: I'm not sure exactly, but they'll be quite small.
+
+13
+00:00:43,912 --> 00:00:53,834
+[Q2答案句： 疑似答案出现要记录] Woman: And could I get a private lesson there?Official: I think so ... let me check, yes, they do offer those.
+
+14
+00:00:53,834 --> 00:00:58,997
+Though in fact most of the people who attend the classes find it's a nice way of getting to know one another.
+
+15
+00:00:58,997 --> 00:01:01,755
+(Q3) Woman: I suppose it must be, yes.
+
+16
+00:01:01,755 --> 00:01:09,957
+[Q3答案句] Official: And this company has a special deal for clients where they offer a discount of 20 percent if you return for a further class.
+
+17
+00:01:09,957 --> 00:01:13,732
+(Q4) Woman: OK. But you said there were several classes?
+
+18
+00:01:13,732 --> 00:01:15,226
+Official: That's right.
+
+19
+00:01:15,226 --> 00:01:19,176
+Another one you might be interested in is Bond's Cookery School.
+
+20
+00:01:19,176 --> 00:01:24,507
+They're quite new, they just opened six months ago, but I've heard good things about them.
+
+21
+00:01:24,507 --> 00:01:31,599
+[Q4答案句：healthy， A that is B = BA。 表头同替 concentrate on = focus] They concentrate on teaching you to prepare healthy food, and they have quite a lot of specialist staff.
+
+22
+00:01:31,599 --> 00:01:35,791
+(Q5) Woman: So is that food for people on a diet and things like that?
+
+23
+00:01:35,791 --> 00:01:38,358
+I don't know if I'd be interested in that.
+
+24
+00:01:38,358 --> 00:01:43,901
+Official: Well, I don't think they particularly focus on low calorie diets or weight loss.
+
+25
+00:01:43,901 --> 00:01:54,428
+[Q5答案句：build up=strengthen] It's more to do with recipes that look at specific needs, like including ingredients that will help build up your bones and make them stronger, that sort of thing.
+
+26
+00:01:54,428 --> 00:01:58,808
+(Q6) Woman: I see. Well, I might be interested, I'm not sure.
+
+27
+00:01:58,808 --> 00:02:01,490
+Do they have a website I could check?
+
+28
+00:02:01,490 --> 00:02:05,543
+Official: Yes, just key in the name of the school - it'll come up.
+
+29
+00:02:05,543 --> 00:02:10,680
+[Q6答案句：lecture] And if you want to know more about them, every Thursday evening they have a lecture at the school.
+
+30
+00:02:10,680 --> 00:02:15,585
+It's free and you don't need to book or anything, just turn up at 7:30.
+
+31
+00:02:15,585 --> 00:02:20,184
+And that might give you an idea of whether you want to go to an actual class.
+
+32
+00:02:20,184 --> 00:02:23,943
+(Q7) Official: OK, there's one more place you might be interested in.
+
+33
+00:02:23,943 --> 00:02:34,830
+[Q7答案句] That's got a rather strange name, it's called The Arretsa Centre - that's spelled A-R-R-E-T-S-A.
+
+34
+00:02:34,830 --> 00:02:36,495
+Woman: OK.
+
+35
+00:02:36,495 --> 00:02:39,205
+(Q8) Official: They've got a very good reputation.
+
+36
+00:02:39,205 --> 00:02:45,825
+[Q8答案句： mostly=mainly，specialize in = focus] They do a bit of meat and fish cookery but they mostly specialise in vegetarian dishes.
+
+37
+00:02:45,825 --> 00:02:50,689
+Woman: Right. That's certainly an area I'd like to learn more about.
+
+38
+00:02:50,689 --> 00:02:53,224
+(Q9) I've got lots of friends who don't eat meat.
+
+39
+00:02:53,224 --> 00:02:56,628
+In fact, I think I might have seen that school today.
+
+40
+00:02:56,628 --> 00:03:00,379
+[Q9答案句： 【记录疑似答案】一方提出，另一方肯定。 by = near] Is it just by the market?Official: That's right.
+
+41
+00:03:00,379 --> 00:03:03,294
+So they don't have any problem getting their ingredients.
+
+42
+00:03:03,294 --> 00:03:04,580
+They're right next door.
+
+43
+00:03:04,580 --> 00:03:09,757
+(Q10) [Q10答案句： 先记录疑似答案] And they also offer a special two-hour course in how to use a knife.
+
+44
+00:03:09,757 --> 00:03:15,317
+They cover all the different skills - buying them, sharpening, chopping techniques.
+
+45
+00:03:15,317 --> 00:03:19,126
+It gets booked up quickly though so you'd need to check it was available.
+
+46
+00:03:19,126 --> 00:03:22,292
+Woman: Right, well thank you very much.
+
+47
+00:03:22,292 --> 00:03:24,792
+I'll go and ...
+
