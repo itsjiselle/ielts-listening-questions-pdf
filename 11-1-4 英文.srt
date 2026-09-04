@@ -1,0 +1,196 @@
+1
+00:00:02,244 --> 00:00:09,784
+(Q31) I've been looking at ocean biodiversity, that's the diversity of species that live in the world's oceans.
+
+2
+00:00:09,784 --> 00:00:17,810
+About 20 years ago biologists developed the idea of what they called 'biodiversity hotspots'.
+
+3
+00:00:17,810 --> 00:00:25,040
+These are the areas which have the greatest mixture of species, so one example is Madagascar.
+
+4
+00:00:25,040 --> 00:00:33,522
+[Q31答案句： conservation， significant = important，  locate原词， focus on = target for] These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation.
+
+5
+00:00:33,522 --> 00:00:38,219
+Biologists can identify hotspots on land, fairly easily,
+
+6
+00:00:38,219 --> 00:00:45,208
+but until recently, very little was known about species distribution and diversity in the oceans,
+
+7
+00:00:45,208 --> 00:00:49,157
+and no one even knew if hotspots existed there.
+
+8
+00:00:49,157 --> 00:01:00,628
+(Q32) Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry.
+
+9
+00:01:00,628 --> 00:01:09,355
+Worm located five hotspots for large ocean predators like sharks, and looked at what they had in common. Worm
+
+10
+00:01:09,355 --> 00:01:15,629
+[Q32答案句【food】] The main thing he'd expected to find was that they had very high concentrations of food,
+
+11
+00:01:15,629 --> 00:01:24,480
+but to his surprise that was only true for four of the hotspots - the remaining hotspot was quite badly off in that regard.
+
+12
+00:01:24,480 --> 00:01:32,664
+[Q33答案句【surface】， Q33干扰项 ocean， surface of the ocean, 答案空 at the ____.] But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures,
+
+13
+00:01:32,664 --> 00:01:42,245
+(Q34) even when it was cool at greater depths, so this seemed to be a factor in supporting a diverse range of these large predators.
+
+14
+00:01:42,245 --> 00:01:50,345
+[Q33答案句【oxygen】， enough = significant] However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it -
+
+15
+00:01:50,345 --> 00:01:57,133
+so these two factors seemed necessary to support the high metabolic rate of these large fish.
+
+16
+00:01:57,133 --> 00:02:05,669
+(Q35) A couple of years later, in 2007, a researcher called Lisa Ballance, who was working in California,
+
+17
+00:02:05,669 --> 00:02:15,462
+[Q35答案句【mammals】， 拼写、 not... but ... what she interested in was ...] also started looking for ocean hotspots, but not for fish.&nbsp; &nbsp; What she was interested in was marine mammals, things like seals.
+
+18
+00:02:15,462 --> 00:02:19,562
+(Q36) And she found three places in the oceans which were hotspots,
+
+19
+00:02:19,562 --> 00:02:26,831
+and what these had in common was that these hotspots were all located at boundaries between ocean currents,
+
+20
+00:02:26,831 --> 00:02:33,822
+and this seems to be the sort of place that has lots of the plankton that some of these species feed on.
+
+21
+00:02:33,822 --> 00:02:41,220
+So now people who want to protect the species that are endangered need to get as much information as possible.
+
+22
+00:02:41,220 --> 00:02:46,542
+For example, there's an international project called the Census of Marine Life.
+
+23
+00:02:46,542 --> 00:02:51,325
+They've been surveying oceans all over the world, including the Arctic.
+
+24
+00:02:51,325 --> 00:03:00,139
+[Q36答案句【ice】， below = under] One thing they found there which stunned other researchers was that there were large numbers of species which live below the ice
+
+25
+00:03:00,139 --> 00:03:04,112
+sometimes under a layer up to 20 metres thick.
+
+26
+00:03:04,112 --> 00:03:08,148
+(Q37) Some of these species had never been seen before.
+
+27
+00:03:08,148 --> 00:03:12,662
+They've even found species of octopus living in these conditions.
+
+28
+00:03:12,662 --> 00:03:20,734
+And other scientists working on the same project, but researching very different habitats on the ocean floor,
+
+29
+00:03:20,734 --> 00:03:33,762
+have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there.
+
+30
+00:03:33,762 --> 00:03:42,788
+However, biologists still don't know how serious the threat to their survival is for each individual species.
+
+31
+00:03:42,788 --> 00:03:51,551
+[Q37小标题] So a body called the Global Marine Species Assessment is now creating a list of endangered species on land,
+
+32
+00:03:51,551 --> 00:03:55,642
+so they consider things like the size of the population
+
+33
+00:03:55,642 --> 00:04:04,381
+how many members of one species there are in a particular place - and then they look at their distribution in geographical terms,
+
+34
+00:04:04,381 --> 00:04:09,765
+although this is quite difficult when you're looking at fish, because they're so mobile,
+
+35
+00:04:09,765 --> 00:04:16,094
+[Q37答案句【decline】] and then thirdly they calculate the rate at which the decline of the species is happening.
+
+36
+00:04:16,094 --> 00:04:24,605
+(Q38) So far only 1,500 species have been assessed, but they want to increase this figure to 20,000.
+
+37
+00:04:24,605 --> 00:04:33,415
+[Q38答案句【map】，答案前置  审题 【n+空】] For each one they assess, they use the data they collect on that species to produce a map showing its distribution.
+
+38
+00:04:33,415 --> 00:04:43,493
+(Q39) Ultimately they will be able to use these to figure out not only where most species are located but also where they are most threatened.
+
+39
+00:04:43,493 --> 00:04:50,241
+So finally，what can be done to retain the diversity of species in the world's oceans?
+
+40
+00:04:50,241 --> 00:04:58,009
+Firstly, we need to set up more reserves in our oceans, places where marine species are protected.
+
+41
+00:04:58,009 --> 00:05:00,332
+We have some, but not enough.
+
+42
+00:05:00,332 --> 00:05:10,765
+In addition, to preserve species such as leatherback turtles, which live out in the high seas but have their nesting sites on the American coast,
+
+43
+00:05:10,765 --> 00:05:18,412
+[Q39答案句【migration】] we need to create corridors for migration, so they can get from one area to another safely.
+
+44
+00:05:18,412 --> 00:05:28,103
+(Q40) As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species.
+
+45
+00:05:28,103 --> 00:05:31,878
+And finally, there's the problem of "by-catch".
+
+46
+00:05:31,878 --> 00:05:40,669
+This refers to the catching of unwanted fish by fishing boats - they're returned to the sea, but they're often dead or dying.
+
+47
+00:05:40,669 --> 00:05:50,239
+[Q40答案句【consumption】， only出现， 继续跟， for = for the purpose of. Q40干扰项： 可能会听成 commercial。 本题预判词性是名词， 所以不能是commercial] If these commercial fishing boats used equipment which was more selective, so that only the fish wanted for consumption were caught,
+
+48
+00:05:50,239 --> 00:05:52,427
+this problem could be overcome.
+
+49
+00:05:52,427 --> 00:05:54,927
+OK, So does anyone have any ...
+
