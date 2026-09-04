@@ -1,0 +1,44 @@
+So what I'm going to talk about to you today is something called Ethnography. 今天我要给大家介绍一种叫作“民族志”的研究方法。⭐️【ethnography = 民族志；人种志研究】
+This is a type of research aimed at exploring the way human cultures work. 这是一种旨在探索人类文化如何运作的研究。⭐️【be aimed at doing = 旨在做……】
+It was first developed for use in anthropology, and it's also been used in sociology and communication studies. 它最初是为人类学研究而发展出来的，后来也应用于社会学和传播学。⭐️【anthropology = 人类学】⭐️【sociology = 社会学】⭐️【communication studies = 传播学】
+So what's it got to do with business, you may ask. 那么，你可能会问：它与商业有什么关系呢？⭐️【have something to do with = 与……有关】
+Well, businesses are finding that ethnography can offer them deeper insight into the possible needs of customers, either present or future,as well as providing valuable information about their attitudes towards existing products. 企业逐渐发现，民族志研究可以帮助它们更加深入地了解现有或潜在顾客的需求，同时还能提供有关顾客对现有产品所持态度的宝贵信息。 ⭐ ️【offer insight into = 使人深入了解……】⭐️【present or future customers = 现有或潜在顾客】️【as well as = 此外还（话语功能：补充）】⭐️【attitude towards = 对……的态度】
+And ethnography can also help companies to design new products or services that customers really want. 民族志研究还可以帮助企业设计顾客真正需要的新产品或服务。
+Let's look at some examples of how ethnographic research works in business. 我们来看几个民族志研究在商业领域如何发挥作用的例子。
+One team of researchers did a project for a company manufacturing kitchen equipment. 一组研究人员为一家生产厨房用品的公司开展了一个项目。
+They watched how cooks used measuring cups to measure out things like sugar and flour. 他们观察厨师如何使用量杯量取糖和面粉等食材。⭐️【measuring cup = 量杯】⭐️【measure out = 按所需数量量取】
+They saw that the cooks had to check and recheck the contents, because although the measuring cups had numbers inside them, the cooks couldn't see these easily. 他们发现，厨师不得不反复查看杯中的食材量，因为尽管量杯内侧标有数字，却很难看清。⭐️【check and recheck = 反复检查】
+So a new design of cup was developed to overcome this problem, and it was a top seller. 因此，公司设计出了一种新型量杯来解决这个问题，而它后来成了畅销产品。⭐️【overcome a problem = 解决／克服问题】⭐️【top seller = 畅销产品】
+Another team of ethnographic researchers looked at how cell phones were used in Uganda, in Africa. 另一组民族志研究人员调查了非洲乌干达人们使用手机的方式。
+They found that people who didn't have their own phones could pay to use the phones of local entrepreneurs. 他们发现，没有手机的人可以付费使用当地经营者的手机。⭐️【entrepreneur = 创业者；经营者】
+Because these customers paid in advance for their calls, they were eager to know how much time they'd spent on the call so far. 由于这些顾客需要预付通话费用，他们非常想知道自己到当时为止已经通话了多长时间。⭐️【pay in advance = 预付费用】⭐️【be eager to know = 急于／非常想知道】⭐️【so far = 到目前为止（话语功能：限定时间范围）】
+So the phone company designed phones for use globally with this added feature. 因此，这家手机公司为全球市场设计了带有这一附加功能的手机。⭐️【added feature = 附加功能】
+Ethnographic research has also been carried out in computer companies. 计算机公司也开展过民族志研究。⭐️【carry out research = 开展研究】
+In one company, IT systems administrators were observed for several weeks. 在一家公司中，研究人员对信息技术系统管理员进行了数周的观察。⭐️【systems administrator = 系统管理员】
+It was found that a large amount of their work involved communicating with colleagues in order to solve problems, 研究发现，他们的大量工作都涉及与同事沟通以解决问题，
+but that they didn't have a standard way of exchanging information from spreadsheets and so on. 但他们没有一种交换电子表格等资料中信息的标准方式。⭐️【spreadsheet = 电子表格】
+So the team came up with an idea for software that would help them to do this. 因此，研究团队构想出了一款可以帮助他们交换这些信息的软件。⭐️【come up with = 想出；提出】
+In another piece of research, a team observed and talked to nurses working in hospitals. 在另一项研究中，一个团队观察了医院护士的工作，并与她们进行了交谈。
+This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were. 这使研究人员认识到，无论护士身处医院的什么位置，都需要访问患者的电子记录。⭐️【lead to the recognition that = 使人认识到……】⭐️【access records = 访问／调取记录】⭐️【no matter where = 无论在哪里（话语功能：让步）】
+This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital. 这促成了一种便携式平板电脑的开发，使护士能够在医院各处查看患者记录。⭐️【lead to the development of = 促成……的开发】⭐️【portable computer tablet = 便携式平板电脑】
+Occasionally, research can be done even in environments where the researchers can't be present. 有时，即使研究人员无法亲自到场，也可以在相应环境中开展研究。
+For example, in one project done for an airline, respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight. 例如，在为一家航空公司开展的项目中，受访者在乘坐飞机期间使用智能手机记录信息；这项研究旨在追踪乘客飞行过程中的情绪变化。⭐️【respondent = 调查对象；受访者】⭐️【aim at doing = 旨在做……】⭐️【track someone's emotions = 追踪某人的情绪变化】
+So what makes studies like these different from ordinary research? 那么，这类研究与普通研究有何不同呢？
+Let's look at some of the general principles behind ethnographic research in business. 我们来看看商业民族志研究背后的一些基本原则。⭐️【the principles behind = ……背后的原则】
+First of all, the researcher has to be completely open-minded - he or she hasn't thought up a hypothesis to be tested, as is the case in other types of research. 首先，研究人员必须保持完全开放的心态——他们不会像其他类型的研究那样，预先构想出一个有待检验的假设。⭐️【first of all = 首先（话语功能：列举）】⭐️【open-minded = 思想开放的；不预设立场的】⭐️【think up = 想出；构想出】⭐️【hypothesis = 假设】⭐️【as is the case in = 正如……中的情况一样（话语功能：类比）】
+Instead they wait for the participants in the research to inform them. 相反，他们会等待研究参与者向他们提供信息。⭐️【instead = 相反（话语功能：替代／对比）】
+As far as choosing the participants themselves is concerned, that's not really all that different from ordinary research 至于如何选择研究参与者，这与普通研究其实没有太大区别。⭐️【as far as ... is concerned = 就……而言（话语功能：限定话题）】⭐️【not all that different = 并没有太大不同】
+- the criteria according to which the participants are chosen may be something as simple as the age bracket they fall into, -or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example. 选择参与者所依据的标准可能很简单，比如他们所属的年龄段，或者，研究人员可能按照收入挑选参与者，也可能寻找一群都使用某种特定产品的人。 ⭐ ️【criteria according to which = 所依据的标准】⭐️【age bracket = 年龄段】⭐️【fall into = 属于；被归入】
+But it's absolutely crucial to recruit the right people as participants. 但是，招募到合适的研究参与者至关重要。⭐️【absolutely crucial = 至关重要】⭐️【recruit participants = 招募研究参与者】
+As well as the criteria I've mentioned, they have to be comfortable talking about themselves and being watched as they go about their activities. 除了符合我刚才提到的标准，参与者还必须能够自在地谈论自己，并且不介意研究人员观察他们进行日常活动。⭐️【be comfortable doing = 能够自在地做……】⭐️【go about one's activities = 开展日常活动；照常做事】
+Actually, most researchers say that people open up pretty easily, maybe because they're often in their own home or workplace. 事实上，大多数研究人员表示，人们通常很容易敞开心扉，这或许是因为他们往往身处自己的家中或工作场所。⭐️【open up = 敞开心扉；坦率交谈】
+So what makes this type of research special is that it's not just a matter of sending a questionnaire to the participants, instead the research is usually based on first-hand observation of what they are doing at the time. 因此，这类研究的特殊之处在于，它不只是向参与者发放问卷；相反，研究通常基于对参与者当时行为的第一手观察。⭐️【be a matter of = 是……的问题／只是……】⭐️【be based on = 以……为基础】⭐️【first-hand observation = 第一手观察】
+But that doesn't mean that the researcher never talks to the participants. 不过，这并不意味着研究人员从不与参与者交谈。
+However, unlike in traditional research, in this case it's the participant rather than the researchers who decides what direction the interview will follow. 然而，与传统研究不同，在这种情况下，决定访谈走向的是参与者，而不是研究人员。⭐️【however = 然而（话语功能：转折）】⭐️【rather than = 而不是（话语功能：对比）】⭐️【the direction the interview will follow = 访谈的发展方向】
+This means that there's less likelihood of the researcher imposing his or her own ideas on the participant. 这意味着研究人员把自己的观点强加给参与者的可能性更小。⭐️【there is less likelihood of = ……的可能性较小】⭐️【impose one's ideas on someone = 把自己的观点强加给某人】
+But after they've said goodbye to their participants and got back to their office, the researchers' work isn't finished. 但是，在与参与者告别并返回办公室后，研究人员的工作还没有结束。
+Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis - looking at photos, listening to recordings and transcribing them, and so on. 大多数研究人员估计，他们70%至80%的时间不是用于收集数据，而是用于分析数据，包括查看照片、听录音并将其转写成文字等等。⭐️【not ... but ... = 不是……而是……（话语功能：对比纠正）】⭐️【transcribe = 转写；将录音整理成文字】
+The researchers may end up with hundreds of pages of notes. 研究人员最终可能会得到数百页笔记。⭐️【end up with = 最终得到／留下……】
+And to determine what's significant, they don't focus on the sensational things or the unusual things, 为了判断哪些信息具有重要意义，他们不会把注意力放在耸人听闻或不同寻常的事情上，⭐️【sensational = 轰动性的；耸人听闻的】
+instead they try to identify a pattern of some sort in all this data, and to discern the meaning behind it. 相反，他们会尝试从所有数据中识别出某种规律，并辨明其背后的含义。⭐️【identify a pattern = 识别出规律／模式】⭐️【of some sort = 某种】⭐️【discern = 辨别；看出】
+This can result in some compelling insights that can in turn feed back to the whole design process. 这可能带来一些极具说服力的深刻见解，继而为整个设计过程提供反馈。⭐️【compelling insight = 极具说服力的深刻见解】⭐️【in turn = 继而（话语功能：连锁结果）】⭐️【feed back to/into = 反馈并作用于……】

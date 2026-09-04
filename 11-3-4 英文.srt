@@ -1,0 +1,176 @@
+1
+00:00:01,818 --> 00:00:08,218
+(Q31) So what I'm going to talk about to you today is something called Ethnography.
+
+2
+00:00:08,218 --> 00:00:13,336
+This is a type of research aimed at exploring the way human cultures work.
+
+3
+00:00:13,336 --> 00:00:21,657
+It was first developed for use in anthropology, and it's also been used in sociology and communication studies.
+
+4
+00:00:21,657 --> 00:00:25,705
+So what's it got to do with business, you may ask.
+
+5
+00:00:25,705 --> 00:00:41,321
+[Q31答案句【attitude】，并列 as well as = also , information about attitudes, 填information 还是attitude 如何决定] Well, businesses are finding that ethnography can offer them deeper insight into the possible needs of customers, either present or future,as well as providing valuable information about their attitudes towards existing products.
+
+6
+00:00:41,321 --> 00:00:49,528
+(Q32) And ethnography can also help companies to design new products or services that customers really want.
+
+7
+00:00:49,528 --> 00:00:55,425
+Let's look at some examples of how ethnographic research works in business.
+
+8
+00:00:55,425 --> 00:01:01,129
+[Q32跟小标题定位] One team of researchers did a project for a company manufacturing kitchen equipment.
+
+9
+00:01:01,129 --> 00:01:08,018
+They watched how cooks used measuring cups to measure out things like sugar and flour.
+
+10
+00:01:08,018 --> 00:01:18,269
+[Q32答案句【numbers】] They saw that the cooks had to check and recheck the contents, because although the measuring cups had numbers inside them, the cooks couldn't see these easily.
+
+11
+00:01:18,269 --> 00:01:25,301
+(Q33) So a new design of cup was developed to overcome this problem, and it was a top seller.
+
+12
+00:01:25,301 --> 00:01:32,763
+[跟定位 cell phone] Another team of ethnographic researchers looked at how cell phones were used in Uganda, in Africa.
+
+13
+00:01:32,763 --> 00:01:39,561
+[跟定位 entrepreneur] They found that people who didn't have their own phones could pay to use the phones of local entrepreneurs.
+
+14
+00:01:39,561 --> 00:01:48,060
+[Q33答案句【time】 eager to know = check] Because these customers paid in advance for their calls, they were eager to know how much time they'd spent on the call so far.
+
+15
+00:01:48,060 --> 00:01:54,534
+(Q34) So the phone company designed phones for use globally with this added feature.
+
+16
+00:01:54,534 --> 00:02:00,084
+[跟定位 computer companies] Ethnographic research has also been carried out in computer companies.
+
+17
+00:02:00,084 --> 00:02:05,807
+In one company, IT systems administrators were observed for several weeks.
+
+18
+00:02:05,807 --> 00:02:12,789
+It was found that a large amount of their work involved communicating with colleagues in order to solve problems,
+
+19
+00:02:12,789 --> 00:02:18,561
+but that they didn't have a standard way of exchanging information from spreadsheets and so on.
+
+20
+00:02:18,561 --> 00:02:24,632
+[Q34答案句【software】 come up with = develop] So the team came up with an idea for software that would help them to do this.
+
+21
+00:02:24,632 --> 00:02:31,329
+(Q35) In another piece of research, a team observed and talked to nurses working in hospitals.
+
+22
+00:02:31,329 --> 00:02:39,881
+[Q35答案句【patient】， records of. their patients 答案词 records 还是 patients] This led to the recognition that the nurses needed to access the computer records of their patients, no matter where they were.
+
+23
+00:02:39,881 --> 00:02:48,961
+This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital.
+
+24
+00:02:48,961 --> 00:02:55,924
+(Q36) Occasionally, research can be done even in environments where the researchers can't be present.
+
+25
+00:02:55,924 --> 00:03:14,243
+[Q36答案句： track= record] For example, in one project done for an airline, respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight.
+
+26
+00:03:14,243 --> 00:03:19,696
+(Q37) So what makes studies like these different from ordinary research?
+
+27
+00:03:19,696 --> 00:03:25,142
+Let's look at some of the general principles behind ethnographic research in business.
+
+28
+00:03:25,142 --> 00:03:37,091
+First of all, the researcher has to be completely open-minded - he or she hasn't thought up a hypothesis to be tested, as is the case in other types of research.
+
+29
+00:03:37,091 --> 00:03:42,600
+Instead they wait for the participants in the research to inform them.
+
+30
+00:03:42,600 --> 00:03:49,741
+As far as choosing the participants themselves is concerned, that's not really all that different from ordinary research
+
+31
+00:03:49,741 --> 00:04:06,033
+[criteria原词。  Q37答案句， 中间衔接 for example=such as, ","逗号 表示并列关系= or] - the criteria according to which the participants are chosen may be something as simple as the age bracket they fall into, -or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example.
+
+32
+00:04:06,033 --> 00:04:12,249
+(Q38) But it's absolutely crucial to recruit the right people as participants.
+
+33
+00:04:12,249 --> 00:04:21,367
+[Q38答案句， they have to be comfortable , have to = must, They 指代前面提过的participants] As well as the criteria I've mentioned, they have to be comfortable talking about themselves and being watched as they go about their activities.
+
+34
+00:04:21,367 --> 00:04:30,369
+(Q39) Actually, most researchers say that people open up pretty easily, maybe because they're often in their own home or workplace.
+
+35
+00:04:30,369 --> 00:04:44,398
+[Q39答案句： first-hand = direct] So what makes this type of research special is that it's not just a matter of sending a questionnaire to the participants, instead the research is usually based on first-hand observation of what they are doing at the time.
+
+36
+00:04:44,398 --> 00:04:48,875
+(Q40) But that doesn't mean that the researcher never talks to the participants.
+
+37
+00:04:48,875 --> 00:05:01,081
+However, unlike in traditional research, in this case it's the participant rather than the researchers who decides what direction the interview will follow.
+
+38
+00:05:01,081 --> 00:05:09,440
+This means that there's less likelihood of the researcher imposing his or her own ideas on the participant.
+
+39
+00:05:09,440 --> 00:05:17,440
+But after they've said goodbye to their participants and got back to their office, the researchers' work isn't finished.
+
+40
+00:05:17,440 --> 00:05:31,103
+[Q40答案句【analysis】， 70-80%= a lot of time, not 干扰项， but on analysis] Most researchers estimate that 70 to 80 per cent of their time is spent not on the collecting of data but on its analysis - looking at photos, listening to recordings and transcribing them, and so on.
+
+41
+00:05:31,103 --> 00:05:35,476
+The researchers may end up with hundreds of pages of notes.
+
+42
+00:05:35,476 --> 00:05:41,578
+And to determine what's significant, they don't focus on the sensational things or the unusual things,
+
+43
+00:05:41,578 --> 00:05:50,094
+instead they try to identify a pattern of some sort in all this data, and to discern the meaning behind it.
+
+44
+00:05:50,094 --> 00:05:52,594
+This can result in some compelling insights that can in turn feed back to the whole design process.
+
