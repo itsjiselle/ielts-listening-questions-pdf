@@ -1,0 +1,156 @@
+1
+00:00:01,298 --> 00:00:15,317
+[情景记忆] Today, we'll be continuing the series of lectures on memory by focusing on what is called episodic memory and what can happen if this is not working properly.
+
+2
+00:00:15,317 --> 00:00:21,770
+Episodic memory refers to the memory of an event or 'episode'.
+
+3
+00:00:21,770 --> 00:00:29,998
+Episodic memories allow us to mentally travel back in time to an event from the past.
+
+4
+00:00:29,998 --> 00:00:44,289
+Episodic memories include various details about these events, for example, when an event happened and other information such as the location.
+
+5
+00:00:44,289 --> 00:00:52,453
+To help understand this concept, try to remember the last time you ate dinner at a restaurant.
+
+6
+00:00:52,453 --> 00:01:03,683
+The ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory.
+
+7
+00:01:03,683 --> 00:01:11,891
+[记忆类型] Episodic memory is distinct from another type of memory called semantic memory.
+
+8
+00:01:11,891 --> 00:01:23,247
+This is the type of factual memory that we have in common with everyone else - that is your general knowledge of the world.
+
+9
+00:01:23,247 --> 00:01:43,838
+To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of semantic memory.
+
+10
+00:01:43,838 --> 00:01:53,737
+Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences.
+
+11
+00:01:53,737 --> 00:02:08,794
+Episodic memory can be thought of as a process with several different steps of memory processing: encoding, consolidation and retrieval.
+
+12
+00:02:08,794 --> 00:02:13,062
+[信息编码] The initial step is called encoding.
+
+13
+00:02:13,062 --> 00:02:26,777
+This involves the process of receiving and registering information, which is necessary for creating memories of information or events that you experience.
+
+14
+00:02:26,777 --> 00:02:39,690
+The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening.
+
+15
+00:02:39,690 --> 00:02:46,272
+Being distracted can make effective encoding very difficult.
+
+16
+00:02:46,272 --> 00:02:54,515
+Encoding of episodic memories is also influenced by how you process the event.
+
+17
+00:02:54,515 --> 00:03:06,337
+For example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name.
+
+18
+00:03:06,337 --> 00:03:15,654
+Future recollection of Charlie's name is much easier if you have a strategy to help you encode it.
+
+19
+00:03:15,654 --> 00:03:34,087
+[记忆巩固] Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval.
+
+20
+00:03:34,087 --> 00:03:46,302
+Consolidation is most effective when the information being stored can be linked to an existing network of information.
+
+21
+00:03:46,302 --> 00:03:54,578
+Consolidation makes it possible for you to store memories for later retrieval indefinitely.
+
+22
+00:03:54,578 --> 00:04:03,708
+Forming strong memories depends on the frequency with which you try to retrieve them.
+
+23
+00:04:03,708 --> 00:04:11,496
+Memories can fade or become harder to retrieve if they aren't used very often.
+
+24
+00:04:11,496 --> 00:04:23,555
+[记忆提取] The last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information.
+
+25
+00:04:23,555 --> 00:04:36,238
+Retrieving information from episodic memory depends upon semantic, olfactory, auditory and visual factors.
+
+26
+00:04:36,238 --> 00:04:43,066
+These help episodic memory retrieval by acting as a prompt.
+
+27
+00:04:43,066 --> 00:04:54,613
+For example, when recalling where you parked your car you may use the colour of a sign close to where you parked.
+
+28
+00:04:54,613 --> 00:05:00,916
+You actually have to mentally travel back to the moment you parked.
+
+29
+00:05:00,916 --> 00:05:10,569
+[记忆障碍] There are a wide range of neurological diseases and conditions that can affect episodic memory.
+
+30
+00:05:10,569 --> 00:05:17,795
+These range from Alzheimer's to schizophrenia to autism.
+
+31
+00:05:17,795 --> 00:05:26,816
+An impairment of episodic memory can have a profound effect on individuals' lives.
+
+32
+00:05:26,816 --> 00:05:36,674
+For example, the symptoms of schizophrenia can be reasonably well controlled by medication;
+
+33
+00:05:36,674 --> 00:05:48,590
+however, patients' episodic memory may still be impaired and so they are often unable to return to university or work.
+
+34
+00:05:48,590 --> 00:06:00,568
+Recent studies have shown that computer-assisted games designed to keep the brain active can help improve their episodic memory.
+
+35
+00:06:00,568 --> 00:06:17,543
+[社交发展] Episodic memories can help people connect with others, for instance by sharing intimate details about their past: something individuals with autism often have problems with.
+
+36
+00:06:17,543 --> 00:06:24,259
+This may be caused by an absence of a sense of self.
+
+37
+00:06:24,259 --> 00:06:35,471
+This is essential for the storage of episodic memory, and has been found to be impaired in children with autism.
+
+38
+00:06:35,471 --> 00:06:46,545
+Research has shown that treatments that improve memory may also have a positive impact on children's social development.
+
+39
+00:06:46,545 --> 00:06:49,045
+One study looked at a ...
+
