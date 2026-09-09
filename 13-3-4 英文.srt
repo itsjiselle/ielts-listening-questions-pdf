@@ -1,0 +1,128 @@
+1
+00:00:01,277 --> 00:00:06,940
+[睡蜥概况] Last week, we started looking at reptiles, including crocodiles and snakes.
+
+2
+00:00:06,940 --> 00:00:20,211
+Today, I'd like us to have a look at another reptile - the lizard - and in particular, at some studies that have been done on a particular type of lizard whose Latin name is tiliqua rugosa.
+
+3
+00:00:20,211 --> 00:00:30,761
+This is commonly known as the sleepy lizard, because it's quite slow in its movements and spends quite a lot of its time dozing under rocks or lying in the sun.
+
+4
+00:00:30,761 --> 00:00:33,854
+I'll start with a general description.
+
+5
+00:00:33,854 --> 00:00:39,168
+Sleepy lizards live in Western and South Australia, where they're quite common.
+
+6
+00:00:39,168 --> 00:00:56,862
+Unlike European lizards, which are mostly small, green and fast-moving, sleepy lizards are brown, but what's particularly distinctive about them is the colour of their tongue, which is dark blue, in contrast with the lining of their mouth which is bright pink.
+
+7
+00:00:56,862 --> 00:01:00,520
+And they're much bigger than most European lizards.
+
+8
+00:01:00,520 --> 00:01:10,069
+[饮食天敌] They have quite a varied diet, including insects and even small animals, but they mostly eat plants of varying kinds.
+
+9
+00:01:10,069 --> 00:01:19,198
+Even though they're quite large and powerful, with strong jaws that can crush beetles and snail shells, they still have quite a few predators.
+
+10
+00:01:19,198 --> 00:01:29,524
+Large birds like cassowaries were one of the main ones in the past, but nowadays they're more likely to be caught and killed by snakes.
+
+11
+00:01:29,524 --> 00:01:41,654
+Actually, another threat to their survival isn't a predator at all, but is man-made - quite a large number of sleepy lizards are killed by cars when they're trying to cross highways.
+
+12
+00:01:41,654 --> 00:01:50,052
+[导航能力] One study carried out by Michael Freake at Flinders University investigated the methods of navigation of these lizards.
+
+13
+00:01:50,052 --> 00:01:54,441
+Though they move slowly, they can travel quite long distances.
+
+14
+00:01:54,441 --> 00:02:08,240
+And he found that even if they were taken some distance away from their home territory, they could usually find their way back home as long as they could see the sky - they didn't need any other landmarks on the ground.
+
+15
+00:02:08,240 --> 00:02:14,722
+[配偶关系] Observations of these lizards in the wild have also revealed that their mating habits are quite unusual.
+
+16
+00:02:14,722 --> 00:02:22,948
+Unlike most animals, it seems that they're relatively monogamous, returning to the same partner year after year.
+
+17
+00:02:22,948 --> 00:02:30,959
+And the male and female also stay together for a long time, both before and after the birth of their young.
+
+18
+00:02:30,959 --> 00:02:35,027
+It's quite interesting to think about the possible reasons for this.
+
+19
+00:02:35,027 --> 00:02:44,367
+It could be that it's to do with protecting their young - you'd expect them to have a much better chance of survival if they have both parents around.
+
+20
+00:02:44,367 --> 00:02:52,852
+But in fact observers have noted that once the babies have hatched out of their eggs, they have hardly any contact with their parents.
+
+21
+00:02:52,852 --> 00:02:56,810
+So, there's not really any evidence to support that idea.
+
+22
+00:02:56,810 --> 00:03:05,723
+Another suggestion's based on the observation that male lizards in monogamous relationships tend to be bigger and stronger than other males.
+
+23
+00:03:05,723 --> 00:03:12,474
+So maybe the male lizards stay around so they can give the female lizards protection from other males.
+
+24
+00:03:12,474 --> 00:03:15,377
+But again, we're not really sure.
+
+25
+00:03:15,377 --> 00:03:21,396
+[追踪研究] Finally, I'd like to mention another study that involved collecting data by tracking the lizards.
+
+26
+00:03:21,396 --> 00:03:25,086
+I was actually involved in this myself.
+
+27
+00:03:25,086 --> 00:03:34,472
+So we caught some lizards in the wild and we developed a tiny GPS system that would allow us to track them, and we fixed this onto their tails.
+
+28
+00:03:34,472 --> 00:03:46,831
+Then we set the lizards free again, and we were able to track them for twelve days and gather data, not just about their location, but even about how many steps they took during this period.
+
+29
+00:03:46,831 --> 00:03:58,311
+One surprising thing we discovered from this is that there were far fewer meetings between lizards than we expected - it seems that they were actually trying to avoid one another.
+
+30
+00:03:58,311 --> 00:04:00,563
+So why would that be?
+
+31
+00:04:00,563 --> 00:04:15,979
+Well, again we have no clear evidence, but one hypothesis is that male lizards can cause quite serious injuries to one another, so maybe this avoidance is a way of preventing this
+
+32
+00:04:15,979 --> 00:04:18,479
+But we need to collect a lot more data before we can be sure of any of this.
+
