@@ -100,7 +100,7 @@ Researchers are now coming up with evidence that even modest changes to farming 
 
 26
 00:03:35,261 --> 00:03:43,065
-(Q36) [this includes = e.g.] These include keeping fields planted all year round, and increasing the variety of plants being grown.
+(Q36) [Q36答案句 this includes = e.g.] These include keeping fields planted all year round, and increasing the variety of plants being grown.
 
 27
 00:03:43,065 --> 00:03:59,443
