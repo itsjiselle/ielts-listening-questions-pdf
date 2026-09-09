@@ -1,0 +1,148 @@
+1
+00:00:01,391 --> 00:00:11,145
+[城市声景] This lecture will be about the science of acoustics, the study of sound, in relation to urban environments such as cities.
+
+2
+00:00:11,145 --> 00:00:18,584
+As an acoustic engineer myself, I think this is an area where we're likely to see great changes.
+
+3
+00:00:18,584 --> 00:00:23,921
+In the past, researching urban soundscapes was simple.
+
+4
+00:00:23,921 --> 00:00:38,905
+We measured levels of sound in decibels, so I used to take my sound meter and I measured the noise somewhere, and then I might ask a sample of people to say at what level the sound became annoying.
+
+5
+00:00:38,905 --> 00:00:48,661
+With data like this, acoustic engineers have been able to build up what we call noise maps, maps of the sound environment.
+
+6
+00:00:48,661 --> 00:00:52,160
+But actually these aren't a lot of use.
+
+7
+00:00:52,160 --> 00:01:01,850
+What they do show is that the highest noise levels are generally on roads - well, that's not really very surprising.
+
+8
+00:01:01,850 --> 00:01:11,114
+But there's quite a lot going on that these maps don't show, because they can't capture the complex way that sound varies over time.
+
+9
+00:01:11,114 --> 00:01:24,048
+So they ignore important issues such as the noise someone might hear from the open windows or gardens of their neighbours, and this sort of noise can be quite significant in summer.
+
+10
+00:01:24,048 --> 00:01:28,398
+We don't have any databases on this sort of information.
+
+11
+00:01:28,398 --> 00:01:44,453
+As well as that, these records of sound levels take no account of the fact that people vary in their perceptions of noise - so someone like me with years of working in acoustics might be very different from you in that regard.
+
+12
+00:01:44,453 --> 00:01:59,068
+[噪声危害] But anyway, even though these noise maps are fairly crude, they've been useful in providing information and raising awareness that noise matters, we need to deal with it and so it's a political matter.
+
+13
+00:01:59,068 --> 00:02:07,080
+And that's important - we need rules and regulations because noise can cause all sorts of problems.
+
+14
+00:02:07,080 --> 00:02:16,672
+Those of you who are city-dwellers know that things go on 24 hours a day, so city-dwellers often suffer from interrupted sleep.
+
+15
+00:02:16,672 --> 00:02:25,455
+It's also known that noise can lead to a rise in levels of stress, due to physical changes in the body affecting the composition of the blood.
+
+16
+00:02:25,455 --> 00:02:34,223
+And there are other problems as well, for instance if schoolchildren don't have a quiet place to study their work will suffer.
+
+17
+00:02:34,223 --> 00:02:41,302
+[声音感受] Now, one problem with decibel measurement is that it doesn't differentiate between different types of noise.
+
+18
+00:02:41,302 --> 00:02:55,139
+Some types of sounds that most people would probably think of as nice and relaxing might well score quite highly in decibel levels - think of the sound made by a fountain in a town square, for example.
+
+19
+00:02:55,139 --> 00:03:00,107
+That's not necessarily something that we'd want to control or reduce.
+
+20
+00:03:00,107 --> 00:03:05,634
+So maybe researchers should consider these sorts of sounds in urban design.
+
+21
+00:03:05,634 --> 00:03:12,450
+This is going to be tricky because just measuring decibel levels isn't going to help us here.
+
+22
+00:03:12,450 --> 00:03:22,514
+Instead, many researchers are using social science techniques, studying people's emotional response to sound by using questionnaires and so on.
+
+23
+00:03:22,514 --> 00:03:27,115
+So what exactly do people want to hear in an urban environment?
+
+24
+00:03:27,115 --> 00:03:51,573
+Some recent interdisciplinary research has come out with results that at first sight seem contradictory city needs to have a sense of activity, so it needs to be lively, with sounds like the clack of high heels on a pavement or the hiss of a coffee machine, but these mustn't be too intrusive because at the same time we need to be able to relax.
+
+25
+00:03:51,573 --> 00:03:58,713
+[设计观念] One of the major problems in achieving this will be getting architects and town planners to use the research.
+
+26
+00:03:58,713 --> 00:04:05,778
+Apart from studying the basics of acoustics, these people receive very little training in this area.
+
+27
+00:04:05,778 --> 00:04:23,349
+But in fact they should be regarding sound as an opportunity to add to the experience of urban living, whereas at present they tend to see it as something to be avoided or reduced as far as possible, or something that's just a job for engineers like the street drainage system.
+
+28
+00:04:23,349 --> 00:04:32,246
+What's needed is for noise in cities to be regarded as an aesthetic quality, as something that has the qualities of an art form.
+
+29
+00:04:32,246 --> 00:04:39,403
+If we acknowledge this, then we urgently need to know what governs it and how designers can work with it.
+
+30
+00:04:39,403 --> 00:04:43,448
+We need to develop a complex understanding of many factors.
+
+31
+00:04:43,448 --> 00:04:47,707
+What is the relationship between sound and culture?
+
+32
+00:04:47,707 --> 00:05:00,834
+What can we learn from disciplines such as psychology about the way that sound interacts with human development and social relationships, and the way that sound affects our thought and feelings?
+
+33
+00:05:00,834 --> 00:05:05,804
+Can we learn anything from physics about the nature of sound itself?
+
+34
+00:05:05,804 --> 00:05:09,353
+[未来技术] Today's powerful technologies can also help us.
+
+35
+00:05:09,353 --> 00:05:21,624
+To show us their ideas and help us to imagine the effect their buildings will have, architects and town planners already use virtual reality, but these programs are silent.
+
+36
+00:05:21,624 --> 00:05:30,388
+In the future such programs could use realistic sounds, meaning that soundscapes could be explored before being built.
+
+37
+00:05:30,388 --> 00:05:32,888
+So hopefully, using the best technology we can lay our hands on, the city of the future will be a pleasure to the ears as well as the eyes.
+
