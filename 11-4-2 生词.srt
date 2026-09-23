@@ -12,7 +12,7 @@
 
 4
 00:00:17,408 --> 00:00:24,620
-⭐ for one thing —— 首先；一方面｜a fine collection of sth —— 优秀的大量收藏｜well-known artist —— 著名艺术家
+[Q11可能是干扰项(D)， 提到artist，但并不是D be given by artists] ⭐ for one thing —— 首先；一方面｜a fine collection of sth —— 优秀的大量收藏｜well-known artist —— 著名艺术家
 
 5
 00:00:24,620 --> 00:00:27,321
@@ -20,7 +20,7 @@
 
 6
 00:00:27,321 --> 00:00:34,463
-⭐ attract visitors —— 吸引游客｜the largest number of... —— 数量最多的……｜before the crowds arrive —— 在人群到来之前
+[Q11答案句（E）attract largest number =  most popular] ⭐ attract visitors —— 吸引游客｜the largest number of... —— 数量最多的……｜before the crowds arrive —— 在人群到来之前
 
 7
 00:00:34,463 --> 00:00:37,576
@@ -28,7 +28,7 @@
 
 8
 00:00:37,576 --> 00:00:45,829
-⭐ donate —— 捐赠｜get sth started —— 使某事开始运行｜as it were —— 可以说；某种程度上
+[Q12答案句（D） donate=given] ⭐ donate —— 捐赠｜get sth started —— 使某事开始运行｜as it were —— 可以说；某种程度上
 
 9
 00:00:45,829 --> 00:00:50,853
@@ -40,11 +40,11 @@
 
 11
 00:00:57,240 --> 00:01:04,141
-⭐ come back —— 回来｜see sth properly —— 完整参观/充分了解某物｜move sth to... —— 将某物移动到……
+[Q13答案句（G） move = relocate] ⭐ come back —— 回来｜see sth properly —— 完整参观/充分了解某物｜move sth to... —— 将某物移动到……
 
 12
 00:01:04,141 --> 00:01:11,742
-(Q14) ⭐ temporary exhibition —— 临时展览｜see something about... —— 看到关于……的信息
+(Q14) [Q14答案句（B） TV or newspaper = media] ⭐ temporary exhibition —— 临时展览｜see something about... —— 看到关于……的信息
 
 13
 00:01:11,742 --> 00:01:18,224
@@ -64,11 +64,11 @@
 
 17
 00:01:38,034 --> 00:01:44,575
-⭐ ordinary people —— 普通人｜dig one's garden —— 挖掘花园土地｜donate to —— 捐赠给
+[Q15答案句（C） ordinary people = members of the public] ⭐ ordinary people —— 普通人｜dig one's garden —— 挖掘花园土地｜donate to —— 捐赠给
 
 18
 00:01:44,575 --> 00:01:50,587
-(Q16) ⭐ porcelain —— 瓷器｜be left to sb —— 被遗赠给某人｜founder —— 创始人
+(Q16) [Q16答案句（A）all was left to ... by ... =  one person] ⭐ porcelain —— 瓷器｜be left to sb —— 被遗赠给某人｜founder —— 创始人
 
 19
 00:01:50,587 --> 00:02:01,935
@@ -96,7 +96,7 @@
 
 25
 00:02:33,600 --> 00:02:43,492
-⭐ go straight ahead —— 直走｜far side of... —— ……另一侧｜turn right into... —— 右转进入……
+[Q17答案句(找restaurant)] ⭐ go straight ahead —— 直走｜far side of... —— ……另一侧｜turn right into... —— 右转进入……
 
 26
 00:02:43,492 --> 00:02:47,216
@@ -108,7 +108,7 @@
 
 28
 00:02:53,925 --> 00:03:04,478
-⭐ immediately on the right —— 就在右侧
+[Q18答案句(找cafe)] ⭐ immediately on the right —— 就在右侧
 
 29
 00:03:04,478 --> 00:03:09,360
@@ -116,15 +116,15 @@
 
 30
 00:03:09,360 --> 00:03:19,575
-⭐ cross the area —— 穿过区域｜along the corridor —— 沿着走廊｜left-hand side —— 左侧
+[Q19答案句(找baby-changing facilities)] ⭐ cross the area —— 穿过区域｜along the corridor —— 沿着走廊｜left-hand side —— 左侧
 
 31
-00:03:19,575 --> 00:03:28,150
+00:03:19,575 --> 00:03:24,791
 (Q20) ⭐ cloakroom —— 衣帽间｜leave sth somewhere —— 把某物放在某处
 
 32
-00:03:28,150 --> 00:03:32,508
-⭐ through the door —— 经过门进入
+00:03:24,791 --> 00:03:32,508
+[Q20答案句(找cloakroom)] ⭐ through the door —— 经过门进入
 
 33
 00:03:32,508 --> 00:03:39,961
