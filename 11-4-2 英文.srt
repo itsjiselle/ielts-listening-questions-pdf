@@ -12,7 +12,7 @@ But before we go, let me just give you a taste of what we have here.
 
 4
 00:00:17,408 --> 00:00:24,620
-Well, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists.
+[Q11可能是干扰项(D)， 提到artist，但并不是D be given by artists] Well, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists.
 
 5
 00:00:24,620 --> 00:00:27,321
@@ -20,7 +20,7 @@ I'm sure you'll recognise several of the paintings.
 
 6
 00:00:27,321 --> 00:00:34,463
-This is the gallery that attracts the largest number of visitors, so it's best to go in early in the day, before the crowds arrive.
+[Q11答案句（E）attract largest number =  most popular] This is the gallery that attracts the largest number of visitors, so it's best to go in early in the day, before the crowds arrive.
 
 7
 00:00:34,463 --> 00:00:37,576
@@ -28,7 +28,7 @@ This is the gallery that attracts the largest number of visitors, so it's best t
 
 8
 00:00:37,576 --> 00:00:45,829
-The museum was opened in the middle of that century, and several of the artists each donated one work - to get the museum started, as it were.
+[Q12答案句（D） donate=given] The museum was opened in the middle of that century, and several of the artists each donated one work - to get the museum started, as it were.
 
 9
 00:00:45,829 --> 00:00:50,853
@@ -40,11 +40,11 @@ So they're of special interest to us - we feel closer to them than to other work
 
 11
 00:00:57,240 --> 00:01:04,141
-You'll need to come back next year to see it properly, but a number of the sculptures have been moved to other parts of the museum.
+[Q13答案句（G） move = relocate] You'll need to come back next year to see it properly, but a number of the sculptures have been moved to other parts of the museum.
 
 12
 00:01:04,141 --> 00:01:11,742
-(Q14) 'Around the world' is a temporary exhibition - you've probably seen something about it on TV or in the newspapers.&nbsp;
+(Q14) [Q14答案句（B） TV or newspaper = media] 'Around the world' is a temporary exhibition - you've probably seen something about it on TV or in the newspapers.&nbsp;
 
 13
 00:01:11,742 --> 00:01:18,224
@@ -64,11 +64,11 @@ This is what you might call a focused, specialist collection, because all the co
 
 17
 00:01:38,034 --> 00:01:44,575
-And many of them were discovered by ordinary people digging their gardens, and donated to the museum!
+[Q15答案句（C） ordinary people = members of the public] And many of them were discovered by ordinary people digging their gardens, and donated to the museum!
 
 18
 00:01:44,575 --> 00:01:50,587
-(Q16) All our porcelain and glass was left to the museum by its founder, when he died in 1878.
+(Q16) [Q16答案句（A）all was left to ... by ... =  one person] All our porcelain and glass was left to the museum by its founder, when he died in 1878.
 
 19
 00:01:50,587 --> 00:02:01,935
@@ -96,7 +96,7 @@ We have a very good restaurant, which serves excellent food all day, in a relaxi
 
 25
 00:02:33,600 --> 00:02:43,492
-To reach it, when you get to the bottom of the stairs, go straight ahead to the far side of the sitting area, then turn right into the corridor.
+[Q17答案句(找restaurant)] To reach it, when you get to the bottom of the stairs, go straight ahead to the far side of the sitting area, then turn right into the corridor.
 
 26
 00:02:43,492 --> 00:02:47,216
@@ -108,7 +108,7 @@ You'll see the door of the restaurant facing you.
 
 28
 00:02:53,925 --> 00:03:04,478
-When you reach the bottom of the stairs, you'll need to go straight ahead, turn right into the corridor, and the cafe is immediately on the right.
+[Q18答案句(找cafe)] When you reach the bottom of the stairs, you'll need to go straight ahead, turn right into the corridor, and the cafe is immediately on the right.
 
 29
 00:03:04,478 --> 00:03:09,360
@@ -116,15 +116,15 @@ When you reach the bottom of the stairs, you'll need to go straight ahead, turn 
 
 30
 00:03:09,360 --> 00:03:19,575
-Cross the sitting area, continue straight ahead along the corridor on the left, and you and your baby will find the facilities on the left-hand side.
+[Q19答案句(找baby-changing facilities)] Cross the sitting area, continue straight ahead along the corridor on the left, and you and your baby will find the facilities on the left-hand side.
 
 31
-00:03:19,575 --> 00:03:28,150
-(Q20) The cloakroom, where you should leave coats, umbrellas and any large bags, is on the left hand side of the sitting area.
+00:03:19,575 --> 00:03:24,791
+(Q20) The cloakroom, where you should leave coats, umbrellas and any large bags,&nbsp;
 
 32
-00:03:28,150 --> 00:03:32,508
-It's through the last door before you come to the corridor.
+00:03:24,791 --> 00:03:32,508
+[Q20答案句(找cloakroom)] is on the left hand side of the sitting area.&nbsp; &nbsp;It's through the last door before you come to the corridor.
 
 33
 00:03:32,508 --> 00:03:39,961
