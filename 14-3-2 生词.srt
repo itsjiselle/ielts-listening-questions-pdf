@@ -32,15 +32,15 @@
 
 9
 00:00:52,273 --> 00:01:05,477
-[A：干扰项A，只是教你cook , 不是deliver meals（送外卖）] ⭐ ️【a family that’s struggling = 生活困难的家庭】⭐️【plan a budget = 规划预算】⭐️【live/shop on an income = 依靠一定收入生活／购物】
+[A❌：干扰项A，只是教你cook , 不是deliver meals（送外卖）] ⭐ ️【a family that’s struggling = 生活困难的家庭】⭐️【plan a budget = 规划预算】⭐️【live/shop on an income = 依靠一定收入生活／购物】
 
 10
 00:01:05,477 --> 00:01:13,886
-(Q11&12-A) [Q11&12答案句- A：decorating] ⭐ ️【wallpapering = 贴壁纸】⭐️【alongside = 与……一起】
+[Q11&12答案句- A✅：decorating] ⭐ ️【wallpapering = 贴壁纸】⭐️【alongside = 与……一起】
 
 11
 00:01:13,886 --> 00:01:18,988
-(Q11&12-E) [Q11&12答案句-E:babysitting] ⭐ ️【do some babysitting = 帮忙照看孩子】
+[Q11&12答案句-E✅:babysitting] ⭐ ️【do some babysitting = 帮忙照看孩子】
 
 12
 00:01:18,988 --> 00:01:24,156
@@ -48,15 +48,15 @@
 
 13
 00:01:24,156 --> 00:01:44,569
-(Q13&14-E) [Q13&14答案句E： boost their employment prospects. be valuable on CV 求职简历] ⭐ ️【gain from = 从……中受益】⭐️【cope with = 应对】⭐️【a valuable element of a CV = 简历中有价值的一项经历】⭐️【look favourably on = 对……抱有好感／给予积极评价】⭐️【give up time to do = 抽出／牺牲时间做……】
+[Q13&14答案句E✅： boost their employment prospects. be valuable on CV 求职简历] ⭐ ️【gain from = 从……中受益】⭐️【cope with = 应对】⭐️【a valuable element of a CV = 简历中有价值的一项经历】⭐️【look favourably on = 对……抱有好感／给予积极评价】⭐️【give up time to do = 抽出／牺牲时间做……】
 
 14
 00:01:44,569 --> 00:01:51,620
-(Q13&14-B) [Q13&14答案句- B： having  a sense of purpose] ⭐ ️【significantly = 值得注意的是（话语功能：强调重点）】⭐️【give someone a purpose in life = 赋予某人生活目标】
+[Q13&14答案句- B✅： having  a sense of purpose] ⭐ ️【significantly = 值得注意的是（话语功能：强调重点）】⭐️【give someone a purpose in life = 赋予某人生活目标】
 
 15
 00:01:51,620 --> 00:01:59,579
-[Q1314干扰项C，仅是speaker自己的观点，别人don't have the feeling 排除方式：否定] ⭐ ️【in that respect = 在那方面】
+[Q1314干扰项C❌，仅是speaker自己的观点，别人don't have the feeling 排除方式：否定] ⭐ ️【in that respect = 在那方面】
 
 16
 00:01:59,579 --> 00:02:09,733
