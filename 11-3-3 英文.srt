@@ -200,7 +200,7 @@ Yeah.
 
 51
 00:02:59,217 --> 00:03:10,254
-[Q27答案句： how do you feel ... , then 一起讨论（干扰项）， Helen： reasonable表同意] Jeremy：Well, you've had most of the good ideas so far.&nbsp; How do you feel about drafting something, then we can go through it together and discuss it?Helen： OK, that seems reasonable.
+[Q27答案句： how do you feel ... , then 一起讨论（干扰项）， Helen： reasonable表同意➡️ Helen only] Jeremy：Well, you've had most of the good ideas so far.&nbsp; How do you feel about drafting something, then we can go through it together and discuss it?Helen： OK, that seems reasonable.
 
 52
 00:03:10,254 --> 00:03:14,981
@@ -208,7 +208,7 @@ Yeah.
 
 53
 00:03:14,981 --> 00:03:23,049
-[Q28答案句] Jeremy：Well I've started writing something about that, so why don't you do the same and we can include the two things.&nbsp;Helen：Right.
+[Q28答案句 ➡️ Both] Jeremy：Well I've started writing something about that, so why don't you do the same and we can include the two things.&nbsp;Helen：Right.
 
 54
 00:03:23,049 --> 00:03:26,188
@@ -232,7 +232,7 @@ Oh, I missed that.
 
 59
 00:03:46,463 --> 00:03:50,656
-[Q29答案句： neither] H：So it isn't going to be part of the report at all?J：No.
+[Q29答案句： ➡️neither] H：So it isn't going to be part of the report at all?J：No.
 
 60
 00:03:50,656 --> 00:03:57,606
@@ -244,7 +244,7 @@ It's probably easiest for you to write that section, as you know more about draw
 
 62
 00:04:04,023 --> 00:04:10,891
-[Q30答案句： 你来做更好，另一人right 同意] Helen：Maybe, but I find it quite hard to write about, I'd be happier if you did it.Jeremy：OK.
+[Q30答案句： 你来做更好，另一人right 同意。➡️    Jeremy only] Helen：Maybe, but I find it quite hard to write about, I'd be happier if you did it.Jeremy：OK.
 
 63
 00:04:10,891 --> 00:04:13,391
