@@ -1,0 +1,280 @@
+1
+00:00:04,439 --> 00:00:06,400
+(Qexample) CARL: Hi, come and take a seat.&nbsp;
+
+2
+00:00:06,400 --> 00:00:08,203
+JULIE: Thank you.&nbsp;
+
+3
+00:00:08,203 --> 00:00:12,131
+CARL: My name's Carl Rogers and l'm one of the doctors here at the Total Health Clinic. CARL：
+
+4
+00:00:12,131 --> 00:00:15,442
+So I understand this is your first visit to the clinic?
+
+5
+00:00:15,442 --> 00:00:17,043
+JULIE: Yes, it is. JULIE：
+
+6
+00:00:17,043 --> 00:00:21,415
+CARL: OK, well I hope you'll be very happy with the service you receive here. CARL：
+
+7
+00:00:21,415 --> 00:00:27,286
+So if it's aright with you I'll take a few details to help me give you the best possible service.
+
+8
+00:00:27,286 --> 00:00:28,590
+JULIE: Sure. JULIE：
+
+9
+00:00:28,590 --> 00:00:33,533
+CARL: So can I check first of all that we have the correct personal details for you? CARL：
+
+10
+00:00:33,533 --> 00:00:37,095
+(Q1) So your full name is Julie Anne Garcia?
+
+11
+00:00:37,095 --> 00:00:38,899
+JULIE: That's correct. JULIE：
+
+12
+00:00:38,899 --> 00:00:49,108
+[Q1答案句] CARL: Perfect. And can I have a contact phone number?JULIE: It's 219 442 9785
+
+13
+00:00:00,000 --> 00:00:00,000
+⭐
+
+14
+00:00:00,000 --> 00:00:00,000
+
+
+15
+00:00:49,108 --> 00:00:57,783
+(Q2) [Q2答案句] CARL: OK, and then can I just check that we have the correct date of birth?&nbsp;JULIE: October tenth, 1992.&nbsp;
+
+16
+00:00:00,000 --> 00:00:00,000
+
+
+17
+00:00:57,783 --> 00:01:02,405
+CARL: Oh, I actually have 1991, l'll just correct that now. CARL：
+
+18
+00:01:02,405 --> 00:01:04,806
+Right, so that's all good.
+
+19
+00:01:04,806 --> 00:01:07,503
+(Q3) Now I just need just a few more personal details...
+
+20
+00:01:07,503 --> 00:01:12,601
+do you have an occupation, either full-time or part-time?
+
+21
+00:01:12,601 --> 00:01:18,209
+JULIE: Yes, I work full-time in Esterhazy's you know, the restaurant chain. JULIE：
+
+22
+00:01:18,209 --> 00:01:23,413
+[Q3答案句： manager， 有干扰项（时间干扰）] I started off as a waitress there a few years ago and l'm a manager now.
+
+23
+00:01:23,413 --> 00:01:28,650
+CARL: Oh I know them, yeah, they're down on 114th Street, aren't they? CARL：
+
+24
+00:01:28,650 --> 00:01:31,628
+JULIE: That's right. JULIE：
+
+25
+00:01:31,628 --> 00:01:33,612
+CARL: Yeah, l've been there a few times. CARL：
+
+26
+00:01:33,612 --> 00:01:35,002
+I just love their salads.
+
+27
+00:01:35,002 --> 00:01:38,437
+JULIE: That's good to hear. JULIE：
+
+28
+00:01:38,437 --> 00:01:45,752
+(Q4) CARL: Right, so one more thing I need to know before we talk about why you're here, Julie, and that's the name of your insurance company.&nbsp;
+
+29
+00:01:45,752 --> 00:01:52,925
+[Q4答案句] JULIE: lt's Cawley Life Insurance, that's C-A-W-L-E-Y.&nbsp;
+
+30
+00:01:52,925 --> 00:01:56,628
+CARL: Excellent, thank you so much.
+
+31
+00:01:56,628 --> 00:01:59,385
+(Q5) GARL: Now Julie, let's look at how we can help you.&nbsp;
+
+32
+00:01:59,385 --> 00:02:02,945
+So tell me a little about what brought you here today.
+
+33
+00:02:02,945 --> 00:02:07,359
+[Q5答案句： pain原词， left语序调换，所以要跟名词] JULIE: Well, I've been getting a pain in my knee, the left one. JULIE：
+
+34
+00:02:07,359 --> 00:02:14,415
+Not very serious at first, but it's gotten worse, so I thought I ought to see someone about it.
+
+35
+00:02:14,415 --> 00:02:16,620
+CARL: That's certainly the right decision. CARL：
+
+36
+00:02:16,620 --> 00:02:19,064
+(Q6) So how long have you been aware of this pain?
+
+37
+00:02:19,064 --> 00:02:22,230
+ls it just a few days, or is it longer than that?
+
+38
+00:02:22,230 --> 00:02:23,753
+JULIE: Longer. JULIE：
+
+39
+00:02:23,753 --> 00:02:30,144
+[Q6答案句] lt's been worse for the last couple of days, but it's three weeks since I first noticed it.
+
+40
+00:02:30,144 --> 00:02:34,795
+It came on quite gradually though, so I kind of ignored it at first.
+
+41
+00:02:34,795 --> 00:02:39,598
+(Q7) CARL: And have you taken any medication yourself, or treated it in anyway? CARL：
+
+42
+00:02:39,598 --> 00:02:47,065
+JULIE: Yeah, l've been taking medication to deal with the pain, Tylenol, and that works OK for a few hours. JULIE：
+
+43
+00:02:47,065 --> 00:02:50,400
+But I don't like to keep taking it.
+
+44
+00:02:50,400 --> 00:02:51,253
+CARL: OK. CARL：
+
+45
+00:02:51,253 --> 00:02:52,670
+And what about heat treatment?
+
+46
+00:02:52,670 --> 00:02:54,710
+Have you tried applying heat at all?
+
+47
+00:02:54,710 --> 00:03:00,176
+JULIE: No, but I have been using ice on it for the last few days. JULIE：
+
+48
+00:03:00,176 --> 00:03:03,538
+CARL: And does that seem to help the pain at all? CARL：
+
+49
+00:03:03,538 --> 00:03:05,711
+JULIE: A little, yes. JULIE：
+
+50
+00:03:05,711 --> 00:03:07,132
+CARL: Good. CARL：
+
+51
+00:03:07,132 --> 00:03:09,637
+Now you look as if you're quite fit normally?
+
+52
+00:03:09,637 --> 00:03:12,527
+JULIE: I am, yes. JULIE：
+
+53
+00:03:12,527 --> 00:03:16,987
+CARL: So do you do any sport on a regular basis? CARL：
+
+54
+00:03:16,987 --> 00:03:22,095
+[Q7答案句] JULIE: Yes, I play a lot of tennis. I belong to a club so I go there a lot.
+
+55
+00:00:00,000 --> 00:00:00,000
+⭐
+
+56
+00:03:22,095 --> 00:03:26,610
+(Q8) I'm quite competitive so I enjoy that side of it as well as the exercise.
+
+57
+00:03:26,610 --> 00:03:30,290
+But I haven't gone since this started.
+
+58
+00:03:30,290 --> 00:03:31,091
+CARL: Sure. CARL：
+
+59
+00:03:31,091 --> 00:03:34,653
+And do you do any other types of exercise?
+
+60
+00:03:34,653 --> 00:03:45,819
+[Q8答案句+干扰项（but排除掉)] JULIE: Yeah, I sometimes do a little swimming❌, but usually just when I'm on vacation.&nbsp;But normally I go 【running✅】 a few times a week, maybe three or four times.
+
+61
+00:03:45,819 --> 00:03:47,163
+CARL: Hmm. CARL：
+
+62
+00:03:47,163 --> 00:03:49,141
+(Q9) So your legs are getting quite a pounding.
+
+63
+00:03:49,141 --> 00:03:52,942
+But you haven't had any problems up to now?
+
+64
+00:03:52,942 --> 00:04:00,402
+[Q9答案句+干扰项（legs）， 跟同替 hurt=injure 能识别] JULIE: No, not with my legs.&nbsp; I did have an accident last year when I slipped and hurt my shoulder, but that's better now.
+
+65
+00:04:00,402 --> 00:04:02,400
+CARL: Excellent. CARL：
+
+66
+00:04:02,400 --> 00:04:05,028
+(Q10) And do you have any allergies?
+
+67
+00:04:05,028 --> 00:04:08,340
+JULIE: No, none that I'm aware of. JULIE：
+
+68
+00:04:08,340 --> 00:04:17,151
+[Q10答案句： vitamin & that's all , 反向替换 - 语义 = no ... apart from ...] CARL: And do you take any medication on a regular basis?&nbsp;JULIE: Well, I take vitamins but that's all I'm generally very healthy.&nbsp;
+
+69
+00:04:17,151 --> 00:04:21,806
+CARL: OK, well let's have a closer look and see what might be causing this problem. CARL：
+
+70
+00:04:21,806 --> 00:04:24,306
+If you can just get up...
+
