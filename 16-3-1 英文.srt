@@ -59,11 +59,11 @@ JAKE: Well, all our staff wear different coloured shirts.&nbsp;
 [Q2干扰项] So, we have three supervisors, and they have red shirts.&nbsp; They support the instructors, and they also stand in for me if I'm not around.
 
 16
-00:01:24,253 --> 00:01:34,199
+00:01:24,253 --> 00:01:34,158
 [Q2答案句] Then the instructors themselves are in blue shirts, and one of these is responsible for each class.
 
 17
-00:01:34,199 --> 00:01:35,515
+00:01:34,158 --> 00:01:35,515
 WOMAN: OK.&nbsp;
 
 18
@@ -103,114 +103,106 @@ It's a lot of fun.
 WOMAN: It must be.&nbsp;
 
 27
-00:02:45,902 --> 00:02:50,031
-(Q5) [Q5答案句， 疑似答案记录 there is【rain】， 后面代词指代了] Now, what happens if there's rain?
+00:02:45,902 --> 00:02:56,424
+(Q5) [Q5答案句， 疑似答案记录 there is【rain】， 后面代词指代了] WOMAN：Now, what happens if there's rain? Do the classes still run?JAKE: Oh yes.&nbsp; We don't let that put us off&nbsp;
 
 28
-00:02:50,031 --> 00:02:52,634
-Do the classes still run?
+00:02:56,424 --> 00:03:03,510
+we just put on our waterproofs and keep cycling.
 
 29
-00:02:52,634 --> 00:02:53,955
-JAKE: Oh yes. JAKE：
-
-30
-00:02:53,955 --> 00:03:03,510
-We don't let that put us off – we just put on our waterproofs and keep cycling.
-
-31
 00:03:03,510 --> 00:03:09,606
 (Q6) WOMAN: And is there anything special Charlie should bring along with him?&nbsp;
 
-32
+30
 00:03:09,606 --> 00:03:20,574
 [Q6答案句： snack] JAKE: Well, maybe some spare clothes, especially if the weather's not so good.&nbsp;And a snack for break time.
 
-33
+31
 00:03:20,574 --> 00:03:22,450
 (Q7) WOMAN: How about a drink?&nbsp;
 
-34
+32
 00:03:22,450 --> 00:03:24,912
 JAKE: No, we'll provide that. JAKE：
 
-35
+33
 00:03:24,912 --> 00:03:29,216
 And make sure he has shoes, not sandals.
 
-36
+34
 00:03:29,216 --> 00:03:30,788
 WOMAN: Sure. WOMAN：
 
-37
+35
 00:03:30,788 --> 00:03:40,434
 [Q7答案句，听出机会： 紧跟上一行定位词] And just at present Charlie has to take medication every few hours, so I'll make sure he has that.
 
-38
+36
 00:03:40,434 --> 00:03:42,190
 JAKE: Absolutely.&nbsp;
 
-39
+37
 00:03:42,190 --> 00:03:48,654
 Just give us details of when he has to take it and we'll make sure he does.
 
-40
+38
 00:03:48,654 --> 00:03:49,981
 WOMAN: Thanks.&nbsp;
 
-41
+39
 00:03:49,981 --> 00:03:55,997
 (Q8) JAKE: Now, there are a few things you should know about Day 1 of the camp.&nbsp;
 
-42
+40
 00:03:55,997 --> 00:04:07,833
 The classes normally start at 9.30 every morning, but on Day 1 you should aim to get Charlie here by 9.20.
 
-43
+41
 00:04:07,833 --> 00:04:13,452
 The finishing time will be 12.30 as usual.
 
-44
+42
 00:04:13,452 --> 00:04:20,014
 We need the additional time because there are a few extra things to do.
 
-45
+43
 00:04:20,014 --> 00:04:29,995
 [Q8答案句，答案空后checked 被动语态➕ 9:20但要提前，表示before the class] The most important is that we have a very careful check to make sure that every child's helmet fits properly.
 
-46
+44
 00:04:29,995 --> 00:04:41,198
 If it doesn't fit, we'll try to adjust it, or we'll find him another one – but he must wear it all the time he's on the bike.
 
-47
+45
 00:04:41,198 --> 00:04:42,819
 WOMAN: Of course.&nbsp;
 
-48
+46
 00:04:42,819 --> 00:04:53,576
 (Q9) [Q9答案句] JAKE: Then after that, all the instructors will be waiting to meet their classes, and they'll meet up in the tent – you can't miss it.&nbsp;
 
-49
+47
 00:04:53,576 --> 00:04:59,346
 And each instructor will take their class away and get started.
 
-50
+48
 00:04:59,346 --> 00:05:03,692
 WOMAN: OK.&nbsp; Well that all sounds good.
 
-51
+49
 00:05:03,692 --> 00:05:09,442
 (Q10) Now can you tell me how much the camp costs a week?
 
-52
+50
 00:05:09,442 --> 00:05:25,965
 [Q10答案句（听数字） + Q10干扰项 去年数字] JAKE: One hundred ninety-nine dollars.&nbsp; （干扰项）We've managed to keep the price more or less the same as last year – it was one hundred ninety then. But the places are filling up quite quickly.
 
-53
+51
 00:05:25,965 --> 00:05:27,469
 WOMAN: Right.&nbsp;
 
-54
+52
 00:05:27,469 --> 00:05:29,969
 OK, well I'd like to book for …
 
