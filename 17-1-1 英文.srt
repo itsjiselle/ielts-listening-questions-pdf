@@ -1,0 +1,128 @@
+1
+00:00:00,219 --> 00:00:01,221
+(Q1) Peter: Hello?&nbsp;
+
+2
+00:00:01,221 --> 00:00:09,272
+Jan: Oh hello. My name's Jan. Are you the right person to talk to about the Buckworth Conservation Group?&nbsp;
+
+3
+00:00:09,272 --> 00:00:11,680
+Peter: Yes, I'm Peter. I'm the secretary.&nbsp;
+
+4
+00:00:11,680 --> 00:00:23,948
+Jan: Good. I've just moved to this area, and I'm interested in getting involved. I was in a similar group where I used to live. Could you tell me something about your activities, please?&nbsp;
+
+5
+00:00:23,948 --> 00:00:42,249
+[Q1答案句： free of = does not,空前同替 否定词] Peter: Of course. Well, we have a mixture of regular activities and special events. One of the regular ones is trying to keep the beach free of litter. A few of us spend a couple of hours a month on it, and it's awful how much there is to clear. I wish people would be more responsible and take it home with them.&nbsp;
+
+6
+00:00:42,249 --> 00:00:51,766
+(Q2) [Q2答案句，疑似答案记录+听另一人确认] Jan: I totally agree. I'd be happy to help with that. Is it OK to take dogs?&nbsp;Peter: I'm afraid not, as they're banned from the beach itself.&nbsp;
+
+7
+00:00:51,766 --> 00:00:55,735
+You can take them along the cliffs, though. And children are welcome.&nbsp;
+
+8
+00:00:55,735 --> 00:00:56,831
+Jan: Right.&nbsp;
+
+9
+00:00:56,831 --> 00:01:10,246
+(Q3) Peter: We also manage a nature reserve, and there's a lot to do there all year round. For example, because it's a popular place to visit, we spend a lot of time looking after the paths and making sure they're in good condition for walking.&nbsp;
+
+10
+00:01:10,246 --> 00:01:13,682
+Jan: I could certainly help with that.&nbsp;
+
+11
+00:01:13,682 --> 00:01:28,739
+[Q3答案句] Peter: Good. And we have a programme of creating new habitats there. We've just finished making and installing nesting boxes for birds to use, and next we're going to work on encouraging insects – they're important for the biodiversity of the reserve.&nbsp;
+
+12
+00:01:28,739 --> 00:01:30,117
+Jan: They certainly are.&nbsp;
+
+13
+00:01:30,117 --> 00:01:39,523
+(Q4) [Q4答案句] Peter: Oh, and we're also running a project to identify the different species of butterflies that visit the reserve. You might be interested in taking part in that.&nbsp;
+
+14
+00:01:39,523 --> 00:01:48,199
+Jan: Sure. I was involved in something similar where I used to live, counting all the species of moths. I'd enjoy that.&nbsp;
+
+15
+00:01:48,199 --> 00:01:58,806
+(Q5) [Q5答案句] Peter: Another job we're doing at the reserve is replacing the wall on the southern side, between the parking area and our woodshed. It was badly damaged in a storm last month.&nbsp;
+
+16
+00:01:58,806 --> 00:02:00,258
+Jan: OK.&nbsp;
+
+17
+00:02:00,258 --> 00:02:06,454
+(Q6) Peter: Then as I said, we have a programme of events as well, both at the weekend, and during the week.&nbsp;
+
+18
+00:02:06,454 --> 00:02:15,344
+Jan: Right. I presume you have guided walks? I'd like to get to know the local countryside, as I'm new to the area.&nbsp;
+
+19
+00:02:15,344 --> 00:02:28,879
+[Q6答案句： 定位词sand， walk to = reach] Peter: Yes, we do. The next walk is to Ruston Island, a week on Saturday. We'll be meeting in the car park at Dunsmore Beach at low tide – that's when the sands are dry enough for us to walk to the island without getting wet.&nbsp;
+
+20
+00:02:28,879 --> 00:02:30,309
+Jan: Sounds good.&nbsp;
+
+21
+00:02:30,309 --> 00:02:42,197
+(Q7) Peter: The island's a great place to explore. It's quite small, and it's got a range of habitats. It's also an ideal location for seeing seals just off the coast, or even on the beach.&nbsp;
+
+22
+00:02:42,197 --> 00:02:48,442
+Jan: OK. And is there anything we should bring, like a picnic, for instance?
+
+23
+00:02:48,442 --> 00:02:58,063
+[Q7答案句： make sure ... = 祈使句wear] Peter: Yes, do bring one, as it's a full-day walk. And of course it'll be wet walking across and back, so make sure your boots are waterproof.&nbsp;
+
+24
+00:02:58,063 --> 00:03:06,566
+Jan: I must buy a new pair – there's a hole in one of my current ones! Well, I'd definitely like to come on the walk.&nbsp;
+
+25
+00:03:06,566 --> 00:03:12,741
+(Q8) Peter: Great. Then later this month we're having a one-day woodwork session in Hopton Wood.&nbsp;
+
+26
+00:03:12,741 --> 00:03:19,077
+[Q8答案句： 一人提出疑似答案，另一人确认] Jan: I've never tried that before. Is it OK for beginners to take part?&nbsp;Peter: Definitely.&nbsp;
+
+27
+00:03:19,077 --> 00:03:26,427
+(Q9) There'll be a couple of experts leading the session, and we keep the number of participants down, so you'll get as much help as you need.&nbsp;
+
+28
+00:03:26,427 --> 00:03:30,182
+Jan: Excellent! I'd love to be able to make chairs.&nbsp;
+
+29
+00:03:30,182 --> 00:03:41,861
+[Q9答案句： 答案前置 wooden spoon = make ... out of wood 词组题] Peter: That's probably too ambitious for one day! You'll be starting with wooden spoons, and of course learning how to use the tools. And anything you make is yours to take home with you.&nbsp;
+
+30
+00:03:41,861 --> 00:03:45,192
+(Q10) Jan: That sounds like fun. When is it?&nbsp;
+
+31
+00:03:45,192 --> 00:03:56,848
+[Q10答案句+Q10干扰项] Peter: It's on the 17th, from 10 a.m. until 3. There's a charge of ￡35, including lunch, or￡40 if you want to camp in the wood.&nbsp;
+
+32
+00:03:56,848 --> 00:03:59,348
+Jan: I should think I'll come home the same day. Well, I'd certainly like to join the group.&nbsp;
+
