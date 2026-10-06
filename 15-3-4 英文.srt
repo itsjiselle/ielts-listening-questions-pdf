@@ -1,0 +1,172 @@
+1
+00:00:01,271 --> 00:00:06,835
+(Q31) Nowadays, we use different products for personal cleanliness, laundry,
+
+2
+00:00:06,835 --> 00:00:13,556
+dishwashing and household cleaning, but this is very much a 20th-century development.
+
+3
+00:00:13,556 --> 00:00:18,317
+The origins of cleanliness date back to prehistoric times.&nbsp;
+
+4
+00:00:18,317 --> 00:00:31,173
+[Q31答案句： rinse=wash off] Since water is essential for life, the earliest people lived near water and knew something about its cleansing properties，at least that it rinsed mud off their hands.
+
+5
+00:00:31,173 --> 00:00:46,702
+(Q32) [Q32答案句： 答案前置， 定语-adj] During the excavation of ancient Babylon, evidence was found that soapmaking was known as early as 2800 BC.Archaeologists discovered cylinders made of 【clay】,
+
+6
+00:00:46,702 --> 00:00:51,390
+with inscriptions on them saying that fats were boiled with ashes.
+
+7
+00:00:51,390 --> 00:00:57,396
+This is a method of making soap, though there's no reference to the purpose of this material.
+
+8
+00:00:57,396 --> 00:01:03,548
+(Q33) The early Greeks bathed for aesthetic reasons and apparently didn't use soap.
+
+9
+00:01:03,548 --> 00:01:18,703
+[Q33答案句： 答案前置，xxx instrument =  scraper made of xxx, instrument = scraper 上下义同义替换] Instead, they cleaned their bodies with blocks of sand, pumice and ashes,then anointed themselves with oil, and scraped off the oil and dirt with a 【metal 】instrument known as a strigil.
+
+10
+00:01:18,703 --> 00:01:21,945
+(Q34) They also used oil mixed with ashes.
+
+11
+00:01:21,945 --> 00:01:26,453
+Clothes were washed without soap in streams.
+
+12
+00:01:26,453 --> 00:01:34,509
+The ancient Germans and Gauls are also credited with discovering how to make a substance called 'soap',
+
+13
+00:01:34,509 --> 00:01:38,097
+made of melted animal fat and ashes.
+
+14
+00:01:38,097 --> 00:01:42,368
+[Q34答案句： tint = colour] They used this mixture to tint their hair red.
+
+15
+00:01:42,368 --> 00:01:51,422
+(Q35) Soap got its name, according to an ancient Roman legend, from Mount Sapo, where animals were sacrificed,
+
+16
+00:01:51,422 --> 00:01:53,941
+leaving deposits of animal fat.
+
+17
+00:01:53,941 --> 00:02:01,491
+Rain washed these deposits, along with wood ashes, down into the clay soil along the River Tiber.
+
+18
+00:02:01,491 --> 00:02:07,978
+Women found that this mixture greatly reduced the effort required to wash their clothes.
+
+19
+00:02:07,978 --> 00:02:22,346
+[Q35答案句， 整体都在312BC前说到的。 根据Roman定位] As Roman civilisation advanced, so did bathing. The first of the famous Roman 【baths】, supplied with water from their aqueducts, was built about 312 BC.
+
+20
+00:02:22,346 --> 00:02:27,434
+(Q36) The baths were luxurious, and bathing became very popular.
+
+21
+00:02:27,434 --> 00:02:30,772
+And by the second century AD,
+
+22
+00:02:30,772 --> 00:02:40,273
+the Greek physician Galen recommended soap for both medicinal and cleansing purposes.
+
+23
+00:02:40,273 --> 00:02:53,020
+After the fall of Rome in 467 AD and the resulting decline in bathing habits, much of Europe felt the impact of filth on public health.
+
+24
+00:02:53,020 --> 00:03:03,355
+[Q36答案句： outbreak=occurrence] This lack of personal cleanliness and related unsanitary living conditions were major factors in the outbreaks of disease in the Middle Ages,
+
+25
+00:03:03,355 --> 00:03:07,222
+and especially the Black Death of the 14th century.
+
+26
+00:03:07,222 --> 00:03:12,219
+(Q37) Nevertheless, soapmaking became an established craft in Europe,
+
+27
+00:03:12,219 --> 00:03:17,062
+and associations of soapmakers guarded their trade secrets closely.
+
+28
+00:03:17,062 --> 00:03:25,672
+[Q37答案句： along with +答案词， 空前无实义词，难度⭐️⭐️， for the first time = began to] Vegetable and animal oils were used with ashes of plants, along with perfume, apparently for the first time.
+
+29
+00:03:25,672 --> 00:03:31,443
+Gradually more varieties of soap became available for shaving and shampooing,
+
+30
+00:03:31,443 --> 00:03:34,252
+as well as bathing and laundering.
+
+31
+00:03:34,252 --> 00:03:41,066
+(Q38) A major step toward large-scale commercial soapmaking occurred in 1791,&nbsp;
+
+32
+00:03:41,066 --> 00:03:50,132
+[Q38答案句： turn A into B= make B from A] when a French chemist, Nicholas Leblanc, patented a process for turning 【salt】 into soda ash, or sodium carbonate.
+
+33
+00:03:50,132 --> 00:03:57,932
+(Q39) Soda ash is the alkali obtained from ashes that combines with fat to form soap.
+
+34
+00:03:57,932 --> 00:04:04,240
+The Leblanc process yielded quantities of good-quality, inexpensive soda ash.&nbsp;
+
+35
+00:04:04,240 --> 00:04:10,444
+Modern soapmaking was born some 20 years later, in the early 19th century,
+
+36
+00:04:10,444 --> 00:04:21,499
+with the discovery by Michel Eugène Chevreul, another French chemist, of the chemical nature and relationship of fats, glycerine and fatty acids.
+
+37
+00:04:21,499 --> 00:04:29,341
+[Q39答案句：become = turn ... into a ...] His studies established the basis for both fat and soap chemistry, and soapmaking became a science.
+
+38
+00:04:29,341 --> 00:04:36,556
+(Q40) [19 century = 1800s 注意一下时间的表达] Further developments during the 19th century made it easier and cheaper to manufacture soap.&nbsp;
+
+39
+00:04:36,556 --> 00:04:44,449
+Until the 19th century, soap was regarded as a luxury item, and was heavily taxed in several countries.
+
+40
+00:04:44,449 --> 00:04:54,440
+[Q40答案句： xxx was removed = there's no longer xxx, 审题时注意否定含义词， 听的时候要跟上表示否定意义的词] As it became more readily available, it became an everyday necessity, a development that was reinforced when the high tax was removed.
+
+41
+00:04:54,440 --> 00:05:00,589
+Soap was then something ordinary people could afford, and cleanliness standards improved.
+
+42
+00:05:00,589 --> 00:05:08,568
+With this widespread use came the development of milder soaps for bathing and soaps for use in the washing machines
+
+43
+00:05:08,568 --> 00:05:11,068
+that were available to consumers by the turn of the 20th century.
+
