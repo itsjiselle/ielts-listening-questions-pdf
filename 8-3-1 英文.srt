@@ -1,0 +1,192 @@
+1
+00:00:00,140 --> 00:00:02,008
+(Q1（form）) Good morning. How can I help you?
+
+2
+00:00:02,008 --> 00:00:05,771
+Hello. I'm interested in renting a house somewhere in the town.
+
+3
+00:00:05,771 --> 00:00:09,142
+Right. Could I have your name please?
+
+4
+00:00:09,142 --> 00:00:11,205
+Yes, it's Steven Godfrey.
+
+5
+00:00:11,205 --> 00:00:14,922
+And tell me how many bedrooms you're looking for.
+
+6
+00:00:14,922 --> 00:00:20,005
+Well, we'd need four, because I'm going to share the house with three friends.
+
+7
+00:00:20,005 --> 00:00:23,706
+Okay, there are several of that size on our books.
+
+8
+00:00:23,706 --> 00:00:27,288
+They mostly belong to families who are working abroad at the moment.
+
+9
+00:00:27,288 --> 00:00:36,072
+[Q1答案句] What about the location?：It'd be nice to be central.：That might be difficult, as most houses of that size are in the suburbs.
+
+10
+00:00:36,072 --> 00:00:40,734
+(Q2) Still, there are a few. What's your upper limit for the rent?
+
+11
+00:00:40,734 --> 00:00:50,329
+[Q2答案句： up to=maximum] We'd like something around ￡500 a month, but we could go up to ￡600 if we have to. But we can't go beyond that.
+
+12
+00:00:50,329 --> 00:00:56,458
+(Q3) Do you know how long you want to rent the house for? The minimum let is six months, as you probably realise.
+
+13
+00:00:00,000 --> 00:00:00,000
+⭐
+
+14
+00:00:56,458 --> 00:01:02,699
+[Q3答案句： 对方问（定位词） + 另一人回答（答案句）] We're at college here for two years, and we don't want to have to move during that time if we can avoid it.
+
+15
+00:01:02,699 --> 00:01:08,579
+Right. And how soon do you want to move in? All our lets start on the first of the month.
+
+16
+00:01:08,579 --> 00:01:13,046
+Well, as soon as possible, really, so that means September 1st.
+
+17
+00:01:13,046 --> 00:01:21,276
+(Q4（table）) Okay, let me have a look at what we've got We have photographs of all the houses on our books, so you can get an idea of what they're like.
+
+18
+00:01:21,276 --> 00:01:34,089
+[Q4答案句： doesn't have = no] There's this one in Oakington Avenue, at 550 pounds a month. Combined living room and dining room, with a separate kitchen.&nbsp;It doesn't have a garage, though you can park in the road.
+
+19
+00:01:34,089 --> 00:01:37,189
+Ah, we'd prefer to have one, if possible.
+
+20
+00:01:37,189 --> 00:01:41,622
+(Q5) Right. Then have a look at this house, in Mead Street.
+
+21
+00:01:41,622 --> 00:01:46,030
+It's got a very large living room and kitchen, bathroom, cloakroom...
+
+22
+00:01:46,030 --> 00:01:47,014
+How much is it?
+
+23
+00:01:47,014 --> 00:01:51,766
+That one's 580. It's very well furnished and equipped.
+
+24
+00:01:51,766 --> 00:02:04,338
+[Q5答案句， 一个人说 big=large，跟出答案词， 另一人态度是 觉得不OK， 符合表头「problem」] It also has plenty of space for parking, and it's available for a minimum of a year. Oh, and there's a big garden.I don't think we could cope with that, to be honest. We'll be too busy to look after it.
+
+25
+00:00:00,000 --> 00:00:00,000
+⭐
+
+26
+00:02:04,338 --> 00:02:14,241
+(Q6) [Q6答案句] Okay. Then there's this older house in Hamilton Road: living room, kitchen-diner, and it has a study. 550 a month.
+
+27
+00:02:14,241 --> 00:02:23,478
+(Q7) [Q7答案句： 听adj, 属于「问题」方面的] That looks rather nice. But whereabouts in Hamilton Road? ： Towards the western end.：Oh, that'll be very noisy. I know the area.
+
+28
+00:00:00,000 --> 00:00:00,000
+
+
+29
+00:00:00,000 --> 00:00:00,000
+
+
+30
+00:02:23,478 --> 00:02:27,515
+Yes, it's pretty lively. Some people like it, though.&nbsp;
+
+31
+00:02:27,515 --> 00:02:33,276
+(Q8) Well, what about this house in Devon Close?Devon Close，That looks lovely.
+
+32
+00:00:00,000 --> 00:00:00,000
+
+
+33
+00:02:33,276 --> 00:02:37,400
+There's a big demand for houses in that area, so prices tend to be quite high.
+
+34
+00:02:37,400 --> 00:02:41,879
+But this one hasn't been decorated for a few years, which has kept the rent down a bit.
+
+35
+00:02:41,879 --> 00:02:51,267
+[Q8答案句：听数字即可] It's got a living room, dining room and small kitchen, and it's 595 a month. I think it would suit you, from what you've said.
+
+36
+00:02:51,267 --> 00:02:52,801
+It sounds fine.
+
+37
+00:02:52,801 --> 00:02:55,888
+(Q9&10（多选）) Why's that part of town so popular?
+
+38
+00:02:55,888 --> 00:03:01,090
+Well, there's a big scheme to improve the district, and it'll soon have the best facilities for miles around.
+
+39
+00:03:01,090 --> 00:03:02,423
+What sort of thing?
+
+40
+00:03:02,423 --> 00:03:07,023
+There's a big sports centre under construction, which will be very impressive when it's finished.
+
+41
+00:03:07,023 --> 00:03:12,569
+In fact the swimming pool's already opened, ahead of schedule, and it's attracting a lot of people.
+
+42
+00:03:12,569 --> 00:03:15,618
+What about cinemas: are there any in the area?
+
+43
+00:03:15,618 --> 00:03:21,460
+The only one closed down last year, and it's now in the process of being converted into a film museum.
+
+44
+00:03:21,460 --> 00:03:25,228
+The local people are trying to get a new cinema added to the scheme.
+
+45
+00:03:25,228 --> 00:03:30,983
+I think I heard something about a plan to replace the existing concert hall with a larger one.
+
+46
+00:03:30,983 --> 00:03:33,860
+Ah, that's due to start next year.
+
+47
+00:03:33,860 --> 00:03:38,457
+Well it sounds an interesting area to live in. Could I go and see the house, please?
+
+48
+00:03:38,457 --> 00:03:40,957
+Yes, of course.
+
