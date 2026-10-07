@@ -23,11 +23,11 @@
 [Q11&12干扰项D：outside还没开始（about to）] ⭐ interior —— 内部｜exterior —— 外部｜be about to do sth —— 即将做某事｜start on sth —— 开始处理某事
 
 7
-00:00:35,527 --> 00:00:37,744
+00:00:35,527 --> 00:00:37,743
 ⭐ a big job —— 一项艰巨的工作
 
 8
-00:00:37,744 --> 00:00:43,572
+00:00:37,743 --> 00:00:43,572
 [Q1&12干扰项C： postpone 电梯] ⭐ run over budget —— 超出预算｜postpone doing sth —— 推迟做某事｜install an elevator —— 安装电梯
 
 9
@@ -51,11 +51,11 @@
 [Q11&12答案句：A] ⭐ turn sth over to sth —— 将某物转作某用途｜storeroom —— 储藏室｜for other purposes —— 用于其他目的
 
 14
-00:01:17,786 --> 00:01:22,201
+00:01:17,786 --> 00:01:22,200
 (Q13&14) ⭐ try hard to do sth —— 努力做某事｜involve sb in sth —— 让某人参与某事｜members of the public —— 公众成员
 
 15
-00:01:22,201 --> 00:01:31,021
+00:01:22,200 --> 00:01:31,021
 ⭐ backstage tour —— 后台参观｜show sb round —— 带某人参观｜operate —— 运作
 
 16
@@ -79,19 +79,19 @@
 ⭐ consider doing sth —— 考虑做某事｜hire out —— 出租｜amateur drama club —— 业余戏剧俱乐部
 
 21
-00:02:09,758 --> 00:02:13,975
+00:02:09,758 --> 00:02:13,974
 (Q15&16) ⭐ workshop —— 工作坊；培训课程
 
 22
-00:02:13,975 --> 00:02:18,722
+00:02:13,974 --> 00:02:18,722
 ⭐ a programme of... —— 一系列……｜anyone can join —— 任何人都可以参加
 
 23
-00:02:18,722 --> 00:02:27,570
+00:02:18,722 --> 00:02:27,569
 ⭐ eventually —— 最终｜intend to do sth —— 打算做某事｜have sb in place —— 找好并安排好某人
 
 24
-00:02:27,570 --> 00:02:31,460
+00:02:27,569 --> 00:02:31,460
 ⭐ prove difficult —— 证明困难｜than expected —— 比预期
 
 25
@@ -99,74 +99,66 @@
 ⭐ a big demand for... —— 对……有很大需求｜technical side —— 技术方面｜put on a production —— 制作/上演演出
 
 26
-00:02:41,299 --> 00:02:45,326
+00:02:41,299 --> 00:02:45,325
 ⭐ start one on... —— 开设一个关于……的课程
 
 27
-00:02:45,326 --> 00:02:52,436
+00:02:45,325 --> 00:02:52,436
 ⭐ a number of... —— 许多……｜enquire about... —— 询问……｜for the future —— 未来
 
 28
-00:02:52,436 --> 00:02:57,153
+00:02:52,436 --> 00:02:57,152
 ⭐ a surprise success —— 意外的成功
 
 29
-00:02:57,153 --> 00:03:03,186
+00:02:57,152 --> 00:03:03,186
 ⭐ happen to do sth —— 碰巧做某事｜as a hobby —— 作为爱好｜offer to do sth —— 主动提出做某事
 
 30
-00:03:03,186 --> 00:03:09,611
+00:03:03,186 --> 00:03:09,610
 ⭐ so...that... —— 如此……以至于……
 
 31
-00:03:09,611 --> 00:03:13,473
+00:03:09,610 --> 00:03:13,473
 (Q17（地图题）) ⭐ layout of... —— ……的布局
 
 32
-00:03:13,473 --> 00:03:19,914
+00:03:13,473 --> 00:03:19,913
 ⭐ auditorium —— 观众厅｜dressing room —— 更衣室｜below ground level —— 低于地面
 
 33
-00:03:19,914 --> 00:03:25,375
+00:03:19,913 --> 00:03:25,032
 ⭐ ground floor —— 一楼｜the public doesn't see —— 公众看不到的
 
 34
-00:03:25,375 --> 00:03:31,376
+00:03:25,032 --> 00:03:30,805
 ⭐ the majority —— 大多数｜internal —— 内部的｜light a room —— 给房间提供照明
 
 35
-00:03:31,376 --> 00:03:40,419
-⭐ foyer —— 门厅；大厅｜wonder why... —— 想知道为什么……｜expect to find... —— 预期找到……
+00:03:30,805 --> 00:03:50,521
+[Q17答案句] ⭐ foyer —— 门厅；大厅｜wonder why... —— 想知道为什么……｜expect to find... —— 预期找到……next door —— 隔壁｜separate entrance —— 独立入口
 
 36
-00:03:40,419 --> 00:03:50,522
-⭐ next door —— 隔壁｜separate entrance —— 独立入口
+00:03:50,521 --> 00:04:04,467
+(Q18) [Q18答案句] ⭐ go across —— 穿过｜double doors —— 双扇门｜at the end of the corridor —— 走廊尽头
 
 37
-00:03:50,522 --> 00:04:04,467
-(Q18) ⭐ go across —— 穿过｜double doors —— 双扇门｜at the end of the corridor —— 走廊尽头
-
-38
 00:04:04,467 --> 00:04:12,328
 (Q19) ⭐ lighting box —— 灯光控制室｜operate —— 操作｜at the back of... —— 在……后方
 
+38
+00:04:12,328 --> 00:04:25,305
+[Q19答案句，其实整题音频都是在描述lighting box位置] ⭐ through the door —— 穿过门｜water cooler —— 饮水机the second room along... —— 沿着……数第二个房间
+
 39
-00:04:12,328 --> 00:04:22,048
-⭐ through the door —— 穿过门｜water cooler —— 饮水机
-
-40
-00:04:22,048 --> 00:04:25,305
-⭐ the second room along... —— 沿着……数第二个房间
-
-41
-00:04:25,305 --> 00:04:32,380
+00:04:25,305 --> 00:04:32,379
 ⭐ have a window into sth —— 有一扇可以看到……的窗户；通向/朝向……的窗户
 
-42
-00:04:32,380 --> 00:04:42,764
-(Q20) ⭐ artistic director —— 艺术总监｜the first room you come to —— 第一个遇到的房间
+40
+00:04:32,379 --> 00:04:42,764
+(Q20) [Q20答案句] ⭐ artistic director —— 艺术总监｜the first room you come to —— 第一个遇到的房间
 
-43
+41
 00:04:42,764 --> 00:04:45,264
 ⭐ for the moment —— 目前｜take sb next —— 接下来带某人去……
 
