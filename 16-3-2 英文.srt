@@ -1,0 +1,132 @@
+1
+00:00:01,616 --> 00:00:03,215
+(Q11&12（多选）) Hello everyone.
+
+2
+00:00:03,215 --> 00:00:10,509
+My name's Megan Baker and I'm a recruitment consultant at AVT Recruitment specialists.
+
+3
+00:00:10,509 --> 00:00:23,576
+Now, our company specialises in positions that involve working in the agriculture and horticulture sectors, so that's fresh food production, garden and park maintenance and so on.
+
+4
+00:00:23,576 --> 00:00:28,533
+And these sectors do provide some very special career opportunities.
+
+5
+00:00:28,533 --> 00:00:43,979
+[Q11&12答案句C： flexible 工作机会] For a start, they often offer opportunities for those who don't want to be stuck with a 40-hour week, but need to juggle work with other responsibilities such as child care – and this is very important for many of our recruits.
+
+6
+00:00:43,979 --> 00:00:54,297
+[Q11&12干扰项E： 排除， cannot guarantee] Some people like working in a rural setting, surrounded by plants and trees instead of buildings, although we can't guarantee that.
+
+7
+00:00:54,297 --> 00:01:03,897
+[Q11&12答案句A： healthy lifestyle = active] But there are certainly health benefits, especially in jobs where you're not sitting all day looking at a screen, a big plus for many people.
+
+8
+00:01:03,897 --> 00:01:09,480
+[Q11&12干扰项B： 高于平均薪资：排除：although ... variety] Salaries can sometimes be good too, although there's a lot of variety here.
+
+9
+00:01:09,480 --> 00:01:21,035
+[Q11&12干扰项D： 出国工作机会，排除：depend on job] And you may have the opportunity in some types of jobs for travel overseas, although that obviously depends on the job, and not everyone is keen to do it.
+
+10
+00:01:21,035 --> 00:01:25,743
+(Q13&14) Of course, working outdoors does have its challenges.
+
+11
+00:01:25,743 --> 00:01:31,555
+[Q13&14答案句C： difficult weather conditions] It's fine in summer, but can be extremely unpleasant when it's cold and windy.
+
+12
+00:01:31,555 --> 00:01:39,880
+[Q13&14干扰项E： physical fitness：排除：that's not as important] You may need to be pretty fit for some jobs, though with modern technology that's not as important as it once was.
+
+13
+00:01:39,880 --> 00:01:48,048
+[Q13&14干扰项A： increasing risk，排除： fewer work accident] And standards of health and safety are much higher now than they used to be, so there are fewer work-related accidents.
+
+14
+00:01:48,048 --> 00:01:59,353
+[Q13&14答案句B： remote = quiet] But if you like a lively city environment surrounded by lots of people, these jobs are probably not for you – they're often in pretty remote areas.
+
+15
+00:01:59,353 --> 00:02:10,182
+[Q13&14干扰项D： cost of housing,首先cost没提及， 其次， 就算提到了housing， 最后都turns out fine] And some people worry about finding a suitable place to live, but in our experience, this usually turns out fine.
+
+16
+00:02:10,182 --> 00:02:17,623
+(Q15（Matching）) Now let me tell you about some of the exciting jobs that we have on our books right now.
+
+17
+00:02:17,623 --> 00:02:21,499
+One is for a fresh food commercial manager.
+
+18
+00:02:21,499 --> 00:02:28,559
+Our client here is a very large fresh food producer supplying a range of top supermarkets.
+
+19
+00:02:28,559 --> 00:02:42,222
+[Q17答案句D： intensive work but also fun, past-paced = intensive,play hard = fun] They operate in a very fast-paced environment with low profit margins – the staff there work hard, but they play hard as well, so if you've a sociable personality this may be for you.
+
+20
+00:02:42,222 --> 00:02:56,351
+(Q16) We have an exciting post as an agronomist advising farmers on issues such as crop nutrition, protection against pests, and the latest legislation on farming and agricultural practices.
+
+21
+00:02:56,351 --> 00:03:08,616
+[Q16答案句F： chance for rapid promotion, 晋升的表达] There are good opportunities for the right person to quickly make their way up the career ladder, but a deep knowledge of the agricultural sector is expected of applicants.
+
+22
+00:03:08,616 --> 00:03:17,543
+(Q17) [Q17答案句A： 12-month contract = not permanent 非永久的工作] A leading supermarket is looking for a fresh produce buyer who is available for a 12-month maternity cover contract.
+
+23
+00:03:17,543 --> 00:03:29,860
+[Q17干扰项：可能选成E， 因为 competitive salary 会误导成 earn more] You need to have experience in administration, planning and buying in the fresh produce industry, and in return will receive a very competitive salary.
+
+24
+00:03:29,860 --> 00:03:36,089
+(Q18) We have also received a request for a sales manager for a chain of garden centres.
+
+25
+00:03:36,089 --> 00:03:43,310
+[Q18答案句： you'll be visiting xxx = local travel involved] You will be visiting centres in the region to ensure their high levels of customer service are maintained.
+
+26
+00:03:43,310 --> 00:03:49,215
+[Q 18干扰项G？ live there 就想选accommodation 不对] This post is only suitable for someone who is prepared to live in the region.
+
+27
+00:03:49,215 --> 00:03:57,274
+(Q19) There is also a vacancy for a tree technician to carry out tree cutting, forestry and conservation work.
+
+28
+00:03:57,274 --> 00:04:04,360
+Candidates must have a clean driving licence and have training in safety procedures.
+
+29
+00:04:04,360 --> 00:04:14,068
+[Q19答案句C： 一年经验优先， but company 也 might consider刚结束training的人， 所以➡️experience not essential] A year's experience would be preferred but the company might be prepared to consider someone who has just completed an appropriate training course.
+
+30
+00:04:14,068 --> 00:04:18,413
+(Q20) Finally, we have a position for a farm worker.
+
+31
+00:04:18,413 --> 00:04:28,245
+This will involve a wide range of farm duties including crop sowing and harvesting, machine maintenance and animal care.
+
+32
+00:04:28,245 --> 00:04:37,345
+[Q20答案句G： possibility to rent cottage = accommodation 上下义替换。      至于为啥不是E earn more : through Overtime加班， 没提及加班的事] Perks of the job include the possibility of renting a small cottage on the estate, and the chance to earn a competitive salary.
+
+33
+00:04:37,345 --> 00:04:39,845
+[Q20可能干扰项H： 听到需要driver license，就觉得需要 local travel，其实需要的是tractor 拖拉机， 而且这俩也没啥关系] A driving licence and tractor driving experience are essential.
+
