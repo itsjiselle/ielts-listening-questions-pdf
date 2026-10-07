@@ -23,11 +23,11 @@ It's an old building, and it's been modernised several times.
 [Q11&12干扰项D：outside还没开始（about to）] The interior has just been repainted, and we're about to start on the exterior of the building.
 
 7
-00:00:35,527 --> 00:00:37,744
+00:00:35,527 --> 00:00:37,743
 That'll be a big job.
 
 8
-00:00:37,744 --> 00:00:43,572
+00:00:37,743 --> 00:00:43,572
 [Q1&12干扰项C： postpone 电梯] The work's running over budget, so we've had to postpone installing an elevator.
 
 9
@@ -51,11 +51,11 @@ When the theatre was built, people were generally slimmer and shorter than now, 
 [Q11&12答案句：A] We've also turned a few storerooms over to other purposes, like using them for meetings.
 
 14
-00:01:17,786 --> 00:01:22,201
+00:01:17,786 --> 00:01:22,200
 (Q13&14) We try hard to involve members of the public in the theatre.
 
 15
-00:01:22,201 --> 00:01:31,021
+00:01:22,200 --> 00:01:31,021
 One way is by organising backstage tours, so people can be shown round the building and learn how a theatre operates.
 
 16
@@ -79,19 +79,19 @@ Then there are two large rooms that will be decorated next month, and they'll be
 We're also considering hiring out costumes to amateur drama clubs.
 
 21
-00:02:09,758 --> 00:02:13,975
+00:02:09,758 --> 00:02:13,974
 (Q15&16) Now I want to tell you about our workshops.
 
 22
-00:02:13,975 --> 00:02:18,722
+00:02:13,974 --> 00:02:18,722
 We recently started a programme of workshops that anyone can join.
 
 23
-00:02:18,722 --> 00:02:27,570
+00:02:18,722 --> 00:02:27,569
 Eventually we intend to run courses in acting, but we're waiting until we've got the right people in place as trainers.
 
 24
-00:02:27,570 --> 00:02:31,460
+00:02:27,569 --> 00:02:31,460
 That's proving more difficult than we'd expected!
 
 25
@@ -99,74 +99,66 @@ That's proving more difficult than we'd expected!
 There's a big demand to learn about the technical side of putting on a production, and our lighting workshop has already started, with great success.
 
 26
-00:02:41,299 --> 00:02:45,326
+00:02:41,299 --> 00:02:45,325
 We've going to start one on sound next month.
 
 27
-00:02:45,326 --> 00:02:52,436
+00:02:45,325 --> 00:02:52,436
 A number of people have enquired about workshops on make-up, and that's something we're considering for the future.
 
 28
-00:02:52,436 --> 00:02:57,153
+00:02:52,436 --> 00:02:57,152
 A surprise success is the workshop on making puppets.
 
 29
-00:02:57,153 --> 00:03:03,186
+00:02:57,152 --> 00:03:03,186
 We happen to have someone working here who does it as a hobby, and she offered to run a workshop.
 
 30
-00:03:03,186 --> 00:03:09,611
+00:03:03,186 --> 00:03:09,610
 It was so popular we've now running them every month!
 
 31
-00:03:09,611 --> 00:03:13,473
+00:03:09,610 --> 00:03:13,473
 (Q17（地图题）) Now, a word about the layout of the building.
 
 32
-00:03:13,473 --> 00:03:19,914
+00:03:13,473 --> 00:03:19,913
 The auditorium, stage and dressing rooms for the actors are all below ground level.
 
 33
-00:03:19,914 --> 00:03:25,375
+00:03:19,913 --> 00:03:25,032
 Here on the ground floor we have most of the rooms that the public doesn't see.
 
 34
-00:03:25,375 --> 00:03:31,376
+00:03:25,032 --> 00:03:30,805
 The majority are internal, so they have windows in the roof to light them.
 
 35
-00:03:31,376 --> 00:03:40,419
-Standing here in the foyer, you're probably wondering why the box office isn't here, where the public would expect to find it.
+00:03:30,805 --> 00:03:50,521
+[Q17答案句] Standing here in the foyer, you're probably wondering why the box office isn't here, where the public would expect to find it.Well, you might have noticed it on your way in. Although it's part of this building, it's next door with a separate entrance from the road.
 
 36
-00:03:40,419 --> 00:03:50,522
-Well, you might have noticed it on your way in. Although it's part of this building, it's next door with a separate entrance from the road.
+00:03:50,521 --> 00:04:04,467
+(Q18) [Q18答案句] For the theatre manager's office, you go across the foyer and through the double doors, turn right, and it's the room at the end of the corridor, with the door on the left.
 
 37
-00:03:50,522 --> 00:04:04,467
-(Q18) For the theatre manager's office, you go across the foyer and through the double doors, turn right, and it's the room at the end of the corridor, with the door on the left.
-
-38
 00:04:04,467 --> 00:04:12,328
 (Q19) The lighting box is where the computerised stage lighting is operated, and it's at the back of the building.
 
+38
+00:04:12,328 --> 00:04:25,305
+[Q19答案句，其实整题音频都是在描述lighting box位置] When you're through the double doors, turn left, turn right at the water cooler and right again at the end. It's the second room along that corridor.
+
 39
-00:04:12,328 --> 00:04:22,048
-When you're through the double doors, turn left, turn right at the water cooler and right again at the end.
-
-40
-00:04:22,048 --> 00:04:25,305
-It's the second room along that corridor.
-
-41
-00:04:25,305 --> 00:04:32,380
+00:04:25,305 --> 00:04:32,379
 The lighting box has a window into the auditorium, which of course is below us.
 
-42
-00:04:32,380 --> 00:04:42,764
-(Q20) The artistic director's office is through the double doors, turn right, and it's the first room you come to on the right-hand side.
+40
+00:04:32,379 --> 00:04:42,764
+(Q20) [Q20答案句] The artistic director's office is through the double doors, turn right, and it's the first room you come to on the right-hand side.
 
-43
+41
 00:04:42,764 --> 00:04:45,264
 And finally, for the moment, the room where I'll take you next — the relaxation room.
 
