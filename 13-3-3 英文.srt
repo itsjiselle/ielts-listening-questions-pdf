@@ -1,0 +1,180 @@
+1
+00:00:01,470 --> 00:00:07,087
+(Q21（单选）) TUTOR: OK, Jim. You wanted to see me about your textile design project.
+
+2
+00:00:07,087 --> 00:00:15,302
+JIM: That's right. I've been looking at how a range of natural dyes can be used to colour fabrics like cotton and wool.&nbsp;
+
+3
+00:00:15,302 --> 00:00:18,137
+TUTOR: Why did you choose that topic?
+
+4
+00:00:18,137 --> 00:00:24,446
+[Q21干扰项A：听转折] JIM: Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles.&nbsp;
+
+5
+00:00:24,446 --> 00:00:36,040
+[Q21答案句C：听转折] But I've always been interested in anything to do with colour. Years ago, I went to a carpet shop with my parents when we were on holiday in Turkey, and I remember all the amazing colours.&nbsp;
+
+6
+00:00:36,040 --> 00:00:39,314
+TUTOR: They might not all have been natural dyes.
+
+7
+00:00:39,314 --> 00:00:51,263
+[Q21干扰项B： 是在决定follow it up 之后才找来的书。] JIM: Maybe not, but for the project I decided to follow it up. And I found a great book about a botanic garden in California that specialises in plants used for dyes.&nbsp;
+
+8
+00:00:51,263 --> 00:00:57,837
+(Q22) TUTOR: OK. So, in your project, you had to include a practical investigation.
+
+9
+00:00:57,837 --> 00:01:07,070
+JIM: Yeah. At first I couldn't decide on my variables. I was going to just look at one type of fibre for example, like cotton ...&nbsp;
+
+10
+00:01:07,070 --> 00:01:10,884
+TUTOR: ... and see how different types of dyes affected it?
+
+11
+00:01:10,884 --> 00:01:18,697
+JIM: Yes. Then I decided to include others as well, so I looked at cotton and wool and nylon.&nbsp;
+
+12
+00:01:18,697 --> 00:01:21,440
+TUTOR: With just one type of dye?
+
+13
+00:01:21,440 --> 00:01:26,596
+[Q22答案句：既提到了one dye, one fibre, 最后确认 都是好几种] JIM: Various types, including some that weren't natural, for comparison.
+
+14
+00:01:26,596 --> 00:01:28,103
+TUTOR: OK.
+
+15
+00:01:28,103 --> 00:01:40,771
+(Q23) [Q23干扰项B： 网站有supply，不代表 widely available，偷换概念] JIM: So, I did the experiments last week. I used some ready-made natural dyes, I found a website which supplied them, they came in just a few days, but I also made some of my own.&nbsp;
+
+16
+00:01:40,771 --> 00:01:44,117
+TUTOR: That must have taken quite a bit of time.
+
+17
+00:01:44,117 --> 00:01:58,079
+[Q23答案句A：原本以为只要 a teaspoon] JIM: Yes, I'd thought it'd just be a matter of a teaspoon or so of dye, and actually that wasn't the case at all. Like I was using one vegetable, beetroot, for a red dye, and I had to chop up a whole pile of it.&nbsp;
+
+18
+00:01:58,079 --> 00:02:00,714
+[Q23干扰项C： 费时间的是切东西，不是选项说的 leave the fabric in the dye] So it all took longer than I'd expected.&nbsp;
+
+19
+00:02:00,714 --> 00:02:04,577
+(Q24) TUTOR: One possibility is to use food colourings.
+
+20
+00:02:04,577 --> 00:02:09,460
+JIM: I did use one. That was a yellow dye, an artificial one.&nbsp;
+
+21
+00:02:09,460 --> 00:02:11,017
+TUTOR: Tartrazine?
+
+22
+00:02:11,017 --> 00:02:18,747
+[Q24答案句B：wash之后，color就 wash away, 🟰 not a permanent dye] JIM: Yeah. I used it on cotton first. It came out a great colour, but when I rinsed the material, the colour just washed away.&nbsp;
+
+23
+00:02:18,747 --> 00:02:22,944
+[Q24干扰项C： nylon， 想用。 Jim自己排除： I abandon] I'd been going to try it out on nylon, but I abandoned that idea.
+
+24
+00:02:22,944 --> 00:02:26,443
+TUTOR: Were you worried about health issues?
+
+25
+00:02:26,443 --> 00:02:30,203
+JIM: I'd thought if it's a legal food colouring, it must be safe. Jim：
+
+26
+00:02:30,203 --> 00:02:34,960
+[Q24干扰项A： 有过敏反应， 本身没问题，但不是Jim的problem。 这句话是导师说的。 题干说Jim， 就听Jim说的内容] TUTOR: Well, it can occasionally cause allergic reactions, I believe.
+
+27
+00:02:34,960 --> 00:02:38,093
+(Q25（Matching）) TUTOR: So what natural dyes did you look at?
+
+28
+00:02:38,093 --> 00:02:46,786
+JIM: Well, one was turmeric. The colour's great, it's a really strong yellow. It's generally used in dishes like curry.&nbsp;
+
+29
+00:02:46,786 --> 00:02:55,755
+[Q25答案句： not permanent = not long-lasting] TUTOR: It's meant to be quite good for your health when eaten, but you might find it's not permanent when it's used as a dye - a few washes, and it's gone.
+
+30
+00:02:55,755 --> 00:03:09,176
+(Q26) [Q26答案句：F 颜色unexpected， 手变red, 羊毛变 watery cream， + 态度 disappointed = unexpected] JIM: Right. I used beetroot as a dye for wool. When I chop up beetroot to eat I always end up with bright red hands, but the wool ended up just a sort of watery cream shade. Disappointing.&nbsp;
+
+31
+00:03:09,176 --> 00:03:13,660
+(Q27) TUTOR: There's a natural dye called Tyrian purple. Have you heard of that?
+
+32
+00:03:13,660 --> 00:03:23,452
+[Q27干扰项A： expensive？ 只说过去身份显赫的用，不代表现在还 expensive] JIM: Yes. It comes from a shellfish, and it was worn in ancient times but only by important people as it was so rare. I didn't use it.&nbsp;
+
+33
+00:03:23,452 --> 00:03:33,015
+[Q27答案句H： 有人manage to得到了一些， = not generally available] TUTOR: It fell out of use centuries ago, though one researcher managed to get hold of some recently. But that shade of purple can be produced by chemical dyes nowadays.&nbsp;
+
+34
+00:03:33,015 --> 00:03:35,659
+(Q28) Did you use any black dyes?
+
+35
+00:03:35,659 --> 00:03:41,888
+JIM: Logwood. That was quite complicated. I had to prepare the fabric so the dye would take.
+
+36
+00:03:41,888 --> 00:03:44,603
+TUTOR: I hope you were careful to wear gloves.
+
+37
+00:03:44,603 --> 00:03:47,770
+JIM: Yes. I know the danger with that dye.&nbsp;
+
+38
+00:03:47,770 --> 00:03:51,177
+[Q28答案句D： poisonous 解释型] TUTOR: Good. It can be extremely dangerous if it's ingested.&nbsp;
+
+39
+00:03:51,177 --> 00:03:56,993
+(Q29) Now, presumably you had a look at an insect-based dye? Like cochineal, for example?
+
+40
+00:03:56,993 --> 00:04:09,340
+[Q29干扰项H： 提到了not available, 只是这个地方not available, 不代表选项中说的generally] JIM: Yes. I didn't actually make that, I didn't have time to start crushing up insects to get the red colour and anyway they're not available here, but I managed to get the dye quite easily from a website.&nbsp;
+
+41
+00:04:09,340 --> 00:04:16,244
+[Q29答案句A： It is expensive.] But 【it cost a fortune】. I can see why it's generally just used in cooking, and in small quantities.&nbsp;
+
+42
+00:04:16,244 --> 00:04:21,387
+TUTOR: Yes, it's very effective, but that's precisely why it's not used as a dye.
+
+43
+00:04:21,387 --> 00:04:30,797
+(Q30) JIM: I also read about using metal oxide. Apparently you can allow iron to rust while it's in contact with the fabric, and that colours it.
+
+44
+00:04:30,797 --> 00:04:41,319
+[Q30答案句E：It can damage the fabric, damage = affect] TUTOR: Yes, that works well for dying cotton. But you have to be careful as the metal 【can actually affect the fabric】 and so you can't expect to get a lot of wear out of fabrics treated in this way.&nbsp;
+
+45
+00:04:41,319 --> 00:04:43,819
+[Q30干扰项F： unexpected， 颜色subtle不代表就是unexpected] And the colours are quite subtle, not everyone likes them. Anyway, it looks as if you've done a lot of work ...
+
