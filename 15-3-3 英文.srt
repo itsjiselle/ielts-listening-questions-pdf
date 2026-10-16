@@ -1,0 +1,192 @@
+1
+00:00:00,623 --> 00:00:04,073
+(Q21（笔记填空）) HAZAL:Tom, could I ask you for some advice, please?&nbsp;
+
+2
+00:00:04,073 --> 00:00:09,123
+Tom:Yes of course, if you think I can help. What's it about?&nbsp;
+
+3
+00:00:09,123 --> 00:00:17,006
+HAZAL:It's my first media studies assignment, and I'm not sure how to go about it. You must have done it last year.&nbsp;
+
+4
+00:00:17,006 --> 00:00:22,796
+Tom:Is that the one comparing the coverage of a particular story in a range of newspapers?&nbsp;
+
+5
+00:00:22,796 --> 00:00:23,829
+HAZAL:That's right.&nbsp;
+
+6
+00:00:23,829 --> 00:00:26,626
+Tom:Oh yes, I really enjoyed writing it.&nbsp;
+
+7
+00:00:26,626 --> 00:00:30,257
+HAZAL:So what sort of things do I need to compare?&nbsp;
+
+8
+00:00:30,257 --> 00:00:38,117
+Tom:Well, there are several things. For example, there's the question of which page of the newspaper the item appears on.&nbsp;
+
+9
+00:00:38,117 --> 00:00:45,560
+Hazel:You mean, because there's a big difference between having it on the front page and the bottom of page ten, for instance?&nbsp;
+
+10
+00:00:45,560 --> 00:00:51,914
+Tom:Exactly. And that shows how important the editor thinks the story is.&nbsp;
+
+11
+00:00:51,914 --> 00:01:00,474
+[报道篇幅与视觉元素] Then there's the size – how many column inches the story is given, how many columns it spreads over.
+
+12
+00:01:00,474 --> 00:01:03,606
+Hazel:And I suppose that includes the headline.&nbsp;
+
+13
+00:01:03,606 --> 00:01:08,074
+Tom:It certainly does. It's all part of attracting the reader's attention.&nbsp;
+
+14
+00:01:08,074 --> 00:01:13,464
+Hazel:What about graphics – whether there's anything visual in addition to the text?&nbsp;
+
+15
+00:01:13,464 --> 00:01:16,183
+Tom:Yes, you need to consider those, too,&nbsp;
+
+16
+00:01:16,183 --> 00:01:24,071
+because they can have a big effect on the reader's understanding of the story – sometimes a bigger effect than the text itself.
+
+17
+00:01:24,071 --> 00:01:30,415
+[信息结构与真实性] Then you'll need to look at how the item is put together: what structure is it given?
+
+18
+00:01:30,415 --> 00:01:35,969
+Bear in mind that not many people read beyond the first paragraph,
+
+19
+00:01:35,969 --> 00:01:39,138
+so what has the journalist put at the beginning?
+
+20
+00:01:39,138 --> 00:01:48,257
+And if, say, there are conflicting opinions about something, does one appear near the end, where people probably won't read it?
+
+21
+00:01:48,257 --> 00:01:53,985
+Hazel:And newspapers sometimes give wrong or misleading information, don't they?&nbsp;
+
+22
+00:01:53,985 --> 00:01:59,042
+Either deliberately or by accident. Should I be looking at that, too?
+
+23
+00:01:59,042 --> 00:02:08,951
+Tom:Yes, if you can. Compare what's in different versions, and as far as possible, try and work out what's true and what isn't.&nbsp;
+
+24
+00:02:08,951 --> 00:02:15,076
+[作者目的与读者预设] And that relates to a very important point: what's the writer's purpose,
+
+25
+00:02:15,076 --> 00:02:19,432
+or at least the most important one, if they have several.
+
+26
+00:02:19,432 --> 00:02:26,046
+It may seem to be to inform the public, but often it's that they want to create fear,
+
+27
+00:02:26,046 --> 00:02:30,443
+or controversy, or to make somebody look ridiculous.
+
+28
+00:02:30,443 --> 00:02:37,477
+Hazel:Gosh, I see what you mean. And I suppose the writer may make assumptions about the reader.&nbsp;
+
+29
+00:02:37,477 --> 00:02:43,600
+Tom:That's right – about their knowledge of the subject, their attitudes, and their level of education,&nbsp;
+
+30
+00:02:43,600 --> 00:02:49,223
+which means writing so that the readers understand without feeling patronised.
+
+31
+00:02:49,223 --> 00:02:55,571
+All of that will make a difference to how the story is presented.
+
+32
+00:02:55,571 --> 00:03:00,105
+(Q27（Matching意愿类）) Hazel:Does it matter what type of story I write about?&nbsp;
+
+33
+00:03:00,105 --> 00:03:09,423
+Tom:No – national or international politics, the arts ... Anything, as long as it's covered in two or three newspapers.&nbsp;
+
+34
+00:03:09,423 --> 00:03:15,954
+Though of course it'll be easier and more fun if it's something you're interested in and know something about.
+
+35
+00:03:15,954 --> 00:03:26,117
+[Q27答案句：A， 态度词 keen on] Hazel:And on that basis a national news item would be worth analysing – I'm quite keen on politics, so I'll try and find a suitable topic.&nbsp;
+
+36
+00:03:26,117 --> 00:03:29,287
+(Q28) What did you choose for your analysis, Tom?&nbsp;
+
+37
+00:03:29,287 --> 00:03:34,488
+Tom:I was interested in how newspapers express their opinions explicitly,&nbsp;
+
+38
+00:03:34,488 --> 00:03:45,810
+so I wanted to compare editorials in different papers, but when I started looking, I couldn't find two on the same topic that I felt like analysing.
+
+39
+00:03:45,810 --> 00:03:48,619
+[Q28答案句：C won't] Hazel:In that case, I won't even bother to look.&nbsp;
+
+40
+00:03:48,619 --> 00:03:55,984
+(Q29) Tom:So in the end I chose a human interest story – a terribly emotional story about a young girl who was very ill,&nbsp;
+
+41
+00:03:55,984 --> 00:04:03,309
+and lots of other people – mostly strangers – raised money so she could go abroad for treatment.
+
+42
+00:04:03,309 --> 00:04:09,811
+Actually, I was surprised – some papers just wrote about how wonderful everyone was,
+
+43
+00:04:09,811 --> 00:04:15,901
+but others considered the broader picture, like why treatment wasn't available here.
+
+44
+00:04:15,901 --> 00:04:23,184
+[Q29答案句：C不会做  ，态度词：avoid] Hazel:Hmm, I usually find stories like that raise quite strong feelings in me! I'll avoid that.
+
+45
+00:04:23,184 --> 00:04:32,043
+(Q30) [Q30答案句：may 可能做，态度词： think about] Perhaps I'll choose an arts topic, like different reviews of a film, or something about funding for the arts, I'll think about that.
+
+46
+00:04:32,043 --> 00:04:34,587
+Tom：Yes, that might be interesting.&nbsp;
+
+47
+00:04:34,587 --> 00:04:39,068
+Hazel:OK, well thanks a lot for your help, Tom. It's been really useful.&nbsp;
+
+48
+00:04:39,068 --> 00:04:41,568
+Tom:You're welcome. Good luck with the assignment, Hazel.&nbsp;
+
