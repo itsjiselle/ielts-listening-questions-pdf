@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:01,086
-(Q11（单选）) [城市项目]  
+(Q11（单选）)  
 
 2
 00:00:01,086 --> 00:00:13,016
@@ -8,63 +8,63 @@
 
 3
 00:00:13,016 --> 00:00:23,138
-⭐ ️【initiative = 新举措；新项目】⭐️【extensive consultation exercise = 大规模意见征询活动】⭐️【conduct a consultation = 开展意见征询】
+[Q11答案句（A）+ Q11干扰项B] ⭐ ️【initiative = 新举措；新项目】⭐️【extensive consultation exercise = 大规模意见征询活动】⭐️【conduct a consultation = 开展意见征询】
 
 4
 00:00:23,138 --> 00:00:30,097
-⭐ ️【realise an initiative = 将项目／构想变为现实】⭐️【regional development commission = 地区发展委员会】
+[Q11干扰项C] ⭐ ️【realise an initiative = 将项目／构想变为现实】⭐️【regional development commission = 地区发展委员会】
 
 5
 00:00:30,097 --> 00:00:32,810
-[露天泳池] ⭐ ️【first of all = 首先（话语功能：开启第一项内容）】
+(Q12) ⭐ ️【first of all = 首先（话语功能：开启第一项内容）】
 
 6
-00:00:32,810 --> 00:00:44,232
+00:00:32,810 --> 00:00:44,231
 ⭐ ️【the sea front = 海滨地区】⭐️【be judged to be = 被判定为……】
 
 7
-00:00:44,232 --> 00:00:59,555
+00:00:44,231 --> 00:00:59,554
 ⭐ ️【secure the talents of = 成功请到某位人才】⭐️【internationally renowned = 国际知名的】⭐️【fit in with = 与……协调；融入……】
 
 8
-00:00:59,555 --> 00:01:08,588
+00:00:59,554 --> 00:01:08,587
 ⭐ ️【up-to-the-minute = 最新式的；最先进的】⭐️【the only one of its kind = 同类中唯一的一个】⭐️【enable something to be used = 使某物能够得到使用】
 
 9
-00:01:08,588 --> 00:01:21,641
-⭐ ️【the local press = 当地媒体】⭐️【the design is deceptive = 设计呈现出的空间感具有迷惑性；实际空间比看起来大】⭐️【rigorous checks = 严格检查】⭐️【capacity = 容纳能力】
+00:01:08,587 --> 00:01:21,641
+(Q13) [Q13答案句（C） + 题干定位句 有同替： press = newspaper] ⭐ ️【the local press = 当地媒体】⭐️【the design is deceptive = 设计呈现出的空间感具有迷惑性；实际空间比看起来大】⭐️【rigorous checks = 严格检查】⭐️【capacity = 容纳能力】
 
 10
-00:01:21,641 --> 00:01:33,716
-⭐ ️【just in case you were wondering = 或许你正想知道（话语功能：预判并回应疑问）】⭐️【be on schedule = 按计划进行】⭐️【well within budget = 远未超出预算】⭐️【a testimony to = ……的有力证明】⭐️【contractor = 承包商】
+00:01:21,641 --> 00:01:33,715
+[Q13干扰项A+B 并列关系] ⭐ ️【just in case you were wondering = 或许你正想知道（话语功能：预判并回应疑问）】⭐️【be on schedule = 按计划进行】⭐️【well within budget = 远未超出预算】⭐️【a testimony to = ……的有力证明】⭐️【contractor = 承包商】
 
 11
-00:01:33,716 --> 00:01:38,305
-[开幕活动] ⭐ ️【as many people as possible = 尽可能多的人】
+00:01:33,715 --> 00:01:38,305
+(Q14) [Q14干扰项B] ⭐ ️【as many people as possible = 尽可能多的人】
 
 12
 00:01:38,305 --> 00:01:46,637
-⭐ ️【engage someone to do = 聘请／邀请某人做某事】⭐️【award-winning = 获奖的】⭐️【declare something open = 宣布某设施正式开放】
+[Q14干扰项C] ⭐ ️【engage someone to do = 聘请／邀请某人做某事】⭐️【award-winning = 获奖的】⭐️【declare something open = 宣布某设施正式开放】
 
 13
-00:01:46,637 --> 00:01:58,317
-⭐ ️【decide on = 选定；决定采用】⭐️【historical figure = 历史人物】
+00:01:46,637 --> 00:01:58,316
+[Q14答案句A： figure= statue] ⭐ ️【decide on = 选定；决定采用】⭐️【historical figure = 历史人物】
 
 14
-00:01:58,317 --> 00:02:09,716
+00:01:58,316 --> 00:02:09,716
 (Q15（配对）) ⭐ ️【move on to = 转而介绍……（话语功能：话题转换）】⭐️【come through = 消息传来；收到消息】
 
 15
-00:02:09,716 --> 00:02:21,224
+00:02:09,716 --> 00:02:21,223
 ⭐ ️【be based on the concept of = 以……概念为基础】⭐️【representative feature = 代表性特色】
 
 16
-00:02:21,224 --> 00:02:33,400
+00:02:21,223 --> 00:02:33,400
 [Q15答案句E：snakes, orang-utans, tigers = local animals] ⭐ ️【in the shape of = 呈……形状】⭐️【fauna = 某地区的动物群】⭐️【be native to = 原生于……】
 
 17
 00:02:33,400 --> 00:02:42,215
-(Q16) [Q16干扰项C(ice&snow)+答案句F：mountains原词， 但需要听到instead of表示转折才行] ⭐ ️【run to = 有足够的钱负担】⭐️【opt instead for = 转而选择】⭐️【climbing block = 攀爬设施】【ice rink 溜冰场】
+(Q16) [Q16干扰项C(ice&snow)+Q16答案句F：mountains原词， 但需要听到instead of表示转折才行] ⭐ ️【run to = 有足够的钱负担】⭐️【opt instead for = 转而选择】⭐️【climbing block = 攀爬设施】【ice rink 溜冰场】
 
 18
 00:02:42,215 --> 00:02:48,538
