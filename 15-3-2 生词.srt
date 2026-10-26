@@ -44,7 +44,7 @@
 
 12
 00:01:05,350 --> 00:01:13,863
-[Q13答案句（C）， resident = local， warden原词] ⭐ ️【warden = 管理员；值守人员】⭐️【block off = 用路障等封锁】
+[Q13答案句（C）， resident = local， warden原词， block off = 题干close] ⭐ ️【warden = 管理员；值守人员】⭐️【block off = 用路障等封锁】
 
 13
 00:01:13,863 --> 00:01:21,940

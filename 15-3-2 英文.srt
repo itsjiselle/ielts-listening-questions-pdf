@@ -44,7 +44,7 @@ So when did you actually start the scheme, Alice?
 
 12
 00:01:05,350 --> 00:01:13,863
-[Q13答案句（C）， resident = local， warden原词] Alice:We have volunteer wardens, mostly parents but some elderly residents too, who block off our road at either end.&nbsp;
+[Q13答案句（C）， resident = local， warden原词， block off = 题干close] Alice:We have volunteer wardens, mostly parents but some elderly residents too, who block off our road at either end.&nbsp;
 
 13
 00:01:13,863 --> 00:01:21,940
