@@ -16,102 +16,102 @@ Our hosts had arranged a great programme.
 
 5
 00:00:32,332 --> 00:00:38,923
-We learned how cheese is produced in the region and had the chance to taste the products.
+[Q11干扰项（C） ； 仅提及， 不符合especially] We learned how cheese is produced in the region and had the chance to taste the products.
 
 6
 00:00:38,923 --> 00:00:50,067
-The theme park trip had to be cancelled, but we all had a great time on the final boat trip down the river – that was the real highlight.
+[Q11答案句（B） highlight = especially， + Q11干扰项A： 排除依据： 否定表达 - cancel] The theme park trip had to be cancelled, but we all had a great time on the final boat trip down the river – that was the real highlight.
 
 7
 00:00:50,067 --> 00:00:57,548
-This is a special year for the Association because it's 25 years since we were founded.
+(Q12) This is a special year for the Association because it's 25 years since we were founded.
 
 8
 00:00:57,548 --> 00:01:04,337
-In Malatte, they're planning to mark this by building a footbridge in the municipal park.
+[Q12干扰项（C）： Malatte小镇计划， 和题干中的Stanthorpe不符] In Malatte, they're planning to mark this by building a footbridge in the municipal park.
 
 9
-00:01:04,337 --> 00:01:12,832
-We've been discussing what to do here and we've decided to plant a poplar tree in the museum gardens.
+00:01:04,337 --> 00:01:12,831
+[Q12答案句（A） poplar tree = tree 上下义] We've been discussing what to do here and we've decided to plant a poplar tree in the museum gardens.
 
 10
-00:01:12,832 --> 00:01:19,804
-We considered buying a garden seat to put there, but the authorities weren't happy with that idea.
+00:01:12,831 --> 00:01:19,804
+[Q12干扰项（B） 排除依据： 否定表达： weren't happy about] We considered buying a garden seat to put there, but the authorities weren't happy with that idea.
 
 11
 00:01:19,804 --> 00:01:26,408
-In terms of fundraising to support our activities, we've done very well.
+(Q13) In terms of fundraising to support our activities, we've done very well.
 
 12
 00:01:26,408 --> 00:01:39,164
-Our pancake evening was well attended and made record profits. And everyone enjoyed the demonstration of French cookery, which was nearly as successful.
+[Q13答案句（B） record = most， Q13干扰项（C） 仅提及] Our pancake evening was well attended and made record profits. And everyone enjoyed the demonstration of French cookery, which was nearly as successful.
 
 13
-00:01:39,164 --> 00:01:48,139
-Numbers for our film show were limited because of the venue so we're looking for somewhere bigger next year.
+00:01:39,164 --> 00:01:48,138
+[Q13干扰项（A）仅提及] Numbers for our film show were limited because of the venue so we're looking for somewhere bigger next year.
 
 14
-00:01:48,139 --> 00:01:59,148
-We're looking forward to welcoming our French visitors here next week, and I know that many of you here will be hosting individuals or families.
+00:01:48,138 --> 00:01:59,147
+(Q14) We're looking forward to welcoming our French visitors here next week, and I know that many of you here will be hosting individuals or families.
 
 15
-00:01:59,148 --> 00:02:05,102
+00:01:59,147 --> 00:02:05,102
 The coach from France will arrive at 5 pm on Friday.
 
 16
-00:02:05,102 --> 00:02:15,119
-Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.
+00:02:05,102 --> 00:02:15,118
+[Q14答案句（C） have dinner in house = meal at home ， Q14干扰项（B） 排除依据， 否定， rather than.     eat out = restaurant] Don't try to do too much that first evening as they'll be tired, so have dinner in the house or garden rather than eating out.
 
 17
-00:02:15,119 --> 00:02:21,329
+00:02:15,118 --> 00:02:21,329
 The weather looks as if it'll be OK so you might like to plan a barbecue.
 
 18
-00:02:21,329 --> 00:02:29,664
-Then the next morning's market day in town, and that's always a good place to stroll round.
+00:02:21,329 --> 00:02:29,663
+[Q14干扰项A， 不符合 first evening] Then the next morning's market day in town, and that's always a good place to stroll round.
 
 19
-00:02:29,664 --> 00:02:41,840
-On Saturday evening, we'll all meet up at the football club, where once again we'll have Toby Sharp and his band performing English and Scottish country songs.
+00:02:29,663 --> 00:02:41,840
+(Q15) [Q15答案句（A） + Q15干扰项B- 偷换概念 football] On Saturday evening, we'll all meet up at the football club, where once again we'll have Toby Sharp and his band performing English and Scottish country songs.
 
 20
-00:02:41,840 --> 00:02:53,541
-Toby will already be well known to many of you as last year he organised our special quiz night and presented the prizes. Toby
+00:02:41,840 --> 00:02:53,540
+[Q15干扰项（C） 去年的一个quiz，不符合时间限定] Toby will already be well known to many of you as last year he organised our special quiz night and presented the prizes.&nbsp;
 
 21
-00:02:53,541 --> 00:03:04,662
+00:02:53,540 --> 00:03:04,662
 (Q16（地图）) Now on Sunday, we'll be taking our visitors to Farley House. You may not all be familiar with it, so here's a map to help you.
 
 22
-00:03:04,662 --> 00:03:19,456
+00:03:04,662 --> 00:03:19,455
 You can see the car park at the bottom of the map. There's an excellent farm shop in the grounds where our visitors can buy local produce – it's in the old stables, which is the first building you come to.
 
 23
-00:03:19,456 --> 00:03:25,998
+00:03:19,455 --> 00:03:25,997
 They're built round a courtyard, and the shop's in the far corner on the left.
 
 24
-00:03:25,998 --> 00:03:30,798
+00:03:25,997 --> 00:03:30,798
 There's also a small café on the right as you go in.
 
 25
-00:03:30,798 --> 00:03:36,593
+00:03:30,798 --> 00:03:36,592
 (Q17) I know that one or two of our visitors may not be all that mobile.
 
 26
-00:03:36,593 --> 00:03:44,092
+00:03:36,592 --> 00:03:44,092
 The main entrance to the house has a lot of steps so you might want to use the disabled entry.
 
 27
-00:03:44,092 --> 00:03:48,452
+00:03:44,092 --> 00:03:48,451
 This is on the far side of the house from the car park.
 
 28
-00:03:48,452 --> 00:03:53,922
+00:03:48,451 --> 00:03:53,921
 (Q18) Children will probably be most interested in the adventure playground.
 
 29
-00:03:53,922 --> 00:04:01,013
+00:03:53,921 --> 00:04:01,013
 That's at the northern end of the larger lake, in a bend on the path that leads to the lake.
 
 30
@@ -123,26 +123,26 @@ There's lots for children to do there.&nbsp;
 (Q19) There are a number of lovely gardens near the house. The kitchen gardens are rectangular and surrounded by a wall.
 
 32
-00:04:13,911 --> 00:04:18,621
+00:04:13,911 --> 00:04:18,620
 They're to the north-east of the house, quite near the smaller lake.
 
 33
-00:04:18,621 --> 00:04:24,310
+00:04:18,620 --> 00:04:24,310
 They're still in use and have a great collection of fruit and vegetables.
 
 34
-00:04:24,310 --> 00:04:30,662
+00:04:24,310 --> 00:04:30,661
 (Q20) The Temple of the Four Winds is a bit more of a walk – but it's worth it.
 
 35
-00:04:30,662 --> 00:04:37,887
+00:04:30,661 --> 00:04:37,887
 Take the path from the car park and go past the western sides of the stables and the house.
 
 36
-00:04:37,887 --> 00:04:48,714
+00:04:37,887 --> 00:04:48,713
 Then when the path forks, take the right-hand path. Go up there with the woods on your left and the temple is right at the end.
 
 37
-00:04:48,714 --> 00:04:51,214
+00:04:48,713 --> 00:04:51,213
 There are great views over the whole area.
 
