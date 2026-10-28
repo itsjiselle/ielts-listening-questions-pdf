@@ -7,95 +7,95 @@
 I'm one of the archaeologists investigating the site here at Bidcaster.
 
 3
-00:00:06,213 --> 00:00:13,370
+00:00:06,213 --> 00:00:13,369
 This is the third summer for this community project, and most of the people digging here are volunteers.
 
 4
-00:00:13,370 --> 00:00:25,014
-I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country.
+00:00:13,369 --> 00:00:25,013
+[Q11答案句（B） set up = start， up and down the country = national + Q11干扰项C] I'm a full-time archaeologist for the town council, but I was asked to join the project by NHA, a charity which sets up projects like this up and down the country.
 
 5
-00:00:25,014 --> 00:00:33,209
+00:00:25,013 --> 00:00:33,209
 As you can see, we're next to Bidcaster Castle, which is great because the owners let us use their facilities.
 
 6
 00:00:33,209 --> 00:00:36,822
-So, how did we get to where we are today?
+(Q12) So, how did we get to where we are today?
 
 7
-00:00:36,822 --> 00:00:46,104
+00:00:36,822 --> 00:00:46,103
 Many archaeology projects happen when an ancient object is found, and in our case, that object was a gold coin.
 
 8
-00:00:46,104 --> 00:00:59,502
-Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels.
+00:00:46,103 --> 00:00:59,502
+[Q12干扰项C/B。 并列关系 排除。 + are often found 不是 题目中所指的coin] Coins are often found by people using metal detectors to look for things buried in the ground – or coins are uncovered when wild animals like rabbits have been digging tunnels.
 
 9
-00:00:59,502 --> 00:01:07,267
-Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.
+00:00:59,502 --> 00:01:07,266
+[Q12答案句（A） heavy rain = rainstorm] Here, a walker found it on the ground after a rainstorm washed away some of the earth and sand.
 
 10
-00:01:07,267 --> 00:01:21,084
-When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted me to say he believed there had been a village on this site, centuries before the castle was built.
+00:01:07,266 --> 00:01:21,084
+(Q13) When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted me to say he believed there had been a village on this site, centuries before the castle was built.
 
 11
 00:01:21,084 --> 00:01:37,137
-Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.
+[Q13答案句： by chance = lucky 平行替换， 500-hundred-year-old = old  解释型， maps and documents = record(n.)] Just by chance, the team found some old maps and documents in our library which showed five-hundred-year-old drawings of ruined buildings on the grassy area between the outer stone walls of the castle and the river.
 
 12
-00:01:37,137 --> 00:01:40,445
+00:01:37,137 --> 00:01:40,444
 We knew then we were onto something.
 
 13
-00:01:40,445 --> 00:01:49,864
-Over the three summers the team has been here, we've found the remains of several buildings, and more broken pots than you can count!
+00:01:40,444 --> 00:01:49,864
+(Q14) [Q14干扰项（A） have found] Over the three summers the team has been here, we've found the remains of several buildings, and more broken pots than you can count!
 
 14
 00:01:49,864 --> 00:01:58,013
-Normally you'd expect to find brooches and other jewellery, but we're still waiting to uncover any such items.
+[Q14答案句（C） still waiting = hope to, brooches and other jewelry = jewellery 上下义] Normally you'd expect to find brooches and other jewellery, but we're still waiting to uncover any such items.
 
 15
 00:01:58,013 --> 00:02:06,811
-The people who once lived here were skilled at making tools from animal bones, as you'll see when you visit the exhibition.
+[Q14干扰项（B） 现在已经发现了。 时态不符，] The people who once lived here were skilled at making tools from animal bones, as you'll see when you visit the exhibition.
 
 16
-00:02:06,811 --> 00:02:21,833
-Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system.
+00:02:06,811 --> 00:02:21,832
+(Q15) [Q15答案句（B） outline = border + Q15干扰项（C） 排除依据： 否定信号词 no other ...] Besides the discovery of the village, we've also found evidence of human activity on the other side of the river – no other houses or huts so far, but we can see the borders of an ancient field system.
 
 17
-00:02:21,833 --> 00:02:29,947
-At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.
+00:02:21,832 --> 00:02:29,947
+[Q15干扰项A： 排除依据， 否定信号词 but it turned out to be] At one point we found a long wall and thought it was an ancient palace, but it turned out to be a modern wall.
 
 18
-00:02:29,947 --> 00:02:35,224
-This summer's work will end soon, but we'll be back next summer.
+00:02:29,947 --> 00:02:35,223
+(Q16) This summer's work will end soon, but we'll be back next summer.
 
 19
-00:02:35,224 --> 00:02:42,011
-In the meantime, we're putting on a series of guided tours for school groups this autumn.
+00:02:35,223 --> 00:02:42,010
+[Q16答案句（C） put on 举办 组织= organize] In the meantime, we're putting on a series of guided tours for school groups this autumn.
 
 20
-00:02:42,011 --> 00:02:46,853
-Oh and, maybe you saw the TV documentary about our project.
+00:02:42,010 --> 00:02:46,853
+[Q16干扰项（B） 时态不符， saw] Oh and, maybe you saw the TV documentary about our project.
 
 21
-00:02:46,853 --> 00:02:54,618
-That suggested the objects we've found are going to the town's museum, but we don't know that for sure yet.
+00:02:46,853 --> 00:02:54,617
+[Q16干扰项（A）排除依据： 否定 - not sure] That suggested the objects we've found are going to the town's museum, but we don't know that for sure yet.
 
 22
-00:02:54,618 --> 00:03:00,209
+00:02:54,617 --> 00:03:00,209
 (Q17（地图）) When you enter the site, please make sure you keep to the paths at all times.
 
 23
-00:03:00,209 --> 00:03:06,457
+00:03:00,209 --> 00:03:06,456
 There are a few other things – the highlights of the site, if you like – that I want to mention.
 
 24
-00:03:06,457 --> 00:03:12,534
+00:03:06,456 --> 00:03:12,533
 Take a look at the map; our present location is marked at the bottom.
 
 25
-00:03:12,534 --> 00:03:18,038
+00:03:12,533 --> 00:03:18,038
 This year we've identified the foundations of an ancient bridge.
 
 26
@@ -111,15 +111,15 @@ To reach the bridge, take the main path ahead of you, go straight on and keep go
 You'll see a smaller track leading off to the right.
 
 29
-00:03:39,221 --> 00:03:43,587
+00:03:39,221 --> 00:03:43,586
 Follow that to take you to the river, where the divers are.
 
 30
-00:03:43,587 --> 00:03:47,220
+00:03:43,586 --> 00:03:47,219
 (Q18) You might be interested to see the rubbish pit.
 
 31
-00:03:47,220 --> 00:03:52,889
+00:03:47,219 --> 00:03:52,889
 This is very near the castle walls in the northwest corner of the site.
 
 32
@@ -127,11 +127,11 @@ This is very near the castle walls in the northwest corner of the site.
 It actually dates to the time of the castle and not the ancient village.
 
 33
-00:03:58,655 --> 00:04:06,837
+00:03:58,655 --> 00:04:06,836
 We found oyster shells and fish bones, and we assume they were thrown from the castle kitchen above.
 
 34
-00:04:06,837 --> 00:04:12,842
+00:04:06,836 --> 00:04:12,842
 (Q19) One area we excavated in the first summer uncovered the site of a meeting hall.
 
 35
@@ -139,15 +139,15 @@ We found oyster shells and fish bones, and we assume they were thrown from the c
 We knew it was an important building because it had two rows of post holes, deep enough to support a large roof.
 
 36
-00:04:21,288 --> 00:04:28,801
+00:04:21,288 --> 00:04:28,800
 It's the largest structure in the central area of the site, next to the current excavation area.
 
 37
-00:04:28,801 --> 00:04:33,299
+00:04:28,800 --> 00:04:33,298
 (Q20) Last year we discovered a fish pond in the ancient village.
 
 38
-00:04:33,299 --> 00:04:36,024
+00:04:33,298 --> 00:04:36,024
 Normally these were beside a river.
 
 39
@@ -163,10 +163,10 @@ Anyway, to get there from here, you turn right at the first information board yo
 Before you come out of the trees, you'll see it on your right.
 
 42
-00:04:56,958 --> 00:05:01,202
+00:04:56,958 --> 00:05:01,201
 If you reach the river, you've gone too far.
 
 43
-00:05:01,202 --> 00:05:03,702
+00:05:01,201 --> 00:05:03,701
 So, does anyone …
 
