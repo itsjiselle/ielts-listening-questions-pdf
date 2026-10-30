@@ -155,11 +155,11 @@ Well, as you'll be aware, of course the building is no smoking throughout.
 Of course.
 
 40
-00:03:17,175 --> 00:03:19,313
+00:03:17,175 --> 00:03:19,312
 Now, are you having a band?
 
 41
-00:03:19,313 --> 00:03:20,508
+00:03:19,312 --> 00:03:20,508
 Yes.
 
 42
@@ -179,19 +179,19 @@ Well, they'll have a lot of equipment,
 OK.
 
 46
-00:03:36,455 --> 00:03:40,771
+00:03:36,455 --> 00:03:40,770
 And talking of bands, I'm sure I don't need to tell you this,
 
 47
-00:03:40,771 --> 00:03:47,002
+00:03:40,770 --> 00:03:47,002
 but you must make sure that no one fiddles about with the black box by the fire door
 
 48
-00:03:47,002 --> 00:03:54,003
+00:03:47,002 --> 00:03:54,002
 that's a system that cuts in when the volume reaches a certain level. It's a legal requirement.
 
 49
-00:03:54,003 --> 00:04:01,050
+00:03:54,002 --> 00:04:01,050
 Sure. Anyway, we want people to be able to talk to one another so we don't want anything too loud.
 
 50
@@ -228,29 +228,25 @@ Well, actually they have to be washed, not just swept.
 
 58
 00:04:48,033 --> 00:04:52,334
-[Q10答案句] so all the rubbish must be collected up and left outside the door.
+so all the rubbish must be collected up and left outside the door.
 
 59
 00:04:52,334 --> 00:04:56,081
 Of course. We'll make sure everything's left tidy.
 
 60
-00:04:56,081 --> 00:05:02,384
-Oh, and I forgot to ask, I presume we can have decorations in the room?
+00:04:56,081 --> 00:05:05,860
+[Q10答案句] Oh, and I forgot to ask, I presume we can have decorations in the room?Yes, but you must take them down afterwards.
 
 61
-00:05:02,384 --> 00:05:05,860
-Yes, but you must take them down afterwards.
-
-62
 00:05:05,860 --> 00:05:06,951
 Sure.
 
-63
+62
 00:05:06,951 --> 00:05:12,470
 And the chairs and tables should be stacked up neatly at the back of the room.
 
-64
+63
 00:05:12,470 --> 00:05:14,970
 I'll make sure I've got a few people to help me.
 
