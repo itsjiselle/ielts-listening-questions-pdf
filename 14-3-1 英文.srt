@@ -1,0 +1,136 @@
+1
+00:00:02,549 --> 00:00:05,870
+(Q1) ANGELA: Hello, Flanders conference hotel. ANGELA：
+
+2
+00:00:05,870 --> 00:00:13,004
+MAN: Oh, hi. I wanted to ask about conference facilities at the hotel. Have l come through to the right person?
+
+3
+00:00:13,004 --> 00:00:22,030
+ANGELA: You have. I'm the customer services manager. My name's Angela. So how can I help you? ANGELA：
+
+4
+00:00:22,030 --> 00:00:28,164
+MAN: Well, l'm calling from Barrett and Stansons, we're a medical company based in Perth.
+
+5
+00:00:28,164 --> 00:00:30,061
+ANGELA: Oh yes. ANGELA：
+
+6
+00:00:30,061 --> 00:00:41,284
+MAN: And we're organising a conference for our clients to be held in Sydney. It'll be held over two days and we're expecting about fifty or sixty people.
+
+7
+00:00:41,284 --> 00:00:44,213
+ANGELA: When were you thinking of having it? ANGELA：
+
+8
+00:00:44,213 --> 00:00:51,093
+MAN: Some time early next year, like the end of January? lt'd have to be a weekend.
+
+9
+00:00:51,093 --> 00:01:04,673
+ANGELA: Let me see... our conference facilities are already booked for the weekend beginning January 28th. We could do the first weekend in February? ANGELA：
+
+10
+00:01:04,673 --> 00:01:08,806
+MAN: How about January 21st?
+
+11
+00:01:08,806 --> 00:01:13,763
+ANGELA: I'm afraid that's booked too. ANGELA：
+
+12
+00:01:13,763 --> 00:01:18,107
+MAN: Well, let's go for the February date then.
+
+13
+00:01:18,107 --> 00:01:22,533
+ANGELA: So that's the weekend beginning the 4th. ANGELA：
+
+14
+00:01:22,533 --> 00:01:29,473
+[Q1定位句] MAN: OK. Now can you tell me a bit about what conference facilities you have?
+
+15
+00:01:29,473 --> 00:01:45,371
+[Q1答案句] ANGELA: Sure. So for talks and presentations we have the Tesla room.&nbsp;MAN: Sorry?ANGELA: Tesla - that's spelled T-E-S-L-A.&nbsp;
+
+16
+00:01:45,371 --> 00:01:59,002
+(Q2) [Q2答案句] ANGELA：It holds up to a hundred people, and it's fully equipped with a projector and so on.&nbsp;MAN: How about a microphone?ANGELA: Yes, that'll be all set up ready for you,&nbsp;
+
+17
+00:01:59,002 --> 00:02:05,094
+and there'll be one that members of the audience can use too, for questions, if necessary.&nbsp;
+
+18
+00:02:05,094 --> 00:02:21,130
+(Q3) [Q3答案句] MAN: Fine. And we'll also need some sort of open area where people can sit and have a cup of coffee, and we'd like to have an exhibition of our products and services there as well, so that'll need to be quite a big space.
+
+19
+00:02:21,130 --> 00:02:33,017
+(Q4) ANGELA: That's fine, there's a central atrium with all those facilities, and you can come before the conference starts if you want to set everything up.&nbsp;
+
+20
+00:02:33,017 --> 00:02:43,422
+[Q4答案句] MAN: Great. And I presume there's wifi?ANGELA: Oh, yes, that's free and available throughout the hotel.&nbsp;
+
+21
+00:02:43,422 --> 00:02:45,469
+MAN: OK.
+
+22
+00:02:45,469 --> 00:02:54,074
+(Q5) ANGELA: Would you also like us to provide a buffet lunch? We can do a two-course meal with a number of different options. ANGELA：
+
+23
+00:02:54,074 --> 00:02:57,728
+MAN: What sort of price are we looking at for that?
+
+24
+00:02:57,728 --> 00:03:10,496
+[Q5答案句+干扰项] ANGELA: Well, I can send you a copy of the standard menu. That's $45 per person. Or you can have the special for $25 more.&nbsp;
+
+25
+00:03:10,496 --> 00:03:16,534
+MAN: I think the standard should be ok, but yes, send me the menu.
+
+26
+00:03:16,534 --> 00:03:29,884
+(Q6) MAN: Now we're also going to need accommodation on the Saturday night for some of the participants... l'm not sure how many, but probably about 25. So what do you charge for a room?
+
+27
+00:03:29,884 --> 00:03:49,395
+[Q6答案句+干扰项] ANGELA: Well, for conference attendees we have a 25% reduction, so we can offer you rooms at $135. Normally a standard room's $180.&nbsp;MAN: And does that include breakfast?ANGELA: Sure.&nbsp;
+
+28
+00:03:49,395 --> 00:04:05,092
+(Q7) [Q7答案句，答案前置， up on the roo = rooftop] And of course, guests can also make use of all the other facilities at the hotel. So we've got a spa where you can get massages and facials and so on, and there's a pool up on the roof for the use of guests.&nbsp;
+
+29
+00:04:05,092 --> 00:04:13,024
+(Q8) MAN: Great. Now what about transport links? The hotel's downtown, isn't it?
+
+30
+00:04:13,024 --> 00:04:25,783
+[Q8答案句： 答案前置 + 疑似答案记录-代词指代] ANGELA: Yes, it's about 12 kilometres from the airport, but there's a complimentary shuttle bus for guests. And it's only about ten minutes' walk from the central railway station.&nbsp;
+
+31
+00:04:25,783 --> 00:04:33,679
+(Q9) MAN: OK. Now, I don't know Sydney very well, can you just give me an idea of the location of the hotel?
+
+32
+00:04:33,679 --> 00:04:43,923
+[Q9答案句： not far from =  near, very = quite] ANGELA: Well, it's downtown on Wilby Street, that's quite a small street, and it's not very far from the sea.&nbsp;
+
+33
+00:04:43,923 --> 00:05:01,887
+(Q10) [Q10答案句： 同义替换 a great many = many] And of course if the conference attendees want to go out on the Saturday evening there's a huge choice of places to eat. Then if they want to make a night of it, they can go on to one of the clubs in the area - there are a great many to choose from.&nbsp;
+
+34
+00:05:01,887 --> 00:05:04,387
+MAN: OK. So if we go ahead with this, can you give me some information about how much…
+
