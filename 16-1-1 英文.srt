@@ -1,0 +1,204 @@
+1
+00:00:00,000 --> 00:00:03,465
+(Q1) SARAH: Hello. Children's Engineering Workshops.&nbsp;
+
+2
+00:00:03,465 --> 00:00:09,056
+FATHER: Oh hello. I wanted some information about the workshops in the school holidays.
+
+3
+00:00:09,056 --> 00:00:09,923
+SARAH: Sure.&nbsp;
+
+4
+00:00:09,923 --> 00:00:12,968
+FATHER: I have two daughters who are interested.
+
+5
+00:00:12,968 --> 00:00:17,912
+The younger one's Lydia, she's four – do you take children as young as that?
+
+6
+00:00:17,912 --> 00:00:23,879
+SARAH: Yes, our Tiny Engineers workshop is for four to five-year-olds.&nbsp;
+
+7
+00:00:23,879 --> 00:00:26,253
+FATHER: What sorts of activities do they do?
+
+8
+00:00:26,253 --> 00:00:38,771
+[Q1答案句] SARAH: All sorts. For example, they work together to design a special cover that goes around an egg, so that when it's inside they can drop it from a height and it doesn't break.&nbsp;
+
+9
+00:00:38,771 --> 00:00:42,754
+Well, sometimes it does break but that's part of the fun!
+
+10
+00:00:42,754 --> 00:00:47,081
+(Q2) FATHER: Right. And Lydia loves building things.
+
+11
+00:00:47,081 --> 00:00:50,039
+Is there any opportunity for her to do that?
+
+12
+00:00:50,039 --> 00:00:55,049
+[Q2答案句] SARAH: Well, they have a competition to see who can make the highest tower.&nbsp;
+
+13
+00:00:55,049 --> 00:00:57,883
+You'd be amazed how high they can go.
+
+14
+00:00:57,883 --> 00:00:58,779
+FATHER: Right.
+
+15
+00:00:58,779 --> 00:01:02,603
+(Q3) SARAH: But they're learning all the time as well as having fun.&nbsp;
+
+16
+00:01:02,603 --> 00:01:14,957
+[Q3答案句] For example, one thing they do is to design and build a car that's attached to a balloon, and the force of the air in that actually powers the car and makes it move along.
+
+17
+00:01:14,957 --> 00:01:17,244
+They go really fast too.
+
+18
+00:01:17,244 --> 00:01:22,494
+FATHER: OK, well, all this sounds perfect.
+
+19
+00:01:22,494 --> 00:01:32,260
+(Q4) FATHER: Now Carly, that's my older daughter, has just had her seventh birthday, so presumably she'd be in a different group?
+
+20
+00:01:32,260 --> 00:01:35,646
+SARAH: Yes, she'd be in the Junior Engineers.&nbsp;
+
+21
+00:01:35,646 --> 00:01:38,637
+That's for children from six to eight.
+
+22
+00:01:38,637 --> 00:01:41,590
+FATHER: And do they do the same sorts of activities?
+
+23
+00:01:41,590 --> 00:01:45,204
+SARAH: Some are the same, but a bit more advanced.&nbsp;
+
+24
+00:01:45,204 --> 00:02:02,273
+[Q4答案句] So they work out how to build model vehicles, things like cars and trucks, but also how to construct animals using the same sorts of material and technique, and then they learn how they can program them and make them move.
+
+25
+00:02:02,273 --> 00:02:04,459
+FATHER: So they learn a bit of coding?
+
+26
+00:02:04,459 --> 00:02:07,548
+SARAH: They do. They pick it up really quickly.&nbsp;
+
+27
+00:02:07,548 --> 00:02:12,097
+We're there to help if they need it, but they learn from one another too.
+
+28
+00:02:12,097 --> 00:02:16,159
+(Q5) FATHER: Right. And do they have competitions too?
+
+29
+00:02:16,159 --> 00:02:27,253
+[Q5答案句] SARAH: Yes, with the Junior Engineers, it's to use recycled materials like card and wood to build a bridge, and the longest one gets a prize.&nbsp;
+
+30
+00:02:27,253 --> 00:02:30,557
+(Q6) FATHER: That sounds fun. I wouldn't mind doing that myself!
+
+31
+00:02:30,557 --> 00:02:41,881
+[Q6答案句] SARAH: Then they have something a bit different, which is to think up an idea for a five-minute movie and then film it, using special animation software.&nbsp;
+
+32
+00:02:41,881 --> 00:02:44,456
+You'd be amazed what they come up with.
+
+33
+00:02:44,456 --> 00:02:49,848
+(Q7) FATHER: And of course, that's something they can put on their phone and take home to show all their friends.
+
+34
+00:02:49,848 --> 00:03:00,882
+[Q7答案句] SARAH: Exactly. And then they also build a robot in the shape of a human, and they decorate it and program it so that it can move its arms and legs.&nbsp;
+
+35
+00:03:00,882 --> 00:03:05,616
+(Q8) FATHER: Perfect. So, is it the same price as the Tiny Engineers?
+
+36
+00:03:05,616 --> 00:03:09,982
+SARAH: It's just a bit more: ￡50 for the five weeks.&nbsp;
+
+37
+00:03:09,982 --> 00:03:12,304
+FATHER: And are the classes on a Monday too?
+
+38
+00:03:12,304 --> 00:03:21,991
+[Q8答案句] SARAH: They used to be, but we found it didn't give our staff enough time to clear up after the first workshop, so we moved them to Wednesdays.&nbsp;
+
+39
+00:03:21,991 --> 00:03:26,055
+The classes are held in the morning from ten to eleven.
+
+40
+00:03:26,055 --> 00:03:29,373
+FATHER: OK. That's better for me actually.
+
+41
+00:03:29,373 --> 00:03:31,558
+(Q9) And what about the location?
+
+42
+00:03:31,558 --> 00:03:33,900
+Where exactly are the workshops held?
+
+43
+00:03:33,900 --> 00:03:42,200
+SARAH: They're in building 10A – there's a big sign on the door, you can't miss it, and that's in Fradstone Industrial Estate.&nbsp;
+
+44
+00:03:42,200 --> 00:03:43,469
+FATHER: Sorry?
+
+45
+00:03:43,469 --> 00:03:53,964
+[Q9答案句] SARAH: Fradstone – that's F-R-A-D-S-T-O-N-E.&nbsp;
+
+46
+00:03:53,964 --> 00:03:56,788
+(Q10) FATHER: And that's in Grasford, isn't it?
+
+47
+00:03:56,788 --> 00:03:58,966
+SARAH: Yes, up past the station.&nbsp;
+
+48
+00:03:58,966 --> 00:04:04,538
+[Q10答案句] FATHER: And will I have any parking problems there?SARAH: No, there's always plenty available.&nbsp;
+
+49
+00:04:04,538 --> 00:04:07,807
+So would you like to enrol Lydia and Carly now?
+
+50
+00:04:07,807 --> 00:04:09,069
+FATHER: OK.
+
+51
+00:04:09,069 --> 00:04:11,569
+SARAH: So can I have your full name …
+
