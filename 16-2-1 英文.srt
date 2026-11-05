@@ -1,0 +1,164 @@
+1
+00:00:01,815 --> 00:00:04,101
+(Q1) EMPLOYEE: Hello, Picturerep. Can I help you?
+
+2
+00:00:04,101 --> 00:00:13,052
+WOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do.
+
+3
+00:00:13,052 --> 00:00:15,274
+EMPLOYEE: Sure. What would you like to know?
+
+4
+00:00:15,274 --> 00:00:29,372
+WOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format.
+
+5
+00:00:29,372 --> 00:00:31,302
+EMPLOYEE: Sure, we can do that for you.
+
+6
+00:00:31,302 --> 00:00:34,620
+WOMAN: Right. And what about size?
+
+7
+00:00:34,620 --> 00:00:39,536
+The photos are all sorts of sizes – are there any restrictions?
+
+8
+00:00:39,536 --> 00:00:46,318
+EMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres.
+
+9
+00:00:46,318 --> 00:00:52,042
+And each picture must be at least 4 centimetres, that's the minimum we can cope with.
+
+10
+00:00:52,042 --> 00:00:53,326
+WOMAN: That should be fine.
+
+11
+00:00:53,326 --> 00:01:01,750
+[Q1答案句] And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise.
+
+12
+00:01:01,750 --> 00:01:07,066
+(Q2) And also the photos must all be separate, they mustn't be stuck into an album.
+
+13
+00:01:07,066 --> 00:01:09,342
+WOMAN: OK, that's not a problem.
+
+14
+00:01:09,342 --> 00:01:13,543
+So can you give me an idea of how much this will cost?
+
+15
+00:01:13,543 --> 00:01:17,907
+I've got about 360 photos I think.
+
+16
+00:01:17,907 --> 00:01:33,682
+[Q2答案句——干扰项（extra 收费， 不符合 including one disk)] EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each.
+
+17
+00:01:33,682 --> 00:01:49,764
+(Q3) [Q3答案句+ 干扰项： 你以为pay不是答案， 但其实只是“寄照片”时还不用付， 其实流程是： 客户寄照片—公司收到—公司copy—公司给告知金额—客户付款—公司寄出最终包裹] WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you.
+
+18
+00:01:49,764 --> 00:01:53,390
+WOMAN: Right.
+
+19
+00:01:53,390 --> 00:01:57,755
+(Q4) EMPLOYEE: Is there anything else you'd like to ask about our services?
+
+20
+00:01:57,755 --> 00:02:08,480
+WOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them.
+
+21
+00:02:08,480 --> 00:02:16,342
+EMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder.
+
+22
+00:02:16,342 --> 00:02:22,100
+[Q4答案句] WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly.
+
+23
+00:02:22,100 --> 00:02:29,251
+(Q5) WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements?
+
+24
+00:02:29,251 --> 00:02:40,704
+[Q5答案句] EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference.
+
+25
+00:02:40,704 --> 00:02:48,205
+(Q6) WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they?
+
+26
+00:02:48,205 --> 00:02:53,311
+[Q6答案句] EMPLOYEE: No, if any look particularly fragile, we'd do them by hand.
+
+27
+00:02:53,311 --> 00:02:56,498
+We do realise how precious these old photos can be.
+
+28
+00:02:56,498 --> 00:02:57,473
+WOMAN: Sure.
+
+29
+00:02:57,473 --> 00:03:09,301
+(Q7) [Q7答案句] EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that.
+
+30
+00:03:09,301 --> 00:03:12,878
+WOMAN: Really? I might be interested in that.
+
+31
+00:03:12,878 --> 00:03:15,736
+I'll have a look through the photos and see.
+
+32
+00:03:15,736 --> 00:03:28,688
+(Q8) [Q8答案句，跟否定词 听否定的含义：不能做的] Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do.
+
+33
+00:03:28,688 --> 00:03:30,111
+WOMAN: OK.
+
+34
+00:03:30,111 --> 00:03:32,322
+(Q9) EMPLOYEE: Any other information I can give you?
+
+35
+00:03:32,322 --> 00:03:36,398
+WOMAN: Er … oh, how long will it all take?
+
+36
+00:03:36,398 --> 00:03:39,424
+[Q9答案句] EMPLOYEE: We aim to get the copying done in ten days.
+
+37
+00:03:39,424 --> 00:03:40,593
+WOMAN: Fine.&nbsp;
+
+38
+00:03:40,593 --> 00:03:46,127
+(Q10) Right, well I'll get the photos packed up in a box and post them off to you.
+
+39
+00:03:46,127 --> 00:03:54,507
+[Q10答案句] EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post.
+
+40
+00:03:54,507 --> 00:03:59,345
+WOMAN: OK. Right, thanks for your help. Bye.
+
+41
+00:03:59,345 --> 00:04:01,845
+EMPLOYEE: Bye.
+

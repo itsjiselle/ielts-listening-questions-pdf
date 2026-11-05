@@ -1,0 +1,41 @@
+EMPLOYEE: Hello, Picturerep. Can I help you? 工作人员：您好，这里是Picturerep。有什么可以帮您？
+WOMAN: Oh, hi. I saw your advertisement about copying pictures to disk and I'd like a bit more information about what you do. 女士：您好。我看到你们把照片复制到光盘的广告，想进一步了解一下你们的服务。
+EMPLOYEE: Sure. What would you like to know? 工作人员：当然。您想了解什么？
+WOMAN: Well, I've got a box full of old family photos that's been up in the attic for years,some of them must be 50 or 60 years old, and I'd like to get them converted to digital format. 女士：我有一整箱家庭老照片，在阁楼里放了很多年，有些肯定已经有五六十年了。我想把它们转换成数字格式。⭐️【attic = 阁楼】⭐️【convert to digital format = 转换成数字格式】
+EMPLOYEE: Sure, we can do that for you. 工作人员：没问题，我们可以帮您处理。
+WOMAN: Right. And what about size? 女士：好的。那尺寸方面呢？
+The photos are all sorts of sizes – are there any restrictions? 照片大小不一，有什么限制吗？
+EMPLOYEE: Well the maximum size of photo we can do with our normal service is 30 centimetres. 工作人员：我们的常规服务能处理的照片，最大尺寸是30厘米。
+And each picture must be at least 4 centimetres, that's the minimum we can cope with. 而且每张照片至少要有4厘米，这是我们能处理的最小尺寸。
+WOMAN: That should be fine. 女士：那应该没问题。
+And some of them are in a frame – should I take them out before I send them?EMPLOYEE: Yes please, we can't copy them otherwise. 有些照片装在相框里，寄过去之前需要取出来吗？工作人员：是的，麻烦您取出来，否则我们无法复制。
+And also the photos must all be separate, they mustn't be stuck into an album. 另外，照片必须都是单独的，不能粘在相册里。
+WOMAN: OK, that's not a problem. 女士：好的，没问题。
+So can you give me an idea of how much this will cost? 那么，您能告诉我大概需要多少钱吗？
+I've got about 360 photos I think. 我想我大概有360张照片。
+EMPLOYEE: We charge ￡195 for 300 to 400 photos for the basic service.WOMAN: OK. And does that include the disk?EMPLOYEE: Yes, one disk – but you can get extra ones for ￡5 each. 工作人员：基础服务处理300至400张照片，收费195英镑。女士：好的。这个价格包含光盘吗？工作人员：包含一张光盘，如果需要额外的光盘，每张5英镑。
+WOMAN: That's good. So do I need to pay when I send you the photos?EMPLOYEE: No, we won't need anything until we've actually copied the pictures.Then we'll let you know how much it is, and once we've received the payment, we'll send the parcel off to you. 女士：那很好。我寄照片给你们时就需要付款吗？工作人员：不需要，等我们完成照片复制后再付款。到时我们会通知您具体金额，收到付款后，就会把包裹寄给您。
+WOMAN: Right. 女士：明白了。
+EMPLOYEE: Is there anything else you'd like to ask about our services? 工作人员：关于我们的服务，您还有其他想问的吗？
+WOMAN: Yes. I've roughly sorted out the photos into groups, according to what they're about – so can you keep them in those groups when you copy them. 女士：有。我已经根据照片内容大致分好了组，复制时能保留这些分组吗？⭐️【sort out … into groups = 将……整理分类】
+EMPLOYEE: Sure. We'll save each group in a different folder on the disk and if you like, you can suggest a name for each folder. 工作人员：当然。我们会把每组照片分别保存在光盘里的不同文件夹中。如果您愿意，还可以为每个文件夹指定名称。
+WOMAN: So I could have one called ‘Grandparents' for instance?EMPLOYEE: Exactly. 女士：比如，我可以把其中一个命名为“祖父母”？工作人员：没错。
+WOMAN: And do you do anything besides scan the photos? Like, can you make any improvements? 女士：除了扫描照片，你们还提供其他服务吗？比如，能改善照片效果吗？
+EMPLOYEE: Yes, in the standard service each photo is checked, and we can sometimes touch up the colour a bit, or improve the contrast – that can make a big difference. 工作人员：可以。标准服务中，我们会检查每张照片，有时可以稍微修饰一下色彩，或者改善对比度，这能让照片效果明显提升。⭐️【touch up = 修饰；作局部修整】⭐️【contrast = 对比度】
+WOMAN: OK. And some of the photos are actually quite fragile – they won't get damaged in the process, will they? 女士：好的。有些照片其实很容易损坏，处理过程中不会弄坏吧？⭐️【fragile = 易损坏的；脆弱的】
+EMPLOYEE: No, if any look particularly fragile, we'd do them by hand. 工作人员：不会，如果有些照片看起来特别脆弱，我们会手工处理。
+We do realise how precious these old photos can be. 我们确实明白这些老照片有多珍贵。
+WOMAN: Sure. 女士：好的。
+EMPLOYEE: And another thing is we can make changes to a photo if you want – so if you want to remove an object from a photo, or maybe alter the background, we can do that. 工作人员：另外，如果您有需要，我们还可以修改照片。比如，移除照片中的某个物体，或者更改背景，这些我们都能做。
+WOMAN: Really? I might be interested in that. 女士：真的吗？我可能会需要这项服务。
+I'll have a look through the photos and see. 我会把照片翻看一遍，再决定。⭐️【look through = 翻看；逐一查看】
+Oh, and talking of fixing photos – I've got a few that aren't properly in focus.&nbsp; Can you do anything to make that better?EMPLOYEE: No, I'm afraid that's one thing we can't do. 哦，说到修复照片，我有几张照片对焦不太清楚。 你们能改善这种情况吗？工作人员：恐怕不行，这一点我们做不到。 ⭐ ️【talking of = 说到……（话语功能：引出相关话题）】⭐️【in focus = 对焦清晰的】
+WOMAN: OK. 女士：好的。
+EMPLOYEE: Any other information I can give you? 工作人员：您还想了解其他信息吗？
+WOMAN: Er … oh, how long will it all take? 女士：嗯……哦，整个过程需要多长时间？
+EMPLOYEE: We aim to get the copying done in ten days. 工作人员：我们争取在十天内完成复制。
+WOMAN: Fine.&nbsp; 女士：好的。 ⭐ 
+Right, well I'll get the photos packed up in a box and post them off to you. 那我会把照片装进箱子里，打包寄给你们。 ⭐ ️【pack up = 打包；装箱】
+EMPLOYEE: Right. If you've got a strong cardboard box, that's best. We've found that plastic ones sometimes break in the post. 工作人员：好的。最好使用结实的硬纸箱。我们发现塑料箱有时会在邮寄过程中破裂。⭐️【in the post = 在邮寄途中】
+WOMAN: OK. Right, thanks for your help. Bye. 女士：好的，谢谢您的帮助。再见。
+EMPLOYEE: Bye. 工作人员：再见。
