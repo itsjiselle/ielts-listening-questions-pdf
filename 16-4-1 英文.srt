@@ -1,0 +1,208 @@
+1
+00:00:01,510 --> 00:00:03,111
+(Q1) SHIRLEY: Hello?&nbsp;
+
+2
+00:00:03,111 --> 00:00:09,042
+TOM: Oh hello. I was hoping to speak to Jack Fitzgerald about renting a cottage.&nbsp;
+
+3
+00:00:09,042 --> 00:00:14,710
+SHIRLEY: I'm his wife, Shirley, and we own the cottages together, so I'm sure I can help you.&nbsp;
+
+4
+00:00:14,710 --> 00:00:17,080
+TOM: Great. My name's Tom.&nbsp;
+
+5
+00:00:17,080 --> 00:00:22,659
+Some friends of ours rented Granary Cottage from you last year, and they thought it was great.
+
+6
+00:00:22,659 --> 00:00:26,439
+So my wife and I are hoping to come in May for a week.
+
+7
+00:00:26,439 --> 00:00:29,221
+SHIRLEY: What date did you have in mind?&nbsp;
+
+8
+00:00:29,221 --> 00:00:51,698
+[Q1答案句+ Q1干扰项] TOM: The week beginning the 14th, if possible.&nbsp;SHIRLEY: I'll just check ... I'm sorry, Tom, it's already booked that week.&nbsp; It's free the week beginning the 28th, though, for seven nights.&nbsp; &nbsp; &nbsp;In fact, that's the only time you could have it in May.
+
+9
+00:00:51,698 --> 00:00:54,896
+We'd just need to change a couple of things.
+
+10
+00:00:54,896 --> 00:00:56,910
+(Q2) How much would it cost?
+
+11
+00:00:56,910 --> 00:01:03,404
+[Q2答案句] SHIRLEY: That's the beginning of high season, so it'd be ￡550 for the week.
+
+12
+00:01:03,404 --> 00:01:07,897
+TOM: Ah. That's a bit more than we wanted to pay, I'm afraid.&nbsp;
+
+13
+00:01:07,897 --> 00:01:12,378
+We've budgeted up to ￡500 for accommodation.
+
+14
+00:01:12,378 --> 00:01:20,265
+(Q3) SHIRLEY: Well, we've just finished converting another building into a cottage, which we're calling Chervil Cottage.&nbsp;
+
+15
+00:01:20,265 --> 00:01:30,951
+[Q3答案句] TOM: Sorry? What was that again?&nbsp;SHIRLEY: Chervil. C-H-E-R-V for Victor I-L.&nbsp;
+
+16
+00:01:30,951 --> 00:01:33,226
+TOM: Oh, that's a herb, isn't it?
+
+17
+00:01:33,226 --> 00:01:36,865
+SHIRLEY: That's right. It grows fairly wild around here.&nbsp;
+
+18
+00:01:36,865 --> 00:01:41,746
+(Q4) You could have that for the week you want for ￡480.
+
+19
+00:01:41,746 --> 00:01:45,623
+TOM: OK. So could you tell me something about it, please?&nbsp;
+
+20
+00:01:45,623 --> 00:01:50,410
+[Q4答案句, was = originally] SHIRLEY: Of course. The building was built as a garage.&nbsp;
+
+21
+00:01:50,410 --> 00:01:53,386
+It's a little smaller than Granary Cottage.
+
+22
+00:01:53,386 --> 00:01:55,807
+(Q5) TOM: So that must sleep two people, as well?&nbsp;
+
+23
+00:01:55,807 --> 00:01:58,686
+SHIRLEY: That's right. There's a double bedroom.&nbsp;
+
+24
+00:01:58,686 --> 00:02:07,245
+[Q5答案句] TOM: Does it have a garden?SHIRLEY: Yes, you get to it from the living room through French doors, and we provide two deckchairs.&nbsp;
+
+25
+00:02:07,245 --> 00:02:13,777
+(Q6) We hope to build a patio in the near future, but I wouldn't like to guarantee it'll be finished by May.
+
+26
+00:02:13,777 --> 00:02:14,844
+TOM: OK.&nbsp;
+
+27
+00:02:14,844 --> 00:02:29,610
+[Q6答案句] SHIRLEY: The front door opens onto the old farmyard, and parking isn't a problem – there's plenty of room at the front for that.&nbsp;
+
+28
+00:02:29,610 --> 00:02:33,160
+(Q7) TOM: What about facilities in the cottage?
+
+29
+00:02:33,160 --> 00:02:37,507
+It has standard things like a cooker and fridge, I presume.
+
+30
+00:02:37,507 --> 00:02:44,445
+SHIRLEY: In the kitchen area there's a fridge-freezer and we've just put in an electric cooker.
+
+31
+00:02:44,445 --> 00:02:46,554
+Is there a washing machine?
+
+32
+00:02:46,554 --> 00:02:52,659
+TOM: Yes. There's also a TV in the living room, which plays DVDs too.&nbsp;
+
+33
+00:02:52,659 --> 00:02:57,982
+The bathroom is too small for a bath, so there's a shower instead.
+
+34
+00:02:57,982 --> 00:03:01,465
+I think a lot of people prefer that nowadays, anyway.
+
+35
+00:03:01,465 --> 00:03:06,465
+TOM: It's more environmentally friendly, isn't it?&nbsp; Unless you spend half the day in it!
+
+36
+00:03:06,465 --> 00:03:07,757
+SHIRLEY: Exactly.&nbsp;
+
+37
+00:03:07,757 --> 00:03:12,499
+[Q7定位词🟢] TOM: What about heating? It sometimes gets quite cool at that time of year.&nbsp;
+
+38
+00:03:12,499 --> 00:03:20,963
+[Q7答案句] SHIRLEY: There's central heating, and if you want to light a fire, there's a stove.&nbsp; &nbsp;We can provide all the wood you need for it.
+
+39
+00:03:20,963 --> 00:03:28,116
+[Q7干扰项] It smells so much nicer than coal, and it makes the room very cosy – we've got one in our own house.
+
+40
+00:03:28,116 --> 00:03:30,098
+TOM: That sounds very pleasant.&nbsp;
+
+41
+00:03:30,098 --> 00:03:33,414
+Perhaps we should come in the winter, to make the most of it!
+
+42
+00:03:33,414 --> 00:03:37,747
+(Q8) SHIRLEY: Yes, we find we don't want to go out when we've got the fire burning.&nbsp;
+
+43
+00:03:37,747 --> 00:03:42,707
+There are some attractive views from the cottage, which I haven't mentioned.
+
+44
+00:03:42,707 --> 00:03:50,191
+[Q8答案句， oldest = old] There's a famous stone bridge – it's one of the oldest in the region, and you can see it from the living room.
+
+45
+00:03:50,191 --> 00:03:52,102
+It isn't far away.
+
+46
+00:03:52,102 --> 00:03:59,938
+(Q9) [Q9答案句] The bedroom window looks in the opposite direction, and has a lovely view of the hills and the monument at the top.
+
+47
+00:03:59,938 --> 00:04:02,773
+(Q10) TOM: Well, that all sounds perfect.&nbsp;
+
+48
+00:04:02,773 --> 00:04:06,018
+I'd like to book it, please. Would you want a deposit?
+
+49
+00:04:06,018 --> 00:04:15,177
+SHIRLEY: Yes, we ask for thirty percent to secure your booking, so that'll be, um, ￡144.&nbsp;
+
+50
+00:04:15,177 --> 00:04:22,690
+[Q10答案句] TOM: And when would you like the rest of the money?SHIRLEY: You're coming in May, so the last day of March, please.&nbsp;
+
+51
+00:04:22,690 --> 00:04:23,942
+TOM: Fine.&nbsp;
+
+52
+00:04:23,942 --> 00:04:26,442
+SHIRLEY: Excellent. Could I just take your details ...&nbsp;
+
