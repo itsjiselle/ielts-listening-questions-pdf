@@ -1,0 +1,31 @@
+In today’s astronomy lecture, I’m going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth. 在今天的天文学讲座中，我将讨论为什么需要一套系统，来管理卫星及其他绕地球运行物体的运动。⭐️【in orbit around the Earth = 在环绕地球的轨道上】
+In other words, a Space Traffic Management system. 换句话说，就是空间交通管理系统。⭐️【Space Traffic Management = 空间交通管理】
+We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely. 我们已经有了在国际上使用的有效空中交通管制系统，以确保飞机在空中安全飞行。⭐️【Air Traffic Control = 空中交通管制】⭐️【navigate = 航行；确定航向并行进】
+Well, Space Traffic Management is a similar concept, but focusing on the control of satellites. 空间交通管理是一个类似的概念，但重点是对卫星进行管理。
+The aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth. 这类系统的目标，是防范绕地球运行的物体在太空中发生碰撞的危险。⭐️【collisions = 碰撞】
+In order to do this, we’d need to have a set of legal measures, and we’d also have to develop the technical systems to enable us to prevent such accidents. 为此，我们需要制定一套法律措施，还必须开发相应的技术系统，以便预防此类事故。⭐️【legal measures = 法律措施】
+But unfortunately, at present we don’t actually have a Space Traffic Management system that works. 但遗憾的是，目前我们实际上还没有一套能够有效运作的空间交通管理系统。
+So why not? 那么，为什么没有呢？
+What are the problems in developing such a system? 开发这样一套系统存在哪些问题？
+Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space. 首先，与过去相比，如今卫星的成本相对较低，这意味着更多人负担得起将卫星送入太空的费用。⭐️【for one thing = 首先；其中一个原因是】
+So there’s a lot more of them out there, and people aren’t just launching single satellites but whole constellations, consisting of thousands of them designed to work together. 因此，太空中的卫星数量大幅增加，而且人们发射的不仅是单颗卫星，还有整个星座，由数千颗设计用于协同工作的卫星组成。⭐️【constellations = 卫星星座；协同运行的卫星群】
+So space is getting more crowded every day. 因此，太空正变得日益拥挤。
+But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it’s out there, it doesn’t have to send back any information to Earth to allow its identification. 但尽管如此，有一点可能会让你感到惊讶：你可以把卫星发射到太空，而一旦进入太空，它并不必向地球传回任何可供识别其身份的信息。⭐️【identification = 身份识别】
+So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don’t have anything like enough proper ways of tracking them. 因此，虽然我们有国际系统来掌握飞机在空中的位置，并防止它们相撞，但就卫星安全而言，目前我们用于追踪卫星的有效手段还远远不够。⭐️【when it comes to = 就……而言】⭐️【not anything like enough = 远远不够】⭐️【track = 追踪；持续掌握位置】
+And it isn’t just entire satellites that we need to consider. 而且，我们需要考虑的不只是完整的卫星。
+A greater threat is the huge amount of space debris in orbit around the Earth – broken bits of satellite and junk from space stations and so on. 更大的威胁是绕地球运行的大量空间碎片——包括卫星残片、空间站产生的废弃物等等。⭐️【space debris = 空间碎片；太空垃圾】
+And some of these are so small that they can be very hard to identify, but they can still be very dangerous. 其中一些碎片非常小，很难识别出来，但仍然可能十分危险。
+In addition, some operators may be unwilling to share information about the satellites they’ve launched. 此外，一些运营方可能不愿共享有关自己所发射卫星的信息。⭐️【operators = 运营方；运营机构】
+For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don’t want competitors to have information about it. 例如，一颗卫星可能用于军事目的，也可能出于商业原因而发射，而运营方不希望竞争对手掌握它的信息。⭐️【for military purposes = 用于军事目的】
+And even if the operators are willing to provide it, the information isn’t easy to collect. 即使运营方愿意提供信息，这些信息也不容易收集。
+Details are needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn’t very big, and it’s likely to be moving at thousands of kilometres an hour. 我们既需要物体本身的详细信息，也需要它在某个特定时刻的位置——别忘了，卫星体积并不大，而且很可能以每小时数千公里的速度移动。
+We don’t have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next. 我们没有能够持续追踪如此高速运动物体的传感器，因此科学家所能做的，只是预测卫星接下来将移向何处。⭐️【sensors = 传感器】⭐️【put forward a prediction = 提出预测】⭐️【head = 朝某方向移动】
+So those are some of the problems that we’re facing. 以上就是我们目前面临的一些问题。
+Let’s consider now some of the solutions that have been suggested. 现在，让我们看看已经提出的一些解决方案。
+One key issue is the way in which information is dealt with. 一个关键问题是如何处理信息。⭐️【deal with = 处理】
+We need more information, but it also needs to be accessible at a global level, so we need to establish shared standards that we can all agree on for the way in which this information is presented. 我们需要更多信息，但这些信息也必须能够在全球范围内被获取，因此我们需要就信息的呈现方式，制定各方都能认同的共同标准。⭐️【accessible = 可获取的；可使用的】⭐️【establish shared standards = 建立共同标准】
+We already do this in other areas of science, so although this is a challenge, it’s not an impossible task. 我们在其他科学领域已经采用了这种做法，因此，尽管这是一项挑战，却并非不可能完成的任务。
+Then, as all this information’s collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered. 然后，随着所有这些信息被收集起来，还需要将其汇总，以便使用；这就需要建立一个统一的数据库，将信息录入其中。⭐️【put together = 汇集；整合】⭐️【a single database = 一个统一的数据库】⭐️【enter = 录入数据】
+As we continue to push forward new developments, congestion of the space environment is only going to increase. 随着我们不断推动新的发展，太空环境只会变得更加拥挤。⭐️【push forward = 推进】⭐️【congestion = 拥挤；拥堵】
+To cope with this, we need to develop a system like the one I’ve described to coordinate the work of the numerous spacecraft operators, but it’s also essential that this system is one that establishes trust in the people that use it, both nationally and at a global level. 为了应对这一问题，我们需要开发一套像我刚才描述的系统，协调众多航天器运营方的工作；但同样至关重要的是，这套系统必须能够在国内和全球层面，赢得使用者的信任。⭐️【cope with = 应对】⭐️【coordinate = 协调】⭐️【spacecraft operators = 航天器运营方】
+One interesting development … 一个有趣的新进展是……
