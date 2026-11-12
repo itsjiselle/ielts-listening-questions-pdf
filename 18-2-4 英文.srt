@@ -1,104 +1,104 @@
 1
-00:00:00,437 --> 00:00:02,179
-[为什么研究口袋] Good morning.
+00:00:00,437 --> 00:00:02,178
+(Q31) Good morning.
 
 2
-00:00:02,179 --> 00:00:10,468
+00:00:02,178 --> 00:00:10,468
 Now, we’ve been asked to choose an aspect of European clothing or fashion and to talk about its development over time.
 
 3
-00:00:10,468 --> 00:00:16,537
+00:00:10,468 --> 00:00:16,536
 I decided to focus on a rather small area of clothing and that’s pockets.
 
 4
-00:00:16,537 --> 00:00:20,017
+00:00:16,536 --> 00:00:20,016
 I chose pockets for two reasons, really.
 
 5
-00:00:20,017 --> 00:00:36,435
-We all have them – in jeans, jackets, coats, for example – and even though we often carry bags or briefcases as well, nothing is quite as convenient as being able to pop your phone or credit card into your pocket.
+00:00:20,016 --> 00:00:36,435
+[Q31答案句] We all have them – in jeans, jackets, coats, for example – and even though we often carry bags or briefcases as well, nothing is quite as convenient as being able to pop your phone or credit card into your pocket.
 
 6
-00:00:36,435 --> 00:00:46,458
+00:00:36,435 --> 00:00:46,457
 Yet, I suspect that, other than that, people don’t really think about pockets too much and they’re rather overlooked as a fashion item.
 
 7
-00:00:46,458 --> 00:00:53,544
-It’s certainly very interesting to go back in time and see how pockets developed for men and women.
+00:00:46,457 --> 00:00:53,543
+(Q32) It’s certainly very interesting to go back in time and see how pockets developed for men and women.
 
 8
-00:00:53,544 --> 00:01:01,191
-[十八世纪的男装口袋] In the 18th century, fashions were quite different from the way they are now, and pockets were too.
+00:00:53,543 --> 00:01:01,191
+In the 18th century, fashions were quite different from the way they are now, and pockets were too.
 
 9
-00:01:01,191 --> 00:01:08,928
-If we think about male fashion first … that was the time when suits became popular.
+00:01:01,191 --> 00:01:08,927
+[Q32答案句] If we think about male fashion first … that was the time when suits became popular.
 
 10
-00:01:08,928 --> 00:01:28,557
-Trousers were knee-length only and referred to as ‘breeches’, the waistcoats were short and the jackets were long, but all three garments were lined with material and pockets were sewn into this cloth by whichever tailor the customer used.
+00:01:08,927 --> 00:01:28,557
+(Q33) [Q33答案句] Trousers were knee-length only and referred to as ‘breeches’, the waistcoats were short and the jackets were long, but all three garments were lined with material and pockets were sewn into this cloth by whichever tailor the customer used.
 
 11
 00:01:28,557 --> 00:01:38,623
-The wearer could then carry small objects such as pencils or coins on their person and reach them through a gap in the lining.
+(Q34) The wearer could then carry small objects such as pencils or coins on their person and reach them through a gap in the lining.
 
 12
 00:01:38,623 --> 00:01:58,182
-Coat pockets became increasingly decorative on the outside for men who wanted to look stylish, but they were often larger but plainer if the wearer was someone with a profession who needed to carry medical instruments – a doctor or physician, for example.
+[Q34答案句] Coat pockets became increasingly decorative on the outside for men who wanted to look stylish, but they were often larger but plainer if the wearer was someone with a profession who needed to carry medical instruments – a doctor or physician, for example.
 
 13
-00:01:58,182 --> 00:02:04,064
-[女装口袋与防盗需求] The development of women’s pockets was a little different.
+00:01:58,182 --> 00:02:04,063
+(Q35) The development of women’s pockets was a little different.
 
 14
-00:02:04,064 --> 00:02:10,158
-For one thing, they weren’t nearly as visible or as easy to reach as men’s.
+00:02:04,063 --> 00:02:10,157
+[Q35答案句] For one thing, they weren’t nearly as visible or as easy to reach as men’s.
 
 15
-00:02:10,158 --> 00:02:20,879
-In the 18th and 19th centuries, women carried numerous possessions on their person and some of these could be worth a lot of money.
+00:02:10,157 --> 00:02:20,878
+(Q36) In the 18th and 19th centuries, women carried numerous possessions on their person and some of these could be worth a lot of money.
 
 16
-00:02:20,879 --> 00:02:29,450
+00:02:20,878 --> 00:02:29,449
 Women were more vulnerable to theft and wealthy women, in particular, worried constantly about pickpockets.
 
 17
-00:02:29,450 --> 00:02:36,544
-So – what they did was to have a pair of pockets made that were tied together with string.
+00:02:29,449 --> 00:02:36,544
+[Q36答案句] So – what they did was to have a pair of pockets made that were tied together with string.
 
 18
 00:02:36,544 --> 00:02:50,229
-The pockets were made of fabric, which might be recycled cloth if the wearer had little money or something more expensive, such as linen, sometimes featuring very delicate embroidery.
+(Q37) The pockets were made of fabric, which might be recycled cloth if the wearer had little money or something more expensive, such as linen, sometimes featuring very delicate embroidery.
 
 19
 00:02:50,229 --> 00:02:56,245
-[系挂式口袋的穿戴与使用] Women tied the pockets around their waist so that they hung beneath their clothes.
+[Q37答案句] Women tied the pockets around their waist so that they hung beneath their clothes.
 
 20
-00:02:56,245 --> 00:03:07,154
-Remember, skirts were long then and there was plenty of room to hide a whole range of small possessions between the layers of petticoats that were commonly worn.
+00:02:56,245 --> 00:03:07,153
+(Q38) Remember, skirts were long then and there was plenty of room to hide a whole range of small possessions between the layers of petticoats that were commonly worn.
 
 21
-00:03:07,154 --> 00:03:15,631
-They would have an opening in the folds of their skirts through which they could reach whatever they needed, like their perfume.
+00:03:07,153 --> 00:03:15,631
+[Q38答案句] They would have an opening in the folds of their skirts through which they could reach whatever they needed, like their perfume.
 
 22
 00:03:15,631 --> 00:03:36,222
-Working women, of course, also needed to carry around items that they might use for whatever job or trade they were involved in, but their pairs of pockets still remained on the inside of their clothing, they just got bigger or longer – sometimes reaching down to their knees!
+(Q39) Working women, of course, also needed to carry around items that they might use for whatever job or trade they were involved in, but their pairs of pockets still remained on the inside of their clothing, they just got bigger or longer – sometimes reaching down to their knees!
 
 23
-00:03:36,222 --> 00:03:47,384
+00:03:36,222 --> 00:03:47,383
 So the tie-on pockets went well into the 19th century and only changed when fashion altered towards the end of that period.
 
 24
-00:03:47,384 --> 00:03:59,503
-[服装变化与手提包的兴起] That’s when dresses became tighter and less bulky, and the pairs of pockets became very noticeable – they stood out too much and detracted from the woman’s image.
+00:03:47,383 --> 00:03:59,502
+[Q39答案句] That’s when dresses became tighter and less bulky, and the pairs of pockets became very noticeable – they stood out too much and detracted from the woman’s image.
 
 25
-00:03:59,503 --> 00:04:10,918
-Women who had been used to carrying around a range of personal possessions – and still wanted to – needed somewhere to carry these items about their person.
+00:03:59,502 --> 00:04:10,918
+(Q40) Women who had been used to carrying around a range of personal possessions – and still wanted to – needed somewhere to carry these items about their person.
 
 26
 00:04:10,918 --> 00:04:13,418
-That was when small bags, or pouches as they were known, came into fashion and, of course, they inevitably led on to the handbag of more modern times, particularly when fashion removed pockets altogether.
+[Q40答案句] That was when small bags, or pouches as they were known, came into fashion and, of course, they inevitably led on to the handbag of more modern times, particularly when fashion removed pockets altogether.
 
