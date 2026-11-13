@@ -1,13 +1,13 @@
 1
 00:00:00,136 --> 00:00:11,512
-[什么是空间交通管理] In today’s astronomy lecture, I’m going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth.
+(Q31) In today’s astronomy lecture, I’m going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth.
 
 2
-00:00:11,512 --> 00:00:15,748
+00:00:11,512 --> 00:00:15,747
 In other words, a Space Traffic Management system.
 
 3
-00:00:15,748 --> 00:00:25,474
+00:00:15,747 --> 00:00:25,474
 We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely.
 
 4
@@ -15,110 +15,110 @@ We already have effective Air Traffic Control systems that are used internationa
 Well, Space Traffic Management is a similar concept, but focusing on the control of satellites.
 
 5
-00:00:32,770 --> 00:00:42,229
+00:00:32,770 --> 00:00:42,228
 The aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth.
 
 6
-00:00:42,229 --> 00:00:54,380
-In order to do this, we’d need to have a set of legal measures, and we’d also have to develop the technical systems to enable us to prevent such accidents.
+00:00:42,228 --> 00:00:54,380
+[Q31答案句] In order to do this, we’d need to have a set of legal measures, and we’d also have to develop the technical systems to enable us to prevent such accidents.
 
 7
-00:00:54,380 --> 00:01:02,409
-But unfortunately, at present we don’t actually have a Space Traffic Management system that works.
+00:00:54,380 --> 00:01:02,408
+(Q32) But unfortunately, at present we don’t actually have a Space Traffic Management system that works.
 
 8
-00:01:02,409 --> 00:01:04,480
+00:01:02,408 --> 00:01:04,480
 So why not?
 
 9
-00:01:04,480 --> 00:01:08,246
+00:01:04,480 --> 00:01:08,245
 What are the problems in developing such a system?
 
 10
-00:01:08,246 --> 00:01:20,097
-[卫星数量增长与追踪不足] Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space.
+00:01:08,245 --> 00:01:20,096
+[Q32答案句] Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space.
 
 11
-00:01:20,097 --> 00:01:32,899
-So there’s a lot more of them out there, and people aren’t just launching single satellites but whole constellations, consisting of thousands of them designed to work together.
+00:01:20,096 --> 00:01:32,899
+(Q33) [Q33答案句] So there’s a lot more of them out there, and people aren’t just launching single satellites but whole constellations, consisting of thousands of them designed to work together.
 
 12
-00:01:32,899 --> 00:01:36,994
-So space is getting more crowded every day.
+00:01:32,899 --> 00:01:36,993
+(Q34) So space is getting more crowded every day.
 
 13
-00:01:36,994 --> 00:01:53,624
-But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it’s out there, it doesn’t have to send back any information to Earth to allow its identification.
+00:01:36,993 --> 00:01:53,623
+[Q34答案句] But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it’s out there, it doesn’t have to send back any information to Earth to allow its identification.
 
 14
-00:01:53,624 --> 00:02:11,949
-So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don’t have anything like enough proper ways of tracking them.
+00:01:53,623 --> 00:02:11,949
+(Q35) [Q35答案句] So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don’t have anything like enough proper ways of tracking them.
 
 15
-00:02:11,949 --> 00:02:16,516
-[空间碎片与信息共享障碍] And it isn’t just entire satellites that we need to consider.
+00:02:11,949 --> 00:02:16,515
+(Q36) And it isn’t just entire satellites that we need to consider.
 
 16
-00:02:16,516 --> 00:02:27,644
+00:02:16,515 --> 00:02:27,644
 A greater threat is the huge amount of space debris in orbit around the Earth – broken bits of satellite and junk from space stations and so on.
 
 17
-00:02:27,644 --> 00:02:36,474
+00:02:27,644 --> 00:02:36,473
 And some of these are so small that they can be very hard to identify, but they can still be very dangerous.
 
 18
-00:02:36,474 --> 00:02:43,822
+00:02:36,473 --> 00:02:43,822
 In addition, some operators may be unwilling to share information about the satellites they’ve launched.
 
 19
-00:02:43,822 --> 00:02:56,458
-For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don’t want competitors to have information about it.
+00:02:43,822 --> 00:02:56,457
+[Q36答案句] For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don’t want competitors to have information about it.
 
 20
-00:02:56,458 --> 00:03:03,999
-[高速运动带来的观测难题] And even if the operators are willing to provide it, the information isn’t easy to collect.
+00:02:56,457 --> 00:03:03,998
+(Q37) And even if the operators are willing to provide it, the information isn’t easy to collect.
 
 21
-00:03:03,999 --> 00:03:19,599
-Details are needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn’t very big, and it’s likely to be moving at thousands of kilometres an hour.
+00:03:03,998 --> 00:03:19,598
+[Q37答案句] Details are needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn’t very big, and it’s likely to be moving at thousands of kilometres an hour.
 
 22
-00:03:19,599 --> 00:03:38,787
-We don’t have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next.
+00:03:19,598 --> 00:03:38,787
+(Q38) [Q38答案句] We don’t have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next.
 
 23
 00:03:38,787 --> 00:03:43,049
-So those are some of the problems that we’re facing.
+(Q39) So those are some of the problems that we’re facing.
 
 24
 00:03:43,049 --> 00:03:47,911
-[统一信息标准与数据库] Let’s consider now some of the solutions that have been suggested.
+Let’s consider now some of the solutions that have been suggested.
 
 25
 00:03:47,911 --> 00:03:53,235
 One key issue is the way in which information is dealt with.
 
 26
-00:03:53,235 --> 00:04:08,313
+00:03:53,235 --> 00:04:08,312
 We need more information, but it also needs to be accessible at a global level, so we need to establish shared standards that we can all agree on for the way in which this information is presented.
 
 27
-00:04:08,313 --> 00:04:16,888
+00:04:08,312 --> 00:04:16,887
 We already do this in other areas of science, so although this is a challenge, it’s not an impossible task.
 
 28
-00:04:16,888 --> 00:04:29,632
-Then, as all this information’s collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered.
+00:04:16,887 --> 00:04:29,632
+[Q39答案句] Then, as all this information’s collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered.
 
 29
 00:04:29,632 --> 00:04:38,165
-[协调运营与建立信任] As we continue to push forward new developments, congestion of the space environment is only going to increase.
+(Q40) As we continue to push forward new developments, congestion of the space environment is only going to increase.
 
 30
-00:04:38,165 --> 00:04:57,431
-To cope with this, we need to develop a system like the one I’ve described to coordinate the work of the numerous spacecraft operators, but it’s also essential that this system is one that establishes trust in the people that use it, both nationally and at a global level.
+00:04:38,165 --> 00:04:57,430
+[Q40答案句] To cope with this, we need to develop a system like the one I’ve described to coordinate the work of the numerous spacecraft operators, but it’s also essential that this system is one that establishes trust in the people that use it, both nationally and at a global level.
 
 31
-00:04:57,431 --> 00:04:59,931
+00:04:57,430 --> 00:04:59,930
 One interesting development …
 
