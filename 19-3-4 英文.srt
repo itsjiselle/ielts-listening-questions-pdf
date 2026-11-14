@@ -1,0 +1,120 @@
+1
+00:00:00,000 --> 00:00:04,743
+(Q31) In today’s lecture, I’m going to be talking about microplastics.
+
+2
+00:00:04,743 --> 00:00:12,359
+Microplastics are tiny pieces of plastic smaller than five millimetres in size.
+
+3
+00:00:12,359 --> 00:00:20,965
+Recently there’s been a greater awareness that there are large quantities of plastic waste – big and small – in the environment.
+
+4
+00:00:20,965 --> 00:00:34,514
+The amount of plastic waste in the oceans has received widespread attention, but far less is known about the effects of microplastics in freshwater and particularly in soil.
+
+5
+00:00:34,514 --> 00:00:40,987
+Microplastics can enter the environment via a number of different sources.
+
+6
+00:00:40,987 --> 00:00:52,202
+[Q31答案句] Threads and microfibres detach from synthetic clothing every time they’re put in a washing machine, and these find their way into the water system.
+
+7
+00:00:52,202 --> 00:01:04,117
+(Q32) Other sources include big pieces of plastic waste that are already in the environment, and these break down into microscopic particles over a period of time.
+
+8
+00:01:04,117 --> 00:01:16,415
+On a larger scale, factory waste is another route, as are tyres which wear down as cars, lorries and so on travel along road surfaces.
+
+9
+00:01:16,415 --> 00:01:24,954
+We already understand some of the impacts of microplastics from studies involving fish and other animals.
+
+10
+00:01:24,954 --> 00:01:43,169
+[Q32答案句] There is evidence that microplastics harm small creatures in a variety of ways, such as by damaging their mouths, or by impairing their ability to feed, for example when microplastics get lodged in their digestive system.
+
+11
+00:01:43,169 --> 00:01:58,037
+(Q33) Surprisingly perhaps, it is likely that humans consume microplastics, as these have been detected in a wide range of food and drink products, including bottled water, as well as in water that comes direct from the tap.
+
+12
+00:01:58,037 --> 00:02:05,885
+[Q33答案句] What’s more, salt and many kinds of seafood have also been found to contain microplastics.
+
+13
+00:02:05,885 --> 00:02:15,338
+(Q34) However, it’s important to underline that there is not yet conclusive proof that microplastics cause significant harm to people.
+
+14
+00:02:15,338 --> 00:02:29,025
+[Q34答案句] In many countries, including here in the UK, there is legislation which prevents manufacturers from adding plastic microbeads to shower gels, facial cleansers and toothpaste.
+
+15
+00:02:29,025 --> 00:02:44,509
+(Q35) It is very difficult to accurately estimate the total amount of microplastic particles in the soil as they can be hard to detect, but we do know they are carried in the air and deposited in the soil by rain.
+
+16
+00:02:44,509 --> 00:02:54,922
+[Q35答案句] What’s more, many of the fertilisers used by both farmers and gardeners contain microplastics.
+
+17
+00:02:54,922 --> 00:03:05,421
+(Q36) A team from the Anglia Ruskin University in Cambridge has carried out a study of the effects of microplastics on the digestive tracts of earthworms.
+
+18
+00:03:05,421 --> 00:03:13,059
+These worms, which live in topsoil, are an essential component of our agricultural system.
+
+19
+00:03:13,059 --> 00:03:20,478
+[Q36答案句] By feeding on soil, they mix nutrients into it, thereby making it more fertile.
+
+20
+00:03:20,478 --> 00:03:34,525
+(Q37) [Q37答案句] The researchers set out to discover whether the introduction of microplastics into the soil– and the subsequent ingestion of these by earthworms – would impact soil quality and ultimately inhibit plant growth.
+
+21
+00:03:34,525 --> 00:03:37,424
+The short answer was, yes, it did.
+
+22
+00:03:37,424 --> 00:03:45,296
+(Q38) After placing three different types of microplastic particles into the soil, they planted perennial rye grass.
+
+23
+00:03:45,296 --> 00:03:57,460
+The particles of microplastic, which included biodegradable PLA and conventional high-density polyethylene, or HDPE, were then ingested by the earthworms in the soil.
+
+24
+00:03:57,460 --> 00:04:00,981
+[Q38答案句] The result was that the worms lost weight rapidly.
+
+25
+00:04:00,981 --> 00:04:15,507
+(Q39) What’s more, a lower percentage than normal of the rye grass seeds germinated, and the researchers concluded that this was a direct result of the earthworms being unable to fulfil their normal role in making soil more fertile.
+
+26
+00:04:15,507 --> 00:04:28,953
+[Q39答案句] The team also discovered that there was an increase in the amount of acid found in the soil, and this was attributed mainly to the microplastic particles from conventional HDPE plastic.
+
+27
+00:04:28,953 --> 00:04:38,623
+(Q40) The conclusions of the study make for very interesting reading – I’ve included the reference in the notes to give you at the end of this session.
+
+28
+00:04:38,623 --> 00:04:47,547
+To summarise, the authors proposed the idea that we need to regard soil as we would regard any other process in nature.
+
+29
+00:04:47,547 --> 00:04:57,545
+This means we should accept the implications of soil being dependent on decaying and dead matter constantly being passed through the bodies of earthworms.
+
+30
+00:04:57,545 --> 00:05:00,045
+[Q40答案句] That is, when soil becomes impoverished by the presence of microplastics, not only ecosystems but also the whole of society are negatively impacted.
+
