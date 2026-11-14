@@ -1,0 +1,152 @@
+1
+00:00:00,107 --> 00:00:14,242
+(Q31) Tree planting now dominates political and popular agendas and is often presented as an easy answer to the climate crisis, as well as a way for business corporations to offset their carbon emissions.
+
+2
+00:00:14,242 --> 00:00:20,137
+But unfortunately, tree planting isn’t as straightforward as some people think.
+
+3
+00:00:20,137 --> 00:00:30,887
+When the wrong trees are planted in the wrong place, it can do considerably more damage than good, failing to help either people or the environment.
+
+4
+00:00:30,887 --> 00:00:40,885
+Reforestation projects are currently being undertaken on a huge scale in many countries and it’s crucial that the right trees are selected.
+
+5
+00:00:40,885 --> 00:00:54,963
+A mix of species should always be planted, typical of the local natural forest ecosystem and including rare and endangered species in order to create a rich ecosystem.
+
+6
+00:00:54,963 --> 00:01:00,456
+It’s important to avoid non-native species that could become invasive.
+
+7
+00:01:00,456 --> 00:01:14,880
+[Q31答案句] Invasive species are a significant contributor to the current global biodiversity crisis and are often in competition with native species and may threaten their long-term survival.
+
+8
+00:01:14,880 --> 00:01:28,596
+(Q32) Restoring biodiversity that will maximise carbon capture is key when reforesting an area, but ideally any reforestation project should have several goals.
+
+9
+00:01:28,596 --> 00:01:41,705
+[Q32答案句] These could include selecting trees that can contribute to wildlife conservation, improve the availability of food for the local community and maintain the stability of soil systems.
+
+10
+00:01:41,705 --> 00:01:57,055
+(Q33) Meeting as many of these goals as possible, whilst doing no harm to local communities, native ecosystems and vulnerable species, is the sign of a highly successful tree-planting scheme.
+
+11
+00:01:57,055 --> 00:02:15,226
+To ensure the survival and resilience of a planted forest, it’s vital to use tree seeds with appropriate levels of genetic diversity: the amount of genetic variation found within a species essential for their survival.
+
+12
+00:02:15,226 --> 00:02:30,384
+[Q33答案句] Using seeds with low genetic diversity generally lowers the resilience of restored forests, which can make them vulnerable to disease and unable to adapt to climate change.
+
+13
+00:02:30,384 --> 00:02:38,820
+(Q34) Choosing the right location for reforestation projects is as important as choosing the right trees.
+
+14
+00:02:38,820 --> 00:02:48,299
+Ultimately, the best area for planting trees would be in formerly forested areas that are in poor condition.
+
+15
+00:02:48,299 --> 00:03:02,923
+It’s better to avoid non-forested landscapes such as natural grasslands, savannas or wetlands as these ecosystems already contribute greatly to capturing carbon.
+
+16
+00:03:02,923 --> 00:03:12,308
+It would also be advantageous to choose an area where trees could provide other benefits, such as recreational spaces.
+
+17
+00:03:12,308 --> 00:03:28,018
+[Q34答案句] Reforesting areas which are currently exploited for agriculture should be avoided as this often leads to other areas being deforested.
+
+18
+00:03:28,018 --> 00:03:33,968
+(Q35) Large-scale reforestation projects require careful planning.
+
+19
+00:03:33,968 --> 00:03:41,259
+Making the right decisions about where to plant trees depends on having the right information.
+
+20
+00:03:41,259 --> 00:03:51,182
+[Q35答案句] Having detailed and up-to-date maps identifying high-priority areas for intervention is essential.
+
+21
+00:03:51,182 --> 00:04:01,271
+(Q36) Drone technology is a useful tool in helping to prioritise and monitor areas of degraded forest for restoration.
+
+22
+00:04:01,271 --> 00:04:16,672
+[Q36答案句] In Brazil, it’s being used to identify and quantify how parts of the Amazon are being devastated by human activities such as rearing cattle and illegal logging.
+
+23
+00:04:16,672 --> 00:04:26,638
+(Q37) A good example of where the right trees were picked to achieve a restored forest is in NLampang Province in Northern Thailand.
+
+24
+00:04:26,638 --> 00:04:38,671
+A previously forested site which had been degraded through mining was reforested by a cement company together with Chiang Mai University.
+
+25
+00:04:38,671 --> 00:04:50,945
+After spreading 60 cm of topsoil, they planted 14 different native tree species which included several species of fig.
+
+26
+00:04:50,945 --> 00:04:59,771
+Figs are a keystone species because of the critical role they play in maintaining wildlife populations.
+
+27
+00:04:59,771 --> 00:05:14,736
+[Q37答案句] They are central to tropical reforestation projects as they accelerate the speed of the recovery process by attracting animals and birds which act as natural seed dispersers.
+
+28
+00:05:14,736 --> 00:05:22,563
+(Q38) This helps to promote diversity through the healthy regrowth of a wide range of plant species.
+
+29
+00:05:22,563 --> 00:05:33,343
+Unlike the majority of fruit trees, figs bear fruit all year round, providing a reliable food source for many species.
+
+30
+00:05:33,343 --> 00:05:46,304
+[Q38答案句] At this site, for example, after only three rainy seasons, monkeys started visiting to eat the fig fruits, naturally dispersing seeds through defecation.
+
+31
+00:05:46,304 --> 00:05:56,839
+(Q39) Reforestation projects should always aim to make sure that local communities are consulted and involved in the decision-making process.
+
+32
+00:05:56,839 --> 00:06:08,183
+The restoration of mangrove forests in Madagascar is an example of a project which has succeeded in creating real benefits for the community.
+
+33
+00:06:08,183 --> 00:06:25,265
+[Q39答案句] Destruction of the mangrove forests had a terrible impact on plant and animal life, and also badly affected the fishing industry, which was a major source of employment for local people living in coastal areas.
+
+34
+00:06:25,265 --> 00:06:34,405
+(Q40) The reforestation project involved hiring local people to plant and care for the new mangrove trees.
+
+35
+00:06:34,405 --> 00:06:43,593
+Millions of mangrove trees have now been planted which has resulted in the return of a healthy aquatic ecosystem.
+
+36
+00:06:43,593 --> 00:06:51,789
+[Q40答案句] The mangroves also act as a defence against the increased threat of flooding caused by climate change.
+
+37
+00:06:51,789 --> 00:07:02,310
+What’s more, the local economy is more stable and thousands more Madagascans are now able to send their children to school.
+
+38
+00:07:02,310 --> 00:07:04,810
+One other important point to consider . . .
+
