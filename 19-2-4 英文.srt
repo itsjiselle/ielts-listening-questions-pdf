@@ -1,0 +1,148 @@
+1
+00:00:00,285 --> 00:00:09,542
+(Q31) For my project on invertebrates, I chose to study tardigrades. These are microscopic – or to be more precise – near-microscopic animals.
+
+2
+00:00:09,542 --> 00:00:17,210
+There are well over a thousand known species of these tiny animals, which belong to the phylum Tardigrada.
+
+3
+00:00:17,210 --> 00:00:29,362
+Most tardigrades range in length from 0.05 to 1 millimetre, though the largest species can grow to be 1.2 millimetres in length.
+
+4
+00:00:29,362 --> 00:00:38,238
+[Q31答案句] They are also sometimes called 'water bears': 'water' because that's where they thrive best, and 'bear' because of the way they move.
+
+5
+00:00:38,238 --> 00:00:45,737
+(Q32) 'Moss piglet' is another name for tardigrades because of the way they look when viewed from the front. **“
+
+6
+00:00:45,737 --> 00:00:54,968
+They were first discovered in Germany in 1773 by Johann Goeze, who coined the name Tardigrada. 1773
+
+7
+00:00:54,968 --> 00:01:07,519
+As I say, there are many different species of tardigrade – too many to describe here – but, generally speaking, the different species share similar physical traits.
+
+8
+00:01:07,519 --> 00:01:16,465
+[Q32答案句] They have a body which is short, and also rounded – a bit like a barrel – and the body comprises four segments.
+
+9
+00:01:16,465 --> 00:01:23,826
+(Q33) Each segment has a pair of legs, at the end of which are between four and eight sharp claws.
+
+10
+00:01:23,826 --> 00:01:39,638
+[Q33 答案句] I should also say that some species don't have any claws; what they have are discs, and these work by means of suction. They enable the tardigrade to cling on to surfaces or to grip its prey.
+
+11
+00:01:39,638 --> 00:01:44,739
+(Q34) Within the body, there are no lungs, or any organs for breathing at all.
+
+12
+00:01:44,739 --> 00:01:52,891
+[Q34答案句] Instead, oxygen and also blood are transported in a fluid that fills the cavity of the body.
+
+13
+00:01:52,891 --> 00:02:02,605
+(Q35) As far as the tardigrade's head is concerned, the best way I can describe this is that it looks rather strange – a bit squashed even.
+
+14
+00:02:02,605 --> 00:02:10,393
+Though many of the websites I looked at described its appearance as cute, which isn't exactly very scientific.
+
+15
+00:02:10,393 --> 00:02:19,229
+[Q35答案句] The tardigrade's mouth is a kind of tube that can open outwards to reveal teeth-like structures known as 'stylets'.
+
+16
+00:02:19,229 --> 00:02:23,889
+(Q36) These are sharp enough to pierce plant or animal cells.
+
+17
+00:02:23,889 --> 00:02:27,329
+So, where are tardigrades found?
+
+18
+00:02:27,329 --> 00:02:40,181
+Well, they live in every part of the world, in a variety of habitats: most commonly, on the bed of a lake, or on many kinds of plants or in very wet environments.
+
+19
+00:02:40,181 --> 00:02:49,314
+There's been some interesting research which has found that tardigrades are capable of surviving radiation and very high pressure.
+
+20
+00:02:49,314 --> 00:03:03,149
+[Q36答案句] And they're also able to withstand temperatures as cold as –200 degrees centigrade, or highs of more than 148 degrees centigrade, which is incredibly hot.
+
+21
+00:03:03,149 --> 00:03:13,382
+(Q37) It has been said that tardigrades could survive long after human beings have been wiped out, even in the event of an asteroid hitting the earth.
+
+22
+00:03:13,382 --> 00:03:22,250
+If conditions become too extreme and tardigrades are at risk of drying out, they enter a state called cryptobiosis.
+
+23
+00:03:22,250 --> 00:03:34,502
+They curl into a ball, called a tun – that's T-U-N – by retracting their head and legs, and their metabolism drops to less than one percent of normal levels.
+
+24
+00:03:34,502 --> 00:03:42,479
+They can remain like this until they are re-introduced to water, when they will come back to life in a matter of a few hours.
+
+25
+00:03:42,479 --> 00:03:50,454
+[Q37答案句] While in a state of cryptobiosis, tardigrades produce a protein that protects their DNA.
+
+26
+00:03:50,454 --> 00:03:58,242
+(Q38) In 2016, scientists revived two tardigrades that had been tuns for more than 30 years. 2016
+
+27
+00:03:58,242 --> 00:04:08,888
+There was a report that, in 1948, a 120-year-old tun was revived, but this experiment has never been repeated.
+
+28
+00:04:08,888 --> 00:04:21,584
+[Q38答案句] There are currently several tests taking place in space, to determine how long tardigrades might be able to survive there. I believe the record so far is 10 days.
+
+29
+00:04:21,584 --> 00:04:30,663
+(Q39) So, erm, moving on. In terms of their diet, tardigrades consume liquids in order to survive.
+
+30
+00:04:30,663 --> 00:04:34,629
+Although they have teeth, they don't use these for chewing.
+
+31
+00:04:34,629 --> 00:04:46,670
+[Q39答案句] They suck the juices from moss, or extract fluid from seaweed, but some species prey on other tardigrades, from other species or within their own.
+
+32
+00:04:46,670 --> 00:04:55,367
+(Q40) I suppose this isn't surprising, given that tardigrades are mainly comprised of liquid and are coated with a type of gel.
+
+33
+00:04:55,367 --> 00:05:00,564
+Finally, I'd like to mention the conservation status of tardigrades.
+
+34
+00:05:00,564 --> 00:05:11,574
+It is estimated that they have been in existence for approximately half a billion years and, in that time, they have survived five mass extinctions.
+
+35
+00:05:11,574 --> 00:05:24,653
+[Q40答案句] So, it will probably come as no surprise to you, that tardigrades have not been evaluated by the International Union for Conservation of Nature and are not on any endangered list.
+
+36
+00:05:24,653 --> 00:05:29,216
+Some researchers have described them as thriving.
+
+37
+00:05:29,216 --> 00:05:31,716
+Does anyone have any questions they'd like to ask?
+
