@@ -1,0 +1,152 @@
+1
+00:00:00,071 --> 00:00:07,577
+(Q31) It’s only relatively recently that designers have become aware of the need to be inclusive when designing products.
+
+2
+00:00:07,577 --> 00:00:10,318
+But what does that mean exactly?
+
+3
+00:00:10,318 --> 00:00:17,486
+Well, it simply means designing products that span economic, social and cultural barriers.
+
+4
+00:00:17,486 --> 00:00:31,163
+[Q31答案句] It means making sure products are accessible – so that as many different types of people as possible can use them without any type of adaptation having to be made to the original design.
+
+5
+00:00:31,163 --> 00:00:38,136
+(Q32) Inclusive design is often linked with universal design, although they are not quite the same thing.
+
+6
+00:00:38,136 --> 00:00:50,702
+[Q32答案句] Universal design aims to make products that work for everyone and that includes considering the needs of people who have cognitive difficulties, which can present quite a challenge.
+
+7
+00:00:50,702 --> 00:00:56,987
+(Q33) Today, examples of successful inclusive design can be seen all around us.
+
+8
+00:00:56,987 --> 00:01:06,851
+[Q33答案句] In workplaces it is common to see desks which can be adjusted to suit people of different heights or for wheelchair users.
+
+9
+00:01:06,851 --> 00:01:15,350
+(Q34) This still isn’t always the case, however, and is one reason why office workers often suffer from back or neck problems.
+
+10
+00:01:15,350 --> 00:01:29,937
+[Q34答案句] You’ll find another example in the public toilets of countless hotels, airports and offices.Taps that you activate by sensor require no pressing or twisting movements.
+
+11
+00:01:29,937 --> 00:01:37,658
+These are not only more hygienic, they’re also easier for people with dexterity or mobility issues.
+
+12
+00:01:37,658 --> 00:01:47,170
+[科技产品如何照顾老年用户] The tech industry has been criticised in the past for focusing too much on young consumers but this is changing.
+
+13
+00:01:47,170 --> 00:01:51,661
+(Q35) Many products are now designed with the elderly in mind.
+
+14
+00:01:51,661 --> 00:02:10,762
+[Q35答案句] For example, it’s well known that vision declines with age, and that we also become worse at distinguishing between similar colours; in particular, shades of blue, which is why software designers rarely create interfaces with this colour.
+
+15
+00:02:10,762 --> 00:02:21,028
+(Q36) Motor skills also decline with age and some people have difficulty doing everyday things like picking up a cup or opening a door.
+
+16
+00:02:21,028 --> 00:02:26,267
+This can also affect their ability to use a mouse or keyboard.
+
+17
+00:02:26,267 --> 00:02:31,726
+[Q36答案句] So voice access is now a routine way of making commands.
+
+18
+00:02:31,726 --> 00:02:44,406
+(Q37) It’s worth looking at the problems non-inclusive designs cause when not enough consideration is given to a range of users, as it can have a serious impact on people’s lives.
+
+19
+00:02:44,406 --> 00:02:52,963
+Access is one obvious example because it has such a huge impact on disabled people’s independence.
+
+20
+00:02:52,963 --> 00:03:06,249
+Not being able to access public transport because buses or trains are not wheelchair-friendly means many disabled people can’t go out unless someone goes with them.
+
+21
+00:03:06,249 --> 00:03:09,014
+[Q37定位句🟢] Safety is another issue.
+
+22
+00:03:09,014 --> 00:03:17,241
+Inexplicably, most cars are still crash-tested using a dummy based on an average-sized male.
+
+23
+00:03:17,241 --> 00:03:28,557
+[Q37答案句] This has safety implications for all women, particularly those who are pregnant, as the seatbelts worn by the dummy are not adapted to accommodate them.
+
+24
+00:03:28,557 --> 00:03:37,220
+(Q38) Over the past 100 years, workplaces in the UK have, on the whole, become considerably safer.
+
+25
+00:03:37,220 --> 00:03:50,813
+Employers are legally required to provide well-maintained personal protective equipment or PPE – anything from goggles to full body suits – to workers who need it, free of charge.
+
+26
+00:03:50,813 --> 00:03:54,976
+But most PPE is designed to fit men.
+
+27
+00:03:54,976 --> 00:04:09,073
+A recent report found that employers often think that when it comes to female workers, all they need to do to comply with this legal requirement is to buy jackets, for example, designed for a small man.
+
+28
+00:04:09,073 --> 00:04:17,784
+[Q38答案句] The problem with this is that women can be tall and still have much smaller shoulders than the average man.
+
+29
+00:04:17,784 --> 00:04:26,128
+(Q39) Ill-fitting PPE such as hi-vis jackets, vests and body armour can put women at risk.
+
+30
+00:04:26,128 --> 00:04:39,742
+[Q39答案句] The report found that 95% of women said that their PPE often hampered their work and that this problem was worst in the emergency services, particularly the police.
+
+31
+00:04:39,742 --> 00:04:43,834
+(Q40) Another problem is related to comfort at work.
+
+32
+00:04:43,834 --> 00:04:54,707
+A very common scenario in offices in summertime is to see women wrapped in blankets or wearing sweaters while the air conditioning is on high.
+
+33
+00:04:54,707 --> 00:04:58,415
+Meanwhile the men are in shorts and T-shirts.
+
+34
+00:04:58,415 --> 00:05:03,556
+This is due to differences in metabolic rates for men and women.
+
+35
+00:05:03,556 --> 00:05:17,911
+[Q40答案句] There is a standard setting for air conditioning to be at a temperature of 21 degrees, designed to suit men, and in most modern offices it’s not possible to turn the air conditioning up or down.
+
+36
+00:05:17,911 --> 00:05:27,139
+This means that many offices which mainly employ women are wasting energy by having the air conditioning set too high.
+
+37
+00:05:27,139 --> 00:05:36,533
+As you can see from the examples I’ve just mentioned, there are serious consequences for designs which don’t consider the needs of all users.
+
+38
+00:05:36,533 --> 00:05:39,033
+This is…
+

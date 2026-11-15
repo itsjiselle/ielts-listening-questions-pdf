@@ -1,0 +1,38 @@
+It’s only relatively recently that designers have become aware of the need to be inclusive when designing products. 直到相对不久之前，设计师才开始意识到，设计产品时需要兼顾不同人群的需求。⭐️【inclusive = 包容的；兼顾不同人群需求的】
+But what does that mean exactly? 但这究竟是什么意思呢？
+Well, it simply means designing products that span economic, social and cultural barriers. 简单来说，就是设计能够跨越经济、社会和文化障碍的产品。⭐️【span … barriers = 跨越……障碍】
+It means making sure products are accessible – so that as many different types of people as possible can use them without any type of adaptation having to be made to the original design. 这意味着确保产品易于使用，让尽可能多的不同人群无需对原始设计进行任何调整，就能使用这些产品。⭐️【accessible = 易于获取或使用的；无障碍的】⭐️【adaptation = 调整；改造】
+Inclusive design is often linked with universal design, although they are not quite the same thing. 包容性设计常常与通用设计联系在一起，尽管两者并不完全相同。⭐️【inclusive design = 包容性设计】⭐️【universal design = 通用设计】
+Universal design aims to make products that work for everyone and that includes considering the needs of people who have cognitive difficulties, which can present quite a challenge. 通用设计旨在打造适合所有人使用的产品，这也包括考虑存在认知困难的人群的需求，而这可能是一项不小的挑战。⭐️【cognitive difficulties = 认知困难】⭐️【present a challenge = 构成挑战】
+Today, examples of successful inclusive design can be seen all around us. 如今，我们身边随处可见成功的包容性设计案例。
+In workplaces it is common to see desks which can be adjusted to suit people of different heights or for wheelchair users. 在工作场所，经常可以看到能够调节的办公桌，以适应不同身高的人或轮椅使用者。
+This still isn’t always the case, however, and is one reason why office workers often suffer from back or neck problems. 不过，并非所有地方都能做到这一点，这也是办公室工作人员经常出现背部或颈部问题的原因之一。⭐️【this isn’t always the case = 情况并非总是如此】
+You’ll find another example in the public toilets of countless hotels, airports and offices.Taps that you activate by sensor require no pressing or twisting movements. 在无数酒店、机场和办公场所的公共卫生间里，你还能找到另一个例子。通过传感器启动的水龙头，不需要使用者按压或旋拧。 ⭐ ️【activate by sensor = 通过传感器启动】
+These are not only more hygienic, they’re also easier for people with dexterity or mobility issues. 这种水龙头不仅更加卫生，也更方便手部灵活性不足或行动不便的人使用。⭐️【hygienic = 卫生的】⭐️【dexterity = 手部灵活性；操作灵巧度】⭐️【mobility issues = 行动障碍】
+The tech industry has been criticised in the past for focusing too much on young consumers but this is changing. 科技行业过去曾因过度关注年轻消费者而受到批评，但这种情况正在改变。
+Many products are now designed with the elderly in mind. 如今，许多产品在设计时都会考虑老年人的需求。⭐️【with … in mind = 考虑到……；顾及……】
+For example, it’s well known that vision declines with age, and that we also become worse at distinguishing between similar colours; in particular, shades of blue, which is why software designers rarely create interfaces with this colour. 例如，众所周知，视力会随着年龄增长而下降，我们区分相近颜色的能力也会减弱，尤其是不同深浅的蓝色，这就是软件设计师很少用这种颜色设计界面的原因。⭐️【distinguish between = 区分……】⭐️【shades of blue = 不同深浅的蓝色】⭐️【interfaces = 界面】
+Motor skills also decline with age and some people have difficulty doing everyday things like picking up a cup or opening a door. 动作技能也会随着年龄增长而下降，有些人在拿起杯子或开门等日常活动中会遇到困难。⭐️【motor skills = 动作技能；运动控制能力】
+This can also affect their ability to use a mouse or keyboard. 这也会影响他们使用鼠标或键盘的能力。
+So voice access is now a routine way of making commands. 因此，通过语音发出指令如今已成为一种常用的操作方式。⭐️【voice access = 语音操控；语音访问】⭐️【routine = 常规的；日常采用的】
+It’s worth looking at the problems non-inclusive designs cause when not enough consideration is given to a range of users, as it can have a serious impact on people’s lives. 值得关注的是，当设计未充分考虑不同使用者时，缺乏包容性的设计会造成哪些问题，因为这可能严重影响人们的生活。⭐️【give consideration to = 考虑；顾及】
+Access is one obvious example because it has such a huge impact on disabled people’s independence. 无障碍通行就是一个明显的例子，因为它对残障人士的独立生活能力有着巨大影响。⭐️【independence = 独立生活、自主行动的能力】
+Not being able to access public transport because buses or trains are not wheelchair-friendly means many disabled people can’t go out unless someone goes with them. 如果公交车或火车不方便轮椅使用者乘坐，导致他们无法使用公共交通，就意味着许多残障人士必须有人陪同才能外出。⭐️【wheelchair-friendly = 方便轮椅使用者使用的】
+Safety is another issue. 安全是另一个问题。
+Inexplicably, most cars are still crash-tested using a dummy based on an average-sized male. 令人费解的是，大多数汽车在碰撞测试中，仍然使用以普通体型男性为原型的假人。⭐️【inexplicably = 令人费解地】⭐️【crash-tested = 接受碰撞测试的】⭐️【dummy = 测试用假人】
+This has safety implications for all women, particularly those who are pregnant, as the seatbelts worn by the dummy are not adapted to accommodate them. 这会影响所有女性的安全，尤其是孕妇，因为假人佩戴的安全带并未经过调整，以适应她们的身体需求。⭐️【have safety implications for = 对……的安全产生影响】⭐️【accommodate = 适应；满足……的需要】
+Over the past 100 years, workplaces in the UK have, on the whole, become considerably safer. 过去一百年来，英国工作场所总体上已经变得安全得多。⭐️【on the whole = 总体而言】
+Employers are legally required to provide well-maintained personal protective equipment or PPE – anything from goggles to full body suits – to workers who need it, free of charge. 法律要求雇主向有需要的员工免费提供维护良好的个人防护装备，简称PPE，范围包括护目镜乃至全身防护服。⭐️【be legally required to = 法律要求必须……】⭐️【personal protective equipment = 个人防护装备】⭐️【goggles = 护目镜】
+But most PPE is designed to fit men. 但大多数个人防护装备都是按照男性体型设计的。
+A recent report found that employers often think that when it comes to female workers, all they need to do to comply with this legal requirement is to buy jackets, for example, designed for a small man. 最近的一份报告发现，雇主往往认为，对于女性员工，他们只需购买为小体型男性设计的夹克等装备，就能满足这一法律要求。⭐️【comply with = 遵守；符合】
+The problem with this is that women can be tall and still have much smaller shoulders than the average man. 问题在于，女性即使个子高，肩部尺寸仍可能比普通男性小得多。
+Ill-fitting PPE such as hi-vis jackets, vests and body armour can put women at risk. 不合身的个人防护装备，例如高可视性夹克、背心和防护护甲，可能让女性面临危险。⭐️【ill-fitting = 不合身的】⭐️【hi-vis = 高可视性的，通常使用鲜艳颜色和反光材料】⭐️【body armour = 防护护甲；防弹衣】⭐️【put … at risk = 使……面临危险】
+The report found that 95% of women said that their PPE often hampered their work and that this problem was worst in the emergency services, particularly the police. 报告发现，百分之九十五的女性表示，她们的个人防护装备经常妨碍工作，而这一问题在应急服务部门最为严重，尤其是警察部门。⭐️【hamper = 妨碍；阻碍】⭐️【the emergency services = 应急服务部门，如警察、消防和急救部门】
+Another problem is related to comfort at work. 另一个问题与工作时的舒适度有关。
+A very common scenario in offices in summertime is to see women wrapped in blankets or wearing sweaters while the air conditioning is on high. 夏季办公室里一个非常常见的场景是：空调开得很强，女性裹着毯子或穿着毛衣。⭐️【scenario = 情形；场景】⭐️【on high = 调至高挡；以较强功率运行】
+Meanwhile the men are in shorts and T-shirts. 与此同时，男性却穿着短裤和T恤。
+This is due to differences in metabolic rates for men and women. 这是由男女代谢率的差异造成的。⭐️【metabolic rates = 代谢率】
+There is a standard setting for air conditioning to be at a temperature of 21 degrees, designed to suit men, and in most modern offices it’s not possible to turn the air conditioning up or down. 空调有一个二十一度的标准温度设置，是为了适应男性的需求而制定的，而在大多数现代办公室里，人们无法自行调高或调低空调的强度。⭐️【turn … up or down = 调高或调低……的强度】
+This means that many offices which mainly employ women are wasting energy by having the air conditioning set too high. 这意味着，许多主要雇用女性的办公室因为把空调制冷强度设得过高，而浪费了能源。
+As you can see from the examples I’ve just mentioned, there are serious consequences for designs which don’t consider the needs of all users. 从我刚才提到的例子可以看出，不考虑所有使用者需求的设计会造成严重后果。
+This is… 这就是……
